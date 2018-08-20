@@ -1,0 +1,103 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "8.16",
+            "Ct": "3",
+            "HS": "24",
+            "Inns": "6",
+            "Mat": "5",
+            "NO": "0",
+            "Runs": "49",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "50": "9",
+            "6s": "",
+            "Ave": "11.00",
+            "Ct": "234",
+            "HS": "94",
+            "Inns": "486",
+            "Mat": "341",
+            "NO": "115",
+            "Runs": "4081",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "1",
+            "5w": "0",
+            "Ave": "54.14",
+            "BBI": "4/83",
+            "BBM": "4/91",
+            "Balls": "793",
+            "Econ": "2.86",
+            "Inns": "7",
+            "Mat": "5",
+            "Runs": "379",
+            "SR": "113.2",
+            "Wkts": "7"
+        },
+        {
+            "": "First-class",
+            "10": "6",
+            "4w": "",
+            "5w": "41",
+            "Ave": "23.74",
+            "BBI": "8/39",
+            "BBM": "",
+            "Balls": "56617",
+            "Econ": "2.68",
+            "Inns": "",
+            "Mat": "341",
+            "Runs": "25381",
+            "SR": "52.9",
+            "Wkts": "1069"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/england/content/story/925225.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nAugust 10, 1923, Stockport, Cheshire "
+        ],
+        "Bowling style": [
+            "Right-arm fast-medium"
+        ],
+        "Died": [
+            "September 26, 2015, Maidstone, Kent (aged 92 years 47 days) "
+        ],
+        "Full name": [
+            "Frederick Ridgway"
+        ],
+        "Major teams": [
+            "England,",
+            "Kent"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

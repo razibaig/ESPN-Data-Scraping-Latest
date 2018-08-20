@@ -1,0 +1,101 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "5",
+            "50": "0",
+            "6s": "0",
+            "Ave": "17.00",
+            "Ct": "0",
+            "HS": "34",
+            "Inns": "2",
+            "Mat": "1",
+            "NO": "0",
+            "Runs": "34",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "37",
+            "4s": "",
+            "50": "117",
+            "6s": "",
+            "Ave": "32.82",
+            "Ct": "184",
+            "HS": "227",
+            "Inns": "710",
+            "Mat": "402",
+            "NO": "45",
+            "Runs": "21831",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "1",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "69.52",
+            "BBI": "3/34",
+            "BBM": "",
+            "Balls": "1489",
+            "Econ": "4.76",
+            "Inns": "",
+            "Mat": "402",
+            "Runs": "1182",
+            "SR": "87.5",
+            "Wkts": "17"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155415.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nNovember 30, 1907, Cowley, Oxford "
+        ],
+        "Bowling style": [
+            "Right-arm slow"
+        ],
+        "Died": [
+            "April 4, 1984, Southampton, Hampshire (aged 76 years 126 days) "
+        ],
+        "Full name": [
+            "John Arnold"
+        ],
+        "Major teams": [
+            "England,",
+            "Hampshire"
+        ]
+    },
+    "profile_info": [
+        "\nA Hampshire stalwart for over 18 years, John Arnold played a single\nTest for England early in his career. In 1931 he was selected to open\nthe batting against New Zealand in just his second full season in the\nabsence of Hobbs and Sutcliffe, but a modest performance led to a\nreturn to the county ranks. Arnold usually opened, but often dropped\ndown the order for Hampshire, and was by nature an aggressive bat,\nparticularly strong on the leg side, but also a good driver. He\nrepresented his country in soccer, and used his speed to good effect\nin the field. The vagaries of form led him to adopt a more defensive\napproach in the middle part of his career, but after a break for the\nSecond World War he reverted to his former style with considerable\nsuccess. Originally from Oxford he moved to Hampshire, and after\nqualification rarely was out of the county side. He made over 21,000\nruns and 37 centuries for the county until retirement was forced upon\nhim by illness. He later became a first-class umpire (DL, 2000). \n"
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

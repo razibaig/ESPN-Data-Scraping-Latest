@@ -1,0 +1,102 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "13.00",
+            "Ct": "0",
+            "HS": "39",
+            "Inns": "5",
+            "Mat": "3",
+            "NO": "0",
+            "Runs": "65",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "1",
+            "50": "19",
+            "6s": "",
+            "Ave": "17.02",
+            "Ct": "335",
+            "HS": "110",
+            "Inns": "475",
+            "Mat": "385",
+            "NO": "95",
+            "Runs": "6470",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "29.00",
+            "BBI": "3/50",
+            "BBM": "6/148",
+            "Balls": "1149",
+            "Econ": "2.27",
+            "Inns": "6",
+            "Mat": "3",
+            "Runs": "435",
+            "SR": "76.6",
+            "Wkts": "15"
+        },
+        {
+            "": "First-class",
+            "10": "11",
+            "4w": "",
+            "5w": "72",
+            "Ave": "22.85",
+            "BBI": "9/141",
+            "BBM": "",
+            "Balls": "75609",
+            "Econ": "2.41",
+            "Inns": "",
+            "Mat": "385",
+            "Runs": "30421",
+            "SR": "56.8",
+            "Wkts": "1331"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/ci/content/story/133754.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154700.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/100200/100275.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nSeptember 18, 1892, Newstead Colliery, Nottinghamshire "
+        ],
+        "Bowling style": [
+            "Right-arm offbreak"
+        ],
+        "Died": [
+            "June 4, 1950, Standard Hill, Nottingham (aged 57 years 259 days) "
+        ],
+        "Full name": [
+            "Samuel James Staples"
+        ],
+        "Major teams": [
+            "England,",
+            "Nottinghamshire"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

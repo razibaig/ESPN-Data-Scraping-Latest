@@ -1,0 +1,102 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "27.50",
+            "Ct": "0",
+            "HS": "31",
+            "Inns": "2",
+            "Mat": "2",
+            "NO": "0",
+            "Runs": "55",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "16",
+            "50": "50",
+            "6s": "",
+            "Ave": "24.45",
+            "Ct": "167",
+            "HS": "220",
+            "Inns": "515",
+            "Mat": "305",
+            "NO": "30",
+            "Runs": "11859",
+            "St": "1"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "2",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "27.30",
+            "BBI": "2/12",
+            "BBM": "",
+            "Balls": "397",
+            "Econ": "4.12",
+            "Inns": "",
+            "Mat": "305",
+            "Runs": "273",
+            "SR": "39.7",
+            "Wkts": "10"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155656.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154819.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJanuary 11, 1862, Ilkeston, Derbyshire "
+        ],
+        "Died": [
+            "May 29, 1933, Waterloo, Liverpool, Lancashire (aged 71 years 138 days) "
+        ],
+        "Full name": [
+            "Frank Howe Sugg"
+        ],
+        "Major teams": [
+            "England,",
+            "Derbyshire,",
+            "Lancashire,",
+            "Yorkshire"
+        ],
+        "Relation": [
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {}
+    ]
+}

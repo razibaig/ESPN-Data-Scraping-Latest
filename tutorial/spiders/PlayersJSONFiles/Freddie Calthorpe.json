@@ -1,0 +1,112 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "18.42",
+            "Ct": "3",
+            "HS": "49",
+            "Inns": "7",
+            "Mat": "4",
+            "NO": "0",
+            "Runs": "129",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "13",
+            "50": "55",
+            "6s": "",
+            "Ave": "24.03",
+            "Ct": "217",
+            "HS": "209",
+            "Inns": "576",
+            "Mat": "369",
+            "NO": "52",
+            "Runs": "12596",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "91.00",
+            "BBI": "1/38",
+            "BBM": "1/52",
+            "Balls": "204",
+            "Econ": "2.67",
+            "Inns": "4",
+            "Mat": "4",
+            "Runs": "91",
+            "SR": "204.0",
+            "Wkts": "1"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "18",
+            "Ave": "29.91",
+            "BBI": "6/17",
+            "BBM": "",
+            "Balls": "50786",
+            "Econ": "2.76",
+            "Inns": "",
+            "Mat": "369",
+            "Runs": "23390",
+            "SR": "64.9",
+            "Wkts": "782"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/714423.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155658.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/177900/177981.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nMay 27, 1892, Kensington, London "
+        ],
+        "Bowling style": [
+            "Right-arm medium"
+        ],
+        "Died": [
+            "November 19, 1935, The Home Green, Worplesdon, Surrey (aged 43 years 176 days) "
+        ],
+        "Education": [
+            "Repton; Cambridge University"
+        ],
+        "Full name": [
+            "The Hon Frederick Somerset Gough Calthorpe"
+        ],
+        "Major teams": [
+            "England,",
+            "Cambridge University,",
+            "Sussex,",
+            "Warwickshire"
+        ],
+        "Relation": [
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        "\nThe Hon Freddie Calthorpe died on November 19 aged 43 after about a month's illness from which recovery was impossible. Born on May 27, 1892, he was one of the best all-round players of his time at Repton, being described in 1911 as the backbone of a strong side's bowling. Going up to Jesus College, Cambridge, he obtained his Blue as a Freshman and remained in the side for the following two seasons. During the War he served in the Royal Air Force and would have captained Cambridge in 1919 had not the letter of invitation miscarried. As it was, he played under J. S. F. Morrison in his fourth University match which Oxford won by 45 runs. The game revived the best traditions of cricket at Lord's which during the preceding four summers had been given over in various ways to the amelioration of War service. \n",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

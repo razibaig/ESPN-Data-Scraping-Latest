@@ -1,0 +1,280 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "14",
+            "4s": "734",
+            "50": "33",
+            "6s": "24",
+            "Ave": "37.18",
+            "BF": "14272",
+            "Ct": "67",
+            "HS": "207",
+            "Inns": "171",
+            "Mat": "96",
+            "NO": "16",
+            "Runs": "5764",
+            "SR": "40.38",
+            "St": "0"
+        },
+        {
+            "": "ODIs",
+            "100": "1",
+            "4s": "208",
+            "50": "16",
+            "6s": "15",
+            "Ave": "30.28",
+            "BF": "3481",
+            "Ct": "40",
+            "HS": "115",
+            "Inns": "87",
+            "Mat": "88",
+            "NO": "10",
+            "Runs": "2332",
+            "SR": "66.99",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "52",
+            "4s": "",
+            "50": "108",
+            "6s": "",
+            "Ave": "42.06",
+            "BF": "",
+            "Ct": "350",
+            "HS": "207",
+            "Inns": "545",
+            "Mat": "334",
+            "NO": "53",
+            "Runs": "20698",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "10",
+            "4s": "",
+            "50": "72",
+            "6s": "",
+            "Ave": "36.75",
+            "BF": "",
+            "Ct": "161",
+            "HS": "161*",
+            "Inns": "339",
+            "Mat": "363",
+            "NO": "47",
+            "Runs": "10732",
+            "SR": "",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "30",
+            "Econ": "3.00",
+            "Inns": "1",
+            "Mat": "96",
+            "Runs": "15",
+            "SR": "-",
+            "Wkts": "0"
+        },
+        {
+            "": "ODIs",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "88",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "161.50",
+            "BBI": "1/38",
+            "BBM": "",
+            "Balls": "312",
+            "Econ": "6.21",
+            "Inns": "",
+            "Mat": "334",
+            "Runs": "323",
+            "SR": "156.0",
+            "Wkts": "2"
+        },
+        {
+            "": "List A",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "363",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/ci/content/story/1154615.html",
+        "http://www.espncricinfo.com/england/content/story/1153512.html",
+        "http://www.espncricinfo.com/magazine/content/story/1145529.html",
+        "http://www.espncricinfo.com/magazine/content/story/1141931.html",
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/1141461/-it-was-the-best-i-d-hit-it--i-never-repeated-it",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=14325"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/276900/276909.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/276900/276909.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/276900/276909.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nMarch 28, 1968, Madras (now Chennai), India "
+        ],
+        "Bowling style": [
+            "Legbreak"
+        ],
+        "Current age": [
+            "50 years 143 days"
+        ],
+        "Education": [
+            "Forest School, Snaresbrook,; Durham University"
+        ],
+        "Full name": [
+            "Nasser Hussain"
+        ],
+        "Height": [
+            "\n6 ft 0 in "
+        ],
+        "Major teams": [
+            "England,",
+            "Essex"
+        ],
+        "Nickname": [
+            "Nashwan"
+        ],
+        "Other": [
+            "Commentator"
+        ],
+        "Playing role": [
+            "Top-order batsman"
+        ],
+        "Relation": [
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        "\nBrought up by his Indian-born, Essex-based coach of a father with the ambition to represent England, Nasser Hussain's desire was such that he was prepared to forgo his natural style - opening the face of the bat, running the ball to third man - to succeed at Test level. His success was a triumph of willpower over several technical deficiencies including a dominant bottom hand and unorthodox leg and head positions which led him to lean back in the drive. \n",
+        "Taking over from Alec Stewart in July 1999, Hussain established himself as the best and - not coincidentally - the most articulate England captain since Mike Brearley. Under Hussain, England won four Test series in a row for the first time since Brearley, and rose to third place in the ICC Test Championship table when it was launched, after being ninth and last in the prototype Wisden World Championship in September 1999. Hussain's style of captaincy was a reflection of his personality, never static, always full of energy and ideas.",
+        "He was known to make four field-changes in one over in a Test match, searching for the solution, trying to make up for the lack of variety among his attack of mostly right-arm seamers with his own imaginative placements. His batting while captain veered from one extreme to another, from the heights of England's tour to South Africa to a worse run than even Brearley knew.",
+        "Yet so widespread was the recognition of Hussain's merit as captain that his place was never questioned, unlike Brearley's. Nor were there many calls for his head despite consecutive Ashes drubbings in 2001 and 2002-03.",
+        "However, after a disappointing performance by England in the 2003 World Cup, Hussain relinquished the one-day international captaincy, and he resigned the Test captaincy during the series against South Afrcia later in the summer explaining that he had \"grown tired\" of the role.",
+        "He played on in the team in that series, and toured Bangladesh, Sri Lanka, and the West Indies that winter, playing a big part in helping England to their first win in the Caribbean for 36 years. However, the calls for his resignation increased, and he finally resigned from all forms of cricket in May 2004, three days after an unbeaten hundred against New Zealand at Lord's. He immediately joined Sky Sports' commentary team, and quickly became one of its more incisive members.",
+        null
+    ],
+    "recent_matches": [
+        {
+            "Bat & Bowl": "1/18",
+            "Ground": "Arundel",
+            "Match Date": "5 Jun 2018",
+            "Opposition": "v Aboriginal",
+            "Scorecard": "Other T20",
+            "Team": "M.C.C."
+        },
+        {
+            "Bat & Bowl": "1",
+            "Ground": "Arundel",
+            "Match Date": "5 Jun 2018",
+            "Opposition": "v Aboriginal",
+            "Scorecard": "Other T20",
+            "Team": "M.C.C."
+        },
+        {
+            "Bat & Bowl": "1/39",
+            "Ground": "Lord's",
+            "Match Date": "21 Apr 2011",
+            "Opposition": "v Scotland",
+            "Scorecard": "Other OD",
+            "Team": "M.C.C."
+        },
+        {
+            "Bat & Bowl": "2/42",
+            "Ground": "Arundel",
+            "Match Date": "27 Apr 2008",
+            "Opposition": "v N Zealanders",
+            "Scorecard": "Other",
+            "Team": "M.C.C."
+        },
+        {
+            "Bat & Bowl": "0/23",
+            "Ground": "Lord's",
+            "Match Date": "21 Apr 2008",
+            "Opposition": "v Scotland",
+            "Scorecard": "Other OD",
+            "Team": "M.C.C."
+        },
+        {
+            "Bat & Bowl": "51, 3/39",
+            "Ground": "Lord's",
+            "Match Date": "7 Jun 2007",
+            "Opposition": "v European XI",
+            "Scorecard": "Other",
+            "Team": "M.C.C."
+        },
+        {
+            "Bat & Bowl": "2/36",
+            "Ground": "Rotterdam",
+            "Match Date": "29 Jun 2006",
+            "Opposition": "v European XI",
+            "Scorecard": "Other OD",
+            "Team": "M.C.C."
+        },
+        {
+            "Bat & Bowl": "2/37",
+            "Ground": "Wormsley",
+            "Match Date": "2 May 2006",
+            "Opposition": "v Sri Lankans",
+            "Scorecard": "Other",
+            "Team": "Sir Paul Getty's XI"
+        },
+        {
+            "Bat & Bowl": "3/6, 1, 0/28, 0",
+            "Ground": "Lord's",
+            "Match Date": "14 Apr 2006",
+            "Opposition": "v Notts",
+            "Scorecard": "FC",
+            "Team": "M.C.C."
+        }
+    ]
+}

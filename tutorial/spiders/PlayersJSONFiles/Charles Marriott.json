@@ -1,0 +1,116 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "0.00",
+            "Ct": "1",
+            "HS": "0",
+            "Inns": "1",
+            "Mat": "1",
+            "NO": "0",
+            "Runs": "0",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "4s": "",
+            "50": "0",
+            "6s": "",
+            "Ave": "4.41",
+            "Ct": "47",
+            "HS": "21",
+            "Inns": "178",
+            "Mat": "159",
+            "NO": "48",
+            "Runs": "574",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "1",
+            "4w": "0",
+            "5w": "2",
+            "Ave": "8.72",
+            "BBI": "6/59",
+            "BBM": "11/96",
+            "Balls": "247",
+            "Econ": "2.33",
+            "Inns": "2",
+            "Mat": "1",
+            "Runs": "96",
+            "SR": "22.4",
+            "Wkts": "11"
+        },
+        {
+            "": "First-class",
+            "10": "10",
+            "4w": "",
+            "5w": "48",
+            "Ave": "20.11",
+            "BBI": "8/98",
+            "BBM": "",
+            "Balls": "37223",
+            "Econ": "2.30",
+            "Inns": "",
+            "Mat": "159",
+            "Runs": "14304",
+            "SR": "52.3",
+            "Wkts": "711"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/1104979.html",
+        "http://www.espncricinfo.com/magazine/content/story/239768.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155463.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/042004/051421.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/042004/051421.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/042004/051421.icon.jpg"
+    ],
+    "personal_info": {
+        "Also known as": [
+            null
+        ],
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nSeptember 14, 1895, Heaton Moor, Lancashire "
+        ],
+        "Bowling style": [
+            "Legbreak googly"
+        ],
+        "Died": [
+            "October 13, 1966, Dollis Hill, Middlesex (aged 71 years 29 days) "
+        ],
+        "Full name": [
+            "Charles Stowell Marriott"
+        ],
+        "Major teams": [
+            "England,",
+            "Cambridge University,",
+            "Kent,",
+            "Lancashire"
+        ]
+    },
+    "profile_info": [
+        null,
+        "In all first-class cricket he took 724 wickets at an average cost of 20.04 runs and his bowling skill so far exceeded his ability as a batsman that his victims exceeded his aggregate of runs by 169. Cunning flighting, allied to the ability to turn the ball sharply, made him a menace to batsmen even on good pitches and when the turf gave him help, he could be well-nigh unplayable. His action was high with a free, loose arm which he swung behind his back before delivery in a manner reminiscent of Colin Blythe. From 1919 to 1921 he appeared for Lancashire and when beginning a long association with Dulwich College as master-in-charge of cricket, he threw in his lot with Kent, whom he assisted during the school holidays from 1924 to 1937.",
+        "In his first season with the Southern county he distinguished himself by taking 5 for 31 and 6for 48 in the game with Lancashire at Dover and against Hampshire at Canterbury he returned figures of 5 for 66 and 5for 44, and he achieved many other notable performances in later years.",
+        null,
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

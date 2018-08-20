@@ -1,0 +1,103 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "6.14",
+            "Ct": "2",
+            "HS": "17",
+            "Inns": "7",
+            "Mat": "4",
+            "NO": "0",
+            "Runs": "43",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "2",
+            "50": "12",
+            "6s": "",
+            "Ave": "14.50",
+            "Ct": "172",
+            "HS": "124",
+            "Inns": "468",
+            "Mat": "307",
+            "NO": "79",
+            "Runs": "5641",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "1",
+            "5w": "1",
+            "Ave": "28.23",
+            "BBI": "5/115",
+            "BBM": "7/187",
+            "Balls": "1182",
+            "Econ": "3.01",
+            "Inns": "8",
+            "Mat": "4",
+            "Runs": "593",
+            "SR": "56.2",
+            "Wkts": "21"
+        },
+        {
+            "": "First-class",
+            "10": "17",
+            "4w": "",
+            "5w": "85",
+            "Ave": "25.31",
+            "BBI": "8/33",
+            "BBM": "",
+            "Balls": "52148",
+            "Econ": "3.34",
+            "Inns": "",
+            "Mat": "307",
+            "Runs": "29110",
+            "SR": "45.3",
+            "Wkts": "1150"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/1104979.html",
+        "http://www.espncricinfo.com/magazine/content/story/571939.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJanuary 16, 1876, Herne Hill, London "
+        ],
+        "Bowling style": [
+            "Right-arm fast"
+        ],
+        "Died": [
+            "February 23, 1937, Dundee, Angus, Scotland (aged 61 years 38 days) "
+        ],
+        "Full name": [
+            "Claude Percival Buckenham"
+        ],
+        "Major teams": [
+            "England,",
+            "Essex"
+        ]
+    },
+    "profile_info": [
+        "\nBuckenham, Claude Percival, died on February 23 after a short illness at his home in Dundee, aged 61. Born in Surrey on January 16, 1876, he went to Alleyn School, Dulwich, but became associated with cricket at Leyton and played first for Essex from 1899. Tall and rather sparely built, Buckenham bowled very fast with a good high delivery and might have made a greater name but for his constant misfortune in seeing slip catches missed. Because of weak support in the field Buckenham often proved expensive and, in 1905 his ninety wickets cost over 32 runs apiece. Then for six seasons he ranked as one of the deadliest pace bowlers in England. Most successful in 1911 when securing 134 wickets, he was perhaps at his best in 1910 when he dismissed 118 batsmen at an average cost of 17.66. From 1905 to 1911 he took 828 wickets at less than 23 runs each, and in the course of his county career, which closed in 1914, his record was 1,152, average 25.30. \n",
+        "Three times he appeared in the Gentlemen and Players' match at Lord's. In 1909, when on the ground staff, he was in the M.C.C. eleven which beat Noble's Australian team by three wickets and in a second engagement between these teams he took six wickets for 98 in an innings of 434. One of his most memorable performances was taking eleven wickets for 161 runs for South against North at the Oval in 1908 in the match played for the benefit of E. G. Hayes, the noted Surrey batsman. In the second innings he made the ball break back in such disconcerting fashion that six men, five bowled, fell to him for 68 runs.",
+        " Buckenham went to South Africa with Mr. H. D. G. Leveson Gower's team in the winter of 1909 and in four of the five Tests took twenty-one wickets for 28 runs apiece. A hard-hitting batsman Buckenham often played a useful innings when runs were wanted. He was professional to Forfarshire at the beginning of the War and after serving in the Royal Garrison Artillery he became coach at Repton.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "1",
+            "6s": "0",
+            "Ave": "16.93",
+            "Ct": "24",
+            "HS": "65",
+            "Inns": "17",
+            "Mat": "11",
+            "NO": "2",
+            "Runs": "254",
+            "St": "2"
+        },
+        {
+            "": "First-class",
+            "100": "2",
+            "50": "22",
+            "6s": "",
+            "Ave": "19.21",
+            "Ct": "530",
+            "HS": "115",
+            "Inns": "411",
+            "Mat": "286",
+            "NO": "73",
+            "Runs": "6495",
+            "St": "66"
+        },
+        {
+            "": "List A",
+            "100": "0",
+            "50": "0",
+            "6s": "",
+            "Ave": "9.54",
+            "Ct": "31",
+            "HS": "48",
+            "Inns": "36",
+            "Mat": "51",
+            "NO": "12",
+            "Runs": "229",
+            "St": "5"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "11",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "69.00",
+            "BBI": "1/10",
+            "BBM": "",
+            "Balls": "90",
+            "Econ": "4.60",
+            "Inns": "",
+            "Mat": "286",
+            "Runs": "69",
+            "SR": "90.0",
+            "Wkts": "1"
+        },
+        {
+            "": "List A",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "51",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/224157.html",
+        "http://www.espncricinfo.com/magazine/content/story/138642.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/242100/242181.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/242100/242181.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nOctober 25, 1933, Westminster, London "
+        ],
+        "Bowling style": [
+            "Right-arm offbreak"
+        ],
+        "Current age": [
+            "84 years 297 days"
+        ],
+        "Fielding position": [
+            "Wicketkeeper"
+        ],
+        "Full name": [
+            "Roy Swetman"
+        ],
+        "Major teams": [
+            "England,",
+            "Gloucestershire,",
+            "Nottinghamshire,",
+            "Surrey"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

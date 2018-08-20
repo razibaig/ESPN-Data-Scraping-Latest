@@ -1,0 +1,109 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "1",
+            "6s": "0",
+            "Ave": "21.33",
+            "Ct": "1",
+            "HS": "84",
+            "Inns": "6",
+            "Mat": "4",
+            "NO": "0",
+            "Runs": "128",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "50": "11",
+            "6s": "",
+            "Ave": "18.37",
+            "Ct": "48",
+            "HS": "91",
+            "Inns": "119",
+            "Mat": "76",
+            "NO": "21",
+            "Runs": "1801",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "24.50",
+            "BBI": "2/46",
+            "BBM": "3/69",
+            "Balls": "155",
+            "Econ": "3.79",
+            "Inns": "4",
+            "Mat": "4",
+            "Runs": "98",
+            "SR": "38.7",
+            "Wkts": "4"
+        },
+        {
+            "": "First-class",
+            "10": "1",
+            "4w": "",
+            "5w": "12",
+            "Ave": "17.92",
+            "BBI": "7/17",
+            "BBM": "",
+            "Balls": "6910",
+            "Econ": "2.91",
+            "Inns": "",
+            "Mat": "76",
+            "Runs": "3352",
+            "SR": "36.9",
+            "Wkts": "187"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/ci/content/story/124979.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nAugust 18, 1870, Capesthorne Hall, Chelford, Cheshire "
+        ],
+        "Bowling style": [
+            "Left-arm fast"
+        ],
+        "Died": [
+            "May 23, 1954, South Kensington, London (aged 83 years 278 days) "
+        ],
+        "Education": [
+            "Eton College; Cambridge University"
+        ],
+        "Full name": [
+            "Hugh Richard Bromley-Davenport"
+        ],
+        "Major teams": [
+            "England,",
+            "Cambridge University,",
+            "Middlesex"
+        ],
+        "Relation": [
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        null,
+        "Going up to Trinity Hall, Cambridge, he gained a Blue in 1892 and 1893 under the captaincy of F. S. Jackson. In the second meeting with Oxford he obtained a match record of five wickets for l l runs. An incident in that game led to a change in the Laws. Convinced that Oxford intended to throw away their last wicket, which, as they were 84 behind, would have meant that they would be compelled to follow-on and thus leave Cambridge to take last innings on a deteriorating pitch, C. M. Wells frustrated any such attempt by bowling two wides to the boundary. In the end Cambridge won by 266 runs, and the following year the follow-on became compulsory only if a side finished the first innings 120 or more behind their opponents' total.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "14.92",
+            "Ct": "3",
+            "HS": "45",
+            "Inns": "14",
+            "Mat": "8",
+            "NO": "0",
+            "Runs": "209",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "3",
+            "50": "18",
+            "6s": "",
+            "Ave": "34.82",
+            "Ct": "46",
+            "HS": "156*",
+            "Inns": "104",
+            "Mat": "78",
+            "NO": "15",
+            "Runs": "3099",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "2",
+            "5w": "0",
+            "Ave": "25.61",
+            "BBI": "4/12",
+            "BBM": "5/36",
+            "Balls": "1010",
+            "Econ": "2.73",
+            "Inns": "13",
+            "Mat": "8",
+            "Runs": "461",
+            "SR": "56.1",
+            "Wkts": "18"
+        },
+        {
+            "": "First-class",
+            "10": "1",
+            "4w": "",
+            "5w": "10",
+            "Ave": "27.84",
+            "BBI": "7/43",
+            "BBM": "",
+            "Balls": "11688",
+            "Econ": "2.55",
+            "Inns": "",
+            "Mat": "78",
+            "Runs": "4985",
+            "SR": "65.2",
+            "Wkts": "179"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/england/content/story/275931.html",
+        "http://www.espncricinfo.com/magazine/content/story/241475.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nOctober 20, 1917, Aigburth, Liverpool, Lancashire "
+        ],
+        "Bowling style": [
+            "Right-arm medium"
+        ],
+        "Died": [
+            "January 8, 2007 (aged 89 years 80 days) "
+        ],
+        "Full name": [
+            "Kenneth Cranston"
+        ],
+        "Major teams": [
+            "England,",
+            "Lancashire"
+        ]
+    },
+    "profile_info": [
+        null,
+        null,
+        "Selected to play cricket for\nLiverpool University, he completed\nan exam on the morning of the\nmatch, then hurried to the ground\nto find that Birmingham University\nhad reduced his side to 82 for 6.\nHe went out at the fall of the next\nwicket to hit fifty in his first 10\nminutes at the crease. He completed\na whirlwind 128 before the\ndeclaration at 320 for 9.",
+        "Cranston served as a dental\nofficer in the Navy during the war\nbut continued to play cricket both\nfor the Navy and the Combined\nServices. When Jack Fallows was not\nre-engaged as Lancashire captain for\nthe 1947 season Cranston took leave\nof absence from the Aigburth dental\npractice he shared with his father\nand was appointed in his place.\nHe was the personification of the\ndashing, handsome amateur captain\nbut not even Cyril Washbrook at his\nmost curmudgeonly could disparage\nCranston's immediate impact.",
+        "In his first season he made 1,228\nruns at an average of 33.18, took\n84 wickets at a cost of 22.54 runs\neach and was called up for the last\nthree Tests of the series against\nSouth Africa. In his second match,\nat Headingley, he bowled his now\nlegendary quadruple wicket maiden,\ncleaning up South Africa's second\ninnings and finishing with 4 for\n12. His Test career came to a sad if\nsymmetrical end at Headingley the\nfollowing year when Cranston was\nas helpless as the rest of the England\nattack to prevent Australia from\nscoring 404 for 3 on the final day.",
+        "Don Bradman, having made an\nunbeaten 173 to win the match,\nmight not have been impressed by\nCranston's brisk medium pace or\nhis last innings, in which he was caught behind for a duck off Bill\nJohnston, but legend has it that he\nwas keen on a free consultation\nabout his teeth with the Lancashire\nallrounder.",
+        "In the intervening close season\nCranston had toured the West\nIndies as Gubby Allen's vice-captain\nand, when the 45-year-old leader,\nin the glorious tradition of injured\nEngland captains, pulled a muscle\non the journey to the Caribbean,\nCranston, who had been playing\nclub cricket the previous year, led\nout his country in the first Test\nat the Kensington Oval, holding a\nstrong home side to a draw. It was to\nbe a one off: Allen returned for the\nnext Test and Cranston never again\ncaptained England. His best bowling\nperformance came in the third Test\nat Georgetown, when he dismissed\nboth Clyde Walcott and Everton\nWeekes in his analysis of 4 for 78.\nLancashire had finished third\nin the Championship in 1947 but\nslipped two places the following\nyear. Cranston's figures were still\nimpressive. He scored another\nthousand runs at 33.21 and took a\nfurther 79 wickets at an average of\n27.06 but somehow the attraction of\ndays in the sun had diminished and\nthe siren song of the dentist's drill\nwas too tempting. He continued to\nwork in his chosen profession until\n1990.",
+        null,
+        "He emerged briefly in 1949 to\nplay at the Scarborough Festival\nwhere, batting as low as No.8,\nhe scored a scintillating 156 not out\nfor MCC against the joint champions\nYorkshire, including a rapid eighthwicket\npartnership of 127 with Denis Compton. He played his final\nfirst-class match for HDG Leveson-\nGower against the 1950 West Indies\nat the same venue.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

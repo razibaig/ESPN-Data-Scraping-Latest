@@ -1,0 +1,97 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "8.00",
+            "Ct": "0",
+            "HS": "16",
+            "Inns": "2",
+            "Mat": "2",
+            "NO": "0",
+            "Runs": "16",
+            "St": "1"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "50": "1",
+            "6s": "",
+            "Ave": "10.52",
+            "Ct": "318",
+            "HS": "67*",
+            "Inns": "258",
+            "Mat": "232",
+            "NO": "74",
+            "Runs": "1937",
+            "St": "122"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "2",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "232",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        }
+    ],
+    "latest_articles": [],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nFebruary 10, 1920, Eccleshill, Yorkshire "
+        ],
+        "Died": [
+            "January 9, 1985, Ilkley, Yorkshire (aged 64 years 334 days) "
+        ],
+        "Fielding position": [
+            "Wicketkeeper"
+        ],
+        "Full name": [
+            "Donald Vincent Brennan"
+        ],
+        "Major teams": [
+            "England,",
+            "Yorkshire"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "5.00",
+            "Ct": "2",
+            "HS": "8",
+            "Inns": "4",
+            "Mat": "3",
+            "NO": "2",
+            "Runs": "10",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "50": "0",
+            "6s": "",
+            "Ave": "10.31",
+            "Ct": "121",
+            "HS": "49*",
+            "Inns": "370",
+            "Mat": "267",
+            "NO": "122",
+            "Runs": "2559",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "1",
+            "5w": "0",
+            "Ave": "13.90",
+            "BBI": "4/19",
+            "BBM": "5/56",
+            "Balls": "447",
+            "Econ": "2.05",
+            "Inns": "5",
+            "Mat": "3",
+            "Runs": "153",
+            "SR": "40.6",
+            "Wkts": "11"
+        },
+        {
+            "": "First-class",
+            "10": "24",
+            "4w": "",
+            "5w": "97",
+            "Ave": "18.14",
+            "BBI": "9/31",
+            "BBM": "",
+            "Balls": "59289",
+            "Econ": "2.38",
+            "Inns": "",
+            "Mat": "267",
+            "Runs": "23606",
+            "SR": "45.5",
+            "Wkts": "1301"
+        }
+    ],
+    "latest_articles": [],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Left-hand bat"
+        ],
+        "Born": [
+            "\nAugust 13, 1884, Burnley, Lancashire "
+        ],
+        "Bowling style": [
+            "Left-arm fast-medium"
+        ],
+        "Died": [
+            "March 12, 1957, Garstang, Lancashire (aged 72 years 211 days) "
+        ],
+        "Full name": [
+            "Harry Dean"
+        ],
+        "Major teams": [
+            "England,",
+            "Lancashire"
+        ],
+        "Other": [
+            "Coach"
+        ]
+    },
+    "profile_info": [
+        "\nHarry Dean, who died at his home at Garstang, near Blackpool, on March 12, aged 71, was one of the most successful bowlers who ever played for Lancashire. He first appeared for the county in 1906 and before he left them at the end of the 1921 season he took, with left-arm bowling, 1,301 wickets in all first-class matches for 18.14 runs apiece. He suited his methods to the conditions, bowling fast-medium with deceptive swerve or slow according to the state of the pitch. He made an auspicious start, for in his first season he dismissed 60 batsmen, and in each of the next seven summers he took over 100 wickets, as he did also in 1920. Six times he obtained nine wickets in an innings, his best analysis being 15.1 overs, 8 maidens, 31 runs, 9 wickets against Somerset at Old Trafford in 1909. \n",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

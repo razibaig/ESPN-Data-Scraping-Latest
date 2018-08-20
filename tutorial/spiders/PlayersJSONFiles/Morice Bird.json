@@ -1,0 +1,110 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "2",
+            "6s": "2",
+            "Ave": "18.66",
+            "Ct": "5",
+            "HS": "61",
+            "Inns": "16",
+            "Mat": "10",
+            "NO": "1",
+            "Runs": "280",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "7",
+            "50": "34",
+            "6s": "",
+            "Ave": "23.76",
+            "Ct": "111",
+            "HS": "200",
+            "Inns": "306",
+            "Mat": "192",
+            "NO": "14",
+            "Runs": "6938",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "15.00",
+            "BBI": "3/11",
+            "BBM": "3/11",
+            "Balls": "259",
+            "Econ": "2.77",
+            "Inns": "12",
+            "Mat": "10",
+            "Runs": "120",
+            "SR": "32.3",
+            "Wkts": "8"
+        },
+        {
+            "": "First-class",
+            "10": "1",
+            "4w": "",
+            "5w": "2",
+            "Ave": "25.68",
+            "BBI": "5/48",
+            "BBM": "",
+            "Balls": "7245",
+            "Econ": "3.16",
+            "Inns": "",
+            "Mat": "192",
+            "Runs": "3827",
+            "SR": "48.6",
+            "Wkts": "149"
+        }
+    ],
+    "latest_articles": [],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nMarch 25, 1888, St Michael's Hamlet, Liverpool, Lancashire "
+        ],
+        "Bowling style": [
+            "Right-arm medium"
+        ],
+        "Died": [
+            "December 9, 1933, Broadstone, Dorset (aged 45 years 259 days) "
+        ],
+        "Full name": [
+            "Morice Carlos Bird"
+        ],
+        "Major teams": [
+            "England,",
+            "Lancashire,",
+            "Maharaja of Cooch-Behar's XI,",
+            "MC Bird's XI,",
+            "Surrey"
+        ],
+        "Other": [
+            "Coach"
+        ],
+        "Relation": [
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        null,
+        "Morice Carlos Bird, whose remarkable performance of scoring two separate hundreds in the Eton and Harrow match in 1907 remains unparalleled, died at Broadstone, Dorset, on December 9. Besides being famous at Harrow, whom he represented four times against Eton, he made a name as a batsman for Surrey and also played a good deal for M.C.C. Born at Liverpool on March 25, 1888, Mr. Bird was in the Harrow Eleven from 1904 to 1907, and was captain when he wound up his school career with his great achievement. Tall and of strong build he dwarfed the other players both in stature and skill. In Harrow's first innings he scored 100 not out in an hour and three-quarters; in the second, when fighting an uphill game, he hit up 131 in two hours and a quarter. Thanks to his fine hitting and his timely declaration, Harrow won at twenty minutes past seven by 79 runs.",
+        "The same year--1907--Mr. Bird appeared in a few games for his native county, Lancashire, but not until he played for Surrey two years afterwards, did he accomplish anything of note in county cricket. Then he was included in the M.C.C. side that toured South Africa in the winter of 1909-10, and also visited South Africa with the team of 1913-14, playing in ten Test Matches in that country. Succeeding Mr. H. D. G. Leveson Gower in 1911, Mr. Bird captained Surrey during the next two years and in 1910, 1911 and 1913 scored over a thousand runs. His best season was that of 1911, when he had an aggregate of 1,404 and an average of 30. A very fine forcing batsman, specially strong on the off side, both in driving and cutting, Morice Bird had a determined personality which often enabled him to show to most advantage on important occasions. His hitting against the Australian team of 1912 in two games at the Oval--he scored 76, 68 and 112 in dazzling fashion--is still talked about. A medium pace bowler, he took five wickets in the match with Eton which brought him such fame. In 1911, he had a record of forty-seven wickets for just over 20 runs apiece. He was also a capital field. After the War, he succeeded Mr. M. C. Kemp for two seasons as coach at Harrow and subsequently undertook similar duties at the Oval. He had been desperately ill for some years prior to his death.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "2",
+            "6s": "0",
+            "Ave": "40.25",
+            "Ct": "1",
+            "HS": "69*",
+            "Inns": "5",
+            "Mat": "3",
+            "NO": "1",
+            "Runs": "161",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "24",
+            "50": "127",
+            "6s": "",
+            "Ave": "32.54",
+            "Ct": "224",
+            "HS": "222*",
+            "Inns": "637",
+            "Mat": "383",
+            "NO": "42",
+            "Runs": "19364",
+            "St": "5"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "30",
+            "Econ": "1.80",
+            "Inns": "1",
+            "Mat": "3",
+            "Runs": "9",
+            "SR": "-",
+            "Wkts": "0"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "86.75",
+            "BBI": "1/8",
+            "BBM": "",
+            "Balls": "550",
+            "Econ": "3.78",
+            "Inns": "",
+            "Mat": "383",
+            "Runs": "347",
+            "SR": "137.5",
+            "Wkts": "4"
+        }
+    ],
+    "latest_articles": [],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Left-hand bat"
+        ],
+        "Born": [
+            "\nMarch 13, 1921, Forest Town, Mansfield, Nottinghamshire "
+        ],
+        "Bowling style": [
+            "Left-arm medium"
+        ],
+        "Died": [
+            "February 11, 1996, Balderton, Nottinghamshire (aged 74 years 335 days) "
+        ],
+        "Fielding position": [
+            "Wicketkeeper"
+        ],
+        "Full name": [
+            "Cyril John Poole"
+        ],
+        "Major teams": [
+            "England,",
+            "Nottinghamshire"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

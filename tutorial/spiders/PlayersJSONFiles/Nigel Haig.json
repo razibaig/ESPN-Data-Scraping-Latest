@@ -1,0 +1,115 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "14.00",
+            "Ct": "4",
+            "HS": "47",
+            "Inns": "9",
+            "Mat": "5",
+            "NO": "0",
+            "Runs": "126",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "12",
+            "50": "61",
+            "6s": "",
+            "Ave": "20.90",
+            "Ct": "220",
+            "HS": "131",
+            "Inns": "779",
+            "Mat": "513",
+            "NO": "51",
+            "Runs": "15220",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "34.46",
+            "BBI": "3/73",
+            "BBM": "4/122",
+            "Balls": "1026",
+            "Econ": "2.61",
+            "Inns": "10",
+            "Mat": "5",
+            "Runs": "448",
+            "SR": "78.9",
+            "Wkts": "13"
+        },
+        {
+            "": "First-class",
+            "10": "2",
+            "4w": "",
+            "5w": "47",
+            "Ave": "27.48",
+            "BBI": "7/33",
+            "BBM": "",
+            "Balls": "78172",
+            "Econ": "2.35",
+            "Inns": "",
+            "Mat": "513",
+            "Runs": "30698",
+            "SR": "69.9",
+            "Wkts": "1117"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/375242.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155460.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/177900/177981.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/177900/177981.icon.jpg"
+    ],
+    "personal_info": {
+        "Also known as": [
+            "birth registered as Lionel Esm\u00e9 Haig"
+        ],
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nDecember 12, 1887, Kensington, London "
+        ],
+        "Bowling style": [
+            "Right-arm fast-medium"
+        ],
+        "Died": [
+            "October 27, 1966, Eastbourne, Sussex (aged 78 years 319 days) "
+        ],
+        "Education": [
+            "Eton College"
+        ],
+        "Full name": [
+            "Nigel Esm\u00e9 Haig"
+        ],
+        "Major teams": [
+            "England,",
+            "Middlesex"
+        ],
+        "Relation": [
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        "\nNigel Haig was a celebrated amateur allrounder between the two World Wars. He did not gain a place in the XI while at Eton, but from 1912 until he retired from the game in 1934 he rendered splendid service to Middlesex, whom he captained for the last six years of his career. He was a member of the Championship-winning sides of 1920 and 1921. In addition, he played for England against Australia in the second of the disastrous Test series of 1921 and four times against the West Indies for the Hon. F. S. G. Calthorpe's M.C.C. team of 1929-30 without achieving much success. In all first-class cricket, Haig hit 15,208 runs, average 20.83, and with swing-bowling above medium pace he obtained 1,116 wickets for 27.47 runs each. \n",
+        "Six times he exceeded 1,000 runs, five times he took 100 or more wickets in a season and in 1921, 1927 and 1929 he did the cricketers' double. An agile fieldsman, he held 218 catches. His batting style was scarcely classic, but a quick eye stood him in good stead and, despite his not very powerful physique, he could hit the ball hard. The highest of his twelve centuries was 131 against Sussex at Lord's in 1920, when he, P. F. Warner, H. W. Lee and J. W. Hearne, the first four Middlesex batsmen, each reached three figures--an unprecedented occurrence in first-class cricket which was repeated for the same county by H. L. Dales, H. W. Lee, J. W. Hearne and E. Hendren against Hampshire at Southampton three years later.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

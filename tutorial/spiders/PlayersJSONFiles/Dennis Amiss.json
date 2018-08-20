@@ -1,0 +1,187 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "11",
+            "4s": "427",
+            "50": "11",
+            "6s": "3",
+            "Ave": "46.30",
+            "BF": "",
+            "Ct": "24",
+            "HS": "262*",
+            "Inns": "88",
+            "Mat": "50",
+            "NO": "10",
+            "Runs": "3612",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "ODIs",
+            "100": "4",
+            "4s": "94",
+            "50": "1",
+            "6s": "1",
+            "Ave": "47.72",
+            "BF": "1185",
+            "Ct": "2",
+            "HS": "137",
+            "Inns": "18",
+            "Mat": "18",
+            "NO": "0",
+            "Runs": "859",
+            "SR": "72.48",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "102",
+            "4s": "",
+            "50": "212",
+            "6s": "",
+            "Ave": "42.86",
+            "BF": "",
+            "Ct": "417",
+            "HS": "262*",
+            "Inns": "1139",
+            "Mat": "658",
+            "NO": "126",
+            "Runs": "43423",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "15",
+            "4s": "",
+            "50": "77",
+            "6s": "",
+            "Ave": "35.06",
+            "BF": "",
+            "Ct": "105",
+            "HS": "137",
+            "Inns": "391",
+            "Mat": "404",
+            "NO": "34",
+            "Runs": "12519",
+            "SR": "",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "50",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "ODIs",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "18",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "39.88",
+            "BBI": "3/21",
+            "BBM": "",
+            "Balls": "1153",
+            "Econ": "3.73",
+            "Inns": "",
+            "Mat": "658",
+            "Runs": "718",
+            "SR": "64.0",
+            "Wkts": "18"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "62.50",
+            "BBI": "1/15",
+            "BBM": "1/15",
+            "Balls": "129",
+            "Econ": "5.81",
+            "Inns": "",
+            "Mat": "404",
+            "Runs": "125",
+            "SR": "64.5",
+            "Wkts": "2"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/998589/how-west-indies-began-their-journey-to-world-domination",
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/953181/when-death-whispered",
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/942005/mortal-combat",
+        "http://www.espncricinfo.com/magazine/content/story/842261.html",
+        "http://www.espncricinfo.com/magazine/content/story/698651.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=8535"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/16200/16297.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/16200/16297.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/16200/16297.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nApril 7, 1943, Harborne, Birmingham, Warwickshire "
+        ],
+        "Current age": [
+            "75 years 133 days"
+        ],
+        "Full name": [
+            "Dennis Leslie Amiss"
+        ],
+        "Height": [
+            "\n5 ft 11 in "
+        ],
+        "Major teams": [
+            "England,",
+            "Warwickshire"
+        ],
+        "Nickname": [
+            "Sacker"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

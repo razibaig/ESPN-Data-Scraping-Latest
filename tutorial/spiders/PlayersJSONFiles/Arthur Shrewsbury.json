@@ -1,0 +1,113 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "3",
+            "50": "4",
+            "6s": "0",
+            "Ave": "35.47",
+            "Ct": "29",
+            "HS": "164",
+            "Inns": "40",
+            "Mat": "23",
+            "NO": "4",
+            "Runs": "1277",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "59",
+            "50": "114",
+            "6s": "",
+            "Ave": "36.65",
+            "Ct": "377",
+            "HS": "267",
+            "Inns": "813",
+            "Mat": "498",
+            "NO": "90",
+            "Runs": "26505",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "12",
+            "Econ": "1.00",
+            "Inns": "1",
+            "Mat": "23",
+            "Runs": "2",
+            "SR": "-",
+            "Wkts": "0"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "16",
+            "Econ": "0.75",
+            "Inns": "",
+            "Mat": "498",
+            "Runs": "2",
+            "SR": "-",
+            "Wkts": "0"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/320591.html",
+        "http://www.espncricinfo.com/magazine/content/story/254160.html",
+        "http://www.espncricinfo.com/magazine/content/story/210469.html",
+        "http://www.espncricinfo.com/ci/content/story/141167.html",
+        "http://www.espncricinfo.com/ci/content/story/128910.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=20179"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/64600/64627.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/64600/64627.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/64600/64627.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nApril 11, 1856, New Lenton, Nottinghamshire "
+        ],
+        "Bowling style": [
+            "Right-arm bowler"
+        ],
+        "Died": [
+            "May 19, 1903, Gedling, Nottinghamshire (aged 47 years 38 days) "
+        ],
+        "Full name": [
+            "Arthur Shrewsbury"
+        ],
+        "Major teams": [
+            "England,",
+            "Nottinghamshire"
+        ],
+        "Relation": [
+            null,
+            "\n",
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        "\nFor almost a decade starting in the late 1880s Arthur Shrewsbury was arguably\nthe finest batsman in the world. WG Grace, his main rival for that accolade, was\nonce asked who he'd most like to have in his side, and said simply: \"Give me\nArthur.\" With a game built around an impregnable defence based on his pads,\nShrewsbury was a magnificent runmaker especially on bad or so-called sticky\nwickets, scoring many of his greatest hundreds on pitches his partners found\nimpossible to master. The best-known of these knocks came against Australia at\nLord's in 1886, when he scored a masterly 164 against the might of Fred\nSpofforth, on a pitch deemed \"impossible\" by his peers. Seven years later he\nrepeated the feat, with a well-made 106 - again at Lord's against Australia - in\nequally trying conditions, on a sticky wicket against Charles \"The Terror\"\nTurner. Even in 1902, his final season, by which time he was 47, Shrewsbury\nmanaged to top the first-class averages (1250 runs at 50), as he had done\nhalf-a-dozen times in his heyday. Sadly, though, he shot himself the following\nyear after a bout of depression. A quiet, humble man, his passing was mourned\nall over the cricket-playing world - but especially in Nottinghamshire, the\ncounty which he served grandly for nearly three decades. \n"
+    ],
+    "recent_matches": [
+        {},
+        {}
+    ]
+}

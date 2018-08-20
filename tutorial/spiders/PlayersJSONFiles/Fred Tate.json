@@ -1,0 +1,114 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "9.00",
+            "Ct": "2",
+            "HS": "5*",
+            "Inns": "2",
+            "Mat": "1",
+            "NO": "1",
+            "Runs": "9",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "50": "6",
+            "6s": "",
+            "Ave": "9.58",
+            "Ct": "234",
+            "HS": "84",
+            "Inns": "458",
+            "Mat": "320",
+            "NO": "150",
+            "Runs": "2952",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "25.50",
+            "BBI": "2/7",
+            "BBM": "2/51",
+            "Balls": "96",
+            "Econ": "3.18",
+            "Inns": "2",
+            "Mat": "1",
+            "Runs": "51",
+            "SR": "48.0",
+            "Wkts": "2"
+        },
+        {
+            "": "First-class",
+            "10": "29",
+            "4w": "",
+            "5w": "104",
+            "Ave": "21.55",
+            "BBI": "9/73",
+            "BBM": "",
+            "Balls": "67436",
+            "Econ": "2.55",
+            "Inns": "",
+            "Mat": "320",
+            "Runs": "28690",
+            "SR": "50.6",
+            "Wkts": "1331"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/362267.html",
+        "http://www.espncricinfo.com/magazine/content/story/302468.html",
+        "http://www.espncricinfo.com/ci/content/story/129096.html",
+        "http://www.espncricinfo.com/ci/content/story/129050.html",
+        "http://www.espncricinfo.com/wcm/content/story/245985.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/042004/051991.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/042004/051991.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJuly 24, 1867, Brighton, Sussex "
+        ],
+        "Bowling style": [
+            "Right-arm medium"
+        ],
+        "Died": [
+            "February 4, 1943, Burgess Hill, Sussex (aged 75 years 195 days) "
+        ],
+        "Full name": [
+            "Frederick William Tate"
+        ],
+        "Major teams": [
+            "England,",
+            "Sussex"
+        ],
+        "Relation": [
+            null,
+            "\n",
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        "\nFrederick William Tate, died at Burgess Hill, Sussex, on February 4, aged 75. He first played for Sussex in 1888, and not until 1905 did his career end. Subsequently he went to Derby as coach to the County Club and in 1921 to Trent College as professional coach. Two of his three sons played county cricket, Maurice, so well known with Sussex and England, and C. L. Tate, who played for Derbyshire and Warwickshire. \n",
+        "A slow to medium-paced right-hand bowler, with easy action and good command of length, Fred Tate took over 100 wickets in five different seasons. His great year came when he was 35, 180 wickets falling to him for less than 16 runs apiece in 1902. His full record in first-class cricket shows 1,324 wickets at an average cost of 21 runs apiece. He accomplished many good performances. When Hampshire were a second-class county he took nine wickets for 24 runs, and at Leicester in 1902 he again got nine wickets in an innings at a cost of 73 runs. Perhaps his best achievement was that year at Lord's when against Middlesex he dismissed fifteen men for 68 runs in a day. Other exceptional feats were five wickets for one run against Kent at Tonbridge in 1888 and seven for 17 against Gloucestershire at Bristol in 1891; and in 1901 he did the hat-trick against Surrey at the Oval. This was his benefit year and the match against Yorkshire at Hove brought him \u00a31,051.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

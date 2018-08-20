@@ -1,0 +1,117 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "-",
+            "4s": "-",
+            "50": "-",
+            "6s": "-",
+            "Ave": "-",
+            "BF": "-",
+            "Ct": "1",
+            "HS": "-",
+            "Inns": "-",
+            "Mat": "1",
+            "NO": "-",
+            "Runs": "-",
+            "SR": "-",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "2",
+            "4s": "",
+            "50": "18",
+            "6s": "",
+            "Ave": "15.45",
+            "BF": "",
+            "Ct": "177",
+            "HS": "115*",
+            "Inns": "555",
+            "Mat": "373",
+            "NO": "90",
+            "Runs": "7186",
+            "SR": "",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "192",
+            "Econ": "2.34",
+            "Inns": "2",
+            "Mat": "1",
+            "Runs": "75",
+            "SR": "-",
+            "Wkts": "0"
+        },
+        {
+            "": "First-class",
+            "10": "28",
+            "4w": "",
+            "5w": "105",
+            "Ave": "19.76",
+            "BBI": "9/54",
+            "BBM": "",
+            "Balls": "61603",
+            "Econ": "2.53",
+            "Inns": "",
+            "Mat": "373",
+            "Runs": "26028",
+            "SR": "46.7",
+            "Wkts": "1317"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdencricketer/content/story/241949.html",
+        "http://www.espncricinfo.com/wcm/content/story/245985.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155729.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/100400/100417.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nMarch 18, 1898, Bonvilston, Glamorgan, Wales "
+        ],
+        "Bowling style": [
+            "Right-arm offbreak"
+        ],
+        "Died": [
+            "August 11, 1973, St Hilary, Cowbridge, Glamorgan, Wales (aged 75 years 146 days) "
+        ],
+        "Full name": [
+            "John Charles Clay"
+        ],
+        "Major teams": [
+            "England,",
+            "Glamorgan,",
+            "Wales"
+        ],
+        "Other": [
+            "Administrator"
+        ]
+    },
+    "profile_info": [
+        "\nJohnnie Clay was one of the most dedicated cricketers ever to represent Glamorgan. He first appeared for the county when they acquired first-class status in 1921 and continued with them till 1949; was captain in six seasons and for some time honorary secretary; and at the time of his death was President of the County Club, a position he had held since 1961. \n",
+        "At Winchester, where he was in the XI in 1915 and 1916, Johnny Clay, as he was generally known in the cricket world, was a fast bowler, but eventually he took to off-breaks and possessed few equals. Not only did he spin the ball skilfully from his considerable height, but he maintained a splendid length and never wilted under punishment. In his long career he took 1,315 wickets at an average cost of 19.77, three times dismissing over 100 batsmen in a season.",
+        "His most successful summer was that of 1937, when with the aid of such analyses as nine wickets for 59 runs against Essex at Westcliff and nine for 66-17 for 212 in the match-against Worcestershire at Swansea, he obtained 176 wickets for 17.34 runs each. In 1935 at Llanelli he also took nine wickets in an innings, for 54 runs against Northamptonshire. Although he never achieved the hat-trick, he dismissed three Northamptonshire batsmen in the course of four deliveries at Northampton in 1938.",
+        "It was a great day for Clay when in 1948 he helped substantially in a win by an innings and 115 runs over Hampshire at Bournemouth which took Glamorgan to the County Championship for the first time. His share in the victory was nine wickets for 79 runs-six for 48 in the second innings.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "1",
+            "50": "0",
+            "6s": "1",
+            "Ave": "36.00",
+            "Ct": "2",
+            "HS": "109",
+            "Inns": "7",
+            "Mat": "5",
+            "NO": "0",
+            "Runs": "252",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "52",
+            "50": "147",
+            "6s": "",
+            "Ave": "34.94",
+            "Ct": "373",
+            "HS": "283",
+            "Inns": "859",
+            "Mat": "510",
+            "NO": "47",
+            "Runs": "28378",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "252",
+            "Econ": "2.76",
+            "Inns": "4",
+            "Mat": "5",
+            "Runs": "116",
+            "SR": "-",
+            "Wkts": "0"
+        },
+        {
+            "": "First-class",
+            "10": "2",
+            "4w": "",
+            "5w": "28",
+            "Ave": "25.98",
+            "BBI": "9/114",
+            "BBM": "",
+            "Balls": "40817",
+            "Econ": "2.83",
+            "Inns": "",
+            "Mat": "510",
+            "Runs": "19257",
+            "SR": "55.0",
+            "Wkts": "741"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/714423.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154692.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/21200/21276.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/21200/21276.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJune 6, 1890, Leatherhead, Surrey "
+        ],
+        "Bowling style": [
+            "Legbreak"
+        ],
+        "Died": [
+            "July 9, 1974, Winchester, Hampshire (aged 84 years 33 days) "
+        ],
+        "Full name": [
+            "Edward Henry Bowley"
+        ],
+        "Major teams": [
+            "England,",
+            "Auckland,",
+            "Sussex"
+        ],
+        "Other": [
+            "Coach"
+        ]
+    },
+    "profile_info": [
+        "\n BOWLEY, EDWARD HENRY (TED), the Sussex and England cricketer, died in Winchester Hospital on July 9, aged 84. Born at Leatherhead, in Surrey, he learned his early cricket in Liss and Stodham Park, Hampshire, and qualified by residence for Sussex, for whom he made his d\u00e9but in 1912. He became a regular member of the side in 1914 and for fifteen successive seasons (excluding the First World War) he scored at least 1,000 runs. After serving in the Army he returned to Sussex in 1920. A sound and often brilliant opening batsman and a very useful slow right arm leg break bowler, he hit his maiden century that year, 169 against Northamptonshire at Northampton, putting on 385 with Maurice Tate for the second wicket, a Sussex record that still stands. \n",
+        "His best year was in 1929 when he made 2,359 runs and took 90 wickets. In 1929 he hit his highest score, 280 not out in a day against Gloucestershire at Hove and with J. H. Parks put on 368 for the first wicket, a record for the county. That was surpassed in 1933 when against Middlesex at Hove with John Langridge he engaged in a stand of 490, also still the best for the county.",
+        "A number of great batsmen stood in his way as far as England was concerned, but at the age of 39 he appeared twice for England against South Africa in 1929 before touring New Zealand and Australia with A. H. H. Gilligan's M.C.C. team. He played in three Tests in New Zealand and made 109 in the one at Auckland.",
+        "According to R. C. Robertson-Glasgow the back stroke was his glory. He wrote: I never saw a batsman who played this stroke with his bat and elbow so high, meeting a rising ball which others would leave, with tremendous force, and hammering it straight or to the off boundary. Again, he would lean back and cut square from the off stump balls which others were content to stop. In all else his equipment was full and correct. He was a notably fine player to slow bowling, but sometimes he was too impatient perhaps, too much the pure stroke player who would rather force a good length ball for a couple past cover-point than kill it gloomily a few yards from the bat.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

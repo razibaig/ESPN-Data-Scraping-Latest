@@ -1,0 +1,105 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "14.66",
+            "Ct": "2",
+            "HS": "49",
+            "Inns": "9",
+            "Mat": "5",
+            "NO": "0",
+            "Runs": "132",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "19",
+            "50": "48",
+            "6s": "",
+            "Ave": "21.76",
+            "Ct": "353",
+            "HS": "228",
+            "Inns": "607",
+            "Mat": "391",
+            "NO": "32",
+            "Runs": "12513",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "127",
+            "Econ": "3.44",
+            "Inns": "3",
+            "Mat": "5",
+            "Runs": "73",
+            "SR": "-",
+            "Wkts": "0"
+        },
+        {
+            "": "First-class",
+            "10": "15",
+            "4w": "",
+            "5w": "63",
+            "Ave": "18.24",
+            "BBI": "9/66",
+            "BBM": "",
+            "Balls": "46623",
+            "Econ": "2.51",
+            "Inns": "",
+            "Mat": "391",
+            "Runs": "19536",
+            "SR": "43.5",
+            "Wkts": "1071"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154869.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nApril 8, 1865, Tinsley, Sheffield, Yorkshire "
+        ],
+        "Bowling style": [
+            "Right-arm slow"
+        ],
+        "Died": [
+            "October 28, 1919, Park, Sheffield, Yorkshire (aged 54 years 203 days) "
+        ],
+        "Full name": [
+            "Edward Wainwright"
+        ],
+        "Major teams": [
+            "England,",
+            "Yorkshire"
+        ],
+        "Relation": [
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        "\nTed Wainwright, the famous Yorkshire cricketer, after a long illness, passed away at Sheffild on October 28. A very fine batsman, a deadly bowler on a wicket which gave him any assistance, and an excellent field, he had no small share in the many triumphs which attended the Yorkshire team during the fourteen years he was a member of the side. Coming out in the season of 1888, he soon showed that he was a player out of the common by putting together an innings of 105 against the Australians at Bradford. For some seasons afterwards he met with only a moderate share of success as a batsman, but in 1892 he fairly established himself as one of the leading professionals of the day, heading the Yorkshire bowling averages, and running second to Ernest Smith in batting. His great years in run-getting were 1897, when he had an aggregate of 1,612, and 1899, when he totalled 1,541 runs. Altogether, in the course of his career, he played twenty three-figure innings for Yorkshire, his highest being 228 against Surrey, at the Oval, when he and George Hurst put on 340 runs for the seventh wicket. \n",
+        "Prominent as he was as a batsman, Wainwright's claim to fame will probably rest more upon his achievements in bowling. Right-hand rather slow, he could always impart a lot of spin to the ball, and on a sticky wicket his off-break was formidable indeed. Had his command of length been as strong as his spin and break he might have ranked as one of the greatest of bowlers. He was rather lacking in variety of device, and when the ground was fast and true batsmen did not find him difficult to play. Altogether he took over 1,000 wickets for Yorkshire, his best season being in 1894, when in first-class matches he obtained 166 wickets for less than 13 runs apiece. Among his great feats was the taking of five Sussex wickets in seven balls at Dewsbury in 1894. Four years earlier, at Sheffield, in a match against Staffordshire, he accomplished the feat of taking all ten wickets in an innings. In 1897 he enjoyed the distinction not only of scoring 1,612 runs, but of securing 101 wickets.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

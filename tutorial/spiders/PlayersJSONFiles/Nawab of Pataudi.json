@@ -1,0 +1,126 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "1",
+            "50": "0",
+            "6s": "0",
+            "Ave": "19.90",
+            "Ct": "0",
+            "HS": "102",
+            "Inns": "10",
+            "Mat": "6",
+            "NO": "0",
+            "Runs": "199",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "29",
+            "50": "34",
+            "6s": "",
+            "Ave": "48.61",
+            "Ct": "58",
+            "HS": "238*",
+            "Inns": "204",
+            "Mat": "127",
+            "NO": "24",
+            "Runs": "8750",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "6",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "1",
+            "Ave": "35.26",
+            "BBI": "6/111",
+            "BBM": "",
+            "Balls": "756",
+            "Econ": "4.19",
+            "Inns": "",
+            "Mat": "127",
+            "Runs": "529",
+            "SR": "50.4",
+            "Wkts": "15"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/1150210/a-dinner-in-1946",
+        "http://www.espncricinfo.com/ci/content/story/996451.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/564480.html",
+        "http://www.espncricinfo.com/magazine/content/story/378889.html",
+        "http://www.espncricinfo.com/magazine/content/story/316847.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=32224"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/122004/056471.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/122004/056471.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/122004/056471.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nMarch 16, 1910, Pataudi, Punjab "
+        ],
+        "Died": [
+            "January 5, 1952, New Delhi (aged 41 years 295 days) "
+        ],
+        "Education": [
+            "Chief's College, Lahore; Oxford University"
+        ],
+        "Full name": [
+            "Iftikhar Ali Khan Pataudi (Nawab of)"
+        ],
+        "Height": [
+            "\n6 ft 0 in "
+        ],
+        "Major teams": [
+            "England,",
+            "India,",
+            "Maharaja of Patiala's XI,",
+            "Oxford University,",
+            "Southern Punjab,",
+            "Western India,",
+            "Worcestershire"
+        ],
+        "Nickname": [
+            "Pat"
+        ],
+        "Relation": [
+            null,
+            "\n",
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        "\nThe senior Nawab of Pataudi, Iftikhar Ali Khan, is the only Test cricketer to have played for both England and India. Educated at Aitchison's College, Lahore and Balliol College, Oxford, he made the England squad for the 1932-33 Bodyline series. Pataudi followed in the footsteps of Ranji and Duleep by scoring a hundred at the SCG on his Ashes debut (which was also his Test debut). However,  he was dropped after the next Test, apparently because he disagreed with the  tactics of Douglas Jardine, and returned home before the end of the tour. Punishing form for Worcestershire in the 1933 and 1934 English seasons earned him a recall for one Test against the visiting Australians in 1934, the last time he turned out for his adopted country. \n",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

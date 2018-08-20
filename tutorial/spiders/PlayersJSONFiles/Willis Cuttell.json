@@ -1,0 +1,100 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "16.25",
+            "Ct": "2",
+            "HS": "21",
+            "Inns": "4",
+            "Mat": "2",
+            "NO": "0",
+            "Runs": "65",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "5",
+            "50": "21",
+            "6s": "",
+            "Ave": "20.90",
+            "Ct": "141",
+            "HS": "137",
+            "Inns": "315",
+            "Mat": "227",
+            "NO": "31",
+            "Runs": "5938",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "12.16",
+            "BBI": "3/17",
+            "BBM": "5/59",
+            "Balls": "285",
+            "Econ": "1.53",
+            "Inns": "3",
+            "Mat": "2",
+            "Runs": "73",
+            "SR": "47.5",
+            "Wkts": "6"
+        },
+        {
+            "": "First-class",
+            "10": "8",
+            "4w": "",
+            "5w": "50",
+            "Ave": "19.59",
+            "BBI": "8/105",
+            "BBM": "",
+            "Balls": "44372",
+            "Econ": "2.09",
+            "Inns": "",
+            "Mat": "227",
+            "Runs": "15519",
+            "SR": "56.0",
+            "Wkts": "792"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154839.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nSeptember 13, 1863, Sheffield, Yorkshire "
+        ],
+        "Bowling style": [
+            "Right-arm slow"
+        ],
+        "Died": [
+            "December 9, 1929, Nelson, Lancashire (aged 66 years 87 days) "
+        ],
+        "Full name": [
+            "Willis Robert Cuttell"
+        ],
+        "Major teams": [
+            "England,",
+            "Lancashire,",
+            "Yorkshire"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

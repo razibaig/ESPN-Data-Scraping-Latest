@@ -1,0 +1,146 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "25",
+            "Ave": "13.81",
+            "Ct": "64",
+            "HS": "39*",
+            "Inns": "85",
+            "Mat": "67",
+            "NO": "14",
+            "Runs": "981",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "3",
+            "50": "26",
+            "6s": "",
+            "Ave": "15.56",
+            "Ct": "439",
+            "HS": "104",
+            "Inns": "713",
+            "Mat": "603",
+            "NO": "120",
+            "Runs": "9231",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "0",
+            "50": "0",
+            "6s": "",
+            "Ave": "13.00",
+            "Ct": "5",
+            "HS": "28",
+            "Inns": "14",
+            "Mat": "18",
+            "NO": "2",
+            "Runs": "156",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "3",
+            "4w": "19",
+            "5w": "17",
+            "Ave": "21.57",
+            "BBI": "8/31",
+            "BBM": "12/119",
+            "Balls": "15178",
+            "Econ": "2.61",
+            "Inns": "127",
+            "Mat": "67",
+            "Runs": "6625",
+            "SR": "49.4",
+            "Wkts": "307"
+        },
+        {
+            "": "First-class",
+            "10": "25",
+            "4w": "",
+            "5w": "126",
+            "Ave": "18.29",
+            "BBI": "8/28",
+            "BBM": "",
+            "Balls": "99701",
+            "Econ": "2.53",
+            "Inns": "",
+            "Mat": "603",
+            "Runs": "42154",
+            "SR": "43.2",
+            "Wkts": "2304"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "1",
+            "5w": "1",
+            "Ave": "18.10",
+            "BBI": "6/15",
+            "BBM": "6/15",
+            "Balls": "986",
+            "Econ": "3.08",
+            "Inns": "",
+            "Mat": "18",
+            "Runs": "507",
+            "SR": "35.2",
+            "Wkts": "28"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/blogs/content/story/959713.html",
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/878317/t-greatest-that-ever-was",
+        "http://www.espncricinfo.com/magazine/content/story/804931.html",
+        "http://www.espncricinfo.com/thestands/content/story/776791.html",
+        "http://www.espncricinfo.com/magazine/content/story/756123.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=21600"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/138900/138924.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/138900/138924.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/138900/138924.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nFebruary 6, 1931, Stainton, Yorkshire "
+        ],
+        "Bowling style": [
+            "Right-arm fast"
+        ],
+        "Died": [
+            "July 1, 2006, Airedale General Hospital, Keighley, Yorkshire (aged 75 years 145 days) "
+        ],
+        "Full name": [
+            "Frederick Sewards Trueman"
+        ],
+        "Major teams": [
+            "England,",
+            "Derbyshire,",
+            "Yorkshire"
+        ],
+        "Other": [
+            "Commentator, Journalist, Author"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

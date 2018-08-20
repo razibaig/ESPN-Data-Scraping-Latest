@@ -1,0 +1,100 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "1",
+            "6s": "0",
+            "Ave": "31.25",
+            "Ct": "0",
+            "HS": "71",
+            "Inns": "4",
+            "Mat": "3",
+            "NO": "0",
+            "Runs": "125",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "2",
+            "50": "30",
+            "6s": "",
+            "Ave": "15.88",
+            "Ct": "195",
+            "HS": "114",
+            "Inns": "461",
+            "Mat": "265",
+            "NO": "21",
+            "Runs": "6989",
+            "St": "40"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "3",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "59",
+            "Econ": "5.59",
+            "Inns": "",
+            "Mat": "265",
+            "Runs": "55",
+            "SR": "-",
+            "Wkts": "0"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155666.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nMay 27, 1863, Harewood, Yorkshire "
+        ],
+        "Died": [
+            "January 10, 1936, Saxelby Park, Melton Mowbray, Leicestershire (aged 72 years 228 days) "
+        ],
+        "Fielding position": [
+            "Wicketkeeper"
+        ],
+        "Full name": [
+            "Charles William Wright"
+        ],
+        "Major teams": [
+            "England,",
+            "Cambridge University,",
+            "Nottinghamshire"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

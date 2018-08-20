@@ -1,0 +1,107 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "1",
+            "6s": "1",
+            "Ave": "8.87",
+            "Ct": "28",
+            "HS": "62*",
+            "Inns": "26",
+            "Mat": "18",
+            "NO": "2",
+            "Runs": "213",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "3",
+            "50": "29",
+            "6s": "",
+            "Ave": "18.67",
+            "Ct": "337",
+            "HS": "115",
+            "Inns": "427",
+            "Mat": "293",
+            "NO": "39",
+            "Runs": "7247",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "5",
+            "4w": "2",
+            "5w": "9",
+            "Ave": "10.75",
+            "BBI": "9/28",
+            "BBM": "15/45",
+            "Balls": "3830",
+            "Econ": "1.88",
+            "Inns": "36",
+            "Mat": "18",
+            "Runs": "1205",
+            "SR": "34.1",
+            "Wkts": "112"
+        },
+        {
+            "": "First-class",
+            "10": "57",
+            "4w": "",
+            "5w": "176",
+            "Ave": "13.73",
+            "BBI": "9/28",
+            "BBM": "",
+            "Balls": "71724",
+            "Econ": "2.11",
+            "Inns": "",
+            "Mat": "293",
+            "Runs": "25295",
+            "SR": "38.9",
+            "Wkts": "1841"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/women/content/story/1068196.html",
+        "http://www.espncricinfo.com/ci-icc/content/story/1039767.html",
+        "http://www.espncricinfo.com/magazine/content/story/910699.html",
+        "http://www.espncricinfo.com/magazine/content/story/638123.html",
+        "http://www.espncricinfo.com/engvaus/content/story/215631.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=16337"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/8200/8252.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/8200/8252.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJune 2, 1865, Kensington, London "
+        ],
+        "Bowling style": [
+            "Right-arm medium-fast"
+        ],
+        "Died": [
+            "December 1, 1901, Worcester, Cape Province, South Africa (aged 36 years 182 days) "
+        ],
+        "Full name": [
+            "George Alfred Lohmann"
+        ],
+        "Major teams": [
+            "England,",
+            "Surrey,",
+            "Western Province"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {}
+    ]
+}

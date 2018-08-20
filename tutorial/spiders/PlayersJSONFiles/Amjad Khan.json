@@ -1,0 +1,305 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "-",
+            "4s": "-",
+            "50": "-",
+            "6s": "-",
+            "Ave": "-",
+            "BF": "-",
+            "Ct": "0",
+            "HS": "-",
+            "Inns": "-",
+            "Mat": "1",
+            "NO": "-",
+            "Runs": "-",
+            "SR": "-",
+            "St": "0"
+        },
+        {
+            "": "T20Is",
+            "100": "0",
+            "4s": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "2.00",
+            "BF": "4",
+            "Ct": "0",
+            "HS": "2",
+            "Inns": "1",
+            "Mat": "1",
+            "NO": "0",
+            "Runs": "2",
+            "SR": "50.00",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "4s": "",
+            "50": "6",
+            "6s": "",
+            "Ave": "16.85",
+            "BF": "2978",
+            "Ct": "26",
+            "HS": "78",
+            "Inns": "127",
+            "Mat": "108",
+            "NO": "40",
+            "Runs": "1466",
+            "SR": "49.22",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "0",
+            "4s": "",
+            "50": "1",
+            "6s": "",
+            "Ave": "11.46",
+            "BF": "",
+            "Ct": "17",
+            "HS": "65*",
+            "Inns": "37",
+            "Mat": "74",
+            "NO": "9",
+            "Runs": "321",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "T20s",
+            "100": "0",
+            "4s": "2",
+            "50": "0",
+            "6s": "2",
+            "Ave": "7.42",
+            "BF": "55",
+            "Ct": "7",
+            "HS": "15",
+            "Inns": "15",
+            "Mat": "38",
+            "NO": "8",
+            "Runs": "52",
+            "SR": "94.54",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "122.00",
+            "BBI": "1/111",
+            "BBM": "1/122",
+            "Balls": "174",
+            "Econ": "4.20",
+            "Inns": "2",
+            "Mat": "1",
+            "Runs": "122",
+            "SR": "174.0",
+            "Wkts": "1"
+        },
+        {
+            "": "T20Is",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "17.00",
+            "BBI": "2/34",
+            "BBM": "2/34",
+            "Balls": "24",
+            "Econ": "8.50",
+            "Inns": "1",
+            "Mat": "1",
+            "Runs": "34",
+            "SR": "12.0",
+            "Wkts": "2"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "13",
+            "5w": "10",
+            "Ave": "31.62",
+            "BBI": "6/52",
+            "BBM": "",
+            "Balls": "17949",
+            "Econ": "3.66",
+            "Inns": "",
+            "Mat": "108",
+            "Runs": "10974",
+            "SR": "51.7",
+            "Wkts": "347"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "1",
+            "5w": "0",
+            "Ave": "32.94",
+            "BBI": "4/26",
+            "BBM": "4/26",
+            "Balls": "2912",
+            "Econ": "5.15",
+            "Inns": "",
+            "Mat": "74",
+            "Runs": "2504",
+            "SR": "38.3",
+            "Wkts": "76"
+        },
+        {
+            "": "T20s",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "24.33",
+            "BBI": "3/11",
+            "BBM": "3/11",
+            "Balls": "641",
+            "Econ": "8.88",
+            "Inns": "36",
+            "Mat": "38",
+            "Runs": "949",
+            "SR": "16.4",
+            "Wkts": "39"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wcl-championship-2015-17/content/story/1064984.html",
+        "http://www.espncricinfo.com/other/content/story/1064675.html",
+        "http://www.espncricinfo.com/wcl-championship-2015-17/content/story/1064597.html",
+        "http://www.espncricinfo.com/wcl-championship-2015-17/content/story/1063753.html",
+        "http://www.espncricinfo.com/county-cricket-2014/content/story/729611.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=23911"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/261600/261652.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/261600/261652.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/261600/261652.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nOctober 14, 1980, Copenhagen "
+        ],
+        "Bowling style": [
+            "Right-arm fast-medium"
+        ],
+        "Current age": [
+            "37 years 308 days"
+        ],
+        "Full name": [
+            "Amjad Khan"
+        ],
+        "Height": [
+            "\n6 ft 0 in "
+        ],
+        "Major teams": [
+            "Denmark,",
+            "England,",
+            "Kent,",
+            "Sussex,",
+            "Sussex 2nd XI"
+        ],
+        "Nickname": [
+            "Ammy"
+        ],
+        "Playing role": [
+            "Bowler"
+        ]
+    },
+    "profile_info": [
+        "\n\nAmjad Khan is a rarity: a Danish fast bowler. Born in Copenhagen, he became the youngest person to ever play for Denmark at the age of 17 and in his first full season at Kent in 2002, he claimed an impressive 63 wickets. He failed to regain that form in the following seasons, but 2005 heralded an upturn as he played a significant part in Kent's challenge for the title by taking 55 wickets.  \n",
+        "In December 2006 Khan was awarded British citizenship, making him eligible for England selection and earned a place at the Academy. However, a serious knee injury forced him home and reconstructive surgery kept him out of the entire 2007 season. He returned during the 2008 summer with some impressive results, and was named in the Performance Squad to tour India. He was added to the ODI squad before the Mumbai terror attacks brought the series to an early finish, but further elevation followed when he was called into the full squad for the two Test series, making his debut in the final Test in the Caribbean.",
+        "Despite claiming Ramnaresh Sarwan as his first Test wicket, it was a short-lived stay at the top as a knee injury forced him to miss a large chuck of the 2009 season. Khan was overtaken by other pace contenders thereafter and when Kent couldn't afford to keep him he moved to Sussex ahead of the 2011 season. There he remained hostile at his best but without the consistency to push for another international call-up.",
+        null
+    ],
+    "recent_matches": [
+        {
+            "Bat & Bowl": "11*, 3/14",
+            "Ground": "Los Angeles",
+            "Match Date": "5 Nov 2016",
+            "Opposition": "v Bermuda",
+            "Scorecard": "Other",
+            "Team": "Denmark"
+        },
+        {
+            "Bat & Bowl": "0/42, 32*",
+            "Ground": "Los Angeles",
+            "Match Date": "4 Nov 2016",
+            "Opposition": "v Oman",
+            "Scorecard": "Other",
+            "Team": "Denmark"
+        },
+        {
+            "Bat & Bowl": "1/35",
+            "Ground": "Los Angeles",
+            "Match Date": "2 Nov 2016",
+            "Opposition": "v U.S.A.",
+            "Scorecard": "Other",
+            "Team": "Denmark"
+        },
+        {
+            "Bat & Bowl": "0/20, 9",
+            "Ground": "Los Angeles",
+            "Match Date": "1 Nov 2016",
+            "Opposition": "v Bermuda",
+            "Scorecard": "Other",
+            "Team": "Denmark"
+        },
+        {
+            "Bat & Bowl": "0/14",
+            "Ground": "Los Angeles",
+            "Match Date": "30 Oct 2016",
+            "Opposition": "v Jersey",
+            "Scorecard": "Other",
+            "Team": "Denmark"
+        },
+        {
+            "Bat & Bowl": "3, 3/23",
+            "Ground": "Los Angeles",
+            "Match Date": "29 Oct 2016",
+            "Opposition": "v Italy",
+            "Scorecard": "Other",
+            "Team": "Denmark"
+        },
+        {
+            "Bat & Bowl": "1, 2/23",
+            "Ground": "St Saviour",
+            "Match Date": "13 May 2015",
+            "Opposition": "v Italy",
+            "Scorecard": "Other T20",
+            "Team": "Denmark"
+        },
+        {
+            "Bat & Bowl": "1/31, 1",
+            "Ground": "St Clement",
+            "Match Date": "11 May 2015",
+            "Opposition": "v Norway",
+            "Scorecard": "Other T20",
+            "Team": "Denmark"
+        },
+        {
+            "Bat & Bowl": "1/16, 20*",
+            "Ground": "St Saviour",
+            "Match Date": "11 May 2015",
+            "Opposition": "v Jersey",
+            "Scorecard": "Other T20",
+            "Team": "Denmark"
+        },
+        {
+            "Bat & Bowl": "1/37",
+            "Ground": "St Clement",
+            "Match Date": "9 May 2015",
+            "Opposition": "v France",
+            "Scorecard": "Other T20",
+            "Team": "Denmark"
+        }
+    ]
+}

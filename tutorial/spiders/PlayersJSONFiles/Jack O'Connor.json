@@ -1,0 +1,107 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "1",
+            "6s": "1",
+            "Ave": "21.85",
+            "Ct": "2",
+            "HS": "51",
+            "Inns": "7",
+            "Mat": "4",
+            "NO": "0",
+            "Runs": "153",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "72",
+            "50": "129",
+            "6s": "",
+            "Ave": "34.90",
+            "Ct": "226",
+            "HS": "248",
+            "Inns": "903",
+            "Mat": "540",
+            "NO": "79",
+            "Runs": "28764",
+            "St": "1"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "72.00",
+            "BBI": "1/31",
+            "BBM": "1/31",
+            "Balls": "162",
+            "Econ": "2.66",
+            "Inns": "4",
+            "Mat": "4",
+            "Runs": "72",
+            "SR": "162.0",
+            "Wkts": "1"
+        },
+        {
+            "": "First-class",
+            "10": "2",
+            "4w": "",
+            "5w": "18",
+            "Ave": "32.89",
+            "BBI": "7/52",
+            "BBM": "",
+            "Balls": "39783",
+            "Econ": "2.76",
+            "Inns": "",
+            "Mat": "540",
+            "Runs": "18325",
+            "SR": "71.4",
+            "Wkts": "557"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/ci/content/story/132394.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155742.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/177900/177981.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nNovember 6, 1897, Cambridge "
+        ],
+        "Died": [
+            "February 22, 1977, Buckhurst Hill, Essex (aged 79 years 108 days) "
+        ],
+        "Full name": [
+            "Jack O'Connor"
+        ],
+        "Major teams": [
+            "England,",
+            "Essex"
+        ],
+        "Relation": [
+            null,
+            "\n",
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        "\nJack O'Connor, who died in the Forest Hospital, Buckhurst Hill on February 22, aged 79, was a very good country cricketer who was for years on the edge of Test cricket. He played once against South Africa in 1929 and that winter took part in three matches for the M.C.C. in the West Indies, which Wisden then called Representative Matches, but which are now included in the Test records, though the English side could not possibly be described as more than England A. After a modest start for Essex in 1921, O'Connor gained a fairly regular place next year and scored his first hundred, but it was in August 1923 that he first attracted much attention; in four consecutive matches he played innings of 111 not out, 128, 93 and 99. He remained one of the mainstays of the side until 1939. In all first-class cricket he made 28,575 runs with an averages of 34.95, scored 72 centuries, including at least one against every other county and both Universities, reached his 1,000 on sixteen occasions and in 1926, taking 93 wickets as well, narrowly missed the double. \n",
+        "He bowled slow leg-breaks and off-breaks mixed and had the advantage of looking a good deal simpler than he was. At any rate in his career he took 557 wickets. A small man, very quick on his feet, he was a good driver on both sides of the wicket and a fine hooker, but he was more liable to spells of failure than a top-class batsman should be and had moreover an unconcealed distaste for fast bowling, nor was he outstanding in the field. He was a great player of slow spin, but the popular theory that he was Freeman's master is hardly born out by figures. Certainly when set he made Freeman look very ordinary, but in his 52 innings against Kent between 1922 and 1936, though he made seven centuries, his average was only 31 and on fifteen occasions Freeman had him out under 30.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

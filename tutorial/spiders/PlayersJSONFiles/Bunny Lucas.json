@@ -1,0 +1,119 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "1",
+            "6s": "0",
+            "Ave": "19.62",
+            "Ct": "1",
+            "HS": "55",
+            "Inns": "9",
+            "Mat": "5",
+            "NO": "1",
+            "Runs": "157",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "8",
+            "50": "50",
+            "6s": "",
+            "Ave": "26.38",
+            "Ct": "152",
+            "HS": "145",
+            "Inns": "435",
+            "Mat": "256",
+            "NO": "46",
+            "Runs": "10263",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "120",
+            "Econ": "2.70",
+            "Inns": "2",
+            "Mat": "5",
+            "Runs": "54",
+            "SR": "-",
+            "Wkts": "0"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "4",
+            "Ave": "18.38",
+            "BBI": "6/10",
+            "BBM": "",
+            "Balls": "7824",
+            "Econ": "2.18",
+            "Inns": "",
+            "Mat": "256",
+            "Runs": "2849",
+            "SR": "50.4",
+            "Wkts": "155"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155620.html",
+        "http://www.espncricinfo.com/ci/content/story/476001.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/161300/161317.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nFebruary 20, 1857, Westminster, London "
+        ],
+        "Bowling style": [
+            "Right-arm slow"
+        ],
+        "Died": [
+            "October 12, 1923, Great Waltham, Essex (aged 66 years 234 days) "
+        ],
+        "Education": [
+            "Uppingham; Cambridge University"
+        ],
+        "Full name": [
+            "Alfred Perry Lucas"
+        ],
+        "Major teams": [
+            "England,",
+            "Cambridge University,",
+            "Essex,",
+            "Middlesex,",
+            "Surrey"
+        ],
+        "Relation": [
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        null,
+        null,
+        "In county cricket Mr. Lucas had a varied experience. He came out in 1874 for Surrey, played some years later for Middlesex, and finally in 1889, with the view of helping his life-long friend, Mr. C. E. Green, threw in his lot with Essex. While in his prime he was chosen, as a matter of course, year after year for Gentlemen v Players. In these matches he played some of his best cricket, scoring 91 at Lord's in 1878 and 107 in 1882.",
+        "For England against Australia he appeared four times -- at the Oval in 1880 and 1882 and at Manchester and Lord's in 1884. Possibly he could recall nothing in his career more vividly than the last innings of the disastrous match at the Oval in 1882 when England, after seeming certain of victory, lost by seven runs. He stopped any number of Mr. Spofforth's terrible break-backs, but at last played one of them on to his wicket. The misfortune was that, while showing such superb defence, he could not relieve the tension by a hit to the boundary.",
+        "Mr. Lucas was in the truest sense of the word a classic batsman. A master of both back and forward play, he represented the strictest orthodoxy. No doubt if he had allowed himself a little licence he might have made more runs, but his method served him so well that right into middle age he kept up his form. It may fairly be said of him that no defensive batsman of any generation was better worth looking at. He played the ball so hard and his style was so irreproachable that one could watch him for hours without a moment of weariness. Having played against all the great Australian bowlers from Spofforth and Frank Allan to Hugh Trumble, he thought Spofforth and George Palmer the best of them. Mr. Lucas was not much of a traveller, but he went to Australia with Lord Harris's team in 1878-79. During that tour he had to do far more bowling than he had expected, the side being almost wholly dependent on Emmett and George Ulyett. How with such limited resources they ever managed to get their opponents out remains to this day a marvel.",
+        null,
+        "Mr. Lucas's best scores in first-class cricket were as under:",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

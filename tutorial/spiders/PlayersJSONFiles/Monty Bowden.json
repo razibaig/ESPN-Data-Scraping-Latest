@@ -1,0 +1,107 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "5",
+            "50": "0",
+            "6s": "0",
+            "Ave": "12.50",
+            "Ct": "1",
+            "HS": "25",
+            "Inns": "2",
+            "Mat": "2",
+            "NO": "0",
+            "Runs": "25",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "3",
+            "4s": "",
+            "50": "7",
+            "6s": "",
+            "Ave": "20.13",
+            "Ct": "73",
+            "HS": "189*",
+            "Inns": "132",
+            "Mat": "86",
+            "NO": "17",
+            "Runs": "2316",
+            "St": "14"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "2",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "17.50",
+            "BBI": "2/7",
+            "BBM": "",
+            "Balls": "75",
+            "Econ": "2.80",
+            "Inns": "",
+            "Mat": "86",
+            "Runs": "35",
+            "SR": "37.5",
+            "Wkts": "2"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/436989.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/51400/51425.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nNovember 1, 1865, Stockwell, Surrey "
+        ],
+        "Died": [
+            "February 19, 1892, Umtali (now Mutare), Mashonaland, Rhodesia (aged 26 years 110 days) "
+        ],
+        "Education": [
+            "Dulwich College"
+        ],
+        "Fielding position": [
+            "Wicketkeeper"
+        ],
+        "Full name": [
+            "Montague Parker Bowden"
+        ],
+        "Major teams": [
+            "England,",
+            "Surrey,",
+            "Transvaal"
+        ]
+    },
+    "profile_info": [
+        "\nMonty Bowden was England's youngest ever Test captain at 23 years 144 days when he took over from C. Aubrey-Smith for the Second Test of England's first ever tour of South Africa in 1888-89. At the time these matches had little importance attached to them - so little in fact that his captaincy was not mentioned in his brief obituary in Wisden. He debuted for Surrey in 1883, and showed great initial promise that was never fully realised. A useful right-handed bat and wicketkeeper, his best season was in 1888, when he averaged over 30, and played for the Gentlemen against the Players at Lord's and The Oval, and for the Gentlemen against Australia at Lord's. He had a good tour of South Africa, despite being run out for a duck on his Test debut, and presided over a comfortable win when Johnny Briggs destroyed the South African batting in his Test as captain. He enjoyed South Africa so much that he and Aubrey-Smith\nstayed on at the end of the tour and set up a stockbroking partnership. He represented Transvaal in South African first-class cricket, and made 63 and 126* in the first Currie Cup challenge match. Shortly afterwards he travelled north to Rhodesia with Cecil Rhodes' Pioneer Column, and settled there. He died in Umtali Hospital - a glorified mud hut where his body had to be protected from marauding lions - prior to being interred - in a coffin made from whisky cases. \n",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {}
+    ]
+}

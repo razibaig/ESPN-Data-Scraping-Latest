@@ -1,0 +1,152 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "1",
+            "50": "10",
+            "6s": "2",
+            "Ave": "29.74",
+            "Ct": "32",
+            "HS": "134*",
+            "Inns": "91",
+            "Mat": "61",
+            "NO": "14",
+            "Runs": "2290",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "28",
+            "50": "150",
+            "6s": "",
+            "Ave": "33.42",
+            "Ct": "426",
+            "HS": "205",
+            "Inns": "1072",
+            "Mat": "682",
+            "NO": "215",
+            "Runs": "28641",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "0",
+            "50": "0",
+            "6s": "",
+            "Ave": "15.50",
+            "Ct": "3",
+            "HS": "38",
+            "Inns": "7",
+            "Mat": "7",
+            "NO": "1",
+            "Runs": "93",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "1",
+            "4w": "5",
+            "5w": "5",
+            "Ave": "29.21",
+            "BBI": "7/34",
+            "BBM": "11/98",
+            "Balls": "9712",
+            "Econ": "2.38",
+            "Inns": "95",
+            "Mat": "61",
+            "Runs": "3856",
+            "SR": "73.5",
+            "Wkts": "132"
+        },
+        {
+            "": "First-class",
+            "10": "13",
+            "4w": "",
+            "5w": "110",
+            "Ave": "23.13",
+            "BBI": "10/90",
+            "BBM": "",
+            "Balls": "116659",
+            "Econ": "2.47",
+            "Inns": "",
+            "Mat": "682",
+            "Runs": "48170",
+            "SR": "56.0",
+            "Wkts": "2082"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "2",
+            "5w": "0",
+            "Ave": "26.36",
+            "BBI": "4/37",
+            "BBM": "4/37",
+            "Balls": "504",
+            "Econ": "3.45",
+            "Inns": "",
+            "Mat": "7",
+            "Runs": "290",
+            "SR": "45.8",
+            "Wkts": "11"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/blogs/content/story/1150567.html",
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/982891/ball-boys",
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/940809/we-re-such-jolly-good-fellows",
+        "http://www.espncricinfo.com/magazine/content/story/702471.html",
+        "http://www.espncricinfo.com/magazine/content/story/698651.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=8944"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/126000/126048.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/126000/126048.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/126000/126048.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nDecember 3, 1923, Westcliff-on-Sea, Essex "
+        ],
+        "Bowling style": [
+            "Right-arm fast-medium"
+        ],
+        "Died": [
+            "February 10, 2011, Westcliff-on-Sea, Essex (aged 87 years 69 days) "
+        ],
+        "Education": [
+            "Dulwich College; Cambridge University"
+        ],
+        "Full name": [
+            "Trevor Edward Bailey"
+        ],
+        "Major teams": [
+            "England,",
+            "Cambridge University,",
+            "Essex"
+        ],
+        "Nickname": [
+            "Barnacle, The Boil"
+        ],
+        "Other": [
+            "Commentator, Journalist, Author"
+        ]
+    },
+    "profile_info": [
+        "\nTrevor Bailey was one of the hardest, most doughty opponents you would wish to meet. An outstanding fast-medium bowler, brilliant fielder and generally dull batsman, whose resolute defence, rescued England from many a fix and earned him the nickname \"Barnacle\".  \n",
+        "A precocious schoolboy cricketer at Dulwich, he played for England at Lord's in 1944 and after a spell in national service, became a regular in the Essex side and won Blues in 1947 and 1948 at Cambridge.  He made his Test debut in 1949, and for a decade, during which time England were the leading side in the world, he was at the heart of the team. ",
+        "He thrived in a crisis and in 1953, when England regained the Ashes after 19 years, their success owed much to him.  At Lord's he batted for four-and-a-half hours in a famous last-day stand with Willie Watson, and at Headingely he bowled negative leg theory to put the skids on Australia's push for victory. That  winter he took 7 for 34  against a powerful West Indies.  He bowed out after England's wretched Ashes series in 1958-59, during which he made first-class cricket's slowest half-century, in 357 minutes at Brisbane, one of 14 matches in which he opened.",
+        "For many years, Bailey was Essex, acting as club secretary from 1955 to 1967  and captain from 1961 to 1966. He passed 1000 runs 18 times and took 100 wickets on nine occasions.  He achieved the double eight times , the most for any post-war player, tied with Fred Titmus. Bailey was also a skilled footballer, winning a Blue as well as an FA Amateur Cup medal with Walthamstow Avenue. ",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

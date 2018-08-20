@@ -1,0 +1,110 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "7.53",
+            "Ct": "8",
+            "HS": "25",
+            "Inns": "18",
+            "Mat": "11",
+            "NO": "3",
+            "Runs": "113",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "4",
+            "50": "47",
+            "6s": "",
+            "Ave": "18.65",
+            "Ct": "299",
+            "HS": "159",
+            "Inns": "747",
+            "Mat": "561",
+            "NO": "119",
+            "Runs": "11713",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "1",
+            "5w": "1",
+            "Ave": "25.91",
+            "BBI": "6/11",
+            "BBM": "9/99",
+            "Balls": "1294",
+            "Econ": "2.88",
+            "Inns": "16",
+            "Mat": "11",
+            "Runs": "622",
+            "SR": "53.9",
+            "Wkts": "24"
+        },
+        {
+            "": "First-class",
+            "10": "30",
+            "4w": "",
+            "5w": "135",
+            "Ave": "15.94",
+            "BBI": "9/25",
+            "BBM": "",
+            "Balls": "78817",
+            "Econ": "2.44",
+            "Inns": "",
+            "Mat": "561",
+            "Runs": "32091",
+            "SR": "39.1",
+            "Wkts": "2012"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/236531.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154864.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/13800/13887.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/13800/13887.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/13800/13887.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nMarch 19, 1871, Berry Brow, Huddersfield, Yorkshire "
+        ],
+        "Bowling style": [
+            "Right-arm fast-medium"
+        ],
+        "Died": [
+            "February 27, 1921, Taylor Hill, Huddersfield, Yorkshire (aged 49 years 345 days) "
+        ],
+        "Full name": [
+            "Schofield Haigh"
+        ],
+        "Major teams": [
+            "England,",
+            "Yorkshire"
+        ],
+        "Other": [
+            "Umpire, Coach"
+        ]
+    },
+    "profile_info": [
+        null,
+        "He had been in failing health for some time, but to the great body of cricketers the news of his premature death came as quite a shock. After retiring from first-class cricket he took up an appointment as coach at Winchester, and seemed to have a very pleasant time before him. A thorough sportsman, who obviously loved the game, Haigh will live in cricket history as one of the most valued members of Lord Hawke's famous Yorkshire eleven. In two of the three years--1900-02-in which Yorkshire carried off the Championship and put up such wonderful records, he was at his very best. In 1900 he divided the bowling honours with Rhodes, taking in county championship matches 145 wickets for little more than 14 runs apiece, and after a set-back in 1901 he was again at the top of his form in 1902, taking 123 wickets in purely county fixtures, and beating Rhodes in the averages. It was in 1901, when Haigh proved comparatively ineffective, that George Hirst discovered his swerve, and became the deadliest bowler of the season.",
+        "Haigh began to play cricket as a schoolboy, and when 18 joined the club at Armitage Bridge. Before long he came under the notice of Louis Hall, who at that time was in the habit at the close of each season of taking teams up to Scotland. On Hall's recommendation Haigh was engaged by the Aberdeen club, and after three years with that body he went to Perth. A little later came the turning-point of his career. He met with great success for a Scotch team against Lancashire, and the Yorkshire authorities realised that he might be a first-rate county bowler. He settled down at Leeds, and after a brilliant trial against Durham at Barnsley in 1896 he was given his first opportunity in big cricket, playing for Yorkshire against Australia at Bradford. Yorkshire lost the match by 140 runs, but in the Australians' second innings Haigh took eight wickets--five of them bowled down--and his position was established. Thenceforward till his career ended Haigh, as everyone knows, was one of Yorkshire's mainstays. A right-handed bowler, medium pace to fast, he had a good variety of speed in combination with an off-break that on sticky wickets often made him practically unplayable.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

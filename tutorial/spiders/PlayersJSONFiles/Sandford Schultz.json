@@ -1,0 +1,99 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "20.00",
+            "Ct": "0",
+            "HS": "20",
+            "Inns": "2",
+            "Mat": "1",
+            "NO": "1",
+            "Runs": "20",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "50": "5",
+            "6s": "",
+            "Ave": "17.14",
+            "Ct": "29",
+            "HS": "90",
+            "Inns": "70",
+            "Mat": "42",
+            "NO": "9",
+            "Runs": "1046",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "26.00",
+            "BBI": "1/16",
+            "BBM": "1/26",
+            "Balls": "34",
+            "Econ": "4.58",
+            "Inns": "2",
+            "Mat": "1",
+            "Runs": "26",
+            "SR": "34.0",
+            "Wkts": "1"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "40.82",
+            "BBI": "4/37",
+            "BBM": "",
+            "Balls": "2236",
+            "Econ": "3.06",
+            "Inns": "",
+            "Mat": "42",
+            "Runs": "1143",
+            "SR": "79.8",
+            "Wkts": "28"
+        }
+    ],
+    "latest_articles": [],
+    "latest_photos": [],
+    "personal_info": {
+        "Also known as": [
+            "changed name to Sandford Spence Storey"
+        ],
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nAugust 29, 1857, Birkenhead, Cheshire "
+        ],
+        "Died": [
+            "December 18, 1937, Brompton, Kensington, London (aged 80 years 111 days) "
+        ],
+        "Full name": [
+            "Sandford Spence Schultz"
+        ],
+        "Major teams": [
+            "England,",
+            "Cambridge University,",
+            "Lancashire"
+        ]
+    },
+    "profile_info": [
+        "\nSandford Spence Schultz, who died on December 17, aged 80, was in the Uppingham XI of 1873 and four years later was given his Cambridge Blue by W. S. Patterson. From 1877 to 1882 he appeared occasionally for Lancashire. He went to Australia in 1878-79 under Lord Harris for the tour which originated in an invitation from the Melbourne club to the Gentlemen of England. By arrangement, Tom Emmett and George Ulyett, the two Yorkshire fast bowlers, were included because suitable amateurs were not available, but the team lacked slow bowling. The one match played against Australia, represented by David Gregory's XI who were in England during the previous summer, was lost by ten wickets, F. R. Spofforth taking thirteen wickets for 110 runs. Schultz, scoring 20, helped to save the innings defeat. \n",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "1",
+            "Ave": "12.30",
+            "Ct": "3",
+            "HS": "36",
+            "Inns": "16",
+            "Mat": "10",
+            "NO": "3",
+            "Runs": "160",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "50": "4",
+            "6s": "",
+            "Ave": "11.77",
+            "Ct": "126",
+            "HS": "57",
+            "Inns": "239",
+            "Mat": "197",
+            "NO": "33",
+            "Runs": "2425",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "1",
+            "5w": "2",
+            "Ave": "35.25",
+            "BBI": "5/38",
+            "BBM": "7/169",
+            "Balls": "2095",
+            "Econ": "3.23",
+            "Inns": "16",
+            "Mat": "10",
+            "Runs": "1128",
+            "SR": "65.4",
+            "Wkts": "32"
+        },
+        {
+            "": "First-class",
+            "10": "27",
+            "4w": "",
+            "5w": "93",
+            "Ave": "17.58",
+            "BBI": "9/32",
+            "BBM": "",
+            "Balls": "41293",
+            "Econ": "2.67",
+            "Inns": "",
+            "Mat": "197",
+            "Runs": "18434",
+            "SR": "39.4",
+            "Wkts": "1048"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/751685.html",
+        "http://www.espncricinfo.com/magazine/content/story/345442.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154720.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nFebruary 18, 1886, Eaglescliffe, Co Durham "
+        ],
+        "Bowling style": [
+            "Right-arm offbreak"
+        ],
+        "Died": [
+            "June 15, 1943, Cheetham Hill, Manchester, Lancashire (aged 57 years 117 days) "
+        ],
+        "Full name": [
+            "Cecil Harry Parkin"
+        ],
+        "Major teams": [
+            "England,",
+            "Lancashire,",
+            "Yorkshire"
+        ],
+        "Relation": [
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        null,
+        null,
+        "League cricket occupied much of Parkin's time before he started for Lancashire by taking 14 Leicestershire wickets at Liverpool in 1914, and after the last war his Saturdays were engaged similarly; but in 1919 at Old Trafford he helped materially in the defeat of Yorkshire by taking 14 wickets at exactly 10 runs apiece, the margin, curiously enough, being 140 runs--precisely the number hit off Parkin in 60 overs. Chosen for The Players at the Oval and Lord's, he did nothing exceptional, but next season at the Oval he dismissed nine Gentlemen, six clean bowled, in the first innings for 85 runs, a performance which influenced his choice for the team which visited Australia that winter. Except at Adelaide, where five wickets fell to him for 60 runs in the first innings, Parkin, like other England bowlers during that ill-fated tour, suffered severely in the Tests; but he took most wickets, and 73 at 21 runs apiece during the whole campaign. Next summer he again proved the most effective bowler when appearing in four of the five Tests, but England were still far below their best, and altogether Parkin was on the losing side eight times without knowing the satisfaction of victory when playing for his country against Australia.",
+        "Of the drawn match at Old Trafford, where he took five wickets for 38 runs, he told a story well suited to his own character. H. L. Collins, the Australian, batted seven hours for 40 runs. A spectator shouted to our skipper, Lord Tennyson, `Eh, Tennyson, read him one of your poems!'--and with the very next ball I got Collins l. b. w. when England batted a second time, 187 runs ahead, Parkin went in first, and so could claim the proud privilege of being one of the few men who have opened both the bowling and batting for England.",
+        "He was in the eleven which beat South Africa by an innings and 18 runs at Edgbaston in 1924. Arthur Gilligan, six wickets for 7 runs, and Maurice Tate, four for 12, dismissed the visitors for 30--the lowest Test match total--and again shared the honours when South Africa following-on, scored 390.",
+        " Parkin was at his best about that time, being the most effective Lancashire bowler both in 1923 and the following season, with records of 209 wickets at 16.94 runs apiece, and 200 at the low cost of 13.67 each. His deadliness declined in 1925, when his analysis showed 121 wickets at 20.79 each. E. A. MacDonald and Richard Tyldesley were then his superiors in the powerful Lancashire attack. His benefit match with Middlesex that season realised \u00a31,880. In 1926 he played in eleven county matches, taking 36 wickets at 15.13 apiece, and so shared in Lancashire gaining the championship for the first time since 1904; but his finish in important cricket in his 40th year was regrettable--due to a breach with the Lancashire authorities. Altogether in first-class cricket Parkin was credited with 1,060 wickets at an average cost of 17.49.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

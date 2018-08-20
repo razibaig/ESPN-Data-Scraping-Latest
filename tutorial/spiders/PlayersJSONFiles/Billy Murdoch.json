@@ -1,0 +1,114 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "2",
+            "50": "1",
+            "6s": "0",
+            "Ave": "31.31",
+            "Ct": "14",
+            "HS": "211",
+            "Inns": "34",
+            "Mat": "19",
+            "NO": "5",
+            "Runs": "908",
+            "St": "1"
+        },
+        {
+            "": "First-class",
+            "100": "19",
+            "50": "85",
+            "6s": "",
+            "Ave": "26.86",
+            "Ct": "218",
+            "HS": "321",
+            "Inns": "679",
+            "Mat": "391",
+            "NO": "48",
+            "Runs": "16953",
+            "St": "24"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "19",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "43.00",
+            "BBI": "2/11",
+            "BBM": "",
+            "Balls": "764",
+            "Econ": "3.37",
+            "Inns": "",
+            "Mat": "391",
+            "Runs": "430",
+            "SR": "76.4",
+            "Wkts": "10"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/australia/content/story/1099237.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/648695.html",
+        "http://www.espncricinfo.com/magazine/content/story/476429.html",
+        "http://www.espncricinfo.com/australia/content/story/344834.html",
+        "http://www.espncricinfo.com/magazine/content/story/262019.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=6669"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/122004/057081.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/122004/057081.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/122004/057081.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nOctober 18, 1854, Sandhurst, Victoria "
+        ],
+        "Died": [
+            "February 18, 1911, Melbourne, Victoria (aged 56 years 123 days) "
+        ],
+        "Fielding position": [
+            "Wicketkeeper"
+        ],
+        "Full name": [
+            "William Lloyd Murdoch"
+        ],
+        "Major teams": [
+            "Australia,",
+            "England,",
+            "London County,",
+            "New South Wales,",
+            "Sussex"
+        ]
+    },
+    "profile_info": [
+        "\nBilly Murdoch, born at Sandhurst, Victoria, October 18, 1854, died at Melbourne, February 18, 1911. Present at the Test match between Australia and South Africa, he was seized with apoplexy during the luncheon interval and passed away later in the afternoon. Murdoch had a long career as a cricketer but his fame will rest mainly on what he did for the Australian teams of 1880, 1882, and 1884. He captained the three elevens, and in all three he was incontestably the finest batsman. Within the last ten years his performances have been to some extent eclipsed by Victor Trumper, but comparison between the two men would hardly be fair, their methods being so different. Sufficient that in his own day  Murdoch had no serious rival among Australian batsmen, and except WG Grace scarcely a superior in England. It is no injustice to him, however, to say that, depending far more than present-day batsmen upon forward play, he did not rise to great heights on wickets spoilt by rain. The daring pulls and hooks by which bowlers are now so often demoralised were not within his range, and when the ball turned a great deal he was reduced to defence. To be seen at his best, he needed sunshine and a lively pitch. Then he could be great indeed, as those who remember his famous 153 not out at The Oval in 1880 in the first Test match in this country, and his 211 on the same ground in 1884 will not need to be told. \n",
+        "Few batsmen have been better worth looking at, his style leaving no loophole for criticism. He was essentially an off-side player, his cut and drive being equally fine. Nothing in his play was more skilful than the quickness of foot by which in getting forward at the ball he made up for a limited reach. It could not be urged against him that he was a slow scorer, but if the occasion demanded caution he had inexhaustible patience. In a word, he was in the domain of orthodox batting a complete master. His method served him well, his perfectly straight bat enabling him even at the end of his career to defy lack of condition and get hundreds. So recently as 1904 he scored 140 in the Gentlemen and Players' match at The Oval.",
+        "In his early days in Australia, Murdoch was a first-rate wicketkeeper and it was chiefly as a wicketkeeper that he secured his place in the Australian team of 1878. He kept wicket in the memorable match against MCC at Lord's -- the match that once for all established the fame of Australian cricket -- but he soon found that he could not hold his own with Blackham, and thenceforward batting became his exclusive study. He had to do some wicketkeeping years afterwards for the ill-starred eleven he captained in England in 1890, but little of his old skill remained, and he found the task distasteful. So great was his reputation as a wicketkeeper in his young days that Spofforth declined to play in the first big match against James Lillywhite's team in 1877 because Blackham had been chosen in preference. In the light of after events this scarcely seems credible, but it is strictly true.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

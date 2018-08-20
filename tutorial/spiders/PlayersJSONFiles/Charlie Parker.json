@@ -1,0 +1,116 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "-",
+            "Ct": "0",
+            "HS": "3*",
+            "Inns": "1",
+            "Mat": "1",
+            "NO": "1",
+            "Runs": "3",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "4s": "",
+            "50": "10",
+            "6s": "",
+            "Ave": "10.47",
+            "Ct": "247",
+            "HS": "82",
+            "Inns": "954",
+            "Mat": "635",
+            "NO": "195",
+            "Runs": "7951",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "16.00",
+            "BBI": "2/32",
+            "BBM": "2/32",
+            "Balls": "168",
+            "Econ": "1.14",
+            "Inns": "1",
+            "Mat": "1",
+            "Runs": "32",
+            "SR": "84.0",
+            "Wkts": "2"
+        },
+        {
+            "": "First-class",
+            "10": "91",
+            "4w": "",
+            "5w": "277",
+            "Ave": "19.46",
+            "BBI": "10/79",
+            "BBM": "",
+            "Balls": "157059",
+            "Econ": "2.43",
+            "Inns": "",
+            "Mat": "635",
+            "Runs": "63817",
+            "SR": "47.9",
+            "Wkts": "3278"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/348041.html",
+        "http://www.espncricinfo.com/magazine/content/story/345442.html",
+        "http://www.espncricinfo.com/wisdencricketer/content/story/229621.html",
+        "http://www.espncricinfo.com/magazine/content/story/214145.html",
+        "http://www.espncricinfo.com/magazine/content/story/209286.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=18418"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/032004/050705.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/032004/050705.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/032004/050705.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nOctober 14, 1882, Prestbury, Gloucestershire "
+        ],
+        "Bowling style": [
+            "Slow left-arm orthodox"
+        ],
+        "Died": [
+            "July 11, 1959, Cranleigh, Surrey (aged 76 years 270 days) "
+        ],
+        "Full name": [
+            "Charles Warrington Leonard Parker"
+        ],
+        "Major teams": [
+            "England,",
+            "Gloucestershire"
+        ],
+        "Other": [
+            "Umpire, Coach"
+        ]
+    },
+    "profile_info": [
+        "\nCharles Warrington Leonard Parker, who died on July 11, 1959, aged 74, was for\nmany years one of the finest slow left-arm bowlers in first-class cricket. Recommended\tto Gloucestershire by Dr. W. G. Grace, he joined the county staff in 1903, but not until \nafter the First World War did he achieve real prominence. Then in every summer from\n1920 to 1935, when he retired, he took over 100 wickets. In five of these seasons his\nvictims numbered more than 200, for in 1922 he dismissed 206 batsmen; in 1924, 204; in  1925, 222; in 1926, 213; and in 1931, 219. His full figures during a distinguished career were 3,278 wickets-a record surpassed only  by W. Rhodes and A. P. Freeman - at a cost of 19.46 runs each; he hit 8,197 runs, average 10.33, and brought off 235 catches. \n",
+        "When pitches favoured him he could be well-nigh unplayable and by virtue of his command of spin and flight and, above all, accuracy of length, he was rarely easy to hot. His bowling feats were too numerous to be chronicled in full, but they included six hat-tricks, three of them in the 1924 season and two in the game with Middlesex at Bristol. He took all 10 wickets for 79 runs in to first Somerset innings at Bristol in 1921 and on eight different occasions obtained nine wickets in an innings. One of his most remarkable performances was at Gloucester m 1925 when he played an outstanding part in the crushing defeat of Essex. He disposed of nine batsmen - A. C. Russell was run out for 44 runs -  in the first innings and eight for 12 in 17 overs in the second, achieving a match analysis of 17 wickets for 56 runs.",
+        "In his benefit match at Bristol in 1922 when, on rain-damaged turf in the first \nYorkshire innings, he took nine wickets for 36 runs - eight without assistance from the \nfielders - he hit the stumps five times with consecutive deliveries, but the second was a \nno-ball. He took part in the historic \"tie\"  match at Bristol between Gloucestershire \nand W. M. Woodfull's Australian side of 1930. When the touring team, set to make \n118 to win, scored half the runs for the first wicket, they appeared assured of easy victroy.  Then Parker, erratic at first, exploited a  worn spot with such success that the last nine rickets fell for 58. Parker came out with figures of seven wickets for 54 runs, a feat which doubtless afforded him the more satisfaction as in the previous Australian fixture, the fifth Test, he had attended at the Oval but was not included in the England XI \nbeaten by an innings and 39 runs. It was from Parker's bowling that W. R. Hammond held eight of the 10 catches he brought off in the game with Surrey at Cheltenham in 1928.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

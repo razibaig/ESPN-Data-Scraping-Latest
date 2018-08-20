@@ -1,0 +1,111 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "17.33",
+            "Ct": "5",
+            "HS": "38",
+            "Inns": "13",
+            "Mat": "8",
+            "NO": "1",
+            "Runs": "208",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "30",
+            "50": "120",
+            "6s": "",
+            "Ave": "29.41",
+            "Ct": "222",
+            "HS": "217*",
+            "Inns": "876",
+            "Mat": "529",
+            "NO": "84",
+            "Runs": "23296",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "2",
+            "5w": "0",
+            "Ave": "22.00",
+            "BBI": "4/37",
+            "BBM": "7/103",
+            "Balls": "1301",
+            "Econ": "2.84",
+            "Inns": "14",
+            "Mat": "8",
+            "Runs": "616",
+            "SR": "46.4",
+            "Wkts": "28"
+        },
+        {
+            "": "First-class",
+            "10": "18",
+            "4w": "",
+            "5w": "111",
+            "Ave": "23.01",
+            "BBI": "10/127",
+            "BBM": "",
+            "Balls": "72574",
+            "Econ": "3.15",
+            "Inns": "",
+            "Mat": "529",
+            "Runs": "38166",
+            "SR": "43.7",
+            "Wkts": "1658"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/882229.html",
+        "http://www.espncricinfo.com/magazine/content/story/591737.html",
+        "http://www.espncricinfo.com/magazine/content/story/266972.html",
+        "http://www.espncricinfo.com/ci/content/story/96026.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155481.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=15572"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/214400/214435.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nMarch 27, 1891, Burgess Hill, Sussex "
+        ],
+        "Bowling style": [
+            "Right-arm offbreak"
+        ],
+        "Died": [
+            "July 9, 1960, Spratton, Northamptonshire (aged 69 years 104 days) "
+        ],
+        "Full name": [
+            "Vallance William Crisp Jupp"
+        ],
+        "Major teams": [
+            "England,",
+            "Northamptonshire,",
+            "Sussex"
+        ]
+    },
+    "profile_info": [
+        null,
+        "During the War Jupp served with the Royal Engineers before being transferred as a cadet to the R.A.F. On demobilisation in 1919 he appeared for Sussex as an amateur and quickly showed that the absence of four years from the game had not reduced his skill. In 1921 he scored 2,169 runs in first-class matches and took 121 wickets.",
+        "At the end of the 1920 season he was invited to tour Australia with the M.C.C. but could not accept. Two years later he went to South Africa under the captaincy of F. T. Mann. His Test appearances were against Australia twice, in 1921, against South Africa, four times on the 1922-23 tour, and against West Indies, twice, in 1928. At the end of 1921 he accepted the position of secretary with Northamptonshire and then qualified for the county, giving them valuable service as captain and player until he retired in 1939. He decided to give up the captaincy in 1931, having taken that course twice previously, only to be pressed into service again.",
+        "As a batsman, Jupp could vary his style to suit the occasion. He watched the ball with extreme care and was able to play a rigidly defensive game, but on true, fast pitches he scored with easy freedom, being strong in driving. Before the 1914 War and for a time afterwards he bowled slightly above medium-pace, but later he turned to offspin and few bowlers of his day were able to turn the ball to the same extent. Again, as a bowler, he showed himself adept at varying his methods, depending on the condition of the pitch. He was also a first-class fieldsman, especially at cover.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "11.00",
+            "Ct": "0",
+            "HS": "7*",
+            "Inns": "2",
+            "Mat": "1",
+            "NO": "1",
+            "Runs": "11",
+            "St": "1"
+        },
+        {
+            "": "First-class",
+            "100": "1",
+            "50": "12",
+            "6s": "",
+            "Ave": "17.24",
+            "Ct": "308",
+            "HS": "109",
+            "Inns": "304",
+            "Mat": "197",
+            "NO": "73",
+            "Runs": "3984",
+            "St": "121"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "1",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "22.00",
+            "BBI": "3/26",
+            "BBM": "",
+            "Balls": "105",
+            "Econ": "3.77",
+            "Inns": "",
+            "Mat": "197",
+            "Runs": "66",
+            "SR": "35.0",
+            "Wkts": "3"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155625.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nDecember 6, 1889, Moores Farm, Charlwood, Surrey "
+        ],
+        "Died": [
+            "April 24, 1924, Portslade, Sussex (aged 34 years 140 days) "
+        ],
+        "Fielding position": [
+            "Wicketkeeper"
+        ],
+        "Full name": [
+            "George Benjamin Street"
+        ],
+        "Major teams": [
+            "England,",
+            "Sussex"
+        ]
+    },
+    "profile_info": [
+        "\nGeorge Benjamin Street, the well-known Sussex wicketkeeper, was killed at Portslade on April 24. He was riding a motor-cycle and, in endeavouring to avoid a lorry at a cross-roads, crashed into a wall and died immediately. Born at Charlwood, in Surrey, on December 6, 1889, he was in his thirty-fifth year at the time of his death. He made his first appearance for Sussex in 1909, but did not assist the team regularly until 1912, when he became Butt's successor. He had fairly established his reputation when the War came and put a stop to cricket for four years. He might not have gone much further ahead in the cricket world, but he was at his best in his last season ( 1923) and could safely have reckoned on many more years of play. He joined the M.C.C.'s England team in South Africa in the winter of 1922-23, being cabled for when a broken finger disabled Livsey. He played in the third of the five Test matches, but was left out of the remaining two, Brown being given the preference. In the game with 15 of the Orange Free State he caught four men and stumped three. As a batsman for the side, Street turned a few opportunities to good account. He was often a useful run-getter for Sussex, and, in 1921, he hit up a score of 109 against Essex at Colchester. In first-class cricket in England he caught 304 men and stumped 115 total 419, thus:",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

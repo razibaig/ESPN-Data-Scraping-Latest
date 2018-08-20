@@ -1,0 +1,112 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "1",
+            "50": "1",
+            "6s": "0",
+            "Ave": "62.75",
+            "Ct": "1",
+            "HS": "124",
+            "Inns": "4",
+            "Mat": "3",
+            "NO": "0",
+            "Runs": "251",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "19",
+            "50": "44",
+            "6s": "",
+            "Ave": "27.98",
+            "Ct": "143",
+            "HS": "199",
+            "Inns": "396",
+            "Mat": "221",
+            "NO": "26",
+            "Runs": "10353",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "1",
+            "5w": "0",
+            "Ave": "2.00",
+            "BBI": "4/8",
+            "BBM": "4/8",
+            "Balls": "40",
+            "Econ": "1.20",
+            "Inns": "1",
+            "Mat": "3",
+            "Runs": "8",
+            "SR": "10.0",
+            "Wkts": "4"
+        },
+        {
+            "": "First-class",
+            "10": "1",
+            "4w": "",
+            "5w": "4",
+            "Ave": "27.99",
+            "BBI": "7/36",
+            "BBM": "",
+            "Balls": "16919",
+            "Econ": "3.02",
+            "Inns": "",
+            "Mat": "221",
+            "Runs": "8537",
+            "SR": "55.4",
+            "Wkts": "305"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/453610.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155517.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJuly 26, 1871, Bassett, Hampshire "
+        ],
+        "Bowling style": [
+            " (underarm), Right-arm fast-medium"
+        ],
+        "Died": [
+            "September 6, 1950, Spursholt House, Hampshire (aged 79 years 42 days) "
+        ],
+        "Education": [
+            "Marlborough College; Cambridge University"
+        ],
+        "Full name": [
+            "Arthur James Ledger Hill"
+        ],
+        "Major teams": [
+            "England,",
+            "Cambridge University,",
+            "Hampshire"
+        ],
+        "Relation": [
+            null,
+            "\n",
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        "\nHILL, MR. ARTHUR JAMES LEDGER, a fine all-round cricketer who played for Marlborough College, Wiltshire, Cambridge University and Hampshire, died on September 6, aged 79. Born at Bassett, near Southampton, he was by profession a banker, and excelled at most games. Tall and stylish, Hill was a splendid batsman with a free, natural approach to the game. He was also a useful fast bowler before taking to lobs, and in addition he was a reliable field, notably at short slip. In first-class cricket Hill hit 20 hundreds, scoring altogether 9,995 runs, averaging 27.91, and he took 278 wickets, average 29.60. He went with Lord Hawke's team to India in 1892-93, America 1894, and South Africa 1895-96, and with M.C.C. to Argentine 1911-12. He played in three Tests in South Africa, scoring 124 at Cape Town.  \n",
+        "Hill made his first appearance as a player at Lord's in 1887, a day after completing his sixteenth year, for he was in the Marlborough XI three seasons, during which time he also turned out for Wiltshire (1888). Going to Cambridge, he played four times against Oxford, 1890-93, and in May 1891 he performed the hat-trick for the University against Next Sixteen -- a feat he also achieved the following year for Lord Hawke's team against Madras Presidency at Madras. Altogether his cricket career covered thirty years and finished with him appearing with his son in the Hampshire side. ",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "2",
+            "Ave": "13.00",
+            "Ct": "0",
+            "HS": "26",
+            "Inns": "2",
+            "Mat": "1",
+            "NO": "0",
+            "Runs": "26",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "50": "0",
+            "6s": "",
+            "Ave": "11.53",
+            "Ct": "32",
+            "HS": "40",
+            "Inns": "69",
+            "Mat": "44",
+            "NO": "15",
+            "Runs": "623",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "129.00",
+            "BBI": "1/111",
+            "BBM": "1/129",
+            "Balls": "270",
+            "Econ": "2.86",
+            "Inns": "2",
+            "Mat": "1",
+            "Runs": "129",
+            "SR": "270.0",
+            "Wkts": "1"
+        },
+        {
+            "": "First-class",
+            "10": "1",
+            "4w": "",
+            "5w": "8",
+            "Ave": "24.00",
+            "BBI": "7/53",
+            "BBM": "",
+            "Balls": "9608",
+            "Econ": "2.42",
+            "Inns": "",
+            "Mat": "44",
+            "Runs": "3888",
+            "SR": "59.3",
+            "Wkts": "162"
+        }
+    ],
+    "latest_articles": [],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nFebruary 16, 1917, Catford, London "
+        ],
+        "Bowling style": [
+            "Right-arm fast"
+        ],
+        "Died": [
+            "January 4, 1987, Woolwich, London (aged 69 years 322 days) "
+        ],
+        "Full name": [
+            "John William Martin"
+        ],
+        "Major teams": [
+            "England,",
+            "Kent"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

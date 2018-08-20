@@ -1,0 +1,101 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "1",
+            "Ave": "9.00",
+            "Ct": "5",
+            "HS": "18",
+            "Inns": "4",
+            "Mat": "4",
+            "NO": "0",
+            "Runs": "36",
+            "St": "3"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "50": "16",
+            "6s": "",
+            "Ave": "14.96",
+            "Ct": "676",
+            "HS": "82",
+            "Inns": "649",
+            "Mat": "496",
+            "NO": "211",
+            "Runs": "6554",
+            "St": "342"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "4",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "107",
+            "Econ": "3.64",
+            "Inns": "",
+            "Mat": "496",
+            "Runs": "65",
+            "SR": "-",
+            "Wkts": "0"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155467.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nDecember 25, 1900, Hurst Green, Sussex "
+        ],
+        "Died": [
+            "February 6, 1964, Elm Grove, Brighton, Sussex (aged 63 years 43 days) "
+        ],
+        "Fielding position": [
+            "Wicketkeeper"
+        ],
+        "Full name": [
+            "Walter Latter Cornford"
+        ],
+        "Major teams": [
+            "England,",
+            "Sussex"
+        ]
+    },
+    "profile_info": [
+        "\nWalter Latter \"Tich\" Cornford, who died in a Brighton hospital on February 6, aged 63, was one of the smallest wicketkeepers to play in first-class cricket, for he stood not much more than five feet. Born on Christmas Day, 1900, he was a regular professional for Sussex from 1921 till 1939 and was recalled in an emergency to play against Essex at Brentwood in 1947 when coach at Brighton College. In all, he helped to dismiss 953 batsmen for his county--639 caught and 314 stumped--and he scored 6,327 runs, average 14.61. His highest innings was 82 against Yorkshire at Eastbourne in 1928, when, sharing in partnerships of 83 with James Langridge and 111 with K. S. Duleepsinhji, he enabled Sussex to save the game after following on 298 behind. \n",
+        " Tich Cornford stood right up to the wicket to all bowling, even the fast-medium deliveries of M. W. Tate, his greatest friend, and A. E. R. Gilligan, and his stumpings earned them a number of wickets. One of his happiest memories was of a match at Hastings in which he twice stumped J. B. Hobbs on the leg-side off A. F. Wensley and also took five catches off the bowling of Tate. Against Worcestershire at Worcester in 1928, he was responsible for eight wickets with four catches and four stumpings. He played in all four Tests against New Zealand when touring that country and Australia under A. H. H. Gilligan, then his county captain, in 1929-30, and in eighteen matches disposed of 35 batsmen. In 1925 he took part in the first Gentlemen v. Players match to be staged at Folkestone.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

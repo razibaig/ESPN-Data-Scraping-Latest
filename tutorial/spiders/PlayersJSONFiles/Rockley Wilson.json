@@ -1,0 +1,122 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "5.00",
+            "BF": "47",
+            "Ct": "0",
+            "HS": "5",
+            "Inns": "2",
+            "Mat": "1",
+            "NO": "0",
+            "Runs": "10",
+            "SR": "21.27",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "4",
+            "4s": "",
+            "50": "15",
+            "6s": "",
+            "Ave": "22.00",
+            "BF": "",
+            "Ct": "106",
+            "HS": "142",
+            "Inns": "190",
+            "Mat": "136",
+            "NO": "28",
+            "Runs": "3565",
+            "SR": "",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "12.00",
+            "BBI": "2/28",
+            "BBM": "3/36",
+            "Balls": "123",
+            "Econ": "1.75",
+            "Inns": "2",
+            "Mat": "1",
+            "Runs": "36",
+            "SR": "41.0",
+            "Wkts": "3"
+        },
+        {
+            "": "First-class",
+            "10": "5",
+            "4w": "",
+            "5w": "26",
+            "Ave": "17.63",
+            "BBI": "7/16",
+            "BBM": "",
+            "Balls": "23845",
+            "Econ": "2.07",
+            "Inns": "",
+            "Mat": "136",
+            "Runs": "8234",
+            "SR": "51.0",
+            "Wkts": "467"
+        }
+    ],
+    "latest_articles": [],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nMarch 25, 1879, Bolsterstone, Yorkshire "
+        ],
+        "Bowling style": [
+            "Right-arm slow"
+        ],
+        "Died": [
+            "July 21, 1957, Winchester, Hampshire (aged 78 years 118 days) "
+        ],
+        "Full name": [
+            "Evelyn Rockley Wilson"
+        ],
+        "Major teams": [
+            "England,",
+            "Cambridge University,",
+            "Yorkshire"
+        ],
+        "Other": [
+            "Coach"
+        ],
+        "Relation": [
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        null,
+        "He made a brief appearance for Yorkshire in 1899, but when, on going down from Cambridge, he became a master at Winchester, a position he held for forty years, he preferred to engage in club cricket during the school holidays, his stated reason being that he preferred to play in three matches a week rather than two. He did, however, go to America with B. J. T. Bosanquet's side in 1901; with the team of English amateurs who visited the West Indies in 1902, when he stood first in the bowling averages with 78 wickets for less than 11 runs each, and with the M.C.C. to Argentina in 1912.",
+        null,
+        "Among Wilson's best performances was that in the match with Middlesex at Bradford in 1922 when, in the second innings, he sent down 44 overs, 22 of them maidens, for 62 runs and six wickets. He and A. Waddington shared in a last wicket stand of 53 for Yorkshire, but all the same Middlesex won an exciting struggle by four runs. Wilson was the first bowler to perform the hat-trick for Gentlemen against Players, which he did at Scarborough in 1919. Altogether in first-class cricket he took 385 wickets, average 21.66, and scored 3,033 runs, average 18.94.",
+        null,
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

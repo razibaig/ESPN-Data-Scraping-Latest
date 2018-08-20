@@ -1,0 +1,108 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "4",
+            "6s": "0",
+            "Ave": "20.52",
+            "Ct": "70",
+            "HS": "84",
+            "Inns": "52",
+            "Mat": "35",
+            "NO": "8",
+            "Runs": "903",
+            "St": "22"
+        },
+        {
+            "": "First-class",
+            "100": "16",
+            "50": "77",
+            "6s": "",
+            "Ave": "26.30",
+            "Ct": "714",
+            "HS": "171",
+            "Inns": "639",
+            "Mat": "416",
+            "NO": "46",
+            "Runs": "15597",
+            "St": "197"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "23.00",
+            "BBI": "1/23",
+            "BBM": "1/23",
+            "Balls": "25",
+            "Econ": "5.52",
+            "Inns": "1",
+            "Mat": "35",
+            "Runs": "23",
+            "SR": "25.0",
+            "Wkts": "1"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "1",
+            "Ave": "36.21",
+            "BBI": "6/46",
+            "BBM": "",
+            "Balls": "2323",
+            "Econ": "3.83",
+            "Inns": "",
+            "Mat": "416",
+            "Runs": "1485",
+            "SR": "56.6",
+            "Wkts": "41"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/blogs/content/story/977995.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154846.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/102004/055286.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/102004/055286.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nNovember 28, 1866, Holloway Head, Birmingham, Warwickshire "
+        ],
+        "Bowling style": [
+            "Right-arm medium"
+        ],
+        "Died": [
+            "November 17, 1929, Sandy Park, Brislington, Bristol (aged 62 years 354 days) "
+        ],
+        "Fielding position": [
+            "Wicketkeeper"
+        ],
+        "Full name": [
+            "Arthur Frederick Augustus Lilley"
+        ],
+        "Major teams": [
+            "England,",
+            "London County,",
+            "Warwickshire"
+        ]
+    },
+    "profile_info": [
+        "\nArthur Frederick Augustus \"Dick\" Lilley, born at Birmingham on November 18, 1867, died at Brislington, near Bristol, on November 17, within a day of completing his 62nd year. For many seasons he kept wicket for Warwickshire, the Players and England, and in thirty-one Tests against Australia he obtained eighty-four wickets -- sixty-five caught and nineteen stumped. In those games he also scored 802 runs with an average of 20, batting particularly well at  Manchester in 1896 for 65 not out and at Leeds three years later for 55. When he gave up county cricket in 1911 he settled in Bristol, and after the War was a member of the special advisory committee which helped to re-establish the Gloucestershire County Cricket Club. Playing for Warwickshire first in 1888 when the county had not been admitted to first rank, Lilley kept wicket continuously for 23 years. Even in those years, he was recognized as one of the best wicketkeepers in the country. In the course of his career he caught out 705 batsmen and stumped 200. For  Warwickshire v. Yorkshire at Edgbaston in 1889 he caught three men and stumped four, and for the county v. M. C. C. at Lord's in 1896 he caught eight. He was also a fine forcing batsmen, and could generally be relied on for runs. In first-class matches he scored 15,746 runs, including sixteen centuries, and averaged 26. In three seasons he made over 1,000 runs. For his county against Surrey at The Oval in 1898 he, despite a broken finger, batted eighty-five minutes for 57 runs. He first appeared in a Test against Australia at Lord's in 1896. In that year he played in three of those matches; in 1899 in four, and in 1902,  1905, and 1909 he represented England in all five Tests against Australia. He went out to Australia with touring teams in 1901-02 and 1903-04. As a wicketkeeper he was most consistent and so pronounced an artist that at the end of his career his hands and fingers showed scarcely a trace of the heavy strain to which they had been subjected in taking bowling of all descriptions. Other wicketkeepers may have appeared more brilliant but there was none more sure in making a catch. Lilley, outside his powers as wicketkeeper and batsman, was an exceptionally fine judge of cricket and so well did captains, even of international teams, recognise his special qualities in this direction that they often consulted him during a match. \n",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

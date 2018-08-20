@@ -1,0 +1,106 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "14.00",
+            "Ct": "0",
+            "HS": "11*",
+            "Inns": "2",
+            "Mat": "1",
+            "NO": "1",
+            "Runs": "14",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "4",
+            "4s": "",
+            "50": "28",
+            "6s": "",
+            "Ave": "19.10",
+            "Ct": "171",
+            "HS": "160",
+            "Inns": "391",
+            "Mat": "239",
+            "NO": "21",
+            "Runs": "7070",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "1",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "34.50",
+            "BBI": "1/11",
+            "BBM": "",
+            "Balls": "108",
+            "Econ": "3.83",
+            "Inns": "",
+            "Mat": "239",
+            "Runs": "69",
+            "SR": "54.0",
+            "Wkts": "2"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/453610.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJune 20, 1856, Marylebone, London "
+        ],
+        "Bowling style": [
+            "(unknown arm) slow (underarm)"
+        ],
+        "Died": [
+            "August 10, 1902, Elmina, Gold Coast (aged 46 years 51 days) "
+        ],
+        "Education": [
+            "Rugby"
+        ],
+        "Full name": [
+            "George Frederick Vernon"
+        ],
+        "Major teams": [
+            "England,",
+            "Middlesex"
+        ]
+    },
+    "profile_info": [
+        "\nGeorge Vernon, who died at Elmina, West Africa, on August 10th, was scarcely one of the great batsmen of his day, but he had a long and distinguished career in the cricket field. Born in June, 1856, he made his first appearance at Lord's as a member of the Rugby XI  in 1873, and so recently as 1897 he took part in first-class matches, making scores of over 50 against both the Universities. For many years he played regularly for Middlesex, and for that county and the M.C.C. the greater part of his best work was done.  \n",
+        "He was a splendid natural hitter, and his quickness of eye made up to some extent for his defect in never playing with quite a straight bat. Coming to the front in 1878, he held a prominent place for a dozen seasons or more, and even when he gave up first-class cricket he could hit nearly as hard as over. Clean, powerful driving was always the best feature of his play. Of all the matches in which he took part for Middlesex, perhaps the most remarkable was the one with Yorkshire, at Lord's in 1889. Middlesex won by four wickets. T. C. O'Brien scoring 100 not out in eighty minutes, and playing, by general consent, the innings of his life. In order to win the game Middlesex had to score at the rate of nearly 80 an hour for just over three hours and a half--a tremendous task against Yorkshire's bowling. When the sixth wicket fell Vernon became O'Brien's partner, 83 runs having then to be made in three-quarters of an hour. O'Brien went on hitting in tremendous style, and the match was won ten minutes before time. We remember very well Mr. Vernon's amusement at a statement in one of the reports of the game that he, in helping O'Brien, had scored slowly. He was slow by comparison. but as a matter of fact he made 30 runs in thirty-five minutes His recollections of another and still more famous match at Lord's were far less agreeable, as he was a member of the M.C.C. team that on May 27. 1878, went down before the first Australian eleven for scores of 33 and 19. He himself failed to get a run in either innings, being out both times to Spofforth's bowling. ",
+        "Acting in conjunction with the Melbourne Club. Mr.Vernon took a team to Australia in the winter of 1887-88. Unfortunately Shaw and Shrewsbury took an eleven out at the same time, and the financial result all round was disastrous in the extreme. The Melbourne Club were said to have lost \u00a34,000 by their enterprise, and Alfred Shaw has stated that he and Shrewsbury found them-selves \u00a32,400 to the bad. Such a fatal blunder as to send two English elevens to the Colonies in the same season will assuredly never be repeated. From the cricket point of view, Mr. Vernon's aide did wonderfully well, only losing one of their matches. For one special occasion towards the end of the season the two English elevens joined forces, and had the satisfaction of beating Australia by 126 runs. ",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {}
+    ]
+}

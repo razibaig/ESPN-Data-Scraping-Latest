@@ -1,0 +1,144 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "1",
+            "50": "9",
+            "6s": "3",
+            "Ave": "35.59",
+            "Ct": "21",
+            "HS": "185",
+            "Inns": "45",
+            "Mat": "28",
+            "NO": "3",
+            "Runs": "1495",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "17",
+            "50": "90",
+            "6s": "",
+            "Ave": "29.43",
+            "Ct": "210",
+            "HS": "185",
+            "Inns": "651",
+            "Mat": "386",
+            "NO": "52",
+            "Runs": "17631",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "2",
+            "50": "4",
+            "6s": "",
+            "Ave": "27.91",
+            "Ct": "7",
+            "HS": "114",
+            "Inns": "36",
+            "Mat": "37",
+            "NO": "1",
+            "Runs": "977",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "1",
+            "5w": "0",
+            "Ave": "43.00",
+            "BBI": "4/132",
+            "BBM": "6/139",
+            "Balls": "3426",
+            "Econ": "3.16",
+            "Inns": "42",
+            "Mat": "28",
+            "Runs": "1806",
+            "SR": "81.5",
+            "Wkts": "42"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "12",
+            "Ave": "29.46",
+            "BBI": "7/35",
+            "BBM": "",
+            "Balls": "31798",
+            "Econ": "3.05",
+            "Inns": "",
+            "Mat": "386",
+            "Runs": "16176",
+            "SR": "57.9",
+            "Wkts": "549"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "23.40",
+            "BBI": "2/11",
+            "BBM": "2/11",
+            "Balls": "213",
+            "Econ": "3.29",
+            "Inns": "",
+            "Mat": "37",
+            "Runs": "117",
+            "SR": "42.6",
+            "Wkts": "5"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/1062062.html",
+        "http://www.espncricinfo.com/magazine/content/story/891477.html",
+        "http://www.espncricinfo.com/magazine/content/story/627131.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/573224.html",
+        "http://www.espncricinfo.com/wisdencricketer/content/story/224857.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=8982"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/147500/147532.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/147500/147532.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/147500/147532.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Left-hand bat"
+        ],
+        "Born": [
+            "\nSeptember 26, 1935, Withington, Manchester, Lancashire "
+        ],
+        "Bowling style": [
+            "Legbreak googly"
+        ],
+        "Current age": [
+            "82 years 326 days"
+        ],
+        "Full name": [
+            "Robert William Barber"
+        ],
+        "Major teams": [
+            "England,",
+            "Cambridge University,",
+            "Lancashire,",
+            "Warwickshire"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

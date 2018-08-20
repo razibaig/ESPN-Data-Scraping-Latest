@@ -1,0 +1,109 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "11.75",
+            "Ct": "1",
+            "HS": "19*",
+            "Inns": "5",
+            "Mat": "4",
+            "NO": "1",
+            "Runs": "47",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "56",
+            "50": "135",
+            "6s": "",
+            "Ave": "39.34",
+            "Ct": "216",
+            "HS": "253",
+            "Inns": "699",
+            "Mat": "417",
+            "NO": "54",
+            "Runs": "25376",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "4",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "45.81",
+            "BBI": "4/62",
+            "BBM": "",
+            "Balls": "859",
+            "Econ": "3.52",
+            "Inns": "",
+            "Mat": "417",
+            "Runs": "504",
+            "SR": "78.0",
+            "Wkts": "11"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/ci/content/story/133912.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154637.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/155900/155919.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Left-hand bat"
+        ],
+        "Born": [
+            "\nJanuary 2, 1907, Battersea, London "
+        ],
+        "Bowling style": [
+            "Slow left-arm orthodox"
+        ],
+        "Died": [
+            "June 25, 1986, Sutton, Surrey (aged 79 years 174 days) "
+        ],
+        "Full name": [
+            "Laurence Barnard Fishlock"
+        ],
+        "Major teams": [
+            "England,",
+            "Surrey"
+        ]
+    },
+    "profile_info": [
+        null,
+        "Joining the Surrey staff in 1930, he played against Oxford at The Oval in 1931 and made 41 not out in the second innings, but it was 1934 before he had a real trial, making 598 runs with an average of 31.47. Next year, playing regularly, he made more than 1,000 runs and hit three hundreds, but this hardly prepared people for his advance in 1936. Scoring 2,129 runs with an average of 53.22, he represented the Players at Lord's, took part in two Test trials and in two Tests, and made 100 in each innings for Surrey against Sussex at The Oval. In 1937, after his unlucky winter in Australia, he had almost the only poor spell of his life. In May and June he could get no runs, but then DJ Knight, whose return to the side after a gap of many years had been only a qualified success, dropped out, Fishlock was moved up to open, a position he continued to occupy to within a year or two of his retirement, and runs immediately began to flow. They included two hundreds in one match against Yorkshire at The Oval, a feat which no one had performed since Knight in 1919. In 1938 he made a century in a Test trial, but with Leyland and Paynter in form and English batting crushingly strong, he had no chance in the Tests.",
+        null,
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

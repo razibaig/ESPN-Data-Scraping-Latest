@@ -1,0 +1,107 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "12.00",
+            "Ct": "0",
+            "HS": "30",
+            "Inns": "6",
+            "Mat": "3",
+            "NO": "0",
+            "Runs": "72",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "13",
+            "50": "42",
+            "6s": "",
+            "Ave": "33.00",
+            "Ct": "163",
+            "HS": "268",
+            "Inns": "272",
+            "Mat": "154",
+            "NO": "20",
+            "Runs": "8318",
+            "St": "5"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "24",
+            "Econ": "4.25",
+            "Inns": "2",
+            "Mat": "3",
+            "Runs": "17",
+            "SR": "-",
+            "Wkts": "0"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "1",
+            "Ave": "32.27",
+            "BBI": "6/63",
+            "BBM": "",
+            "Balls": "3790",
+            "Econ": "3.37",
+            "Inns": "",
+            "Mat": "154",
+            "Runs": "2130",
+            "SR": "57.4",
+            "Wkts": "66"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/259254.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/032004/051239.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/032004/051239.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/032004/051239.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nApril 1, 1861, Saharanpur, Uttar Pradesh, India "
+        ],
+        "Died": [
+            "October 30, 1936, Knotty Green, Beaconsfield, Buckinghamshire (aged 75 years 212 days) "
+        ],
+        "Full name": [
+            "Edward George Wynyard"
+        ],
+        "Major teams": [
+            "England,",
+            "Hampshire"
+        ]
+    },
+    "profile_info": [
+        null,
+        "Over six feet in height and finely built, Wynyard was a brilliant player of most games, and excelled on the cricket field, where his commanding figure could not escape attention. In his Hampshire days he usually wore an I Zingari cap of polo shape balanced at the military angle with a strap under the chin. A splendid forcing batsman he played many fine innings, and in 1899 in company with Major R. M. Poore he scored 225 out of 411 added for Hampshire's sixth wicket against Somerset at Taunton. This is still the record stand for the sixth wicket by English batsmen. The runs were made in four hours, twenty minutes, and Major Poore finished with 304. Major Wynyard bowled lobs and in this match he took five wickets for 38 runs.",
+        "He went to New Zealand in the autumn of 1906 as captain of the M.C.C. touring team, but in the third match he snapped a tendon in his leg and returned home. He captained an M.C.C. amateur team who went to America at the end of our 1907 season. Twice he was compelled to decline invitations to accompany England teams to Australia. He toured South Africa in 1905 and 1909 with the teams led by P. F. Warner and H. D. G. Leveson-Gower.",
+        "From the time when Hampshire became a first-class county in 1895, Major Wynyard scored 7,572 runs with an average of 34. He excelled in 1894 with an average of 66. Two years later he was in the England eleven which beat Australia at the Oval by 66 runs, the Colonials being dismissed by Peel and J. T. Herne for 44 in the fourth innings. That was the last math in which W. G. Grace led England to victory.",
+        "Major Wynyard played his last first-class match in 1912 for M.C.C. against Oxford University, but was regular in his visits to Lord's where, for a time, he assisted in the management. As he appeared first for Hampshire at Lord's against M.C.C. in 1878, his playing career extended over 35 years. He used to say that he made 150 centuries in all kinds of cricket of which he kept a record.",
+        "While on service in India, Major Wynyard played many big innings and in one match scored 123 and 106, both not out. When home on leave in 1887, he made 233 for Incogniti against Phoenix Park at Dublin.",
+        "A fine, free hitter, Major Wynyard used a great variety of strokes, especially those in front of the wicket. He had a grand drive, a powerful hook, a good cut, back strokes of a forcing description and a rare pull in making which he dropped to his right knee and drove the ball on the half volley over mid-on. He developed also a special method of hitting left-handed bowling over cover point in most effective fashion. While he could field admirably anywhere, he excelled at slip and at mid-on.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

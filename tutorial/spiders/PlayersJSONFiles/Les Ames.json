@@ -1,0 +1,116 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "8",
+            "50": "7",
+            "6s": "6",
+            "Ave": "40.56",
+            "Ct": "74",
+            "HS": "149",
+            "Inns": "72",
+            "Mat": "47",
+            "NO": "12",
+            "Runs": "2434",
+            "St": "23"
+        },
+        {
+            "": "First-class",
+            "100": "102",
+            "50": "176",
+            "6s": "",
+            "Ave": "43.51",
+            "Ct": "703",
+            "HS": "295",
+            "Inns": "951",
+            "Mat": "593",
+            "NO": "95",
+            "Runs": "37248",
+            "St": "418"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "47",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "33.37",
+            "BBI": "3/23",
+            "BBM": "",
+            "Balls": "1383",
+            "Econ": "3.47",
+            "Inns": "",
+            "Mat": "593",
+            "Runs": "801",
+            "SR": "57.6",
+            "Wkts": "24"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/908301/the-magnificent-seven",
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/888219/seven-in-the-shallows",
+        "http://www.espncricinfo.com/wisdencricketer/content/story/347943.html",
+        "http://www.espncricinfo.com/bodyline/content/story/316843.html",
+        "http://www.espncricinfo.com/bodyline/content/story/316838.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=8532"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/99900/99938.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/99900/99938.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/99900/99938.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nDecember 3, 1905, Elham, Kent "
+        ],
+        "Bowling style": [
+            "Legbreak"
+        ],
+        "Died": [
+            "February 27, 1990, Canterbury, Kent (aged 84 years 86 days) "
+        ],
+        "Fielding position": [
+            "Wicketkeeper"
+        ],
+        "Full name": [
+            "Leslie Ethelbert George Ames"
+        ],
+        "Major teams": [
+            "England,",
+            "Kent"
+        ]
+    },
+    "profile_info": [
+        null,
+        null,
+        null,
+        "Ames was a correct player with a fluent classical style; a magnificent driver, especially when moving out to the pitch. When set, he employed the lofted drive over the inner ring of fielders with rare judgement and skill, and he could turn good-length balls into half-volleys on lightning feet. Woe betide any bowler who started dropping short: he would be hammered to the cover boundary, or despatched to leg with powerful hooks or pulls. A superb entertainer, he was popular with spectators up and down the land, but praise or flattery would leave him unmoved: he could never understand what all the fuss was about. Behind the stumps he maintained a consistently high standard. Among his more notable efforts when playing for England were eight dismissals against West Indies at The Oval in 1933, and against South Africa in 1938-39 he conceded only one bye for every 275 balls delivered in the series. On the Bodyline tour he took the thunderbolts of Larwood and Voce with quiet efficiency. His style was unobtrusive; there were no flamboyant gestures. He saw the ball so early that he was invariably in the right position without having to throw himself about. His glovework was neat and economical, his stumpings almost apologetic.",
+        "During the Second World War, Ames rose to the rank of Squadron-Leader in the RAF and played a little one-day cricket, even taking a hat-trick against Epsom CC with his slow spinners. In the five post-war seasons before his retirement, playing now as a batsman, he enjoyed an Indian summer, adding nearly 10,000 runs to his already formidable aggregate. In 1947, and again in 1948, he made seven hundreds, his total of 2,137 runs in the championship in 1947 being reminiscent of  1933. In 1950 he reached his 100th hundred in brilliant style to win the match against Middlesex during the Canterbury Week, becoming only the twelfth player to achieve this milestone. His batting had lacked none of its old virility and panache, but that winter, captaining the Commonwealth team in India, he was often worried by the back trouble which was soon to end his playing days.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

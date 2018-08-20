@@ -1,0 +1,351 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "23",
+            "50": "0",
+            "6s": "1",
+            "Ave": "4.88",
+            "BF": "749",
+            "Ct": "10",
+            "HS": "26",
+            "Inns": "68",
+            "Mat": "50",
+            "NO": "23",
+            "Runs": "220",
+            "SR": "29.37",
+            "St": "0"
+        },
+        {
+            "": "ODIs",
+            "100": "0",
+            "4s": "2",
+            "50": "0",
+            "6s": "0",
+            "Ave": "5.20",
+            "BF": "91",
+            "Ct": "3",
+            "HS": "13",
+            "Inns": "8",
+            "Mat": "26",
+            "NO": "3",
+            "Runs": "26",
+            "SR": "28.57",
+            "St": "0"
+        },
+        {
+            "": "T20Is",
+            "100": "0",
+            "4s": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "1.00",
+            "BF": "2",
+            "Ct": "0",
+            "HS": "1",
+            "Inns": "1",
+            "Mat": "1",
+            "NO": "0",
+            "Runs": "1",
+            "SR": "50.00",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "4s": "",
+            "50": "0",
+            "6s": "",
+            "Ave": "8.39",
+            "BF": "4315",
+            "Ct": "44",
+            "HS": "46*",
+            "Inns": "270",
+            "Mat": "219",
+            "NO": "87",
+            "Runs": "1536",
+            "SR": "35.59",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "0",
+            "4s": "",
+            "50": "0",
+            "6s": "",
+            "Ave": "8.81",
+            "BF": "251",
+            "Ct": "15",
+            "HS": "17*",
+            "Inns": "29",
+            "Mat": "85",
+            "NO": "13",
+            "Runs": "141",
+            "SR": "56.17",
+            "St": "0"
+        },
+        {
+            "": "T20s",
+            "100": "0",
+            "4s": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "1.40",
+            "BF": "15",
+            "Ct": "3",
+            "HS": "3*",
+            "Inns": "7",
+            "Mat": "33",
+            "NO": "2",
+            "Runs": "7",
+            "SR": "46.66",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "2",
+            "4w": "4",
+            "5w": "12",
+            "Ave": "34.71",
+            "BBI": "6/37",
+            "BBM": "11/210",
+            "Balls": "12475",
+            "Econ": "2.78",
+            "Inns": "85",
+            "Mat": "50",
+            "Runs": "5797",
+            "SR": "74.7",
+            "Wkts": "167"
+        },
+        {
+            "": "ODIs",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "40.83",
+            "BBI": "3/25",
+            "BBM": "3/25",
+            "Balls": "1308",
+            "Econ": "4.49",
+            "Inns": "26",
+            "Mat": "26",
+            "Runs": "980",
+            "SR": "54.5",
+            "Wkts": "24"
+        },
+        {
+            "": "T20Is",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "20.00",
+            "BBI": "2/40",
+            "BBM": "2/40",
+            "Balls": "24",
+            "Econ": "10.00",
+            "Inns": "1",
+            "Mat": "1",
+            "Runs": "40",
+            "SR": "12.0",
+            "Wkts": "2"
+        },
+        {
+            "": "First-class",
+            "10": "6",
+            "4w": "26",
+            "5w": "39",
+            "Ave": "31.22",
+            "BBI": "7/60",
+            "BBM": "",
+            "Balls": "48193",
+            "Econ": "2.75",
+            "Inns": "",
+            "Mat": "219",
+            "Runs": "22135",
+            "SR": "67.9",
+            "Wkts": "709"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "0",
+            "5w": "1",
+            "Ave": "34.84",
+            "BBI": "5/20",
+            "BBM": "5/20",
+            "Balls": "3725",
+            "Econ": "4.65",
+            "Inns": "",
+            "Mat": "85",
+            "Runs": "2892",
+            "SR": "44.8",
+            "Wkts": "83"
+        },
+        {
+            "": "T20s",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "30.22",
+            "BBI": "3/14",
+            "BBM": "3/14",
+            "Balls": "648",
+            "Econ": "7.55",
+            "Inns": "32",
+            "Mat": "33",
+            "Runs": "816",
+            "SR": "24.0",
+            "Wkts": "27"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/ci/content/story/1133636.html",
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/1092770/zero-off-zero",
+        "http://www.espncricinfo.com/india-v-australia-2016-17/content/story/1078042.html",
+        "http://www.espncricinfo.com/magazine/content/story/1070545.html",
+        "http://www.espncricinfo.com/magazine/content/story/1066658.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=18655"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/242800/242817.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/242800/242817.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/242800/242817.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Left-hand bat"
+        ],
+        "Born": [
+            "\nApril 25, 1982, Luton, Bedfordshire "
+        ],
+        "Bowling style": [
+            "Slow left-arm orthodox"
+        ],
+        "Current age": [
+            "36 years 115 days"
+        ],
+        "Education": [
+            "Bedford Modern School, Stopsley High School, Luton, Bedfordshire; Loughborough University"
+        ],
+        "Full name": [
+            "Mudhsuden Singh Panesar"
+        ],
+        "Height": [
+            "\n6 ft 1 in "
+        ],
+        "Major teams": [
+            "England,",
+            "British Universities,",
+            "England Lions,",
+            "England Under-19s,",
+            "Essex,",
+            "Lions,",
+            "Loughborough Marylebone Cricket Club University (England),",
+            "Marylebone Cricket Club,",
+            "Northamptonshire,",
+            "Sussex,",
+            "Sussex 2nd XI"
+        ],
+        "Playing role": [
+            "Bowler"
+        ]
+    },
+    "profile_info": [
+        "\nMudhsuden Singh Panesar, affectionately known throughout the game as Monty, quickly established himself as a national hero after bursting on to the scene with England in 2006. With his black patka, wide eyes and eager (if a touch hapless) fielding, he rapidly became a fan favourite.  \n",
+        "After years of limited and negative England spinners, Panesar was a revelation. His languid action deeply excited England supporters and even on the occasions when sharp turn was not forthcoming that was belied by an effervescence apparent in his cherubic and unconfined celebrations at the fall of each and every wicket. Like a lamb let loose from the paddock, he cut a joyful figure. ",
+        "For a time, he was considered the saviour of English spin bowling, but that position was usurped by the emergence of his old Northants colleague Graeme Swann, who had greater command of spin and dip on flat surfaces and who also had a shrewdness about him which Panesar occasionally seemed to lack. They combined in spectacular fashion, however, in Mumbai in November 2012, dubbed the \"dust devils\" as they returned joint figures of 19 for 323, in one of the greatest England spin double acts in history, only the fourth occasion that England spinners had combined to take 19 wickets or more wickets in a Test and the first time for 54 years.",
+        "When Swann retired midway through England's Ashes debacle in 2013-14, debilitated by elbow trouble, Panesar should have been ready to step in. But his career was by then in question. He left Sussex under a cloud in 2013 after urinating from on high upon a nightclub bouncer in the early hours of the morning, and his behaviour on long tours had its eccentric moments. He joined Essex, with his many fans hoping that it would revive a faltering career, but despite respectable returns in his first full season at Chelmsford the rise of Moeen Ali looked to have consigned his England days to the past.",
+        "A Luton lad by birth he progressed through Northamptonshire's youth teams and was picked for England Under-19s in 2000. He marked his first-class debut a year later against Leicestershire with a match haul of 8 for 131. Opportunities thereafter were limited but a fine 2005 season kick-started his career. He took 46 Championship wickets at 21.54, and spent part of the winter at the Darren Lehmann Academy in Adelaide. That was enough for Panesar to be picked for England's 2006 tour of India in February. He made his Test debut at Nagpur picking up his boyhood hero, Sachin Tendulkar, as his first Test wicket and Rahul Dravid as his third.",
+        "The following summer, against Pakistan, Panesar attracted national headlines, even beyond the game, by spinning England to a series win. At Old Trafford he made the most of a helpful surface with eight wickets then, at Headingley, he was England's best bowler on a run-filled strip. The loop, guile and changes of pace outfoxed Pakistan's top-order, including Inzamam-ul-Haq, Mohammad Yousuf and Younis Khan.",
+        "In a matter of months he had elevated himself to the position of England's senior spinner, pushing aside Ashley Giles. Yet Duncan Fletcher - ever the loyalist, rarely the risk-taker - preferred a rusty Giles for the first two Tests of the 2006-07 Ashes. England were thrashed in both but Monty got a chance in the third at Perth, becoming the first English spinner to take five at the WACA (and eight in the match). As England crashed to a humiliating 5-0 defeat, Panesar was one of the precious few to return home with their reputation intact.",
+        "He started the 2007 summer with 23 wickets in four Tests against West Indies, which brought a career-high No. 6 ranking, but things began to go awry thereafter. He struggled in the following home series against India, and away in Sri Lanka, where he lost his confidence and misunderstood mutterings began about his lack of variety. Though he fared well in New Zealand a tough 2008 summer, where Graeme Smith swept him to distraction in South Africa's series-clinching win in Edgbaston, blunted his cheerful persona. ",
+        "He was comprehensively outperformed by a resurgent Swann during his return to India in December 2008, and again in the Caribbean, where he lost his position as England's No. 1 spinner. The bowling lacked spark but more significantly, so did the man. Lost in a confusion of 'expert' opinion around him, he lost faith in his method. That trend continued in the first Test of the 2009 Ashes at Cardiff, where he and Swann both underperformed with the ball, claiming one wicket between them. However, by batting through to the close in a remarkable tenth-wicket stand with James Anderson, Panesar reaffirmed his cult status. That was as good as the summer got for him though as his bowling form slumped and he lost his central contract. ",
+        "By the end of 2009 the future of Panesar's international career looked doubtful but he took control by leaving his life-long county Northamptonshire and moving to Sussex. Trusted to set his fields and take a senior role in the dressing room he rediscovered his vim. A strong 2010 season saw a return to the England squad for the Ashes win. On the 2012 winter tour to UAE he finally got his chance for England again, picking up 14 wickets at 22 from his two Tests against Pakistan, but opportunities continued to be sporadic.",
+        null
+    ],
+    "recent_matches": [
+        {
+            "Bat & Bowl": "-",
+            "Ground": "St. Moritz",
+            "Match Date": "9 Feb 2018",
+            "Opposition": "v Diamonds",
+            "Scorecard": "Other T20",
+            "Team": "Royals"
+        },
+        {
+            "Bat & Bowl": "-",
+            "Ground": "St. Moritz",
+            "Match Date": "8 Feb 2018",
+            "Opposition": "v Diamonds",
+            "Scorecard": "Other T20",
+            "Team": "Royals"
+        },
+        {
+            "Bat & Bowl": "6*, 1/69, 0/48",
+            "Ground": "Flitwick",
+            "Match Date": "13 Aug 2017",
+            "Opposition": "v Suffolk",
+            "Scorecard": "Other",
+            "Team": "Bedfordshire"
+        },
+        {
+            "Bat & Bowl": "1*, 1/54, 1/32",
+            "Ground": "Horsford",
+            "Match Date": "30 Jul 2017",
+            "Opposition": "v Norfolk",
+            "Scorecard": "Other",
+            "Team": "Bedfordshire"
+        },
+        {
+            "Bat & Bowl": "0, 2/78, 9, 1/53",
+            "Ground": "Bedford",
+            "Match Date": "16 Jul 2017",
+            "Opposition": "v Lincolnshire",
+            "Scorecard": "Other",
+            "Team": "Bedfordshire"
+        },
+        {
+            "Bat & Bowl": "7, 6/78, 0, 4/68",
+            "Ground": "West Bromwich",
+            "Match Date": "2 Jul 2017",
+            "Opposition": "v Staffs",
+            "Scorecard": "Other",
+            "Team": "Bedfordshire"
+        },
+        {
+            "Bat & Bowl": "4, 2/43, 4, 5/52",
+            "Ground": "Luton",
+            "Match Date": "18 Jun 2017",
+            "Opposition": "v Cambs",
+            "Scorecard": "Other",
+            "Team": "Bedfordshire"
+        },
+        {
+            "Bat & Bowl": "2/71, 4*",
+            "Ground": "Kendal",
+            "Match Date": "4 Jun 2017",
+            "Opposition": "v Cumberland",
+            "Scorecard": "Other",
+            "Team": "Bedfordshire"
+        },
+        {
+            "Bat & Bowl": "4, 1/21",
+            "Ground": "Dunstable",
+            "Match Date": "14 May 2017",
+            "Opposition": "v Bucks",
+            "Scorecard": "Other OD",
+            "Team": "Bedfordshire"
+        },
+        {
+            "Bat & Bowl": "1/24, 28",
+            "Ground": "Warminster",
+            "Match Date": "7 May 2017",
+            "Opposition": "v Wiltshire",
+            "Scorecard": "Other OD",
+            "Team": "Bedfordshire"
+        }
+    ]
+}

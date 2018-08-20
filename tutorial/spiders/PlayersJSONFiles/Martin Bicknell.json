@@ -1,0 +1,303 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "6",
+            "50": "0",
+            "6s": "0",
+            "Ave": "6.42",
+            "BF": "130",
+            "Ct": "2",
+            "HS": "15",
+            "Inns": "7",
+            "Mat": "4",
+            "NO": "0",
+            "Runs": "45",
+            "SR": "34.61",
+            "St": "0"
+        },
+        {
+            "": "ODIs",
+            "100": "0",
+            "4s": "7",
+            "50": "0",
+            "6s": "1",
+            "Ave": "24.00",
+            "BF": "104",
+            "Ct": "2",
+            "HS": "31*",
+            "Inns": "6",
+            "Mat": "7",
+            "NO": "2",
+            "Runs": "96",
+            "SR": "92.30",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "3",
+            "4s": "",
+            "50": "26",
+            "6s": "",
+            "Ave": "24.87",
+            "BF": "",
+            "Ct": "103",
+            "HS": "141",
+            "Inns": "358",
+            "Mat": "292",
+            "NO": "87",
+            "Runs": "6740",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "0",
+            "4s": "",
+            "50": "2",
+            "6s": "",
+            "Ave": "15.57",
+            "BF": "",
+            "Ct": "78",
+            "HS": "66*",
+            "Inns": "174",
+            "Mat": "332",
+            "NO": "72",
+            "Runs": "1589",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "T20s",
+            "100": "0",
+            "4s": "1",
+            "50": "0",
+            "6s": "0",
+            "Ave": "-",
+            "BF": "8",
+            "Ct": "1",
+            "HS": "10*",
+            "Inns": "2",
+            "Mat": "3",
+            "NO": "2",
+            "Runs": "11",
+            "SR": "137.50",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "1",
+            "5w": "0",
+            "Ave": "38.78",
+            "BBI": "4/84",
+            "BBM": "6/155",
+            "Balls": "1080",
+            "Econ": "3.01",
+            "Inns": "7",
+            "Mat": "4",
+            "Runs": "543",
+            "SR": "77.1",
+            "Wkts": "14"
+        },
+        {
+            "": "ODIs",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "26.69",
+            "BBI": "3/55",
+            "BBM": "3/55",
+            "Balls": "413",
+            "Econ": "5.04",
+            "Inns": "7",
+            "Mat": "7",
+            "Runs": "347",
+            "SR": "31.7",
+            "Wkts": "13"
+        },
+        {
+            "": "First-class",
+            "10": "4",
+            "4w": "",
+            "5w": "44",
+            "Ave": "25.06",
+            "BBI": "9/45",
+            "BBM": "",
+            "Balls": "55420",
+            "Econ": "2.87",
+            "Inns": "",
+            "Mat": "292",
+            "Runs": "26589",
+            "SR": "52.2",
+            "Wkts": "1061"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "11",
+            "5w": "3",
+            "Ave": "25.10",
+            "BBI": "7/30",
+            "BBM": "7/30",
+            "Balls": "16167",
+            "Econ": "3.99",
+            "Inns": "",
+            "Mat": "332",
+            "Runs": "10771",
+            "SR": "37.6",
+            "Wkts": "429"
+        },
+        {
+            "": "T20s",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "15.25",
+            "BBI": "2/11",
+            "BBM": "2/11",
+            "Balls": "66",
+            "Econ": "5.54",
+            "Inns": "3",
+            "Mat": "3",
+            "Runs": "61",
+            "SR": "16.5",
+            "Wkts": "4"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/australia-v-england-2017/content/story/1126215.html",
+        "http://www.espncricinfo.com/magazine/content/story/677045.html",
+        "http://www.espncricinfo.com/countycricket2009/content/story/398894.html",
+        "http://www.espncricinfo.com/engvrsa/content/story/361674.html",
+        "http://www.espncricinfo.com/engvwi/content/story/297067.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=9089"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/19000/19049.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/19000/19049.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/19000/19049.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJanuary 14, 1969, Guildford, Surrey "
+        ],
+        "Bowling style": [
+            "Right-arm fast-medium"
+        ],
+        "Current age": [
+            "49 years 216 days"
+        ],
+        "Education": [
+            "Robert Haining County Secondary"
+        ],
+        "Full name": [
+            "Martin Paul Bicknell"
+        ],
+        "Height": [
+            "\n6 ft 4 in "
+        ],
+        "Major teams": [
+            "England,",
+            "Surrey"
+        ],
+        "Nickname": [
+            "Bickers"
+        ],
+        "Relation": [
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {
+            "Bat & Bowl": "0/33",
+            "Ground": "Bridgetown",
+            "Match Date": "9 Nov 2010",
+            "Opposition": "v Ind Masters",
+            "Scorecard": "Other T20",
+            "Team": "Eng Masters"
+        },
+        {
+            "Bat & Bowl": "19*, 2/24",
+            "Ground": "Bridgetown",
+            "Match Date": "7 Nov 2010",
+            "Opposition": "v Ind Masters",
+            "Scorecard": "Other T20",
+            "Team": "Eng Masters"
+        },
+        {
+            "Bat & Bowl": "1/22, 13*",
+            "Ground": "Bridgetown",
+            "Match Date": "6 Nov 2010",
+            "Opposition": "v SL Masters",
+            "Scorecard": "Other T20",
+            "Team": "Eng Masters"
+        },
+        {
+            "Bat & Bowl": "1/15, 9",
+            "Ground": "Wormsley",
+            "Match Date": "8 Sep 2009",
+            "Opposition": "v Aus Masters",
+            "Scorecard": "Other T20",
+            "Team": "PCA XI"
+        },
+        {
+            "Bat & Bowl": "14, 0/23",
+            "Ground": "London",
+            "Match Date": "2 Sep 2009",
+            "Opposition": "v World Mast.",
+            "Scorecard": "Other T20",
+            "Team": "PCA XI"
+        },
+        {
+            "Bat & Bowl": "0/6",
+            "Ground": "Wormsley",
+            "Match Date": "29 May 2009",
+            "Opposition": "v Netherlands",
+            "Scorecard": "Other T20",
+            "Team": "PCA XI"
+        },
+        {
+            "Bat & Bowl": "0/26",
+            "Ground": "Wormsley",
+            "Match Date": "28 May 2009",
+            "Opposition": "v Ireland",
+            "Scorecard": "Other T20",
+            "Team": "PCA XI"
+        },
+        {
+            "Bat & Bowl": "0/22",
+            "Ground": "Derby",
+            "Match Date": "14 Sep 2007",
+            "Opposition": "v Derbyshire",
+            "Scorecard": "Other T20",
+            "Team": "PCA XI"
+        },
+        {
+            "Bat & Bowl": "0/39",
+            "Ground": "Chelmsford",
+            "Match Date": "13 Sep 2007",
+            "Opposition": "v Essex",
+            "Scorecard": "Other T20",
+            "Team": "PCA XI"
+        },
+        {
+            "Bat & Bowl": "1/20, 2*",
+            "Ground": "Chelmsford",
+            "Match Date": "11 Sep 2007",
+            "Opposition": "v Essex",
+            "Scorecard": "Other T20",
+            "Team": "PCA XI"
+        }
+    ]
+}

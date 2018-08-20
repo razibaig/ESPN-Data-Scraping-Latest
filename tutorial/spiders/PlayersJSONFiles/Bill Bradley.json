@@ -1,0 +1,111 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "23.00",
+            "Ct": "0",
+            "HS": "23*",
+            "Inns": "2",
+            "Mat": "2",
+            "NO": "1",
+            "Runs": "23",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "50": "1",
+            "6s": "",
+            "Ave": "6.01",
+            "Ct": "80",
+            "HS": "67*",
+            "Inns": "216",
+            "Mat": "144",
+            "NO": "57",
+            "Runs": "956",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "1",
+            "Ave": "38.83",
+            "BBI": "5/67",
+            "BBM": "6/149",
+            "Balls": "625",
+            "Econ": "2.23",
+            "Inns": "4",
+            "Mat": "2",
+            "Runs": "233",
+            "SR": "104.1",
+            "Wkts": "6"
+        },
+        {
+            "": "First-class",
+            "10": "10",
+            "4w": "",
+            "5w": "44",
+            "Ave": "22.65",
+            "BBI": "9/87",
+            "BBM": "",
+            "Balls": "28340",
+            "Econ": "3.03",
+            "Inns": "",
+            "Mat": "144",
+            "Runs": "14341",
+            "SR": "44.7",
+            "Wkts": "633"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/249600.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/236223.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155687.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/68000/68063.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/68000/68063.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJanuary 2, 1875, Sydenham, London "
+        ],
+        "Bowling style": [
+            "Right-arm fast"
+        ],
+        "Died": [
+            "June 19, 1944, Wandsworth Common, London (aged 69 years 169 days) "
+        ],
+        "Full name": [
+            "Walter Morris Bradley"
+        ],
+        "Major teams": [
+            "England,",
+            "Kent,",
+            "London County"
+        ]
+    },
+    "profile_info": [
+        "\nBRADLEY, MR. WALTER MORRIS, died at his home at Wandsworth Common on June 20, aged 69. After captaining the Alleyn's School XI and doing remarkable things for Lloyd's Register--six wickets with consecutive balls at Mitcham was one effort--he was tried for Kent and became a prot\u00e9g\u00e9 of Lord Harris, so that he found time to play county cricket with some regularity from 1895 to 1903. No one who often watched Bill Bradley will forget his aggressive long run with both arms flung above his thrown-back head prior to the right-hand delivery from the full reach of his six feet height. Pitching at the stumps and seldom short, Bradley really personified the attack in cricket, and rarely did he fail to cause trouble among the opposition. A very hard worker, he would keep going for long spells without slackening his speed. As testimony to his worth it need only be mentioned that he played twice for England against Australia in 1899. \n",
+        "In the Manchester match with Joe Darling's very powerful team his great efforts in the first innings earned five wickets for 67 and a place at the Oval in one of the best sides that ever took the field: F. S. Jackson, Hayward, K. S. Ranjitsinhji, C. B. Fry, A. C. MacLaren (captain), C. L. Townsend, Lockwood, A. O. Jones, Lilley, W. Rhodes and W. M. Bradley.",
+        "By far the best amateur bowler that year, his record showed 156 wickets at 19.10 each, but after his heavy work at Old Trafford he met with no success in the Oval Test. That year at Trent Bridge his analysis showed 12 Nottinghamshire wickets for 83 runs, and at Old Trafford in 1901 he took 14 Lancashire wickets for 134, while 12 Surrey wickets fell to him at Canterbury for 142 runs. Twice in 1899 he did the hat-trick--against Essex at Leyton and Yorkshire at Tonbridge. Altogether in his nine seasons of first-class cricket Bradley took 624 wickets at 22.64 each and made 77 catches.",
+        "Like most fast bowlers numbered last on the batting list, Bradley neither expected nor was expected to make runs, but in 1897 at Canterbury against Yorkshire he hit up 67 out of 95 in 45 minutes and was not out when Walter Wright, the left-handed bowler, fell to a catch by Hirst off F. S. Jackson. Altogether his runs totalled only 906--average 6.09, as given by Sir Home Gordon in Form at a Glance.",
+        "Although troubled by heart weakness, Bill Bradley regularly visited Lord's in these war years, and, wearing the M.C.C. tie, he stood out as a popular figure, upholding the best interests of cricket with his many friends in the Long Room.",
+        "He was buried at Elmer's End Cemetery in his own family grave, within a short distance of that of W. G. Grace. Present at the funeral were J. R. Mason, his old Kent captain, and C. J. Burnup, the old Cambridge double Blue, another prominent member of the Kent eleven less than a year junior to Bradley.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

@@ -1,0 +1,352 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "24",
+            "50": "0",
+            "6s": "1",
+            "Ave": "18.00",
+            "BF": "320",
+            "Ct": "14",
+            "HS": "35",
+            "Inns": "11",
+            "Mat": "8",
+            "NO": "1",
+            "Runs": "180",
+            "SR": "56.25",
+            "St": "0"
+        },
+        {
+            "": "ODIs",
+            "100": "0",
+            "4s": "12",
+            "50": "0",
+            "6s": "5",
+            "Ave": "12.07",
+            "BF": "188",
+            "Ct": "19",
+            "HS": "38*",
+            "Inns": "21",
+            "Mat": "31",
+            "NO": "7",
+            "Runs": "169",
+            "SR": "89.89",
+            "St": "0"
+        },
+        {
+            "": "T20Is",
+            "100": "0",
+            "4s": "12",
+            "50": "0",
+            "6s": "7",
+            "Ave": "12.76",
+            "BF": "143",
+            "Ct": "16",
+            "HS": "27*",
+            "Inns": "22",
+            "Mat": "34",
+            "NO": "9",
+            "Runs": "166",
+            "SR": "116.08",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "2",
+            "4s": "",
+            "50": "12",
+            "6s": "",
+            "Ave": "25.01",
+            "BF": "",
+            "Ct": "114",
+            "HS": "147",
+            "Inns": "132",
+            "Mat": "96",
+            "NO": "21",
+            "Runs": "2777",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "0",
+            "4s": "",
+            "50": "1",
+            "6s": "",
+            "Ave": "15.17",
+            "BF": "",
+            "Ct": "44",
+            "HS": "55",
+            "Inns": "53",
+            "Mat": "78",
+            "NO": "13",
+            "Runs": "607",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "T20s",
+            "100": "0",
+            "4s": "58",
+            "50": "0",
+            "6s": "30",
+            "Ave": "17.21",
+            "BF": "672",
+            "Ct": "73",
+            "HS": "45*",
+            "Inns": "82",
+            "Mat": "130",
+            "NO": "35",
+            "Runs": "809",
+            "SR": "120.38",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "1",
+            "5w": "0",
+            "Ave": "35.80",
+            "BBI": "4/18",
+            "BBM": "7/50",
+            "Balls": "1530",
+            "Econ": "2.94",
+            "Inns": "16",
+            "Mat": "8",
+            "Runs": "752",
+            "SR": "72.8",
+            "Wkts": "21"
+        },
+        {
+            "": "ODIs",
+            "10": "0",
+            "4w": "0",
+            "5w": "1",
+            "Ave": "35.37",
+            "BBI": "5/29",
+            "BBM": "5/29",
+            "Balls": "1532",
+            "Econ": "5.95",
+            "Inns": "31",
+            "Mat": "31",
+            "Runs": "1521",
+            "SR": "35.6",
+            "Wkts": "43"
+        },
+        {
+            "": "T20Is",
+            "10": "0",
+            "4w": "1",
+            "5w": "0",
+            "Ave": "28.71",
+            "BBI": "4/28",
+            "BBM": "4/28",
+            "Balls": "742",
+            "Econ": "8.82",
+            "Inns": "34",
+            "Mat": "34",
+            "Runs": "1091",
+            "SR": "19.5",
+            "Wkts": "38"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "10",
+            "5w": "9",
+            "Ave": "31.89",
+            "BBI": "7/43",
+            "BBM": "9/58",
+            "Balls": "16271",
+            "Econ": "3.42",
+            "Inns": "168",
+            "Mat": "96",
+            "Runs": "9282",
+            "SR": "55.9",
+            "Wkts": "291"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "1",
+            "5w": "2",
+            "Ave": "29.01",
+            "BBI": "5/28",
+            "BBM": "5/28",
+            "Balls": "3580",
+            "Econ": "5.68",
+            "Inns": "76",
+            "Mat": "78",
+            "Runs": "3395",
+            "SR": "30.5",
+            "Wkts": "117"
+        },
+        {
+            "": "T20s",
+            "10": "0",
+            "4w": "2",
+            "5w": "0",
+            "Ave": "27.02",
+            "BBI": "4/11",
+            "BBM": "4/11",
+            "Balls": "2531",
+            "Econ": "8.45",
+            "Inns": "125",
+            "Mat": "130",
+            "Runs": "3567",
+            "SR": "19.1",
+            "Wkts": "132"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/ci/content/story/1151752.html",
+        "http://www.espncricinfo.com/ci/content/story/1150630.html",
+        "http://www.espncricinfo.com/ci/content/story/1149818.html",
+        "http://www.espncricinfo.com/ci/content/story/1147277.html",
+        "http://www.espncricinfo.com/ci/content/story/1141692.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=288992"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/278100/278172.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/278100/278172.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/278100/278172.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nOctober 4, 1988, Barbados "
+        ],
+        "Bowling style": [
+            "Right-arm fast-medium"
+        ],
+        "Current age": [
+            "29 years 318 days"
+        ],
+        "Education": [
+            "Dulwich College"
+        ],
+        "Full name": [
+            "Christopher James Jordan"
+        ],
+        "Height": [
+            "\n6 ft 2 in "
+        ],
+        "Major teams": [
+            "England,",
+            "Adelaide Strikers,",
+            "Barbados,",
+            "England Lions,",
+            "Peshawar Zalmi,",
+            "Royal Challengers Bangalore,",
+            "Sunrisers Hyderabad,",
+            "Surrey,",
+            "Surrey 2nd XI,",
+            "Sussex"
+        ],
+        "Nickname": [
+            "CJ"
+        ],
+        "Playing role": [
+            "Bowler"
+        ]
+    },
+    "profile_info": [
+        "\nChris Jordan's remarkable turnaround after being released by Surrey at the end of 2012 was capped when he was named in England's Test squad to play Sri Lanka less than two years later. Having made an immediate impression at Sussex, Jordan was picked for England in late 2013 and seemed at home at international level during a run in the limited-overs sides over the winter, leading to his elevation to five-day cricket with a Test debut against Sri Lanka at Lord's at the start of England's 2014 summer.  \n",
+        "Four cheap wickets to round up India for 94 in an innings win at The Oval brought a contented finish to an inconsistent summer where he showed glimpses of great potential, an attacking bowling style backed up by some belligerent bursts with the bat down the order and slick fielding. That display, plus an excellent all-round performance on his home ground in Bridgetown against West Indies in a Twenty20 international and his five-wicket demolition of Sri Lanka in an ODI at Old Trafford were other highlights. Yet at times things went awry as his method seemed to desert him, such as in a malfunctioning ODI spell against India in Cardiff. ",
+        "England's own malfunction at the 2015 World Cup led to a rethink, but Jordan survived the cull, his prowess as a death bowler still held in high regard. In and out of the side, there were few signs, though, of him running through a side with confidence.",
+        "Jordan, a right-arm quick bowler born in the home of fast bowling, Barbados, was first spotted in his native land by Bill Athey, who was scouting for a recipient of a cricket scholarship back in England at Dulwich College. He became an exciting prospect at Surrey but failed to emerge as the bowler the county had hoped, not helped by a troubled period in the county's affairs.",
+        "Jordan was earmarked for great things after Nadeem Shahid, Surrey's Second XI coach, saw five minutes of his all-round ability. Shahid immediately called then first XI coach Alan Butcher to tell him they had a gem on their books. Five days later Jordan was at first team nets. He impressed there and blazed into Surrey's team in August 2007, looking the part immediately at just 18 years old. ",
+        "It was a hugely promising start with 20 wickets at 24.50 before the year was out but in the following seasons, injuries and inconsistency stalled his career and he missed the whole of 2010 with a back problem. His return in 2011 produced only 11 wickets at 48.00 in the Championship but that winter returned to play for Barbados and his potential was again evident. But back with Surrey in 2012 his impact was minimal and he was released at the end of the season. He went back to Barbados, with the question looming of who he might play for internationally, and excelled again. ",
+        "A move to Sussex in 2013 saw his true potential come to the fore. England soon took notice. Eligible for England through his grandmother, he was selected for two England Lions fixtures in 2013 - meaning he would have to undertake a qualifying period to play for West Indies - and travelled with the full England ODI squad to Dublin. An ODI debut against Australia at the Ageas Bowl was enough to get him to Australia for the limited-overs phase of a return tour a few months later and he was one of the few players to emerge with his reputation enhanced.",
+        "\nHe took 6 for 48 on Sussex debut against Yorkshire, his first-class best figures, and was among the leading wicket-takers in the County Championship, passing fifty wickets for the first time. Sussex - and their director of cricket Mark Robinson - shared the plaudits for restoring an obvious talent. His qualities, though, won an IPL contract with Royal Challengers Bangalore in 2016 and began to limit his county value.",
+        "Jordan's ability to strike a long ball made him dangerous as a lower-order batsman and he added a maiden Championship hundred to his list in 2016, last out for Sussex against Essex for 131 in what turned out to be the last match at the Colchester Festival, and reaching three-figures with an inside edge to fine leg.",
+        null
+    ],
+    "recent_matches": [
+        {
+            "Bat & Bowl": "2/26",
+            "Ground": "Hove",
+            "Match Date": "17 Aug 2018",
+            "Opposition": "v Middlesex",
+            "Scorecard": "T20",
+            "Team": "Sussex"
+        },
+        {
+            "Bat & Bowl": "2/33, 1*",
+            "Ground": "Bristol",
+            "Match Date": "16 Aug 2018",
+            "Opposition": "v Gloucs",
+            "Scorecard": "T20",
+            "Team": "Sussex"
+        },
+        {
+            "Bat & Bowl": "2/9",
+            "Ground": "Hove",
+            "Match Date": "14 Aug 2018",
+            "Opposition": "v Glamorgan",
+            "Scorecard": "T20",
+            "Team": "Sussex"
+        },
+        {
+            "Bat & Bowl": "-",
+            "Ground": "The Oval",
+            "Match Date": "9 Aug 2018",
+            "Opposition": "v Surrey",
+            "Scorecard": "T20",
+            "Team": "Sussex"
+        },
+        {
+            "Bat & Bowl": "1/22",
+            "Ground": "Hove",
+            "Match Date": "5 Aug 2018",
+            "Opposition": "v Somerset",
+            "Scorecard": "T20",
+            "Team": "Sussex"
+        },
+        {
+            "Bat & Bowl": "1, 1/40",
+            "Ground": "Lord's",
+            "Match Date": "2 Aug 2018",
+            "Opposition": "v Middlesex",
+            "Scorecard": "T20",
+            "Team": "Sussex"
+        },
+        {
+            "Bat & Bowl": "13, 1/30",
+            "Ground": "Hove",
+            "Match Date": "1 Aug 2018",
+            "Opposition": "v Gloucs",
+            "Scorecard": "T20",
+            "Team": "Sussex"
+        },
+        {
+            "Bat & Bowl": "1/15",
+            "Ground": "Canterbury",
+            "Match Date": "27 Jul 2018",
+            "Opposition": "v Kent",
+            "Scorecard": "T20",
+            "Team": "Sussex"
+        },
+        {
+            "Bat & Bowl": "46, 3/23, 2/14",
+            "Ground": "Hove",
+            "Match Date": "22 Jul 2018",
+            "Opposition": "v Glamorgan",
+            "Scorecard": "FC",
+            "Team": "Sussex"
+        },
+        {
+            "Bat & Bowl": "0, 1/39, 31, 1/46",
+            "Ground": "Cheltenham",
+            "Match Date": "16 Jul 2018",
+            "Opposition": "v Gloucs",
+            "Scorecard": "FC",
+            "Team": "Sussex"
+        }
+    ]
+}

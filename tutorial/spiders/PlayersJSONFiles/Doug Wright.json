@@ -1,0 +1,117 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "11.11",
+            "Ct": "10",
+            "HS": "45",
+            "Inns": "39",
+            "Mat": "34",
+            "NO": "13",
+            "Runs": "289",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "50": "16",
+            "6s": "",
+            "Ave": "12.34",
+            "Ct": "182",
+            "HS": "84*",
+            "Inns": "703",
+            "Mat": "497",
+            "NO": "225",
+            "Runs": "5903",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "1",
+            "4w": "3",
+            "5w": "6",
+            "Ave": "39.11",
+            "BBI": "7/105",
+            "BBM": "10/175",
+            "Balls": "8135",
+            "Econ": "3.11",
+            "Inns": "59",
+            "Mat": "34",
+            "Runs": "4224",
+            "SR": "75.3",
+            "Wkts": "108"
+        },
+        {
+            "": "First-class",
+            "10": "42",
+            "4w": "",
+            "5w": "150",
+            "Ave": "23.98",
+            "BBI": "9/47",
+            "BBM": "",
+            "Balls": "92960",
+            "Econ": "3.18",
+            "Inns": "",
+            "Mat": "497",
+            "Runs": "49307",
+            "SR": "45.2",
+            "Wkts": "2056"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/ci/content/story/125048.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155317.html",
+        "http://www.espncricinfo.com/ci/content/story/76514.html",
+        "http://www.espncricinfo.com/wcm/content/story/242330.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154643.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=22536"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/58200/58282.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/58200/58282.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/58200/58282.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nAugust 21, 1914, Sidcup, Kent "
+        ],
+        "Bowling style": [
+            "Right-arm medium, Legbreak googly"
+        ],
+        "Died": [
+            "November 13, 1998, Canterbury, Kent (aged 84 years 84 days) "
+        ],
+        "Full name": [
+            "Douglas Vivian Parson Wright"
+        ],
+        "Major teams": [
+            "England,",
+            "Kent"
+        ],
+        "Other": [
+            "Coach"
+        ]
+    },
+    "profile_info": [
+        null,
+        " Wright began as a quick bowler who liked to turn his wrist and slip in the odd spinner; later he reversed the proportions. But his quicker ball remained so fast that Godfrey Evans had to signal the slips to move deeper, and even his stock ball had a rare fizz to it. Everyone agreed - and  Bradman and  Hammond were among his chief admirers - that on his day  Wright was unplayable. But he gave the batsmen a chance to score too.  With his technique, wrote David Frith,  running in from over 15 yards, hopping and skipping as he went, and whipping over a wristy and finger-spun ball that would dip, bounce and deviate crazily off the pitch, to expect long-term accuracy was to display a dismal ignorance of physics. He never ever bowled a ball defensively, said Lord Cowdrey, his team-mate at Kent.  Every ball was bowled to take a wicket.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

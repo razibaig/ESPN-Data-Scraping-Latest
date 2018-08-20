@@ -1,0 +1,110 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "9.50",
+            "Ct": "1",
+            "HS": "18",
+            "Inns": "4",
+            "Mat": "2",
+            "NO": "0",
+            "Runs": "38",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "31",
+            "50": "106",
+            "6s": "",
+            "Ave": "30.20",
+            "Ct": "151",
+            "HS": "277",
+            "Inns": "751",
+            "Mat": "437",
+            "NO": "65",
+            "Runs": "20723",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "2",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "3",
+            "4w": "",
+            "5w": "12",
+            "Ave": "31.21",
+            "BBI": "7/27",
+            "BBM": "",
+            "Balls": "19486",
+            "Econ": "3.17",
+            "Inns": "",
+            "Mat": "437",
+            "Runs": "10300",
+            "SR": "59.0",
+            "Wkts": "330"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155659.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154793.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nFebruary 12, 1871, Stepney, London "
+        ],
+        "Bowling style": [
+            "Legbreak"
+        ],
+        "Died": [
+            "January 10, 1935, Whipps Cross, Leytonstone, Essex (aged 63 years 332 days) "
+        ],
+        "Full name": [
+            "Charles Percy McGahey"
+        ],
+        "Major teams": [
+            "England,",
+            "Essex,",
+            "London County"
+        ]
+    },
+    "profile_info": [
+        null,
+        "Just a natural hitter in club cricket when given a trial by Essex, he advanced slowly, but profited so much from practice against professional bowling provided by Mr. C. E. Green before each season at Leyton and experience in match play, as his form improved, that he became one of the best batsmen of his time. During his long career he scored 20,723 runs with an average of 30 in first-class cricket and as a slow right-hand leg-break bowler he took 328 wickets at 31 runs each. Ready application of what he saw to his own use enabled McGahey to overcome his early faults and for some ten seasons he was one of the mainstays of the Essex team. Standing well over six feet, he played forward with great power and used this stroke even in defence of his wicket rather than wait to see what the ball would do. Essentially a hitter, he showed great strength in driving either to the off or the on and he punished any short ball with severity. Seldom did he cut. He was a good field in the slips or in the deep.",
+        null,
+        "Usually going in second wicket down McGahey shared in three very prolific stands for Essex. In 1900 against Kent at Leyton he and Perrin scored 323 together, setting up what at that time was a record for the third wicket. Four years later at the Oval he and Herbert Carpenter hit up 328 off the Surrey bowlers and at Leyton in 1912 he and Perrin added 312 against Derbyshire. McGahey's highest innings was 277 against Derbyshire at Leyton in 1905, but probably the best display of batting he ever gave was at Old Trafford in July 1898. Essex wanted 336 in the last innings and the previous best total of the match was 254, but thanks to McGahey, who scored 145, they won by four wickets. McGahey's partnership of 191 with Perrin for the third wicket practically decided the result of a memorable game. In 1908 at Leyton he drove a ball from Hallam, the Nottinghamshire bowler, over the Pavilion and into the road. In minor cricket he played many big innings. In 1901 he and Perrin made 309 for Tottenham's first wicket at Clapton without being separated. In 1896 he made 205 for Leyton against Clapton and in 1906 at Llanelly for an Essex eleven he played the highest innings of his career--305 not out.",
+        "More than once indifferent health threatened to cause his premature retirement from cricket, but during a trip to Australia in the winter of 1897 he threw off the danger of a breakdown. At that time and for many years Charles McGahey was a splendid full-back at Association Football. He played for City Ramblers, Tottenham, Hotspur, Clapton, Woolwich Arsenal and Sheffield United besides captaining both London and Middlesex when representative elevens often included famous Corinthians.",
+        null,
+        "\"I well remember one instance of his quick thinking wit when I was in at the other end. McGahey was 99, he played at the next ball, said come one but failed in his stroke and was bowled. As he passed by on the way to the pavilion he said to the bowler Lucky for you I wanted a drink.",
+        "\"I think one of his greatest innings was 277 against Derbyshire in 1905. He and I had many long stands together. Two come to mind readily. Kent, having fielded out 270 runs at the Oval without taking a Surrey wicket in the last stage of a drawn match, came to Leyton, and lost the toss; they got two men out before lunch, then McGahey and I batted the rest of the day and altogether added 323. The other was 312 against Derbyshire seven years later. McGahey was then 41 and I, 36. We made the runs in about three hours, his share was 150.",
+        "\"A very useful change bowler McGahey got us out of many a difficulty. He was a self made cricketer without any tuition whatever. We were dubbed Essex Twins by Joe Armour, the Essex scorer for 44 years--a living volume of Essex cricket history. When I started Joe Armour, in his quaint way, complained that he could not distinguish one from the other. McGahey's height was 6 feet 2 inches, mine 6 feet 3 inches. He suggested that one of the twins should wear a scarf round his waist so that he could get the runs down to the right man.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

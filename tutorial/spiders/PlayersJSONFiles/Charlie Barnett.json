@@ -1,0 +1,111 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "2",
+            "50": "5",
+            "6s": "5",
+            "Ave": "35.41",
+            "Ct": "14",
+            "HS": "129",
+            "Inns": "35",
+            "Mat": "20",
+            "NO": "4",
+            "Runs": "1098",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "48",
+            "50": "113",
+            "6s": "",
+            "Ave": "32.71",
+            "Ct": "320",
+            "HS": "259",
+            "Inns": "821",
+            "Mat": "498",
+            "NO": "45",
+            "Runs": "25388",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "256",
+            "Econ": "2.17",
+            "Inns": "8",
+            "Mat": "20",
+            "Runs": "93",
+            "SR": "-",
+            "Wkts": "0"
+        },
+        {
+            "": "First-class",
+            "10": "2",
+            "4w": "",
+            "5w": "12",
+            "Ave": "30.98",
+            "BBI": "6/17",
+            "BBM": "",
+            "Balls": "28233",
+            "Econ": "2.59",
+            "Inns": "",
+            "Mat": "498",
+            "Runs": "12207",
+            "SR": "71.6",
+            "Wkts": "394"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155327.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154660.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/90600/90668.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJuly 3, 1910, Fairview, Cheltenham, Gloucestershire "
+        ],
+        "Bowling style": [
+            "Right-arm medium"
+        ],
+        "Died": [
+            "May 28, 1993, Stroud, Gloucestershire (aged 82 years 329 days) "
+        ],
+        "Full name": [
+            "Charles John Barnett"
+        ],
+        "Major teams": [
+            "England,",
+            "Gloucestershire"
+        ],
+        "Relation": [
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        null,
+        "In the early days Barnett made a lot of runs in the middle order, often at great speed. But for several years there was more talk of his promise than his achievements. However, when the solid opener A. E. Dipper retired in 1932, Barnett was promoted in his place. It was the making of him - it was in his nature to get on with the business. But he also acquired more defence. In May 1933 he scored his first century in county cricket; in August he made 111 and 93 against Somerset with an assurance and dash he had not quite previously approached. A week later he was playing for England against West Indies at The Oval. He made 52 even though he had to bat No. 8. By the end of the season he had scored 2,280 runs.",
+        " Barnett's attacking style was based on driving and a scorching square cut if given room; it was his ability to drive on the up on the sandy Bristol wickets which particularly astonished his team-mates. He was not a consistent player but between 1933 and 1948 he hit 48 centuries, averaged over 36, passed the 2,000 mark four times, and only twice scored less than 1,500 runs in an English season. A feature of Barnett's career was that he lacked a regular opening partner for either Gloucestershire or England. On the first of his two tours, to India in 1933-34, he was obliged to bat down the order; in Australia in 1936-37, when he was the leading run-scorer, he opened with Worthington, Fagg and Verity; in 1938 it looked as though Barnett and Hutton might become the successors to Hobbs and Sutcliffe, but he was dropped before The Oval, missed out on the tour to South Africa and did not play a Test match for nine years.",
+        "Yet in the First Test at Trent Bridge he came nearer than anyone had done to scoring a first-morning hundred before lunch; he got there the first ball he received afterwards, with a four past extra cover. And by tea-time he had a telegram from his mother in Cirencester: Heartiest congratulations, it said, everyone round about it delighted. It was the second and last of his Test centuries; the first, at Adelaide in a losing cause in 1936-37, was described by Neville Cardus as involving severe discipline for him. Yet there were several near-misses. Robertson-Glasgow said Barnett was a player who made colossal blunders. He cuts the ball in the first over of a Test match, and the ball flies past the head of an outraged gully, who was dreaming of stalemates and composing himself to eternity. Or it doesn't fly past, but sticks in some hand... genius has turned to folly.",
+        "But in his mature years the genius often had the upper hand, with huge and dominating scores in county cricket: he hit 11 sixes in his 194 against Somerset in 1934 that same year he simply flogged the bowling for 170 against Worcestershire at Dudley. As the years went by, he also became an ever more effective bowler with a stock in-swinger above medium pace varied with a leg-cutter. In 1947 he was ninth in the bowling averages, with 50 wickets. In his career, he took 394 wickets at 30.98 to go with the 25,389 runs at 32.71, an average that suggests his style rather than his greatness.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "1",
+            "Ave": "16.16",
+            "Ct": "2",
+            "HS": "40",
+            "Inns": "6",
+            "Mat": "4",
+            "NO": "0",
+            "Runs": "97",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "22",
+            "50": "102",
+            "6s": "",
+            "Ave": "27.50",
+            "Ct": "241",
+            "HS": "233",
+            "Inns": "786",
+            "Mat": "493",
+            "NO": "75",
+            "Runs": "19555",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "34.16",
+            "BBI": "2/22",
+            "BBM": "4/73",
+            "Balls": "399",
+            "Econ": "3.08",
+            "Inns": "8",
+            "Mat": "4",
+            "Runs": "205",
+            "SR": "66.5",
+            "Wkts": "6"
+        },
+        {
+            "": "First-class",
+            "10": "16",
+            "4w": "",
+            "5w": "51",
+            "Ave": "21.12",
+            "BBI": "8/26",
+            "BBM": "",
+            "Balls": "65764",
+            "Econ": "2.09",
+            "Inns": "",
+            "Mat": "493",
+            "Runs": "22984",
+            "SR": "60.4",
+            "Wkts": "1088"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/888219/seven-in-the-shallows",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154674.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/62100/62129.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJune 8, 1903, Long Eaton, Derbyshire "
+        ],
+        "Bowling style": [
+            "Right-arm medium, Right-arm offbreak"
+        ],
+        "Died": [
+            "February 17, 1993, Richmond, Nelson, New Zealand (aged 89 years 254 days) "
+        ],
+        "Full name": [
+            "Leslie Fletcher Townsend"
+        ],
+        "Major teams": [
+            "England,",
+            "Auckland,",
+            "Derbyshire"
+        ]
+    },
+    "profile_info": [],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

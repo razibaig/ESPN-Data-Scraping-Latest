@@ -1,0 +1,135 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "15.00",
+            "Ct": "0",
+            "HS": "21*",
+            "Inns": "5",
+            "Mat": "5",
+            "NO": "3",
+            "Runs": "30",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "50": "0",
+            "6s": "",
+            "Ave": "8.45",
+            "Ct": "91",
+            "HS": "45",
+            "Inns": "204",
+            "Mat": "180",
+            "NO": "84",
+            "Runs": "1015",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "0",
+            "50": "0",
+            "6s": "",
+            "Ave": "4.75",
+            "Ct": "20",
+            "HS": "16*",
+            "Inns": "45",
+            "Mat": "95",
+            "NO": "21",
+            "Runs": "114",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "1",
+            "5w": "0",
+            "Ave": "27.11",
+            "BBI": "4/25",
+            "BBM": "6/133",
+            "Balls": "1145",
+            "Econ": "2.41",
+            "Inns": "9",
+            "Mat": "5",
+            "Runs": "461",
+            "SR": "67.3",
+            "Wkts": "17"
+        },
+        {
+            "": "First-class",
+            "10": "5",
+            "4w": "",
+            "5w": "30",
+            "Ave": "20.29",
+            "BBI": "8/26",
+            "BBM": "",
+            "Balls": "28878",
+            "Econ": "2.44",
+            "Inns": "",
+            "Mat": "180",
+            "Runs": "11773",
+            "SR": "49.7",
+            "Wkts": "580"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "7",
+            "5w": "0",
+            "Ave": "16.80",
+            "BBI": "4/8",
+            "BBM": "4/8",
+            "Balls": "4802",
+            "Econ": "2.73",
+            "Inns": "",
+            "Mat": "95",
+            "Runs": "2185",
+            "SR": "36.9",
+            "Wkts": "130"
+        }
+    ],
+    "latest_articles": [],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/276100/276124.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/276100/276124.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/276100/276124.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nDecember 4, 1935, Stepney, London "
+        ],
+        "Bowling style": [
+            "Left-arm fast-medium"
+        ],
+        "Current age": [
+            "82 years 257 days"
+        ],
+        "Full name": [
+            "Frederick Edward Rumsey"
+        ],
+        "Major teams": [
+            "England,",
+            "Derbyshire,",
+            "Somerset,",
+            "Worcestershire"
+        ]
+    },
+    "profile_info": [],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "8.76",
+            "Ct": "4",
+            "HS": "20*",
+            "Inns": "17",
+            "Mat": "9",
+            "NO": "4",
+            "Runs": "114",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "1",
+            "50": "15",
+            "6s": "",
+            "Ave": "15.67",
+            "Ct": "91",
+            "HS": "106",
+            "Inns": "328",
+            "Mat": "198",
+            "NO": "56",
+            "Runs": "4264",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "1",
+            "4w": "4",
+            "5w": "6",
+            "Ave": "12.70",
+            "BBI": "7/37",
+            "BBM": "13/91",
+            "Balls": "2302",
+            "Econ": "2.01",
+            "Inns": "16",
+            "Mat": "9",
+            "Runs": "775",
+            "SR": "37.7",
+            "Wkts": "61"
+        },
+        {
+            "": "First-class",
+            "10": "11",
+            "4w": "",
+            "5w": "63",
+            "Ave": "17.54",
+            "BBI": "8/41",
+            "BBM": "",
+            "Balls": "38396",
+            "Econ": "2.22",
+            "Inns": "",
+            "Mat": "198",
+            "Runs": "14250",
+            "SR": "47.2",
+            "Wkts": "812"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155754.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154826.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/042004/051539.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/042004/051539.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Left-hand bat"
+        ],
+        "Born": [
+            "\nMay 21, 1867, Sydney, New South Wales "
+        ],
+        "Bowling style": [
+            "Left-arm bowler"
+        ],
+        "Died": [
+            "November 17, 1900, Addington, Durban, Natal, South Africa (aged 33 years 180 days) "
+        ],
+        "Full name": [
+            "John James Ferris"
+        ],
+        "Major teams": [
+            "Australia,",
+            "England,",
+            "Gloucestershire,",
+            "New South Wales,",
+            "South Australia"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

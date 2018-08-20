@@ -1,0 +1,105 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "1",
+            "50": "3",
+            "6s": "1",
+            "Ave": "37.46",
+            "Ct": "1",
+            "HS": "117",
+            "Inns": "13",
+            "Mat": "7",
+            "NO": "0",
+            "Runs": "487",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "29",
+            "50": "87",
+            "6s": "",
+            "Ave": "30.08",
+            "Ct": "169",
+            "HS": "219",
+            "Inns": "642",
+            "Mat": "385",
+            "NO": "51",
+            "Runs": "17783",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "7",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "4",
+            "Ave": "34.83",
+            "BBI": "6/29",
+            "BBM": "",
+            "Balls": "5031",
+            "Econ": "2.94",
+            "Inns": "",
+            "Mat": "385",
+            "Runs": "2473",
+            "SR": "70.8",
+            "Wkts": "71"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155674.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154812.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/52400/52465.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nNovember 21, 1865, Waterloo, Leeds, Yorkshire "
+        ],
+        "Died": [
+            "January 6, 1939, Heaton, Bolton, Lancashire (aged 73 years 46 days) "
+        ],
+        "Full name": [
+            "Albert Ward"
+        ],
+        "Major teams": [
+            "England,",
+            "Lancashire,",
+            "Yorkshire"
+        ]
+    },
+    "profile_info": [
+        "\nAlbert Ward, a prominent Lancashire and England batsman fifty years ago, died on January 6 at his home in Bolton, aged 73. In 1886 Albert Ward played a few times for Yorkshire, the county of his birth, but, having qualified for Lancashire by residence, he at once proved himself worth a regular place in first-class cricket. Starting in 1889 against M.C.C. at Lord's, he scored 95 for once out and soon afterwards showed his liking for the game at Headquarters by making 114 not out and helping largely towards a victory by an innings and 67 runs over Middlesex. He finished second in the batting averages with 29 and was always valuable in the side that finished level with Nottinghamshire and Surrey at the top of the Championship. He remained a source of strength to Lancashire batting for fourteen years. He was the first professional who reached a four figure aggregate for Lancashire in a season's county matches and nine times consecutively in first class fixtures he made over a thousand runs a season, his best record being 1,790 runs in 1895 with an average of 42. Altogether for Lancashire he obtained 14,698 runs, average 30.95. These were remarkable figures at that time. \n",
+        "Possessing the ideal temperament for an opening batsman--cool, patient, and persevering--he carried his bat through an innings on five occasions and for England against Australia he accomplished some of his best performances.",
+        "After scoring 222 in four innings for Lancashire and North of England off the Australian bowlers he made 55 in England's one innings of 483 at the Oval in 1893 and, going out with A. E. Stoddart's eleven in the autumn of 1894, he took a conspicuous part in winning the rubber. Australia began the first encounter at Sydney by putting together 586--then the record for these matches--and England, despite 75 by Ward and consistent batting, had to follow-on. Ward, as usual, going in first, again received capable support and scored 117 towards a total of 437. Australia, before the drawing of stumps got 113 while losing two batsman and wanted only 64 runs for victory but, after a night's rain, Peel and Briggs took the remaining eight wickets for 53 runs and England snatched a sensational victory. England won the second test, Ward with 30 and 41 doing his share, but under unfavourable conditions they were dismissed for small scores. Two victories for Australia squared the rubber. In the final struggle England, set to make 297, lost Brockwell and Stoddart for 28 runs but J. T. Brown, of Yorkshire, joined Ward in a wonderful stand which put on 210 and practically decided the issue, England winning by six wickets. Brown scored 140 in brilliant style and Ward followed a first innings of 32 with 93. Altogether during the tour Ward made 916 runs, the highest aggregate in first class matches, with an average of 41.",
+        "Seeing that Albert Ward maintained his form for Lancashire it was strange that he was not called upon again for England, particularly for the next tour in which Australia won the test series by four to one.",
+        "Standing six feet high Ward used his long reach in irreproachable defence and, while essentially careful, he drove with plenty of power and cut well. Besides being a fine outfield, where he seldom dropped a catch, he bowled slows which got valuable wickets when the regular bowlers were mastered. He used to say they get so mad at being beaten by a cock-a-doodler like me. Among his victims when in their prime were C. L. Townsend, Arthur Shrewsbury, George Hirst and C. B. Fry. In fact he was one of the early freak bowlers before the description googly was invented.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

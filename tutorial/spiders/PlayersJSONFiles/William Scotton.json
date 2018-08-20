@@ -1,0 +1,108 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "3",
+            "6s": "0",
+            "Ave": "22.17",
+            "Ct": "4",
+            "HS": "90",
+            "Inns": "25",
+            "Mat": "15",
+            "NO": "2",
+            "Runs": "510",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "4",
+            "50": "23",
+            "6s": "",
+            "Ave": "18.97",
+            "Ct": "122",
+            "HS": "134",
+            "Inns": "377",
+            "Mat": "237",
+            "NO": "33",
+            "Runs": "6527",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "20",
+            "Econ": "6.00",
+            "Inns": "1",
+            "Mat": "15",
+            "Runs": "20",
+            "SR": "-",
+            "Wkts": "0"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "51.25",
+            "BBI": "1/7",
+            "BBM": "",
+            "Balls": "765",
+            "Econ": "3.21",
+            "Inns": "",
+            "Mat": "237",
+            "Runs": "410",
+            "SR": "95.6",
+            "Wkts": "8"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/210469.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/042004/051963.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/042004/051963.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/042004/051963.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Left-hand bat"
+        ],
+        "Born": [
+            "\nJanuary 15, 1856, Nottingham "
+        ],
+        "Bowling style": [
+            "Left-arm fast-medium"
+        ],
+        "Died": [
+            "July 9, 1893, St John's Wood, London (aged 37 years 175 days) "
+        ],
+        "Full name": [
+            "William Henry Scotton"
+        ],
+        "Major teams": [
+            "England,",
+            "Nottinghamshire"
+        ],
+        "Relation": [
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        null,
+        "William Scotton, who died by his own hand on July 9, was born on January 15, 1856, and was thus in his thirty-eighth year. For some time previous to his tragic end he had been in a very low, depressed condition, the fact that he had lost his place in the Notts eleven having, so it was stated at the inquest, preyed very seriously upon his mind. Scotton played his first match at Lord\"s for Sixteen Colts of England against the M.C.C. on the 11th and 12th of May, 1874, scoring on that occasion 19 and 0. He was engaged as a groundman by the M.C.C. in that year and 1875, and after an engagement at Kennington Oval returned to the service of the M.C.C., of whose ground staff he was a member at the time of his death. His powers were rather slow to ripen, and he had been playing for several years before he obtained anything like a first-rate position. At one period of his career, however, and more particularly during the seasons of 1884 and 1886, he was beyond all question the best professional left-handed batsman in England. In 1884 he scored 567 runs for Notts in thirteen matches, with an average of 31.9; in 1885, 442 runs in fourteen engagements, with an average of 22.2; and in 1886, in county fixtures only, 559 runs, with an average of 29.8. Though he several times made higher scores, his finest performance was undoubtedly his innings of 90 for England against Australia at Kennington Oval in August, 1884. The match, as cricket readers will readily remember, resulted in a draw, Australia scoring 551 and England 346 and 85 for two wickets. In England\"s first innings Scotton went in first, and was the ninth man out, the total when he left being 332. During a stay of five hours and three quarters he played the bowling of Spofforth, Palmer, Boyle, Midwinter, and George Giffen without giving the slightest chance, and but for his impregnable defence it is quite likely that England would have been beaten. Up to a certain time he received very little assistance, but when W. W. Read joined him, 151 runs were put on for the ninth wicket. Against the Australian team of 1886 Scotton played two remarkable innings in company with Mr. W. G. Grace, the two batsmen scoring 170 together for the first wicket for England at the Oval, and 156 for Lord Londesborough\"s Eleven at Scarborough. Scotton\"s score at the Oval was only 34, but at Scarborough he made 71. Scotton paid three visits to Australia, going out with Shaw and Shrewsbury\"s teams in 1881, 1884, and 1886. In the three tours he averaged respectively in the eleven a-side matches, 20.8, 17.3, and 10.13. Few left-handed men have ever played with so straight a bat or possessed such a strong defence, but he carried caution to such extremes that it was often impossible to take any pleasure in seeing him play.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {}
+    ]
+}

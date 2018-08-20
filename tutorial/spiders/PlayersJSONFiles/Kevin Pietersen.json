@@ -1,0 +1,362 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "23",
+            "4s": "985",
+            "50": "35",
+            "6s": "81",
+            "Ave": "47.28",
+            "BF": "13255",
+            "Ct": "62",
+            "HS": "227",
+            "Inns": "181",
+            "Mat": "104",
+            "NO": "8",
+            "Runs": "8181",
+            "SR": "61.72",
+            "St": "0"
+        },
+        {
+            "": "ODIs",
+            "100": "9",
+            "4s": "427",
+            "50": "25",
+            "6s": "77",
+            "Ave": "40.73",
+            "BF": "5128",
+            "Ct": "40",
+            "HS": "130",
+            "Inns": "125",
+            "Mat": "136",
+            "NO": "16",
+            "Runs": "4440",
+            "SR": "86.58",
+            "St": "0"
+        },
+        {
+            "": "T20Is",
+            "100": "0",
+            "4s": "119",
+            "50": "7",
+            "6s": "32",
+            "Ave": "37.93",
+            "BF": "831",
+            "Ct": "14",
+            "HS": "79",
+            "Inns": "36",
+            "Mat": "37",
+            "NO": "5",
+            "Runs": "1176",
+            "SR": "141.51",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "50",
+            "4s": "",
+            "50": "71",
+            "6s": "",
+            "Ave": "49.76",
+            "BF": "",
+            "Ct": "152",
+            "HS": "355*",
+            "Inns": "358",
+            "Mat": "217",
+            "NO": "26",
+            "Runs": "16522",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "15",
+            "4s": "",
+            "50": "46",
+            "6s": "",
+            "Ave": "40.76",
+            "BF": "",
+            "Ct": "85",
+            "HS": "147",
+            "Inns": "233",
+            "Mat": "253",
+            "NO": "34",
+            "Runs": "8112",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "T20s",
+            "100": "3",
+            "4s": "495",
+            "50": "35",
+            "6s": "220",
+            "Ave": "33.89",
+            "BF": "4160",
+            "Ct": "66",
+            "HS": "115*",
+            "Inns": "193",
+            "Mat": "200",
+            "NO": "25",
+            "Runs": "5695",
+            "SR": "136.89",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "88.60",
+            "BBI": "3/52",
+            "BBM": "4/78",
+            "Balls": "1311",
+            "Econ": "4.05",
+            "Inns": "58",
+            "Mat": "104",
+            "Runs": "886",
+            "SR": "131.1",
+            "Wkts": "10"
+        },
+        {
+            "": "ODIs",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "52.85",
+            "BBI": "2/22",
+            "BBM": "2/22",
+            "Balls": "400",
+            "Econ": "5.55",
+            "Inns": "23",
+            "Mat": "136",
+            "Runs": "370",
+            "SR": "57.1",
+            "Wkts": "7"
+        },
+        {
+            "": "T20Is",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "53.00",
+            "BBI": "1/27",
+            "BBM": "1/27",
+            "Balls": "30",
+            "Econ": "10.60",
+            "Inns": "3",
+            "Mat": "37",
+            "Runs": "53",
+            "SR": "30.0",
+            "Wkts": "1"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "51.50",
+            "BBI": "4/31",
+            "BBM": "",
+            "Balls": "6443",
+            "Econ": "3.50",
+            "Inns": "",
+            "Mat": "217",
+            "Runs": "3760",
+            "SR": "88.2",
+            "Wkts": "73"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "51.75",
+            "BBI": "3/14",
+            "BBM": "3/14",
+            "Balls": "2390",
+            "Econ": "5.32",
+            "Inns": "",
+            "Mat": "253",
+            "Runs": "2122",
+            "SR": "58.2",
+            "Wkts": "41"
+        },
+        {
+            "": "T20s",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "31.41",
+            "BBI": "3/33",
+            "BBM": "3/33",
+            "Balls": "396",
+            "Econ": "8.09",
+            "Inns": "30",
+            "Mat": "200",
+            "Runs": "534",
+            "SR": "23.2",
+            "Wkts": "17"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/ci/content/story/1149250.html",
+        "http://www.espncricinfo.com/bangladesh/content/story/1140939.html",
+        "http://www.espncricinfo.com/ci/content/story/1140700.html",
+        "http://www.espncricinfo.com/england/content/story/1140612.html",
+        "http://www.espncricinfo.com/ci/content/story/1140580.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=19296"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/277300/277359.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/277300/277359.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/277300/277359.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJune 27, 1980, Pietermaritzburg, Natal "
+        ],
+        "Bowling style": [
+            "Right-arm offbreak"
+        ],
+        "Current age": [
+            "38 years 52 days"
+        ],
+        "Education": [
+            "Maritzburg College, University of SA"
+        ],
+        "Full name": [
+            "Kevin Peter Pietersen"
+        ],
+        "Height": [
+            "\n6 ft 4 in "
+        ],
+        "Major teams": [
+            "England,",
+            "Deccan Chargers,",
+            "Delhi Daredevils,",
+            "Dolphins,",
+            "Hampshire,",
+            "ICC World XI,",
+            "KwaZulu-Natal,",
+            "Melbourne Stars,",
+            "Natal,",
+            "Nottinghamshire,",
+            "Quetta Gladiators,",
+            "Rising Pune Supergiants,",
+            "Royal Challengers Bangalore,",
+            "St Lucia Zouks,",
+            "Sunrisers Hyderabad,",
+            "Surrey"
+        ],
+        "Nickname": [
+            "KP, Kelves, Kapes, Kev"
+        ],
+        "Playing role": [
+            "Top-order batsman"
+        ]
+    },
+    "profile_info": [
+        "\nFew cricketers have divided opinion like Kevin Pietersen. When he was unceremoniously dumped from England's set up early in 2014, with lawyers at the ready on all sides, he was presented by those in authority as an egotistical individualist whose reluctance to respect those in charge forever undermined attempts to build a strong team ethic. Whatever view you held, Pietersen deserved to be recognised as one of the most captivating cricketers to pull on an England shirt. His flamboyant strokeplay was at the heart of many of England's finest performances for a decade. A brazen belief in his own ability, moments of outrageous unorthodoxy and, at times, a surprising vulnerability on and off the field have all combined to give him great box-office appeal.  \n",
+        "His 8,181 Test runs at 47.28 in 104 Tests had few rivals in England's history and his record in limited-overs cricket was also outstanding. In 2013, he became the highest England run-scorer in all international forms of the game combined. But Pietersen's ability to command attention on the field has been matched only by his ability to divide opinion off it. After more than nine years and many controversies, Pietersen's England career was at an end, a fact he wrestled with interminably: accepting it one day, holding out hope of a miraculous return the next. He had no choice but to commit himself to the life of a T20 specialist.",
+        "For many England cricket fans, no name sparks more excitement. But his celebrity status, individualistic streak and outspoken ways often grated with the England cricket authorities who prefer their star names to be more malleable and conservative. The English media, which has at times been vitriolic - not to say personal - about his rebellious streak has generally recognised that he has few peers.",
+        "An attempt to introduce him into the inner sanctum, by appointing him England captain in August 2008, lasted only five months as his relationship with the coach, Peter Moores, was uncomfortable from the outset. Their differences simmered throughout a troubled tour of India and when the rift became public Pietersen was forced to resign early in the New Year with a disenchanted Moores sacked on the same day. ",
+        "Another dispute arose in May 2012 when Pietersen, agitating for the freedom to play for longer in the Indian Premier League - where his popularity was unquestioned - briefly announced his retirement from all forms of limited-overs international cricket. Pietersen's frustration had a disruptive effect on England's summer Test series against South Africa. The ECB regarded the matter as an unacceptable display of player power. He was dropped for the final Test at The Oval and omitted from World Twenty20 in Sri Lanka, England predictable struggling in his absence.",
+        "Pietersen was born in Pietermaritzburg to an Afrikaner father, Jannie, and an English mother, Penny, and abandoned South Africa cricket as a teenager in protest against the racial quota system which he felt was unfairly restricting his opportunities at KwaZulu Natal. He joined Nottinghamshire in 2000, attracted by the chance to work with Clive Rice, the county's coach and a former South Africa allrounder, but left at the end of the 2003 season after Nottinghamshire were relegated, unhappy with the standard of the Trent Bridge pitches and expressed his feelings strongly enough for the captain, Jason Gallian, to fling his kit out of the dressing room window. He signed for Hampshire, where he remained until 2010, at which point he decamped to Surrey to be close to his Chelsea home, but by then his county appearances had long become sporadic.",
+        "His England career began in a low-key one-day series in Zimbabwe in 2004 when Andrew Flintoff was \"rested\" after expressing moral misgivings about the political regime of Robert Mugabe. Pietersen averaged 104 in England's 4-0 victory. A subsequent tour of South Africa was more daunting, but he produced three audacious centuries in the series, his unbeaten 100 in 69 balls becoming England's quickest ODI hundred. He went on to reach 1000 one-day runs in just 21 innings - equalling Viv Richards' record. ",
+        "Test cricket beckoned with the 2005 Ashes the following summer: Pietersen's selection ahead of Graham Thorpe representing the toughest selectorial decision of early summer. He sealed the return of the urn after 17 years with a stroke-filled 158 at The Oval on the final day of the series. England needed to avoid defeat to regain the Ashes and Pietersen was dropped three times on the way to 60, but tension gave way to scenes of jubilation as his adrenalin-charged climax included seven sixes, breaking Ian Botham's record for England in an Ashes Test. He was named man of the match, finished an uneven series as top scorer, with 473 runs at 52.55 and, like the rest of the side, was awarded an MBE amid an atmosphere of national jubilation. He was also named as one of Wisden's Five Cricketers of the Year.",
+        "The subsequent years were a whirl of exciting innings, occasional rash dismissals and celebrity engagements. Sri Lanka's visit to England in 2006 was a high point. He matched his highest Test score of 158 in the first Test and in the following Test at Edgbaston, to general incredulity he unveiled the Switch Hit as he reversed his stance to slog-sweep Muttiah Muralitharan for six. There was no more appropriate way for a player of Pietersen's razzamatazz to become the first batsman since Graham Gooch in 1990 to score a century in three successive Test innings in England. The MCC ruled in 2008 that the shot was legal. He was up for the challenge, too, in Australia in 2006-7, averaging more than 50, and in the World Cup which followed, but England were a ramshackle lot as Flintoff, the captain, and coach Duncan Fletcher rarely had a meeting of minds. ",
+        "Soon it was time for his ill-fated tilt at the England captaincy. His tenure officially began when Michael Vaughan, the Test captain, retired and Paul Collingwood stood down as ODI captain at the same time. Pietersen started with a century and victory against South Africa at The Oval but that was perhaps as close as he ever got to acceptance from the establishment. England's ODI series against India ended prematurely because of terrorist attacks on Mumbai, but England returned to fulfil the Test tour amid unprecedented security as Pietersen expressed the need not to be cowed by terrorism. But behind the scenes Pietersen's relationship was deteriorating with Moores, a coach with no international experience and an unrelenting work ethic. Pietersen recommended, rather too publicly, that Moores be removed and got his way, only to be summarily sacked as well. His relationship with the ECB never entirely recovered. Andrew Strauss and Andy Flower, who took over as captain and coach, had much healing to undertake.",
+        "Alongside brushes with management - a feature in all the teams he has played for - injuries have interrupted him at key moments. His 2009 Ashes campaign was cut short by leg trouble that needed surgery and he left the 2011 World Cup with a hernia. His form became mercurial rather than reliable and he seemed to develop a curious fallibility against a succession of left-arm spinners, some more renowned than others. But he ended a 20-month wait for an international century by making a career-best 227 as England won the Ashes in Australia for the first time in 24 years, then scored 533 runs at 106.60 in England's 4-0 home whitewashing of India that secured them the No.1 ranking in Tests. His reputation as one of England's greats could no longer be denied.",
+        "He was also the Man of the Tournament in England's World Twenty20 win in 2010 but his one-day batting tailed off, with no centuries over a three-year period between 2009 and 2011. He scored two in successive innings against Pakistan in 2012 - including his highest ODI score of 130 - and, briefly, it appeared they would be his last innings in coloured kit for England when he announced his retirement from limited-overs internationals, briefly seduced by the attractions of IPL. ",
+        "England's Test against South Africa at Headingley in 2012 captured his career in microcosm. His power struggle with the ECB had left him moody and unpredictable before the Test, but when the match began he struck a quite brilliant 149 and, in the process, became the fastest man in terms of time, to reach 7,000 Test runs. That was quickly followed by more off-field drama, as reports of derogatory text messages about his captain, Strauss, to South Africa players, filled the media. Pietersen was dropped for the next Test at Lord's and, even though he did an about turn and reconfirmed his desire to play for England in all formats, forgiveness did not come quickly enough for him to play in World Twenty20. When he was officially invited back into the ranks, in Colombo, he had to sit next to the ECB chairman, Giles Clarke, as details of his \"reintegration process\" were sternly issued.  His response was to bat as well as ever. His 186 in Mumbai was a jewel in England's crown as they won a Test series in India for the first time in 28 years.",
+        null
+    ],
+    "recent_matches": [
+        {
+            "Bat & Bowl": "7",
+            "Ground": "Sharjah",
+            "Match Date": "15 Mar 2018",
+            "Opposition": "v Islamabad Un",
+            "Scorecard": "T20",
+            "Team": "Quetta Glad"
+        },
+        {
+            "Bat & Bowl": "11",
+            "Ground": "Sharjah",
+            "Match Date": "14 Mar 2018",
+            "Opposition": "v Qalandars",
+            "Scorecard": "T20",
+            "Team": "Quetta Glad"
+        },
+        {
+            "Bat & Bowl": "21",
+            "Ground": "Dubai (DSC)",
+            "Match Date": "10 Mar 2018",
+            "Opposition": "v Zalmi",
+            "Scorecard": "T20",
+            "Team": "Quetta Glad"
+        },
+        {
+            "Bat & Bowl": "52",
+            "Ground": "Dubai (DSC)",
+            "Match Date": "8 Mar 2018",
+            "Opposition": "v Karachi Kngs",
+            "Scorecard": "T20",
+            "Team": "Quetta Glad"
+        },
+        {
+            "Bat & Bowl": "5",
+            "Ground": "Dubai (DSC)",
+            "Match Date": "7 Mar 2018",
+            "Opposition": "v Sultans",
+            "Scorecard": "T20",
+            "Team": "Quetta Glad"
+        },
+        {
+            "Bat & Bowl": "5",
+            "Ground": "Sharjah",
+            "Match Date": "1 Mar 2018",
+            "Opposition": "v Zalmi",
+            "Scorecard": "T20",
+            "Team": "Quetta Glad"
+        },
+        {
+            "Bat & Bowl": "48",
+            "Ground": "Sharjah",
+            "Match Date": "28 Feb 2018",
+            "Opposition": "v Islamabad Un",
+            "Scorecard": "T20",
+            "Team": "Quetta Glad"
+        },
+        {
+            "Bat & Bowl": "-",
+            "Ground": "Dubai (DSC)",
+            "Match Date": "24 Feb 2018",
+            "Opposition": "v Qalandars",
+            "Scorecard": "T20",
+            "Team": "Quetta Glad"
+        },
+        {
+            "Bat & Bowl": "6",
+            "Ground": "Dubai (DSC)",
+            "Match Date": "23 Feb 2018",
+            "Opposition": "v Karachi Kngs",
+            "Scorecard": "T20",
+            "Team": "Quetta Glad"
+        },
+        {
+            "Bat & Bowl": "46",
+            "Ground": "Melbourne",
+            "Match Date": "27 Jan 2018",
+            "Opposition": "v Hurricanes",
+            "Scorecard": "T20",
+            "Team": "Melb Stars"
+        }
+    ]
+}

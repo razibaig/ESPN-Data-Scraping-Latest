@@ -1,0 +1,100 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "1",
+            "6s": "0",
+            "Ave": "19.44",
+            "Ct": "0",
+            "HS": "55",
+            "Inns": "9",
+            "Mat": "5",
+            "NO": "0",
+            "Runs": "175",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "14",
+            "50": "63",
+            "6s": "",
+            "Ave": "27.09",
+            "Ct": "110",
+            "HS": "146",
+            "Inns": "482",
+            "Mat": "282",
+            "NO": "17",
+            "Runs": "12598",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "5",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "52",
+            "Econ": "7.84",
+            "Inns": "",
+            "Mat": "282",
+            "Runs": "68",
+            "SR": "-",
+            "Wkts": "0"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155444.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nFebruary 13, 1904, Paddington, London "
+        ],
+        "Died": [
+            "June 4, 1979, Idmiston, Wiltshire (aged 75 years 111 days) "
+        ],
+        "Full name": [
+            "Edward William Dawson"
+        ],
+        "Major teams": [
+            "England,",
+            "Cambridge University,",
+            "Leicestershire"
+        ]
+    },
+    "profile_info": [
+        null,
+        "One of the most brilliant schoolboy cricketers of the 'twenties, Eddie Dawson who died on June 4 at the age of 75, wen on to captain Leicestershire and to play five times for England. He developed very strong defence under the guidance of F. E. Lacey at the Lord's coaching classes and added to it an attractive range of strokes. In 1923 he scored 159 for Eton against Harrow, and 113 against Winchester. Four years in the Cambridge XI, he led them to victory in the 1927 Varsity match, and took over the Leicester* shire captaincy the following year. A popular leader, he led the county again in 1929, 1931 and 1933, and by his retirement he had made 12,597 runs in first-class cricket at an average of 27.09, with a top score of 146 against Gloucestershire. HE represented the Gentlemen four times. ",
+        "He did not truly fulfil himself in Tesy cricket, making only 14 and 9 on debut at  Durban and failing in the majority of his seven innings in New Zealand in 1929-30. He did, however, make 44 in the Wellington Test and 55 in the last, at Auckland, opening both times with Ted Bowley.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

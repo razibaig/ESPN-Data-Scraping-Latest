@@ -1,0 +1,115 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "2",
+            "6s": "6",
+            "Ave": "35.12",
+            "Ct": "4",
+            "HS": "84",
+            "Inns": "9",
+            "Mat": "5",
+            "NO": "1",
+            "Runs": "281",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "9",
+            "50": "68",
+            "6s": "",
+            "Ave": "23.42",
+            "Ct": "174",
+            "HS": "194",
+            "Inns": "612",
+            "Mat": "398",
+            "NO": "47",
+            "Runs": "13235",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "5",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "83.00",
+            "BBI": "1/7",
+            "BBM": "",
+            "Balls": "236",
+            "Econ": "6.33",
+            "Inns": "",
+            "Mat": "398",
+            "Runs": "249",
+            "SR": "78.6",
+            "Wkts": "3"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/302468.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155465.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/042004/051388.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/042004/051388.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/042004/051388.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nMarch 3, 1888, Winchmore Hill, Middlesex "
+        ],
+        "Died": [
+            "October 6, 1964, Milton-Lilbourne, Wiltshire (aged 76 years 217 days) "
+        ],
+        "Education": [
+            "Malvern; Cambridge University"
+        ],
+        "Full name": [
+            "Francis Thomas Mann"
+        ],
+        "Major teams": [
+            "England,",
+            "Cambridge University,",
+            "Middlesex"
+        ],
+        "Relation": [
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        "\nFrank Mann, who died suddenly on October 6, aged 76, was among the most forceful batsmen in the history of cricket. In the Malvern XI from 1904 to 1907, he was captain in the last year. Going up to Cambridge, he played in the University matches of 1909, 1910 and 1911 without achieving anything of note. Though he played Association football at Malvern, he gained a Rugby Blue as a forward in 1910. \n",
+        "In 1909 Mann began his association with Middlesex, for whom he played till 1931. He soon became celebrated for his powerful stroke-play, and particularly for his tremendous driving. Once against Yorkshire he drove the ball four times on to the roof of the Pavilion at Lord's. At Trent Bridge in 1925 he helped Middlesex to score 502, the highest fourth-innings total in the County Championship, and beat Nottinghamshire by four wickets. His contribution amounted to 101, he and E. Hendren (200) hitting off the last 271 runs in three and a quarter hours without being parted. Altogether Mann scored 14,182 runs at an average of 23.67 and brought off 165 catches, most of them at mid-off where he was an eminently safe fieldsman. The biggest of his eight three-figure innings was 194 from the Warwickshire bowling at Edgbaston in 1926. His best season for Middlesex was that of 1922, when he hit 935 runs, average 24.60.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

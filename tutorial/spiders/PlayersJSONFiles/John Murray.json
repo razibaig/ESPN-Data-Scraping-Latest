@@ -1,0 +1,144 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "1",
+            "50": "2",
+            "6s": "2",
+            "Ave": "22.00",
+            "Ct": "52",
+            "HS": "112",
+            "Inns": "28",
+            "Mat": "21",
+            "NO": "5",
+            "Runs": "506",
+            "St": "3"
+        },
+        {
+            "": "First-class",
+            "100": "16",
+            "50": "84",
+            "6s": "",
+            "Ave": "23.59",
+            "Ct": "1268",
+            "HS": "142",
+            "Inns": "936",
+            "Mat": "635",
+            "NO": "136",
+            "Runs": "18872",
+            "St": "259"
+        },
+        {
+            "": "List A",
+            "100": "0",
+            "50": "8",
+            "6s": "",
+            "Ave": "19.49",
+            "Ct": "164",
+            "HS": "75*",
+            "Inns": "136",
+            "Mat": "149",
+            "NO": "19",
+            "Runs": "2281",
+            "St": "33"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "21",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "40.50",
+            "BBI": "2/10",
+            "BBM": "",
+            "Balls": "341",
+            "Econ": "4.27",
+            "Inns": "",
+            "Mat": "635",
+            "Runs": "243",
+            "SR": "56.8",
+            "Wkts": "6"
+        },
+        {
+            "": "List A",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "149",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/ci/content/story/1153288.html",
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/920885/the-greatest-counter-attack",
+        "http://www.espncricinfo.com/magazine/content/story/353569.html",
+        "http://www.espncricinfo.com/ci/content/story/59745.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154550.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/032004/050882.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/032004/050882.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/032004/050882.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nApril 1, 1935, North Kensington, London "
+        ],
+        "Bowling style": [
+            "Right-arm medium"
+        ],
+        "Died": [
+            "July 24, 2018 (aged 83 years 114 days) "
+        ],
+        "Fielding position": [
+            "Wicketkeeper"
+        ],
+        "Full name": [
+            "John Thomas Murray"
+        ],
+        "Major teams": [
+            "England,",
+            "Middlesex"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

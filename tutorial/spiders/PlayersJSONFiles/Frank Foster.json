@@ -1,0 +1,102 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "3",
+            "6s": "1",
+            "Ave": "23.57",
+            "Ct": "11",
+            "HS": "71",
+            "Inns": "15",
+            "Mat": "11",
+            "NO": "1",
+            "Runs": "330",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "7",
+            "50": "35",
+            "6s": "",
+            "Ave": "26.61",
+            "Ct": "121",
+            "HS": "305*",
+            "Inns": "263",
+            "Mat": "159",
+            "NO": "17",
+            "Runs": "6548",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "2",
+            "5w": "4",
+            "Ave": "20.57",
+            "BBI": "6/91",
+            "BBM": "8/70",
+            "Balls": "2447",
+            "Econ": "2.27",
+            "Inns": "19",
+            "Mat": "11",
+            "Runs": "926",
+            "SR": "54.3",
+            "Wkts": "45"
+        },
+        {
+            "": "First-class",
+            "10": "8",
+            "4w": "",
+            "5w": "53",
+            "Ave": "20.75",
+            "BBI": "9/118",
+            "BBM": "",
+            "Balls": "33296",
+            "Econ": "2.68",
+            "Inns": "",
+            "Mat": "159",
+            "Runs": "14879",
+            "SR": "46.4",
+            "Wkts": "717"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/761943/which-is-the-finest-bowling-pair",
+        "http://www.espncricinfo.com/cricketer/content/story/334973.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155484.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154854.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJanuary 31, 1889, Deritend, Birmingham, Warwickshire "
+        ],
+        "Bowling style": [
+            "Left-arm fast-medium"
+        ],
+        "Died": [
+            "May 3, 1958, Northampton (aged 69 years 92 days) "
+        ],
+        "Full name": [
+            "Frank Rowbotham Foster"
+        ],
+        "Major teams": [
+            "England,",
+            "Warwickshire"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "4",
+            "50": "7",
+            "6s": "4",
+            "Ave": "59.23",
+            "Ct": "7",
+            "HS": "243",
+            "Inns": "31",
+            "Mat": "20",
+            "NO": "5",
+            "Runs": "1540",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "45",
+            "50": "95",
+            "6s": "",
+            "Ave": "42.26",
+            "Ct": "160",
+            "HS": "322",
+            "Inns": "533",
+            "Mat": "352",
+            "NO": "58",
+            "Runs": "20075",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "20",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "45.70",
+            "BBI": "3/13",
+            "BBM": "",
+            "Balls": "3105",
+            "Econ": "2.64",
+            "Inns": "",
+            "Mat": "352",
+            "Runs": "1371",
+            "SR": "103.5",
+            "Wkts": "30"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/393923.html",
+        "http://www.espncricinfo.com/magazine/content/story/378889.html",
+        "http://www.espncricinfo.com/bodyline/content/story/316843.html",
+        "http://www.espncricinfo.com/bodyline/content/story/316838.html",
+        "http://www.espncricinfo.com/ci/content/story/316652.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=18475"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/21500/21520.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/21500/21520.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/21500/21520.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Left-hand bat"
+        ],
+        "Born": [
+            "\nNovember 5, 1901, Oswaldtwistle, Lancashire "
+        ],
+        "Bowling style": [
+            "Right-arm medium"
+        ],
+        "Died": [
+            "February 5, 1979, Keighley, Yorkshire (aged 77 years 92 days) "
+        ],
+        "Full name": [
+            "Edward Paynter"
+        ],
+        "Major teams": [
+            "England,",
+            "Lancashire"
+        ]
+    },
+    "profile_info": [
+        null,
+        "In 1938 at Lord's, he came in a 31 for 3 and helped Hammond in a stand of 222, of which his own share was 99. In the previous Test at Nottingham he had broken the record for England against Australia in this country with an innings of 216 not out. In all Tests, Paynter's average was 59.23. In the series in South Africa in 1938-39 he averaged 81.62 scoring a hundred in each innings of the first Test, and 243 in the third. Yet Paynter was 24 when he first made a hundred for Lancashire II, and between 1926 and 1929 he appeared only 11 times for the county without any success. It was not until 1931, when he was 30, that he made his first century against Warwickshire at Old Trafford, gained a regular place, and reached his thousand runs. In 1932 he was inconsistent, but on the strength of some notable innings was selected for the MCC side to Australia. He had been picked for the third Test against New Zealand in 1931 but scored only 3.",
+        "It was four years after the 1932-33 tour before Paynter played for England again. Meanwhile, he had made plenty of runs for Lancashire, and in 1936 actually scored 964 runs in August; unfortunately the side for Australia had already been picked. In 1937, however, he could be denied no longer. He scored 2,904 runs with an average of 53.77, including 322 in five hours against Sussex at Hove, and 266 against Essex at Old Trafford, and played in two Tests against New Zealand, missing the third because of injury. Two years later the war virtually ended his career. He resisted pressure to return to the county side at 45, but in 1947, in a couple of festival matches at Harrogate, played innings of 154, 73, and 127, the last taking only eighty-five minutes.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

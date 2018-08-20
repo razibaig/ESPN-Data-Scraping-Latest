@@ -1,0 +1,119 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "18.75",
+            "Ct": "5",
+            "HS": "39",
+            "Inns": "8",
+            "Mat": "5",
+            "NO": "0",
+            "Runs": "150",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "58",
+            "50": "128",
+            "6s": "",
+            "Ave": "36.05",
+            "Ct": "425",
+            "HS": "269*",
+            "Inns": "803",
+            "Mat": "435",
+            "NO": "46",
+            "Runs": "27291",
+            "St": "7"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "5",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "72",
+            "Econ": "3.91",
+            "Inns": "",
+            "Mat": "435",
+            "Runs": "47",
+            "SR": "-",
+            "Wkts": "0"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/1110372.html",
+        "http://www.espncricinfo.com/magazine/content/story/256472.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155741.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/12900/12930.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/12900/12930.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/12900/12930.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJune 18, 1915, Chartham, Kent "
+        ],
+        "Bowling style": [
+            "Right-arm medium"
+        ],
+        "Died": [
+            "September 13, 1977, Tunbridge Wells, Kent (aged 62 years 87 days) "
+        ],
+        "Fielding position": [
+            "Wicketkeeper"
+        ],
+        "Full name": [
+            "Arthur Edward Fagg"
+        ],
+        "Major teams": [
+            "England,",
+            "Kent"
+        ],
+        "Other": [
+            "Umpire"
+        ]
+    },
+    "profile_info": [
+        "\nArthur Edward Fagg, died at Tunbridge Wells on September 13, aged 62. Although in a career which extended from 1932 to 1957 he scored 27,291 runs with an average of 36.05, made 58 centuries and played five times for England, it cannot be said that he ever fulfilled expectations. In the middle thirties Sutcliffe was dropping out of Test cricket and England was looking for a new opening pair. Fagg and Hutton were at once recognised as obvious candidates and Fagg, a year the senior and by some considered the better prospect, got the first chance, playing in two Tests v. India in 1936 and being picked for the Australian tour that autumn. Halfway through the tour he was invalided home with rheumatic fever, a great setback to his career, and he missed the entire season of 1937. Naturally, in 1938 the selectors were cautious about playing him and, though he had a splendid season, it was not until the final Test that they picked him and then he was one of those left out. \n",
+        "That his health was not fully trustworthy was shown when he refused an invitation for the South African tour that winter. In 1939 he played in one Test v. West Indies. Unfit for the Services during the War, he went as coach to Cheltenham and, when first-class cricket was resumed in 1946, felt so doubtful whether he could stand the strain that he decided to stay there.",
+        "In 1947 Kent persuaded him to return, but already at 32, he was moving like a veteran, Hutton and Washbrook were established as England's opening pair and his days of Test cricket were clearly over. Still, for ten years more he did splendid work for Kent and no-one watching him could fail to see that he was far more than a good county bat. Very sound, he had strokes all round the wicket and, being a fine hooker, was particularly severe on fast bowling. Against spin he was less impressive.",
+        "One record which he holds may well never be equalled. In 1938 against Essex at Colchester, he scored 244 and 202 not out, the second innings taking only 170 minutes. His fielding was never on a par with his batting and after his early years, it was difficult to place him anywhere save in the slips, where he held his share of catches without being outstanding. In the Second XI he had been trained to keep wicket and was good enough to keep on a few occasions for the county when neither Ames nor Levett was available.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

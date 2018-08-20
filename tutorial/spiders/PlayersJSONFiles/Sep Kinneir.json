@@ -1,0 +1,105 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "5",
+            "50": "0",
+            "6s": "0",
+            "Ave": "26.00",
+            "BF": "139",
+            "Ct": "0",
+            "HS": "30",
+            "Inns": "2",
+            "Mat": "1",
+            "NO": "0",
+            "Runs": "52",
+            "SR": "37.41",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "26",
+            "4s": "",
+            "50": "83",
+            "6s": "",
+            "Ave": "32.72",
+            "BF": "",
+            "Ct": "181",
+            "HS": "268*",
+            "Inns": "525",
+            "Mat": "312",
+            "NO": "47",
+            "Runs": "15641",
+            "SR": "",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "1",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "31.08",
+            "BBI": "3/13",
+            "BBM": "",
+            "Balls": "3708",
+            "Econ": "2.41",
+            "Inns": "",
+            "Mat": "312",
+            "Runs": "1492",
+            "SR": "77.2",
+            "Wkts": "48"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/101441.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155639.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154852.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Left-hand bat"
+        ],
+        "Born": [
+            "\nMay 13, 1871, Pickwick, Corsham, Wiltshire "
+        ],
+        "Bowling style": [
+            "Right-arm medium"
+        ],
+        "Died": [
+            "October 16, 1928, Birmingham, Warwickshire (aged 57 years 156 days) "
+        ],
+        "Full name": [
+            "Septimus Paul Kinneir"
+        ],
+        "Major teams": [
+            "England,",
+            "Warwickshire"
+        ]
+    },
+    "profile_info": [],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

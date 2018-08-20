@@ -1,0 +1,185 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "",
+            "50": "4",
+            "6s": "4",
+            "Ave": "25.34",
+            "BF": "",
+            "Ct": "24",
+            "HS": "70",
+            "Inns": "37",
+            "Mat": "22",
+            "NO": "2",
+            "Runs": "887",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "ODIs",
+            "100": "0",
+            "4s": "7",
+            "50": "0",
+            "6s": "1",
+            "Ave": "16.33",
+            "BF": "50",
+            "Ct": "1",
+            "HS": "43",
+            "Inns": "3",
+            "Mat": "3",
+            "NO": "0",
+            "Runs": "49",
+            "SR": "98.00",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "52",
+            "4s": "",
+            "50": "171",
+            "6s": "",
+            "Ave": "33.26",
+            "BF": "",
+            "Ct": "813",
+            "HS": "198",
+            "Inns": "1225",
+            "Mat": "786",
+            "NO": "173",
+            "Runs": "34994",
+            "SR": "",
+            "St": "1"
+        },
+        {
+            "": "List A",
+            "100": "2",
+            "4s": "",
+            "50": "11",
+            "6s": "",
+            "Ave": "23.84",
+            "BF": "",
+            "Ct": "53",
+            "HS": "131",
+            "Inns": "156",
+            "Mat": "164",
+            "NO": "11",
+            "Runs": "3458",
+            "SR": "",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "2",
+            "5w": "0",
+            "Ave": "29.55",
+            "BBI": "4/35",
+            "BBM": "5/53",
+            "Balls": "1212",
+            "Econ": "2.63",
+            "Inns": "23",
+            "Mat": "22",
+            "Runs": "532",
+            "SR": "67.3",
+            "Wkts": "18"
+        },
+        {
+            "": "ODIs",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "18",
+            "Econ": "7.00",
+            "Inns": "1",
+            "Mat": "3",
+            "Runs": "21",
+            "SR": "-",
+            "Wkts": "0"
+        },
+        {
+            "": "First-class",
+            "10": "3",
+            "4w": "",
+            "5w": "43",
+            "Ave": "26.42",
+            "BBI": "8/41",
+            "BBM": "",
+            "Balls": "69972",
+            "Econ": "2.65",
+            "Inns": "",
+            "Mat": "786",
+            "Runs": "30947",
+            "SR": "59.7",
+            "Wkts": "1171"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "2",
+            "5w": "0",
+            "Ave": "21.75",
+            "BBI": "4/9",
+            "BBM": "4/9",
+            "Balls": "2258",
+            "Econ": "3.81",
+            "Inns": "",
+            "Mat": "164",
+            "Runs": "1436",
+            "SR": "34.2",
+            "Wkts": "66"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/1086606.html",
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/1075651/-i-ve-never-been-so-embarrassed-as-on-my-test-debut",
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/1034793/the-shades-of-1976",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/1001597.html",
+        "http://www.espncricinfo.com/magazine/content/story/921731.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=10754"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/222100/222179.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/222100/222179.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/222100/222179.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Left-hand bat"
+        ],
+        "Born": [
+            "\nFebruary 24, 1931, Rawdon, Leeds, Yorkshire "
+        ],
+        "Bowling style": [
+            "Right-arm medium, Right-arm offbreak"
+        ],
+        "Died": [
+            "September 14, 2015, Baildon near Bradford, West Yorkshire (aged 84 years 202 days) "
+        ],
+        "Fielding position": [
+            "Forward short leg"
+        ],
+        "Full name": [
+            "Dennis Brian Close"
+        ],
+        "Major teams": [
+            "England,",
+            "Somerset,",
+            "Yorkshire"
+        ]
+    },
+    "profile_info": [
+        null,
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

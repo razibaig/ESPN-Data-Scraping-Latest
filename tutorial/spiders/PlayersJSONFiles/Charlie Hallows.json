@@ -1,0 +1,110 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "42.00",
+            "Ct": "0",
+            "HS": "26",
+            "Inns": "2",
+            "Mat": "2",
+            "NO": "1",
+            "Runs": "42",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "55",
+            "50": "94",
+            "6s": "",
+            "Ave": "40.24",
+            "Ct": "142",
+            "HS": "233*",
+            "Inns": "586",
+            "Mat": "383",
+            "NO": "66",
+            "Runs": "20926",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "2",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "39.47",
+            "BBI": "3/28",
+            "BBM": "",
+            "Balls": "1583",
+            "Econ": "2.84",
+            "Inns": "",
+            "Mat": "383",
+            "Runs": "750",
+            "SR": "83.3",
+            "Wkts": "19"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155722.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154702.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/032004/051027.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/032004/051027.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Left-hand bat"
+        ],
+        "Born": [
+            "\nApril 4, 1895, Little Lever, Lancashire "
+        ],
+        "Bowling style": [
+            "Slow left-arm orthodox"
+        ],
+        "Died": [
+            "November 10, 1972, Bolton, Lancashire (aged 77 years 220 days) "
+        ],
+        "Full name": [
+            "Charles Hallows"
+        ],
+        "Major teams": [
+            "England,",
+            "Lancashire"
+        ]
+    },
+    "profile_info": [
+        null,
+        null,
+        "A member of the Lancashire side which won the County Championship three years in succession, in 1926-27-28, Hallows was an opening batsman who, with Harry Makepeace, gave their county the kind of starts which Herbert Sutcliffe and Percy Holmes used to provide for Yorkshire and Sutcliffe and Jack Hobbs did for England. Tall, slim and handsome with a head of sleek black hair always perfectly groomed, Hallows spanned two world wars in his cricketing career, and when he retired from the first-class game at the age of 37, he resumed in other circles.",
+        "He earned the unique distinction of holding professional posts in leagues in England, Scotland, Ireland, and Wales, and when he finished stroking his way to runs galore in week-end cricket, he qualified as one of the leading coaches in the game. He held appointments as chief coach with Worcestershire for five years and then with Lancashire, ending his career where it began, at Old Trafford. He was 74 when he finally declared his innings over, but any stranger would have argued that he was at least 20 years younger. His figure was still upright one of Old; his weight never varied from the day he first took guard to the last. His hair showed only a faint tinge of grey and the spirit of the man was remarkable.",
+        "Yet he was within a month of celebrating his golden wedding when he returned from the local library, sat in front of the fire and passed away complaining only that he was a little short of breath.",
+        " Hallows hit 55 centuries, 52 of them for Lancashire, and every one of them was a classic example of batsmanship at its best. His highest innings was 233 not out against Lancashire at Liverpool in 1927 when, with an aggregate of 2,343 runs, he averaged 75.58. Twice, at Ashby-de-la-Zouch against Leicestershire in 1924 and off the Warwickshire bowling at Edgbaston in 1928--in which season he reached three figures on eleven occasions--he scored two centuries in a match. I recall him hitting a Nottinghamshire fast bowler over mid-on for six at Old Trafford. The ball dropped on to the platform at Warwick Road Station; and the shot was made with effortless ease.",
+        "In the field he was a fast mover and a superb thrower and one of the stars of a team that included Parkin, Dick Tyldesley, McDonald and Ernest Tyldesley. His pairing with Makepeace at the opening of any Lancashire innings provided the perfect blend of defence from the dour Makepeace and attack from the stylish Hallows when the ball was new and the bowlers fresh.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

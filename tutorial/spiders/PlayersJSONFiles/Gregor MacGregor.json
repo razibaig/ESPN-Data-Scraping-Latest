@@ -1,0 +1,113 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "12.00",
+            "Ct": "14",
+            "HS": "31",
+            "Inns": "11",
+            "Mat": "8",
+            "NO": "3",
+            "Runs": "96",
+            "St": "3"
+        },
+        {
+            "": "First-class",
+            "100": "3",
+            "50": "20",
+            "6s": "",
+            "Ave": "18.02",
+            "Ct": "411",
+            "HS": "141",
+            "Inns": "412",
+            "Mat": "265",
+            "NO": "58",
+            "Runs": "6381",
+            "St": "148"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "8",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "265",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/scotland/content/story/542926.html",
+        "http://www.espncricinfo.com/ci/content/story/125022.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155614.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154834.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/032005/058553.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/032005/058553.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nAugust 31, 1869, Merchiston, Edinburgh, Midlothian, Scotland "
+        ],
+        "Died": [
+            "August 20, 1919, Marylebone, London (aged 49 years 354 days) "
+        ],
+        "Education": [
+            "Uppingham; Cambridge University"
+        ],
+        "Fielding position": [
+            "Wicketkeeper"
+        ],
+        "Full name": [
+            "Gregor MacGregor"
+        ],
+        "Major teams": [
+            "England,",
+            "Scotland,",
+            "Cambridge University,",
+            "Middlesex"
+        ]
+    },
+    "profile_info": [
+        "\nGregor MacGregor, It was a shock to all lovers of cricket to learn on August 20 that Mr. Gregor MacGregor was dead. Still in early middle-age, he would had he lived another week have completed his 50th year. To be quite exact, he was born in Edinburgh on August 31, 1869. He was a prominent figure in first-class cricket of roughly speaking, twenty seasons, playing his last matches for Middlesex in 1907. Fame came to him before he was 20. After two years in the Uppingham team he went up to Cambridge, and as soon as he was seen at the University ground in the spring of 1888 it was realized that a wicket-keeper of extraordinary ability had been found. He gained his Blue at once, and during his four years at Cambridge he was one of the stars of the eleven. Alfred Lyttelton had left behind him the reputation of being the best wicket-keeper Cambridge had ever possessed, but even his warmest admirers--among them A. G. Steel--were forced to admit that MacGregor surpassed him, his superiority lying chiefly in the fact that he took the ball much closer to the wicket, and was in consequence the quicker stumper. In catching there was little to chose between the two men. \n",
+        "It was MacGregor's good fortune to be associated all through his Cambridge career with S. M. J. Woods. In those days Woods was the fastest amateur bowler in England and a terror to the Oxford batsmen at Lord's. The fashion of standing back to fast bowling had not then become general among wicket-keepers, and it is difficult to say how much Woods owed to MacGregor's fearless skill. To see the two in the University match was something never to be forgotten. Putting on all his pace, Woods was apt to be a little erratic in pitch, but MacGregor--quite imperturbable--was equal to every emergency. Their first match together against Oxford had to be left drawn--even a fourth day was of no use in the dreadful summer of 1888--but in the three following years Cambridge had a succession of victories. Woods was captain in 1890, and in 1891 he played under MacGregor. Their cricket skill was not greater than their personal popularity. They held high rank among the heroes of the cricket field. Cambridge days over, their paths diverged, Woods playing for Somerset and MacGregor for Middlesex, but they were associated for many a year in the Gentlemen v. Players matches at Lord's.",
+        " MacGregor was a brilliant wicket-keeper as long as he played cricket, but he was at his very best in his early years, when he had no English superior except Pilling. He kept wicket for England against Australia at Lord's and the Oval in 1890, and at Lord's, the Oval, and Manchester in 1893, doing himself full justice on all occasions. When the Australians came here in 1896 he gave place to Lilley, and Test matches knew him no more. Still, he remained a force in county cricket, following A. J. Webbe as captain of the Middlesex eleven. His most exciting experience for England against Australia was in the Oval match in 1890. He was in at the finish with Jack Sharpe, the Surrey bowler, and England scrambled home by two wickets. A desperately short run settled the business, the ball being returned to the middle of the pitch. Had the ball been thrown to either end a run-out would have been inevitable. MacGregor went once to Australia, going out with Lord Sheffield's team in the winter of 1891-92. That tour did not add to his fame. He was not up to his highest standard as a wicket-keeper and Australian critics, having expected so much, were disappointed.",
+        " MacGregor's interest in cricket did not decline in even the slightest degree when he dropped out of the public eye. A few weeks before his death he followed the Gentlemen and Players match at Lord's as eagerly as if he had been taking part in it himself. For some time and up to the end of his life he was honorary treasurer of the Middlesex County Club.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {}
+    ]
+}

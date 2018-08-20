@@ -1,0 +1,113 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "0.50",
+            "BF": "4",
+            "Ct": "1",
+            "HS": "1",
+            "Inns": "2",
+            "Mat": "1",
+            "NO": "0",
+            "Runs": "1",
+            "SR": "25.00",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "4s": "",
+            "50": "7",
+            "6s": "",
+            "Ave": "11.30",
+            "BF": "",
+            "Ct": "609",
+            "HS": "66",
+            "Inns": "465",
+            "Mat": "449",
+            "NO": "164",
+            "Runs": "3402",
+            "SR": "",
+            "St": "273"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "1",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "28.00",
+            "BBI": "1/18",
+            "BBM": "",
+            "Balls": "66",
+            "Econ": "2.54",
+            "Inns": "",
+            "Mat": "449",
+            "Runs": "28",
+            "SR": "66.0",
+            "Wkts": "1"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/280403.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nDecember 24, 1885, Wilsden, Yorkshire "
+        ],
+        "Died": [
+            "October 23, 1942, Lilycroft, Heaton, Bradford, Yorkshire (aged 56 years 303 days) "
+        ],
+        "Fielding position": [
+            "Wicketkeeper"
+        ],
+        "Full name": [
+            "Arthur Dolphin"
+        ],
+        "Major teams": [
+            "England,",
+            "Maharaja of Patiala's XI,",
+            "Yorkshire"
+        ],
+        "Other": [
+            "Umpire"
+        ]
+    },
+    "profile_info": [
+        "\nArthur Dolphin, the well-known wicket-keeper and Test match umpire, died at his home in Bradford on October 24 in his 56th year. Yorkshire wicket-keepers have been noted for long and effective service, and Dolphin followed Ned Stephenson, George Pinder, Joe Hunter and David Hunter, while Arthur Wood, his successor, came as the sixth who, taken together, did splendid service for their county during nearly eighty years. \n",
+        "First appearing for Yorkshire in 1905, Dolphin became the regular keeper in 1910, and held the position until he retired at the end of the 1927 season, Contemporary with Herbert Strudwick and E. J. Smith, Dolphin only once played for England--in the Fourth Test Match at Melbourne in February 1921, when Australia, captained by W. W. Armstrong, won the rubber with five victories over the team led by J. W. H. T. Douglas. During a career extending over 23 seasons, Dolphin held 488 catches and stumped 231 men, and scored 4,191 runs in first-class matches, average 10.76.",
+        "As a batsman he often defended well in a crisis, and perhaps his best performance was against Essex at Leyton in 1919, the season of two-day matches; he scored 62 not out, and with E. Smith put on 103 for the last wicket, so saving their side from following-on when Yorkshire were in danger.",
+        "One of his most notable feats behind the stumps was against Hampshire at Leeds in 1921, a match which provided a genuine sensation. Hampshire declared at 456 for two wickets, Dolphin having conceded only two byes. Two England left-handers, George Brown 232, and C. P. Mead, 122, both not out, severely punished the Yorkshire bowling and the northern county were beaten by an innings and 72 runs. In his benefit match in 1892 at Leeds against Kent, which realised \u00a31,891, he scored 2, and 20 out of 24 without being dismissed, he having the honour of hitting off the runs required by Yorkshire for victory by ten wickets.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

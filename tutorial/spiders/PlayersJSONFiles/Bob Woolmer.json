@@ -1,0 +1,210 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "3",
+            "4s": "131",
+            "50": "2",
+            "6s": "2",
+            "Ave": "33.09",
+            "BF": "2734",
+            "Ct": "10",
+            "HS": "149",
+            "Inns": "34",
+            "Mat": "19",
+            "NO": "2",
+            "Runs": "1059",
+            "SR": "38.73",
+            "St": "0"
+        },
+        {
+            "": "ODIs",
+            "100": "0",
+            "4s": "1",
+            "50": "0",
+            "6s": "0",
+            "Ave": "5.25",
+            "BF": "46",
+            "Ct": "3",
+            "HS": "9",
+            "Inns": "4",
+            "Mat": "6",
+            "NO": "0",
+            "Runs": "21",
+            "SR": "45.65",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "34",
+            "4s": "",
+            "50": "71",
+            "6s": "",
+            "Ave": "33.55",
+            "BF": "",
+            "Ct": "239",
+            "HS": "203",
+            "Inns": "545",
+            "Mat": "350",
+            "NO": "75",
+            "Runs": "15772",
+            "SR": "",
+            "St": "1"
+        },
+        {
+            "": "List A",
+            "100": "1",
+            "4s": "",
+            "50": "17",
+            "6s": "",
+            "Ave": "20.39",
+            "BF": "",
+            "Ct": "98",
+            "HS": "112*",
+            "Inns": "235",
+            "Mat": "290",
+            "NO": "35",
+            "Runs": "4078",
+            "SR": "",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "74.75",
+            "BBI": "1/8",
+            "BBM": "1/8",
+            "Balls": "546",
+            "Econ": "3.28",
+            "Inns": "13",
+            "Mat": "19",
+            "Runs": "299",
+            "SR": "136.5",
+            "Wkts": "4"
+        },
+        {
+            "": "ODIs",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "28.88",
+            "BBI": "3/33",
+            "BBM": "3/33",
+            "Balls": "321",
+            "Econ": "4.85",
+            "Inns": "6",
+            "Mat": "6",
+            "Runs": "260",
+            "SR": "35.6",
+            "Wkts": "9"
+        },
+        {
+            "": "First-class",
+            "10": "1",
+            "4w": "",
+            "5w": "12",
+            "Ave": "25.87",
+            "BBI": "7/47",
+            "BBM": "",
+            "Balls": "25763",
+            "Econ": "2.53",
+            "Inns": "",
+            "Mat": "350",
+            "Runs": "10868",
+            "SR": "61.3",
+            "Wkts": "420"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "8",
+            "5w": "3",
+            "Ave": "20.64",
+            "BBI": "6/9",
+            "BBM": "6/9",
+            "Balls": "13461",
+            "Econ": "3.44",
+            "Inns": "",
+            "Mat": "290",
+            "Runs": "7722",
+            "SR": "35.9",
+            "Wkts": "374"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/ci/content/story/1100007.html",
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/1097009/the-woolmer-files",
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/1081501/the-man-who-saw-tomorrow",
+        "http://www.espncricinfo.com/magazine/content/story/1010163.html",
+        "http://www.espncricinfo.com/magazine/content/story/844455.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=22520"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/155500/155500.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/155500/155500.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/155500/155500.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nMay 14, 1948, Kanpur, Uttar Pradesh, India "
+        ],
+        "Bowling style": [
+            "Right-arm medium"
+        ],
+        "Died": [
+            "March 18, 2007, Kingston University Hospital, Jamaica, West Indies (aged 58 years 308 days) "
+        ],
+        "Education": [
+            "Skinners School"
+        ],
+        "Full name": [
+            "Robert Andrew Woolmer"
+        ],
+        "Height": [
+            "\n6 ft 0 in "
+        ],
+        "Major teams": [
+            "England,",
+            "Kent,",
+            "Natal,",
+            "Western Province"
+        ],
+        "Nickname": [
+            "Woollie"
+        ],
+        "Other": [
+            "Coach"
+        ],
+        "Relation": [
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        "\nBob Woolmer was the most highly regarded cricket coach in the world. As a consequence he was employed by two leading Test nations, South Africa and Pakistan, and approached by two more, England and West Indies. In addition he was a good enough player to have been signed by Kerry Packer for World Series Cricket. Underpinning his abilities was a schoolboyish enthusiasm for the game matched in recent times, perhaps, by only Colin Cowdrey and Shane Warne. \n",
+        "Few individuals within the game have had to make so many contentious decisions. Joining Packer and hence forfeiting the chance of captaining Kent and England; signing up for the first breakaway tour of South Africa in the sure knowledge that a Test career would never be resumed; turning down the opportunity to coach England in 1999 when the ECB's first choice ahead of Duncan Fletcher. For such a mild-mannered\nman he was mired in undue controversy - and that was the case even before he met Hansie Cronje. Yet Woolmer never expressed any regret about the course of his life. ",
+        "It is sad, not least for his family, that such a talented cricketing man will be remembered, at least by those with a passing knowledge of the game, for the circumstances of his death and his association with Cronje, a man who let him down badly. For Woolmer to emerge from his partnership with Cronje with his reputation untainted was testimony to his honest nature. The essential point was that Woolmer would not have done \nanything to harm the game he loved. He liked his money - which Test cricketer of the mid-1970s did not, given how poor the remuneration was pre-Packer? - but he liked cricket even more. ",
+        "If he had had any knowledge of Cronje's involvement in match-fixing during his time as coach of South Africa and if there had been any such approach to his Pakistan players, then he would surely have reported it to the board and, doubtless, to the police too. As a natural conciliator, Woolmer would always reason rather than react. He did not have a temper. At The Oval last year, he asked every Pakistan player to swear on oath that he had not tampered with the ball. \"They all did and, as they are a religious bunch, I tended to believe them,\" he said shortly afterwards. \"I always feel the game should continue but to accuse Pakistan of cheating brings tensions to the fore. This kind of decision is\npotentially inflammatory. I was torn between my principles and a desire to help the side.\" He was on the point of resigning as coach. In\nretrospect it was unfortunate he did not do so. ",
+        "One question that will engage the thoughts of English cricket followers is: would England have fared better had he become coach? The reason Woolmer did not take the job in 1999 was because he was immersed in trying to win the World Cup with South Africa. As to whether he would have taken it now, his love of the game, his desire to win a series against Australia - he never achieved this as a coach, although he did as a player - and the fact that he was not financially secure would all have inclined him to do so. The most probable scenario, though, assuming the ECB would have wanted a younger man as Fletcher's eventual successor, was that he would have founded his own cricket academy at a site he had earmarked near the Kruger Park in South Africa. This will now be established through a trust set up in his memory.",
+        "In his playing days and in his relationships with administrators and players when a coach Woolmer made friends easily, for all his obvious youthful ambition to play for England. Indeed, he was known in the Kent dressing room, which he joined in 1968, a time when the strongest side in the county's history was being forged, as 'Bobby England.' He was confident of his own ability, but it was submerged at first in a strong batting side. Woolmer's talents first became apparent in the one-day game, as a medium-paced swing bowler who would exert tight control in the middle of an innings with Derek Underwood at the other end. From 1975, when he made his Test debut for England, batting was his stronger suit.",
+        "Strange as it may seem now, there was something of the shop steward about him in his youth. He always liked the comfort of decent hotels, was keen on good food and wine and did not care for the ordinary accommodation that was the lot of the county cricketer in the 1970s. When  Woolmer signed for Packer in 1977, he was at his peak as a batsman. His three Test centuries were scored against good Australian sides and David Gower, for one, felt he fulfilled his talent. A total of 19 Tests with an average of 33.09, might suggest otherwise. For whatever reason, when\nWoolmer returned to international cricket in 1980, he was not the same performer and his Test career was over by 1981. He hooked and cover drove as well as anybody in his era, yet was a little loose technically, especially early in an innings, his prominent left arm leading into the drive being executed well in front of his body. ",
+        "If, arguably, he was just a little short of the highest level as a batsman, as a bowler Woolmer was under-used by England. In the modern era in one-day cricket he would have played in 200 or more internationals. As it was, his career was curtailed by a back injury in 1984, when he was still a fine county cricketer, surveying the field from slip as Arthur Fagg would have done - or Cowdrey. He was to return to Kent as coach in 1987 but insufficient time had passed since he had left the dressing room. Warwickshire were the beneficiaries and, once he had won three trophies in 1994 and shown he could handle Brian Lara, there was bound to be interest from a major Test nation.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

@@ -1,0 +1,344 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "119",
+            "50": "8",
+            "6s": "13",
+            "Ave": "32.33",
+            "BF": "1692",
+            "Ct": "57",
+            "HS": "85",
+            "Inns": "36",
+            "Mat": "22",
+            "NO": "6",
+            "Runs": "970",
+            "SR": "57.32",
+            "St": "0"
+        },
+        {
+            "": "ODIs",
+            "100": "6",
+            "4s": "270",
+            "50": "18",
+            "6s": "93",
+            "Ave": "40.35",
+            "BF": "2688",
+            "Ct": "148",
+            "HS": "129",
+            "Inns": "99",
+            "Mat": "117",
+            "NO": "21",
+            "Runs": "3148",
+            "SR": "117.11",
+            "St": "25"
+        },
+        {
+            "": "T20Is",
+            "100": "0",
+            "4s": "99",
+            "50": "7",
+            "6s": "53",
+            "Ave": "27.10",
+            "BF": "905",
+            "Ct": "23",
+            "HS": "73*",
+            "Inns": "57",
+            "Mat": "65",
+            "NO": "11",
+            "Runs": "1247",
+            "SR": "137.79",
+            "St": "4"
+        },
+        {
+            "": "First-class",
+            "100": "4",
+            "4s": "500",
+            "50": "23",
+            "6s": "48",
+            "Ave": "31.74",
+            "BF": "6467",
+            "Ct": "173",
+            "HS": "144",
+            "Inns": "134",
+            "Mat": "86",
+            "NO": "13",
+            "Runs": "3841",
+            "SR": "59.39",
+            "St": "2"
+        },
+        {
+            "": "List A",
+            "100": "8",
+            "4s": "493",
+            "50": "34",
+            "6s": "156",
+            "Ave": "45.03",
+            "BF": "4479",
+            "Ct": "200",
+            "HS": "129",
+            "Inns": "159",
+            "Mat": "187",
+            "NO": "41",
+            "Runs": "5314",
+            "SR": "118.64",
+            "St": "30"
+        },
+        {
+            "": "T20s",
+            "100": "0",
+            "4s": "422",
+            "50": "33",
+            "6s": "215",
+            "Ave": "30.17",
+            "BF": "3524",
+            "Ct": "124",
+            "HS": "95*",
+            "Inns": "210",
+            "Mat": "231",
+            "NO": "41",
+            "Runs": "5099",
+            "SR": "144.69",
+            "St": "26"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "22",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "ODIs",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "117",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "T20Is",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "65",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "12",
+            "Econ": "5.50",
+            "Inns": "1",
+            "Mat": "86",
+            "Runs": "11",
+            "SR": "-",
+            "Wkts": "0"
+        },
+        {
+            "": "List A",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "187",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "T20s",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "231",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/ci/content/story/1155715.html",
+        "http://www.espncricinfo.com/ci/content/story/1155383.html",
+        "http://www.espncricinfo.com/ci/content/story/1154967.html",
+        "http://www.espncricinfo.com/ci/content/story/1154638.html",
+        "http://www.espncricinfo.com/ci/content/story/1153915.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=308967"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/279100/279192.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/279100/279192.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/279100/279192.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nSeptember 8, 1990, Taunton, Somerset "
+        ],
+        "Current age": [
+            "27 years 344 days"
+        ],
+        "Fielding position": [
+            "Wicketkeeper"
+        ],
+        "Full name": [
+            "Joseph Charles Buttler"
+        ],
+        "Major teams": [
+            "England,",
+            "Comilla Victorians,",
+            "England Lions,",
+            "England Under-19s,",
+            "Lancashire,",
+            "Melbourne Renegades,",
+            "Mumbai Indians,",
+            "Rajasthan Royals,",
+            "Somerset,",
+            "Somerset 2nd XI,",
+            "Sydney Thunder"
+        ],
+        "Playing role": [
+            "Wicketkeeper batsman"
+        ]
+    },
+    "profile_info": [
+        "\nEngland have had many players down the ages who have gained world acclaim, but Jos Buttler can claim to be their first global Twenty20 superstar. Buttler has helped bring England's limited-overs batting into the 21st century. His impact on the one-day and T20 sides has been extraordinary and, as of early 2016, he had England's three fastest one-day hundreds to his name - thrilling innings against New Zealand (Edgbaston), Sri Lanka (Lord's) and topping the list a 46-ball onslaught against Pakistan in Dubai. As an illustration of his transformation of English cricket, when it comes to the fastest one-day century, no other England batsman ranks in the top 40. \n",
+        "Such an accolade, however, had its downside as Buttler's Test career came to a halt after 18 Tests, in Chennai 2016. As much as Eoin Morgan, his England captain in the limited-overs formats, suggested that his inclusion in the 2017 Ashes party would be good for his game, he missed out not only to Jonny Bairstow but also to Ben Foakes, who was preferred as understudy, leaving him to head instead to the Bangladesh Premier League. At 27, his direction seemed set and, considering his meagre runs return in the Championship on the occasions he turned out for Lancashire, it looked an uphill struggle to reverse the trend.",
+        "Softly-spoken and unassuming, with supple hands and a great eye, Buttler kills opposing attacks with kindness, with a graceful flip shot for six over long-on and occasional resort to a nerveless ramp shot over the wicketkeeper among his most eye-catching shots in an inventive repertoire. Like his captain, Eoin Morgan, his unflustered response to even the most daunting run chase is one of his greatest assets, his steely resolve hidden beneath a benign exterior. Such was his impact for Mumbai Indians in his first appearance in IPL in 2016, capable of mayhem late in the innings, that for a young cricket follower in India with only Twenty20 in their heart, it was possible to imagine that England had rarely, if ever, produced a player of such star quality. ",
+        "Buttler was in the crowd at Taunton as a young spectator during the 1999 World Cup when India's Sourav Ganguly and Rahul Dravid thrashed what was then the highest partnership shot in ODI cricket. He was hooked. Somerset gained special permission from the ECB to add him to their Academy at 12, two years early, and he came to prominence as a 19-year-old in the 2010 season for Somerset, especially in the one-day arena where his clear-minded and quick-footed aggressive batting helped him to 440 CB40 runs at 55.00. He made his first-class debut against Lancashire at Taunton in 2009 and became a regular in the County Championship from May 2010 - playing a part in Somerset's title challenge that season. He combined in particularly potent fashion with Kieron Pollard in Somerset's run to Twenty20 Finals Day in both 2010 and 2011, and impressed in the 2011 CB40 final, making 86 from 72 balls in Somerset's defeat to Surrey.",
+        "He made his international debut in late 2011 and became a fixture of England's T20 side. His breakthrough innings came against South Africa at Edgbaston, with a blistering 32 off 10 balls.\nAfter a successful Lions tour of Sri Lanka in early 2012, Buttler was given his ODI debut against Pakistan in the UAE, though had to wait almost a year for his second cap, this time as wicketkeeper and when Ashley Giles took over as limited-overs coach one of his first key decision was to ditch Kieswetter for Buttler on a tour of India.",
+        "With Kieswetter still preferred as Somerset's gloveman, it was that rivalry that caused Buttler to leave his beloved West Country and switch to Lancashire for the 2014 season. Lancashire saw him for 10 Championship matches, but it was soon apparent he would be making only fleeting visits in the future.",
+        "England looked to him for impetus and increasingly he delivered, striking 99 against West Indies at North Sound - hitting a return catch to Ravi Rampaul in the final over - and kicking off the 2014 ODI summer with a first ODI hundred against Sri Lanka at Lord's as he led a failed England run chase virtually single handedly. When Prior became stricken by Achilles trouble - what proved to be a career-ending injury - the selectors gambled by throwing him into the Test team. He scored five half-centuries in his first eight Tests, including 85 on debut against India at the Ageas Bowl.",
+        "But his attempts to forge a Test career proved troublesome and he lost his position in the side during the series against Pakistan in 2015-16 during a period where his keeping started to make necessary improvements but his batting slip away. He had begun promising after making his debut in 2014 when Matt Prior succumbed to what would be a career-ending injury, ",
+        "For Buttler to return to England's Test side during their 4-0 defeat against India in 2016-17 was quite a turn-up, a decision particular championed by the coach Trevor Bayliss, and one which brushed aside the fact that by now his red-ball cricket had become a rarity. He had played only two first-class matches throughout 2016, which has England captain Alastair Cook accepted was \"not ideal\" but played as a specialist batsman at No. 7 for the last three Tests with modest success, Bairstow moving up the order while retaining the gloves. After 18 Tests, a maiden Test hundred still eluded him; in fact, he had only four in his first-class career.",
+        null
+    ],
+    "recent_matches": [
+        {
+            "Bat & Bowl": "24",
+            "Ground": "Lord's",
+            "Match Date": "9 Aug 2018",
+            "Opposition": "v India",
+            "Scorecard": "Test # 2315",
+            "Team": "England"
+        },
+        {
+            "Bat & Bowl": "0, 1",
+            "Ground": "Birmingham",
+            "Match Date": "1 Aug 2018",
+            "Opposition": "v India",
+            "Scorecard": "Test # 2314",
+            "Team": "England"
+        },
+        {
+            "Bat & Bowl": "3, 59",
+            "Ground": "Manchester",
+            "Match Date": "22 Jul 2018",
+            "Opposition": "v Yorkshire",
+            "Scorecard": "FC",
+            "Team": "Lancashire"
+        },
+        {
+            "Bat & Bowl": "16, 0c/1s",
+            "Ground": "Manchester",
+            "Match Date": "20 Jul 2018",
+            "Opposition": "v Yorkshire",
+            "Scorecard": "T20",
+            "Team": "Lancashire"
+        },
+        {
+            "Bat & Bowl": "2c/0s",
+            "Ground": "Leeds",
+            "Match Date": "17 Jul 2018",
+            "Opposition": "v India",
+            "Scorecard": "ODI # 4018",
+            "Team": "England"
+        },
+        {
+            "Bat & Bowl": "4, 2c/1s",
+            "Ground": "Lord's",
+            "Match Date": "14 Jul 2018",
+            "Opposition": "v India",
+            "Scorecard": "ODI # 4016",
+            "Team": "England"
+        },
+        {
+            "Bat & Bowl": "53, 0c/1s",
+            "Ground": "Nottingham",
+            "Match Date": "12 Jul 2018",
+            "Opposition": "v India",
+            "Scorecard": "ODI # 4014",
+            "Team": "England"
+        },
+        {
+            "Bat & Bowl": "34, 0c/0s",
+            "Ground": "Bristol",
+            "Match Date": "8 Jul 2018",
+            "Opposition": "v India",
+            "Scorecard": "T20I # 690",
+            "Team": "England"
+        },
+        {
+            "Bat & Bowl": "1c/1s, 14",
+            "Ground": "Cardiff",
+            "Match Date": "6 Jul 2018",
+            "Opposition": "v India",
+            "Scorecard": "T20I # 688",
+            "Team": "England"
+        },
+        {
+            "Bat & Bowl": "69, 0c/0s",
+            "Ground": "Manchester",
+            "Match Date": "3 Jul 2018",
+            "Opposition": "v India",
+            "Scorecard": "T20I # 684",
+            "Team": "England"
+        }
+    ]
+}

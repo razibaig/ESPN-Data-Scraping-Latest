@@ -1,0 +1,154 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "2",
+            "50": "0",
+            "6s": "1",
+            "Ave": "6.80",
+            "Ct": "8",
+            "HS": "15*",
+            "Inns": "8",
+            "Mat": "7",
+            "NO": "3",
+            "Runs": "34",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "2",
+            "4s": "",
+            "50": "2",
+            "6s": "",
+            "Ave": "12.11",
+            "Ct": "295",
+            "HS": "100",
+            "Inns": "547",
+            "Mat": "440",
+            "NO": "139",
+            "Runs": "4942",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "0",
+            "4s": "",
+            "50": "1",
+            "6s": "",
+            "Ave": "12.26",
+            "Ct": "41",
+            "HS": "54*",
+            "Inns": "99",
+            "Mat": "145",
+            "NO": "27",
+            "Runs": "883",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "40.08",
+            "BBI": "3/25",
+            "BBM": "5/98",
+            "Balls": "1291",
+            "Econ": "2.23",
+            "Inns": "11",
+            "Mat": "7",
+            "Runs": "481",
+            "SR": "107.5",
+            "Wkts": "12"
+        },
+        {
+            "": "First-class",
+            "10": "8",
+            "4w": "",
+            "5w": "50",
+            "Ave": "27.09",
+            "BBI": "8/63",
+            "BBM": "",
+            "Balls": "62395",
+            "Econ": "2.86",
+            "Inns": "",
+            "Mat": "440",
+            "Runs": "29776",
+            "SR": "56.7",
+            "Wkts": "1099"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "1",
+            "5w": "1",
+            "Ave": "23.17",
+            "BBI": "6/22",
+            "BBM": "6/22",
+            "Balls": "1672",
+            "Econ": "4.24",
+            "Inns": "",
+            "Mat": "145",
+            "Runs": "1182",
+            "SR": "32.7",
+            "Wkts": "51"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/1151204/remember-when-britain-was-invaded",
+        "http://www.espncricinfo.com/magazine/content/story/543469.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/062000/013166.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/062000/013166.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/062000/013166.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nMay 8, 1942, Chippenham, Wiltshire "
+        ],
+        "Bowling style": [
+            "Legbreak googly"
+        ],
+        "Current age": [
+            "76 years 102 days"
+        ],
+        "Education": [
+            "Raine's Foundation School, Stepney"
+        ],
+        "Full name": [
+            "Robin Nicholas Stuart Hobbs"
+        ],
+        "Height": [
+            "\n5 ft 10 in "
+        ],
+        "Major teams": [
+            "England,",
+            "Essex,",
+            "Glamorgan,",
+            "Suffolk"
+        ],
+        "Nickname": [
+            "Colt"
+        ]
+    },
+    "profile_info": [
+        "\nA rarity in England, Robin Hobbs was a legspinner who played Test cricket, the last for 20 years until the emergence of Ian Salisbury. After debuting for Essex in 1961, he went on to play for England in 1967, and after 14 years with Essex spent four years with Suffolk before returning to first-class cricket with Glamorgan, captaining them in 1979. \n",
+        "He bowled flighted legbreaks and well disguised googlies from a moderate run. A fine county player, he did well to play for England, although he never established himself as a Test class spinner, able to contain but not sufficiently penetrative. A modest batsman, he astonished everyone, not least himself, by slamming one of the fastest centuries in cricket history (44 minutes) for Essex against the touring Australians in 1975. Hobbs said afterwards that he went out with the objective of having a good slog, and entertaining the crowd. ",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "1",
+            "Ave": "10.75",
+            "Ct": "2",
+            "HS": "35",
+            "Inns": "9",
+            "Mat": "5",
+            "NO": "1",
+            "Runs": "86",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "48",
+            "50": "142",
+            "6s": "",
+            "Ave": "32.21",
+            "Ct": "608",
+            "HS": "276",
+            "Inns": "896",
+            "Mat": "560",
+            "NO": "48",
+            "Runs": "27318",
+            "St": "2"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "52.00",
+            "BBI": "1/28",
+            "BBM": "1/28",
+            "Balls": "90",
+            "Econ": "3.46",
+            "Inns": "3",
+            "Mat": "5",
+            "Runs": "52",
+            "SR": "90.0",
+            "Wkts": "1"
+        },
+        {
+            "": "First-class",
+            "10": "2",
+            "4w": "",
+            "5w": "12",
+            "Ave": "26.70",
+            "BBI": "8/22",
+            "BBM": "",
+            "Balls": "27022",
+            "Econ": "3.05",
+            "Inns": "",
+            "Mat": "560",
+            "Runs": "13754",
+            "SR": "52.4",
+            "Wkts": "515"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/374380.html",
+        "http://www.espncricinfo.com/ci/content/story/132394.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154162.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154768.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/96700/96793.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nNovember 6, 1876, Peckham, London "
+        ],
+        "Bowling style": [
+            "Legbreak"
+        ],
+        "Died": [
+            "December 2, 1953, West Dulwich, London (aged 77 years 26 days) "
+        ],
+        "Full name": [
+            "Ernest George Hayes"
+        ],
+        "Major teams": [
+            "England,",
+            "Leicestershire,",
+            "London County,",
+            "Surrey"
+        ],
+        "Other": [
+            "Coach"
+        ]
+    },
+    "profile_info": [
+        "\nErnest George Hayes, who died at his home at Norwood on December 2--the date of the Surrey dinner to celebrate the winning of the County Championship at which he was to have been an honoured guest--aged 77, was among the finest batsmen of his day. \n",
+        "Born at Peckham on November 6, 1876, he first appeared for Surrey in 1896 and ended his first-class career thirty years later. Altogether he scored 27,325 runs, average 32.18, hitting 48 centuries; with leg-breaks he took over 500 wickets, and held 605 catches. His most successful season as a batsman was that of 1906 when he scored 2,309 runs, average 45.27, and reached three figures on seven occasions. The highest of his 48 centuries was 276 against Hampshire at The Oval in 1909 when he and Hobbs shared in a wonderful second wicket stand of 371. Specially strong in driving, he also pulled fearlessly and was always attractive to watch. In 1909, when a member of the Surrey team who, by five runs, inflicted upon M. A. Noble's Australians the first defeat of the tour, he made his only Test match appearance against Australia, though he toured that country with A. O. Jones's side two years previously. He played four times for England against South Africa, three when touring the Union in 1905 and the other during the 1912 Triangular Tournament. He represented Players v. Gentlemen on many occasions, being captain at The Oval in 1914.",
+        "Until the first World War, in which he served with the Sportsman's Battalion and received the M.B.E., he played regularly for Surrey, but, after re-appearing as an amateur, he left the county in 1919. Damaged hands contributed to his decision to retire. In his early days Tom Richardson and Bill Lockwood were in their prime, and fielding in the slips to these two great fast bowlers led to the curling up, because of nerves put of action by frequent bruising, of the third and little fingers of Hayes's right hand. As a consequence he for some years experienced difficulty in gripping a bat, but nevertheless in his last season for Surrey he scored 153 against Hampshire at Southampton, where he and Ducat joined in a third wicket partnership of 353 in 165 minutes.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "0.00",
+            "Ct": "0",
+            "HS": "0",
+            "Inns": "1",
+            "Mat": "1",
+            "NO": "0",
+            "Runs": "0",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "4s": "",
+            "50": "6",
+            "6s": "",
+            "Ave": "11.44",
+            "Ct": "118",
+            "HS": "66",
+            "Inns": "310",
+            "Mat": "185",
+            "NO": "52",
+            "Runs": "2952",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "16.25",
+            "BBI": "3/49",
+            "BBM": "4/65",
+            "Balls": "145",
+            "Econ": "2.68",
+            "Inns": "2",
+            "Mat": "1",
+            "Runs": "65",
+            "SR": "36.2",
+            "Wkts": "4"
+        },
+        {
+            "": "First-class",
+            "10": "22",
+            "4w": "",
+            "5w": "77",
+            "Ave": "22.09",
+            "BBI": "10/49",
+            "BBM": "",
+            "Balls": "39309",
+            "Econ": "3.01",
+            "Inns": "",
+            "Mat": "185",
+            "Runs": "19779",
+            "SR": "43.9",
+            "Wkts": "895"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155604.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Left-hand bat"
+        ],
+        "Born": [
+            "\nOctober 13, 1864, Kidderminster, Worcestershire "
+        ],
+        "Bowling style": [
+            "Slow left-arm orthodox"
+        ],
+        "Died": [
+            "January 25, 1917, North Town, Taunton, Somerset (aged 52 years 104 days) "
+        ],
+        "Full name": [
+            "Edwin James Tyler"
+        ],
+        "Major teams": [
+            "England,",
+            "Somerset"
+        ]
+    },
+    "profile_info": [],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

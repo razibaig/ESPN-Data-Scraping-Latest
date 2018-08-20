@@ -1,0 +1,100 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "15.00",
+            "Ct": "1",
+            "HS": "15*",
+            "Inns": "2",
+            "Mat": "2",
+            "NO": "1",
+            "Runs": "15",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "50": "4",
+            "6s": "",
+            "Ave": "10.54",
+            "Ct": "112",
+            "HS": "62",
+            "Inns": "381",
+            "Mat": "319",
+            "NO": "100",
+            "Runs": "2962",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "1",
+            "5w": "0",
+            "Ave": "17.91",
+            "BBI": "4/34",
+            "BBM": "7/66",
+            "Balls": "552",
+            "Econ": "2.33",
+            "Inns": "4",
+            "Mat": "2",
+            "Runs": "215",
+            "SR": "46.0",
+            "Wkts": "12"
+        },
+        {
+            "": "First-class",
+            "10": "6",
+            "4w": "",
+            "5w": "46",
+            "Ave": "24.44",
+            "BBI": "8/15",
+            "BBM": "",
+            "Balls": "56935",
+            "Econ": "2.45",
+            "Inns": "",
+            "Mat": "319",
+            "Runs": "23276",
+            "SR": "59.8",
+            "Wkts": "952"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/241475.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nMarch 12, 1913, Clifton, Nottingham "
+        ],
+        "Bowling style": [
+            "Right-arm fast-medium"
+        ],
+        "Died": [
+            "July 17, 1991, Lenton, Nottinghamshire (aged 78 years 127 days) "
+        ],
+        "Full name": [
+            "Harold James Butler"
+        ],
+        "Major teams": [
+            "England,",
+            "Nottinghamshire,",
+            "Services"
+        ]
+    },
+    "profile_info": [
+        "\nHarold Butler had very big shoes to fill when he was brought into\nthe Nottinghamshire team in 1933. Harold Larwood was still\nrecovering from the damage wrought on his body by the hard\nAustralian wickets during the bodyline series, and Butler was\nasked to fill his place. Butler was no Larwood, but developed\ninto a fine pace bowler in his own right. Not overly elegant in\nhis run-up and approach, everything came together in his delivery\nstride, and he bowled genuinely quickly. Due of the presence of\nLarwood and Voce, it was not until 1939 that he established\nhimself as a regular for Nottinghamshire, despite performances\nsuch as 8-15 against Surrey in 1937, but then the next six years\nwere lost to war. England were desperately short of pace bowlers\nafter the war, and Butler, although undoubtedly past his best and\ncarrying more weight than he should have been, was given a chance\nagainst South Africa in 1947. He bowled superbly on his debut,\ntaking 4/34 from 28 overs in the first innings, and an equally\neconomical 3/32 in the second; match figures of 52-24-66-7. He\ndid not play the final Test but was picked to tour the West\nIndies that winter. He played in just one Test, after losing\none-and-a-half stone due to malaria, and bowled manfully, taking\n3/122 in the West Indies first innings, and two cheap wickets in\nthe second. He never played another Test, which in retrospect\nseems something of a puzzle. Not many bowlers have a Test average\nof under 20, and England desperately needed a partner for Bedser.\nHis age told against him however - he played six more years for\nNotts before retiring in 1954 (DL 2000). \n"
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

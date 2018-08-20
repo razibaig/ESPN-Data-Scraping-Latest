@@ -1,0 +1,188 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "32",
+            "50": "2",
+            "6s": "1",
+            "Ave": "21.87",
+            "BF": "811",
+            "Ct": "11",
+            "HS": "88*",
+            "Inns": "18",
+            "Mat": "17",
+            "NO": "2",
+            "Runs": "350",
+            "SR": "43.15",
+            "St": "0"
+        },
+        {
+            "": "ODIs",
+            "100": "0",
+            "4s": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "17.00",
+            "BF": "24",
+            "Ct": "2",
+            "HS": "8*",
+            "Inns": "3",
+            "Mat": "10",
+            "NO": "2",
+            "Runs": "17",
+            "SR": "70.83",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "4s": "",
+            "50": "11",
+            "6s": "",
+            "Ave": "14.25",
+            "BF": "",
+            "Ct": "106",
+            "HS": "88*",
+            "Inns": "314",
+            "Mat": "301",
+            "NO": "66",
+            "Runs": "3534",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "0",
+            "4s": "",
+            "50": "0",
+            "6s": "",
+            "Ave": "10.40",
+            "BF": "",
+            "Ct": "46",
+            "HS": "23*",
+            "Inns": "74",
+            "Mat": "183",
+            "NO": "37",
+            "Runs": "385",
+            "SR": "",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "1",
+            "5w": "2",
+            "Ave": "36.80",
+            "BBI": "6/38",
+            "BBM": "9/103",
+            "Balls": "3571",
+            "Econ": "2.53",
+            "Inns": "31",
+            "Mat": "17",
+            "Runs": "1509",
+            "SR": "87.0",
+            "Wkts": "41"
+        },
+        {
+            "": "ODIs",
+            "10": "0",
+            "4w": "1",
+            "5w": "0",
+            "Ave": "23.72",
+            "BBI": "4/35",
+            "BBM": "4/35",
+            "Balls": "440",
+            "Econ": "3.55",
+            "Inns": "9",
+            "Mat": "10",
+            "Runs": "261",
+            "SR": "40.0",
+            "Wkts": "11"
+        },
+        {
+            "": "First-class",
+            "10": "2",
+            "4w": "",
+            "5w": "28",
+            "Ave": "25.59",
+            "BBI": "7/70",
+            "BBM": "",
+            "Balls": "45945",
+            "Econ": "2.66",
+            "Inns": "",
+            "Mat": "301",
+            "Runs": "20377",
+            "SR": "57.7",
+            "Wkts": "796"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "10",
+            "5w": "3",
+            "Ave": "17.94",
+            "BBI": "5/21",
+            "BBM": "5/21",
+            "Balls": "9258",
+            "Econ": "3.16",
+            "Inns": "",
+            "Mat": "183",
+            "Runs": "4882",
+            "SR": "34.0",
+            "Wkts": "272"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/1145546/fazal--dolly--muddy--and-that-evening-in-karachi",
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/688625/-if-i-could-do-it-all-again--i-d-gamble-more",
+        "http://www.espncricinfo.com/magazine/content/story/464234.html",
+        "http://www.espncricinfo.com/magazine/content/story/343403.html",
+        "http://www.espncricinfo.com/magazine/content/story/245921.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/62500/62578.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/62500/62578.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/62500/62578.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nSeptember 17, 1940, Todmorden, Yorkshire "
+        ],
+        "Bowling style": [
+            "Right-arm fast-medium"
+        ],
+        "Current age": [
+            "77 years 335 days"
+        ],
+        "Full name": [
+            "Peter Lever"
+        ],
+        "Major teams": [
+            "England,",
+            "Lancashire,",
+            "Tasmania"
+        ],
+        "Relation": [
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

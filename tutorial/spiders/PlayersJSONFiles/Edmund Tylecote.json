@@ -1,0 +1,113 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "1",
+            "6s": "0",
+            "Ave": "19.00",
+            "Ct": "5",
+            "HS": "66",
+            "Inns": "9",
+            "Mat": "6",
+            "NO": "1",
+            "Runs": "152",
+            "St": "5"
+        },
+        {
+            "": "First-class",
+            "100": "3",
+            "50": "10",
+            "6s": "",
+            "Ave": "20.70",
+            "Ct": "127",
+            "HS": "107",
+            "Inns": "158",
+            "Mat": "93",
+            "NO": "10",
+            "Runs": "3065",
+            "St": "58"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "6",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "24",
+            "Econ": "3.50",
+            "Inns": "",
+            "Mat": "93",
+            "Runs": "14",
+            "SR": "-",
+            "Wkts": "0"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/286999.html",
+        "http://www.espncricinfo.com/ci/content/story/138524.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/092004/054751.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/092004/054751.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJune 23, 1849, Marston Moretaine, Bedfordshire "
+        ],
+        "Died": [
+            "March 15, 1938, New Hunstanton, Norfolk (aged 88 years 265 days) "
+        ],
+        "Education": [
+            "Clifton College; Oxford University"
+        ],
+        "Fielding position": [
+            "Wicketkeeper"
+        ],
+        "Full name": [
+            "Edward Ferdinando Sutton Tylecote"
+        ],
+        "Major teams": [
+            "England,",
+            "Kent,",
+            "Oxford University"
+        ],
+        "Relation": [
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        "\nEdmund Tylecote showed such exceptional form as a boy that he was in the Clifton College eleven five years, finishing as captain in 1868. That summer he made the then record score of 404 during three spells of two hours each for Modern vs. Classical, carrying his bat through an innings of 630. He got his blue at Oxford as a Freshman and his second experience against Cambridge was in the \"Cobden match.\" Next year he led the Dark Blues to victory by eight wickets, but in his second season as captain, Cambridge won by an innings and 166, William Yardley setting up a record with his second hundred in University matches. Mr. Tylecote was the oldest living University Captain. \n",
+        "When a mathematical tutor at Royal Military Academy, Tylecote played for Kent and perhaps his best performance for the County was a perfect not out hundred against the 1832 Australian team, when T. W. Garrett--still alive, aged 80--and G. E. Palmer were carrying all before them. W. H. Patterson, the present chairman of the Kent County Committee, played a fine second innings in the same match. Tylecote also assisted Bedfordshire, the county of his birth.",
+        "Tylecote went to Australia at the end of the 1882 season with the Hon. Ivo Bligh's team which won two out of three matches against W. L. Murdoch's touring side. He scored 66 in the deciding encounter which gave the Englishmen the rubber. Played for his wicket-keeping in the 1886 matches against Australia at Lord's and the Oval he helped in two victories, each by an innings. He appeared several times for the Gentlemen against the Players during a period of sixteen years, ending with that of 1886 when, though 37 years of age, he was probably at his best behind the stumps. He showed exceptionally fine form against the Players at Lord's in 1883, his 107 being a faultless display of two and a half hours' stylish batting, notable for offside strokes made with delightful ease. He was only the sixth batsman to hit a century at Lord's for the Gentlemen, the first having been William Ward in 1825.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {}
+    ]
+}

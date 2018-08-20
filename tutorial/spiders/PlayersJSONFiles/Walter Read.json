@@ -1,0 +1,108 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "1",
+            "50": "5",
+            "6s": "0",
+            "Ave": "27.69",
+            "Ct": "16",
+            "HS": "117",
+            "Inns": "27",
+            "Mat": "18",
+            "NO": "1",
+            "Runs": "720",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "38",
+            "50": "112",
+            "6s": "",
+            "Ave": "32.06",
+            "Ct": "381",
+            "HS": "338",
+            "Inns": "749",
+            "Mat": "467",
+            "NO": "52",
+            "Runs": "22349",
+            "St": "20"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "60",
+            "Econ": "6.30",
+            "Inns": "2",
+            "Mat": "18",
+            "Runs": "63",
+            "SR": "-",
+            "Wkts": "0"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "1",
+            "Ave": "32.25",
+            "BBI": "6/24",
+            "BBM": "",
+            "Balls": "5549",
+            "Econ": "3.76",
+            "Inns": "",
+            "Mat": "467",
+            "Runs": "3483",
+            "SR": "51.3",
+            "Wkts": "108"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/blogs/content/story/977995.html",
+        "http://www.espncricinfo.com/magazine/content/story/516521.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154804.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/072004/053293.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nNovember 23, 1855, Reigate, Surrey "
+        ],
+        "Bowling style": [
+            "Right-arm fast (roundarm), Right-arm slow (underarm)"
+        ],
+        "Died": [
+            "January 6, 1907, Bingham Road, Addiscombe Park, Surrey (aged 51 years 44 days) "
+        ],
+        "Full name": [
+            "Walter William Read"
+        ],
+        "Major teams": [
+            "England,",
+            "Surrey"
+        ]
+    },
+    "profile_info": [
+        "\nMr. W. W. Read died on Sunday, January 6th, at his residence, Colworth Road, Addiscombe Park. More than nine years have passed away since Mr. Read dropped out of the Surrey eleven and gave up first-class cricket, but his wonderful play during a long career is vividly remembered. Beyond question he was one of the greatest batsmen the game has known, holding a high place among those nearest in merit to W. G. Grace. Born on November 23rd, 1855, he was in his fifty-second year. He had been in poor health for some little time, but his illness did not assume a dangerous form until a week before his death. \n",
+        "While still quite a lad Mr. Read showed extreme promise as a batsman in local cricket at Reigate, and soon came under the notice of the Surrey committee, with the result that he was given his first trial for the county before he was eighteen, playing against Yorkshire at The Oval in the season of 1873. He was put to rather a severe test against the bowling of Hill and Tom Emmett, but, though he scored only 3 and 14, his form was so good that no doubt could be felt as to his ultimate success. At the outset of his career, and for some years afterwards, he assisted his father as a schoolmaster at Reigate, and could only spare time to play for Surrey in the latter part of the summer. Still, though his opportunities were restricted, he steadily improved, and in 1877 he took his place among the best batsmen of his day, playing an innings of 140 against Yorkshire at The Oval, and, with the late Henry Jupp as his partner, sending up 206 for the first wicket.",
+        "The turning point of his cricket life came in 1881, when an appointment as assistant secretary at The Oval enabled him to devote all his life to the game. From that year until his powers began to wane he was, as a batsman, the mainstay of the Surrey eleven. In the revival of Surrey cricket, which began in 1883, he and the late George Lohmann had the chief share. They, far more than anyone else, enabled Surrey, under Mr. John Shuter's captaincy, to recover in 1887, after an interval of twenty-three years, the first position among the counties. The success was uninterrupted till the breakdown of Lohmann's health after the summer of 1892, and, with only one moderate season, went on until after Mr. Read himself had retired, Surrey winning the championship for the last time in 1889. In the meantime, Mr. Shuter, compelled by business to give up first-class cricket, was succeeded as captain by Mr. K. J. Key.",
+        "Mr. Read was perhaps at his very best as a batsman during the seasons of 1885, 1886, 1887 and 1888. It was a little earlier, however, that he played the innings of his life - his memorable 117 for England against Australia, at The Oval, in August, 1884. England had a magnificent eleven, and Mr. Read, though he ought to have gone in earlier, was tenth on the batting order. In ordinary circumstances he would not have had much chance of distinction, but Scotton, who had gone in first and was firmly set, kept up such an impregnable defence that the ninth wicket added 151 runs, England drawing the game in the face of a total by Australia of 551. The way in which Mr. Read that afternoon punished the bowling of Spofforth, Palmer, Giffen, and Midwinter, will never be forgotten by those fortunate enough to be present. His innings ranks among the finest ever played in Test matches, and after the lapse of twenty-two years it is still constantly talked about.",
+        "His highest score in first-class cricket was 338 for Surrey against Oxford University at The Oval in 1888. In 1887, however, he did something even more remarkable than this, making two scores of over 200 in successive matches - 247 for Surrey against Lancashire at Manchester, and 244 (not out) for Surrey against Cambridge University at The Oval. After 1888 his play fell off to some extent, but he recovered his form, and in 1892 he was again one of the most successful of batsmen. He remained one of Surrey's chief run-getters for some time longer, but his powers gradually declined, and in 1897, as I have already stated, he dropped out of the eleven. Of his doings for Surrey during his long career it would be an easy matter to write a column. As a match-winner, the county never had a better batsman. He was a wonderfully punishing player, with tremendous power in his off-drive.",
+        "More forward in style than most of the great batsmen of the present time, he was seen at his best on true, lively wickets, but he came off under all conditions of ground and weather. Among many fine innings that he played, I recall in particular one on a frightfully rough wicket at Derby, when the ball was getting up shoulder high. In his young days Mr. Read could be described as an orthodox player, depending as he did on his driving and the perfect straightness of his bat; but as time went on he developed a great fondness for pulling. He carried the pull to a higher pitch than anyone else in his day, but from being a good servant the stroke became, to some extent, his master, and impaired his batting. That, at least, was the opinion of Mr. Shuter, than whom he had no warmer admirer.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {}
+    ]
+}

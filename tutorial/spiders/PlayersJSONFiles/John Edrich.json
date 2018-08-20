@@ -1,0 +1,194 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "12",
+            "4s": "",
+            "50": "24",
+            "6s": "11",
+            "Ave": "43.54",
+            "BF": "",
+            "Ct": "43",
+            "HS": "310*",
+            "Inns": "127",
+            "Mat": "77",
+            "NO": "9",
+            "Runs": "5138",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "ODIs",
+            "100": "0",
+            "4s": "13",
+            "50": "2",
+            "6s": "1",
+            "Ave": "37.16",
+            "BF": "325",
+            "Ct": "0",
+            "HS": "90",
+            "Inns": "6",
+            "Mat": "7",
+            "NO": "0",
+            "Runs": "223",
+            "SR": "68.61",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "103",
+            "4s": "",
+            "50": "188",
+            "6s": "",
+            "Ave": "45.47",
+            "BF": "",
+            "Ct": "310",
+            "HS": "310*",
+            "Inns": "979",
+            "Mat": "564",
+            "NO": "104",
+            "Runs": "39790",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "1",
+            "4s": "",
+            "50": "39",
+            "6s": "",
+            "Ave": "35.23",
+            "BF": "",
+            "Ct": "44",
+            "HS": "108*",
+            "Inns": "154",
+            "Mat": "160",
+            "NO": "18",
+            "Runs": "4792",
+            "SR": "",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "30",
+            "Econ": "4.60",
+            "Inns": "2",
+            "Mat": "77",
+            "Runs": "23",
+            "SR": "-",
+            "Wkts": "0"
+        },
+        {
+            "": "ODIs",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "7",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "91",
+            "Econ": "3.49",
+            "Inns": "",
+            "Mat": "564",
+            "Runs": "53",
+            "SR": "-",
+            "Wkts": "0"
+        },
+        {
+            "": "List A",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "160",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/1034793/the-shades-of-1976",
+        "http://www.espncricinfo.com/magazine/content/story/921731.html",
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/898447/a-grump-among-the-punks",
+        "http://www.espncricinfo.com/magazine/content/story/756005.html",
+        "http://www.espncricinfo.com/magazine/content/story/527248.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=12490"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/17200/17201.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/17200/17201.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/17200/17201.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Left-hand bat"
+        ],
+        "Born": [
+            "\nJune 21, 1937, Blofield, Norfolk "
+        ],
+        "Bowling style": [
+            "Right-arm medium"
+        ],
+        "Current age": [
+            "81 years 58 days"
+        ],
+        "Full name": [
+            "John Hugh Edrich"
+        ],
+        "Major teams": [
+            "England,",
+            "Surrey"
+        ],
+        "Relation": [
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

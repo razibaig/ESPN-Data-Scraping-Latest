@@ -1,0 +1,196 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "1",
+            "4s": "55",
+            "50": "2",
+            "6s": "0",
+            "Ave": "26.86",
+            "BF": "929",
+            "Ct": "9",
+            "HS": "107",
+            "Inns": "16",
+            "Mat": "8",
+            "NO": "1",
+            "Runs": "403",
+            "SR": "43.37",
+            "St": "0"
+        },
+        {
+            "": "ODIs",
+            "100": "0",
+            "4s": "7",
+            "50": "0",
+            "6s": "0",
+            "Ave": "24.00",
+            "BF": "86",
+            "Ct": "0",
+            "HS": "25*",
+            "Inns": "3",
+            "Mat": "3",
+            "NO": "1",
+            "Runs": "48",
+            "SR": "55.81",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "43",
+            "4s": "",
+            "50": "156",
+            "6s": "",
+            "Ave": "34.55",
+            "BF": "",
+            "Ct": "446",
+            "HS": "183*",
+            "Inns": "924",
+            "Mat": "577",
+            "NO": "112",
+            "Runs": "28059",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "7",
+            "4s": "",
+            "50": "41",
+            "6s": "",
+            "Ave": "31.12",
+            "BF": "",
+            "Ct": "84",
+            "HS": "119",
+            "Inns": "267",
+            "Mat": "280",
+            "NO": "32",
+            "Runs": "7314",
+            "SR": "",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "8",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "ODIs",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "3",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "2",
+            "Ave": "54.56",
+            "BBI": "7/52",
+            "BBM": "",
+            "Balls": "2539",
+            "Econ": "3.86",
+            "Inns": "",
+            "Mat": "577",
+            "Runs": "1637",
+            "SR": "84.6",
+            "Wkts": "30"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "45.00",
+            "BBI": "1/22",
+            "BBM": "1/22",
+            "Balls": "54",
+            "Econ": "5.00",
+            "Inns": "",
+            "Mat": "280",
+            "Runs": "45",
+            "SR": "54.0",
+            "Wkts": "1"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/county-cricket-2017/content/story/1084850.html",
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/1075651/-i-ve-never-been-so-embarrassed-as-on-my-test-debut",
+        "http://www.espncricinfo.com/magazine/content/story/371365.html",
+        "http://www.espncricinfo.com/england/content/story/220144.html",
+        "http://www.espncricinfo.com/ci/content/story/130002.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/247300/247383.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/247300/247383.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/247300/247383.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nFebruary 10, 1941, Thurnscoe, Yorkshire "
+        ],
+        "Bowling style": [
+            "Legbreak"
+        ],
+        "Died": [
+            "March 1, 2017 (aged 76 years 19 days) "
+        ],
+        "Education": [
+            "Oakwood Technical High, Rotherham"
+        ],
+        "Full name": [
+            "John Harry Hampshire"
+        ],
+        "Height": [
+            "\n6 ft 0 in "
+        ],
+        "Major teams": [
+            "England,",
+            "Derbyshire,",
+            "Leicestershire,",
+            "Tasmania,",
+            "Yorkshire"
+        ],
+        "Other": [
+            "Umpire"
+        ]
+    },
+    "profile_info": [
+        "\nJohn Hampshire was an attractive middle-order batsman, courageous and primarily front-footed, as well as being an excellent close fielder. When he made a hundred on debut against West Indies in 1969 - and became the first batsman to score a Test hundred on debut at Lord's in the process - it seemed to signal the start of something good. But he was dropped after the next match, and thereafter his appearances were as spasmodic as his county form. He captained Yorkshire for two seasons (1979-80) during one of their most turbulent times, and staged an infamous go-slow at Northampton - which cost Yorkshire a bonus point - as a protest against what he perceived to be selfish batting by one Geoff Boycott. He ended his career with three seasons of relative peace at Derbyshire.  \n",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

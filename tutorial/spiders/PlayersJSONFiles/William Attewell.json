@@ -1,0 +1,100 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "16.66",
+            "Ct": "9",
+            "HS": "43*",
+            "Inns": "15",
+            "Mat": "10",
+            "NO": "6",
+            "Runs": "150",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "1",
+            "50": "27",
+            "6s": "",
+            "Ave": "14.03",
+            "Ct": "364",
+            "HS": "102",
+            "Inns": "644",
+            "Mat": "429",
+            "NO": "68",
+            "Runs": "8083",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "2",
+            "5w": "0",
+            "Ave": "22.35",
+            "BBI": "4/42",
+            "BBM": "6/107",
+            "Balls": "2850",
+            "Econ": "1.31",
+            "Inns": "18",
+            "Mat": "10",
+            "Runs": "626",
+            "SR": "101.7",
+            "Wkts": "28"
+        },
+        {
+            "": "First-class",
+            "10": "27",
+            "4w": "",
+            "5w": "134",
+            "Ave": "15.32",
+            "BBI": "9/23",
+            "BBM": "",
+            "Balls": "108264",
+            "Econ": "1.65",
+            "Inns": "",
+            "Mat": "429",
+            "Runs": "29896",
+            "SR": "55.4",
+            "Wkts": "1951"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155632.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154823.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJune 12, 1861, Keyworth, Nottinghamshire "
+        ],
+        "Bowling style": [
+            "Right-arm medium"
+        ],
+        "Died": [
+            "June 11, 1927, Long Eaton, Derbyshire (aged 65 years 364 days) "
+        ],
+        "Full name": [
+            "William Attewell"
+        ],
+        "Major teams": [
+            "England,",
+            "Nottinghamshire"
+        ]
+    },
+    "profile_info": [
+        "\nA cricketer of considerable accomplishments, William Attewell (known\nas Dick to his team-mates) was best known as a bowler of unremitting\naccuracy and length. He\nbowled at medium pace, varying pace, flight and spin cleverly, and\nrarely bowled a loose ball. He used his abilities to perfect \"off\ntheory\", popular in the 1890s, where he frustrated the batsman by\nbowling wide of the off stump to a packed off-side field. He was a\nfine fielder in the covers, and a more than useful batsman with a\nfirst-class century to his name (and a double hundred for MCC v\nNorthumberland). A Nottinghamshire man, he came into the county side\nin 1881, and rarely left it until his retirement nineteen years\nlater. He took 100 wickets in a season ten times, and toured Australia\nthree times, most successfully in 1887-8. \n",
+        "After retirement he became a first-class umpire, and later the\nprofessional at Shrewsbury School, where a young Neville Cardus was\nhis assistant. His brother Thomas also played briefly for\nNottinghamshire (DL, 2000)."
+    ],
+    "recent_matches": [
+        {},
+        {}
+    ]
+}

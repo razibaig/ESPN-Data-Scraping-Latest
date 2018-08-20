@@ -1,0 +1,107 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "19.00",
+            "Ct": "3",
+            "HS": "29",
+            "Inns": "4",
+            "Mat": "2",
+            "NO": "0",
+            "Runs": "76",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "20",
+            "50": "50",
+            "6s": "",
+            "Ave": "31.51",
+            "Ct": "199",
+            "HS": "219*",
+            "Inns": "347",
+            "Mat": "210",
+            "NO": "28",
+            "Runs": "10054",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "2",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "34.28",
+            "BBI": "4/50",
+            "BBM": "",
+            "Balls": "4412",
+            "Econ": "2.79",
+            "Inns": "",
+            "Mat": "210",
+            "Runs": "2057",
+            "SR": "73.5",
+            "Wkts": "60"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/ci/content/story/128938.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/062004/052813.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/062004/052813.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJuly 18, 1925, Earl's Court, Kensington, London "
+        ],
+        "Bowling style": [
+            "Right-arm offbreak"
+        ],
+        "Died": [
+            "February 16, 2018, Chichester, United Kingdom (aged 92 years 213 days) "
+        ],
+        "Full name": [
+            "George Hubert Graham Doggart"
+        ],
+        "Major teams": [
+            "England,",
+            "Cambridge University,",
+            "Sussex"
+        ],
+        "Relation": [
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

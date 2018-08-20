@@ -1,0 +1,114 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "-",
+            "4s": "-",
+            "50": "-",
+            "6s": "-",
+            "Ave": "-",
+            "BF": "-",
+            "Ct": "1",
+            "HS": "-",
+            "Inns": "-",
+            "Mat": "3",
+            "NO": "-",
+            "Runs": "-",
+            "SR": "-",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "1",
+            "4s": "",
+            "50": "23",
+            "6s": "",
+            "Ave": "14.78",
+            "BF": "",
+            "Ct": "244",
+            "HS": "107",
+            "Inns": "586",
+            "Mat": "365",
+            "NO": "51",
+            "Runs": "7911",
+            "SR": "",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "1",
+            "5w": "0",
+            "Ave": "24.25",
+            "BBI": "4/84",
+            "BBM": "4/84",
+            "Balls": "642",
+            "Econ": "1.81",
+            "Inns": "3",
+            "Mat": "3",
+            "Runs": "194",
+            "SR": "80.2",
+            "Wkts": "8"
+        },
+        {
+            "": "First-class",
+            "10": "33",
+            "4w": "",
+            "5w": "125",
+            "Ave": "21.11",
+            "BBI": "9/23",
+            "BBM": "",
+            "Balls": "80614",
+            "Econ": "2.37",
+            "Inns": "",
+            "Mat": "365",
+            "Runs": "31933",
+            "SR": "53.3",
+            "Wkts": "1512"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/233364.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155509.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/13700/13765.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nApril 16, 1890, Somercotes, Derbyshire "
+        ],
+        "Bowling style": [
+            "Right-arm fast-medium"
+        ],
+        "Died": [
+            "January 20, 1954, Wolverhampton, Staffordshire (aged 63 years 279 days) "
+        ],
+        "Full name": [
+            "Charles Frederick Root"
+        ],
+        "Major teams": [
+            "England,",
+            "Derbyshire,",
+            "Worcestershire"
+        ],
+        "Other": [
+            "Umpire"
+        ]
+    },
+    "profile_info": [
+        null,
+        "With his new county he changed his style, bowling fast-medium in-swingers on the leg stump with five fieldsmen stationed on the leg-side close to the batsman. So successful did these tactics prove that from 1923 onwards he took over 100 wickets in nine successive seasons, eight times heading the county averages. His best year was 1925 when, with 219 victims, average 17.21, he set up a record for a Worcestershire bowler. That achievement earned him a special testimonial fund in the county. In 1926, for North of England at Edgbaston, he startled the cricket world by dismissing seven of H. L. Collins's Australian team in an innings for 42 runs. This gained him a place in the England team in three of the Test matches. Rain ruined the first, at Nottingham, but in the other two Root bowled well without repeating his earlier devastating form. In the fourth Test at Old Trafford, he gained these figures: 52 overs, 27 maidens, 84 runs, 4 wickets.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

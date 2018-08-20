@@ -1,0 +1,101 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "2",
+            "6s": "0",
+            "Ave": "28.33",
+            "Ct": "0",
+            "HS": "73",
+            "Inns": "7",
+            "Mat": "5",
+            "NO": "1",
+            "Runs": "170",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "46",
+            "50": "112",
+            "6s": "",
+            "Ave": "36.76",
+            "Ct": "218",
+            "HS": "222",
+            "Inns": "712",
+            "Mat": "504",
+            "NO": "95",
+            "Runs": "22681",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "66",
+            "Econ": "2.45",
+            "Inns": "2",
+            "Mat": "5",
+            "Runs": "27",
+            "SR": "-",
+            "Wkts": "0"
+        },
+        {
+            "": "First-class",
+            "10": "2",
+            "4w": "",
+            "5w": "14",
+            "Ave": "26.90",
+            "BBI": "9/42",
+            "BBM": "",
+            "Balls": "38612",
+            "Econ": "2.30",
+            "Inns": "",
+            "Mat": "504",
+            "Runs": "14823",
+            "SR": "70.0",
+            "Wkts": "551"
+        }
+    ],
+    "latest_articles": [],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJanuary 8, 1902, Mawdesley, Lancashire "
+        ],
+        "Bowling style": [
+            "Slow left-arm orthodox"
+        ],
+        "Died": [
+            "April 17, 1946, Madeley, Staffordshire (aged 44 years 99 days) "
+        ],
+        "Full name": [
+            "John Iddon"
+        ],
+        "Major teams": [
+            "England,",
+            "Lancashire"
+        ]
+    },
+    "profile_info": [
+        "\nJohn Iddon, the Lancashire allrounder, was killed in a car accident at Crewe on April 17 when returning home from a business visit to the Rolls-Royce works. Born at Mawdesley, near Ormskirk, on January 8, 1903, he came of a cricketing family, his father being professional to the Lancaster club for fourteen years. After doing well for Leyland Motors, Jack Iddon made his first appearance for Lancashire against Oxford University in 1924, and played for the county for fifteen seasons prior to the war. He represented England in five Test matches, four against West Indies during the M.C.C. tour of 1934-35, and once against South Africa at Nottingham the following summer. \n",
+        "A right-handed, hard-driving batsman, Iddon reached a thousand runs in eleven successive seasons up to 1939, obtaining 2,261 in 1934, when Lancashire were Champion County for the fifth time during Iddon's career. Altogether he scored 22,679 runs in first-class cricket and took over 500 wickets. His first century came against Surrey at Old Trafford in 1927, and two years later he played his highest innings, 222 against Leicestershire at Liverpool.",
+        " Iddon bowled slow left-arm and was particularly effective when the wicket showed signs of wear. On such a pitch at Sheffield in 1937 he accomplished his best performance, taking nine wickets in the Yorkshire second innings for 42 runs and enabling Lancashire to beat their great local rivals after a lapse of five years. In 1936 his benefit realised \u00a31,266.",
+        " Iddon did not rejoin Lancashire for the 1946 season, but hoped to play occasionally as an amateur. From 1929 to the time of his death he was technical representative to a firm of brake-lining experts in Manchester. He left a wife and two children. Damages totalling \u00a39,801 were awarded at Stafford Assizes to Mrs. Iddon as compensation.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "6.00",
+            "Ct": "1",
+            "HS": "6",
+            "Inns": "1",
+            "Mat": "3",
+            "NO": "0",
+            "Runs": "6",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "50": "0",
+            "6s": "",
+            "Ave": "6.81",
+            "Ct": "103",
+            "HS": "43",
+            "Inns": "359",
+            "Mat": "279",
+            "NO": "108",
+            "Runs": "1711",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "1",
+            "5w": "1",
+            "Ave": "19.80",
+            "BBI": "5/85",
+            "BBM": "9/152",
+            "Balls": "762",
+            "Econ": "2.33",
+            "Inns": "6",
+            "Mat": "3",
+            "Runs": "297",
+            "SR": "50.8",
+            "Wkts": "15"
+        },
+        {
+            "": "First-class",
+            "10": "6",
+            "4w": "",
+            "5w": "66",
+            "Ave": "18.96",
+            "BBI": "8/11",
+            "BBM": "",
+            "Balls": "50415",
+            "Econ": "2.46",
+            "Inns": "",
+            "Mat": "279",
+            "Runs": "20752",
+            "SR": "46.0",
+            "Wkts": "1094"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154656.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nApril 27, 1908, Stonebroom, Derbyshire "
+        ],
+        "Bowling style": [
+            "Right-arm fast-medium"
+        ],
+        "Died": [
+            "September 13, 1971, Clay Cross, Derbyshire (aged 63 years 139 days) "
+        ],
+        "Full name": [
+            "William Henry Copson"
+        ],
+        "Major teams": [
+            "England,",
+            "Derbyshire"
+        ],
+        "Other": [
+            "Umpire"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

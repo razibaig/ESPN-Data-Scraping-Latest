@@ -1,0 +1,97 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "-",
+            "Ct": "0",
+            "HS": "8*",
+            "Inns": "1",
+            "Mat": "1",
+            "NO": "1",
+            "Runs": "8",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "8",
+            "50": "43",
+            "6s": "",
+            "Ave": "28.05",
+            "Ct": "157",
+            "HS": "207*",
+            "Inns": "312",
+            "Mat": "205",
+            "NO": "44",
+            "Runs": "7518",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "85.00",
+            "BBI": "1/49",
+            "BBM": "1/85",
+            "Balls": "218",
+            "Econ": "2.33",
+            "Inns": "2",
+            "Mat": "1",
+            "Runs": "85",
+            "SR": "218.0",
+            "Wkts": "1"
+        },
+        {
+            "": "First-class",
+            "10": "7",
+            "4w": "",
+            "5w": "40",
+            "Ave": "19.92",
+            "BBI": "8/38",
+            "BBM": "",
+            "Balls": "30781",
+            "Econ": "2.62",
+            "Inns": "",
+            "Mat": "205",
+            "Runs": "13488",
+            "SR": "45.4",
+            "Wkts": "677"
+        }
+    ],
+    "latest_articles": [],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJanuary 27, 1911, Tibshelf, Derbyshire "
+        ],
+        "Bowling style": [
+            "Right-arm fast-medium"
+        ],
+        "Died": [
+            "October 29, 1993, Spital, Chesterfield, Derbyshire (aged 82 years 275 days) "
+        ],
+        "Full name": [
+            "George Henry Pope"
+        ],
+        "Major teams": [
+            "England,",
+            "Derbyshire"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

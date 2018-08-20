@@ -1,0 +1,101 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "15.50",
+            "Ct": "5",
+            "HS": "41*",
+            "Inns": "8",
+            "Mat": "5",
+            "NO": "2",
+            "Runs": "93",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "10",
+            "50": "64",
+            "6s": "",
+            "Ave": "18.53",
+            "Ct": "531",
+            "HS": "163*",
+            "Inns": "1025",
+            "Mat": "677",
+            "NO": "130",
+            "Runs": "16586",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "3",
+            "5w": "2",
+            "Ave": "19.32",
+            "BBI": "5/76",
+            "BBM": "8/169",
+            "Balls": "1683",
+            "Econ": "2.13",
+            "Inns": "9",
+            "Mat": "5",
+            "Runs": "599",
+            "SR": "54.2",
+            "Wkts": "31"
+        },
+        {
+            "": "First-class",
+            "10": "45",
+            "4w": "",
+            "5w": "225",
+            "Ave": "21.23",
+            "BBI": "10/37",
+            "BBM": "",
+            "Balls": "150851",
+            "Econ": "2.42",
+            "Inns": "",
+            "Mat": "677",
+            "Runs": "61035",
+            "SR": "52.4",
+            "Wkts": "2874"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154680.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/022001/022307.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJanuary 24, 1891, Edinburgh, Midlothian, Scotland "
+        ],
+        "Bowling style": [
+            "Right-arm medium"
+        ],
+        "Died": [
+            "November 15, 1959, Langdown, Hythe, Southampton, Hampshire (aged 68 years 295 days) "
+        ],
+        "Full name": [
+            "Alexander Stuart Kennedy"
+        ],
+        "Major teams": [
+            "England,",
+            "Hampshire"
+        ]
+    },
+    "profile_info": [
+        "\nEdinburgh-born Alex Kennedy was a well-built and durable allrounder who served Hampshire with distinction for almost three decades either side of the Great War. He bowled medium-pace in and outswingers  - and could do so all day, such was his remarkable stamina -  and was also able to cut the ball from leg. His batting was usually cautious, although he occasionally revealed the ability to hit out to great effect.  He batted at every place from one to 11 - once carrying his bat for 152 - and often opened both batting and bowling.  He took 100 wickets in a season on 15 occasions, doing the double five times, with a best of 205 wickets and 1129 runs in 1921. Surprisingly, he made only five Test appearances, all in South Africa in 1922-23 where he took 31 wickets at 19.32.  He toured South Africa again in 1924-25 as part of Lord Tennyson's side and took another 21 wickets in the unofficial Tests, and also took all 10 wickets for 37 for the Players against Gentlemen at The Oval in 1927. After retiring he coached, initially at Cheltemham College and then from 1947 to 1954 in South Africa. \n"
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "1",
+            "6s": "0",
+            "Ave": "18.40",
+            "Ct": "4",
+            "HS": "50",
+            "Inns": "5",
+            "Mat": "3",
+            "NO": "0",
+            "Runs": "92",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "9",
+            "50": "40",
+            "6s": "",
+            "Ave": "20.70",
+            "Ct": "154",
+            "HS": "186",
+            "Inns": "438",
+            "Mat": "247",
+            "NO": "21",
+            "Runs": "8634",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "3",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "2",
+            "4w": "",
+            "5w": "9",
+            "Ave": "27.25",
+            "BBI": "8/29",
+            "BBM": "",
+            "Balls": "17076",
+            "Econ": "2.48",
+            "Inns": "",
+            "Mat": "247",
+            "Runs": "7086",
+            "SR": "65.6",
+            "Wkts": "260"
+        }
+    ],
+    "latest_articles": [],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nMarch 7, 1864, Sutton-in-Ashfield, Nottinghamshire "
+        ],
+        "Bowling style": [
+            "Right-arm medium"
+        ],
+        "Died": [
+            "March 16, 1923, Mansfield, Nottinghamshire (aged 59 years 9 days) "
+        ],
+        "Full name": [
+            "George Bean"
+        ],
+        "Major teams": [
+            "England,",
+            "Nottinghamshire,",
+            "Sussex"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

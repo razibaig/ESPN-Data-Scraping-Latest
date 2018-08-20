@@ -1,0 +1,324 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "1",
+            "4s": "97",
+            "50": "6",
+            "6s": "1",
+            "Ave": "27.84",
+            "BF": "1762",
+            "Ct": "11",
+            "HS": "140",
+            "Inns": "26",
+            "Mat": "15",
+            "NO": "0",
+            "Runs": "724",
+            "SR": "41.08",
+            "St": "0"
+        },
+        {
+            "": "T20Is",
+            "100": "0",
+            "4s": "26",
+            "50": "4",
+            "6s": "11",
+            "Ave": "50.00",
+            "BF": "166",
+            "Ct": "1",
+            "HS": "78",
+            "Inns": "5",
+            "Mat": "5",
+            "NO": "0",
+            "Runs": "250",
+            "SR": "150.60",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "21",
+            "4s": "1353",
+            "50": "54",
+            "6s": "18",
+            "Ave": "37.19",
+            "BF": "19152",
+            "Ct": "175",
+            "HS": "182*",
+            "Inns": "286",
+            "Mat": "168",
+            "NO": "20",
+            "Runs": "9894",
+            "SR": "51.66",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "10",
+            "4s": "511",
+            "50": "24",
+            "6s": "61",
+            "Ave": "41.84",
+            "BF": "5912",
+            "Ct": "47",
+            "HS": "185*",
+            "Inns": "139",
+            "Mat": "143",
+            "NO": "21",
+            "Runs": "4938",
+            "SR": "83.52",
+            "St": "0"
+        },
+        {
+            "": "T20s",
+            "100": "2",
+            "4s": "389",
+            "50": "23",
+            "6s": "113",
+            "Ave": "32.84",
+            "BF": "3090",
+            "Ct": "55",
+            "HS": "115*",
+            "Inns": "145",
+            "Mat": "150",
+            "NO": "26",
+            "Runs": "3909",
+            "SR": "126.50",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "156",
+            "Econ": "2.69",
+            "Inns": "5",
+            "Mat": "15",
+            "Runs": "70",
+            "SR": "-",
+            "Wkts": "0"
+        },
+        {
+            "": "T20Is",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "27.00",
+            "BBI": "1/27",
+            "BBM": "1/27",
+            "Balls": "12",
+            "Econ": "13.50",
+            "Inns": "1",
+            "Mat": "5",
+            "Runs": "27",
+            "SR": "12.0",
+            "Wkts": "1"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "2",
+            "5w": "1",
+            "Ave": "41.32",
+            "BBI": "5/61",
+            "BBM": "5/61",
+            "Balls": "3565",
+            "Econ": "3.68",
+            "Inns": "120",
+            "Mat": "168",
+            "Runs": "2190",
+            "SR": "67.2",
+            "Wkts": "53"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "1",
+            "5w": "0",
+            "Ave": "30.26",
+            "BBI": "4/25",
+            "BBM": "4/25",
+            "Balls": "1203",
+            "Econ": "5.73",
+            "Inns": "59",
+            "Mat": "143",
+            "Runs": "1150",
+            "SR": "31.6",
+            "Wkts": "38"
+        },
+        {
+            "": "T20s",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "25.13",
+            "BBI": "2/10",
+            "BBM": "2/10",
+            "Balls": "460",
+            "Econ": "7.53",
+            "Inns": "42",
+            "Mat": "150",
+            "Runs": "578",
+            "SR": "20.0",
+            "Wkts": "23"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/ci/content/story/1154857.html",
+        "http://www.espncricinfo.com/magazine/content/story/1154391.html",
+        "http://www.espncricinfo.com/ci/content/story/1154194.html",
+        "http://www.espncricinfo.com/ci/content/story/1153284.html",
+        "http://www.espncricinfo.com/ci/content/story/1152802.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=236489"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/278900/278967.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/278900/278967.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/278900/278967.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Left-hand bat"
+        ],
+        "Born": [
+            "\nSeptember 3, 1987, Roehampton, England "
+        ],
+        "Bowling style": [
+            "Legbreak"
+        ],
+        "Current age": [
+            "30 years 349 days"
+        ],
+        "Education": [
+            "Paarl Boys High School; UNISA"
+        ],
+        "Full name": [
+            "Dawid Johannes Malan"
+        ],
+        "Height": [
+            "\n6 ft 0 in "
+        ],
+        "Major teams": [
+            "England,",
+            "Boland,",
+            "England Lions,",
+            "Marylebone Cricket Club,",
+            "Middlesex,",
+            "Middlesex 2nd XI,",
+            "Peshawar Zalmi,",
+            "Prime Doleshwar Sporting Club"
+        ],
+        "Nickname": [
+            "AC"
+        ],
+        "Playing role": [
+            "Top-order batsman"
+        ],
+        "Relation": [
+            null,
+            "\n",
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        "\nDawid Malan made a striking entry into international cricket in a Twenty20 international in Cardiff in 2017, demolishing South Africa's attack with 78 from 44 balls - the highest T20 innings by an England debutant. From the time he deposited the second ball, from Chris Morris, over mid-wicket for six, he never looked back. \n",
+        "By the end of the summer, Malan had won a place in England's Ashes tour party, with England hoping he could play a tough-guy role at No 4. His first five Tests, against South Africa and the West Indies, were far from exceptional, with an average of 23.82 and only two half-centuries, but England calculated he possessed the fortitude and, at 30, the know-how to handle an Australian series. He did exactly that by scoring England's first hundred of the Ashes series after they had reached the WACA 2-0 down, a tough, grown-up innings that was exactly what was needed at a time when England were having to answer charges of off-field immaturity. ",
+        "Malan had shown in domestic cricket that he was capable of dominant innings. Nine years earlier, as an unknown 20-year-old for Middlesex in 2008, he came in at No 6 to hit a brilliant unbeaten hundred in a Twenty20 quarter-final against a Lancashire attack containing Andrew Flintoff, Glen Chapple and Dominic Cork. He was still being called an unknown - in Australia at least - as his twenties drew to a close.",
+        "Malan had put himself on the verge of an England call-up with a record-breaking performance for England Lions against Sri Lanka A in Northampton in 2016. Malan, the Lions' captain and elder statesman, struck an unbeaten 185 from 126 balls - a record for the Lions or England A in List A cricket, beating 168 by Ravi Bopara against West Indies A in Worcester in 2010.",
+        "Such exploits looked bound to bring him an England T20 debut when he was named in the squad to face Sri Lanka at the Ageas Bowl, only for him to lose out to the local boy James Vince.  But he put all that behind him with an excellent all-round season for Middlesex, striking three hundreds in their title-winning campaign and scoring heavily in T20 before heading for the Bangladesh Premier League.",
+        "Malan is a bludgeoning left-handed batsman possessed of power and panache, with some part-time leg spin thrown in. His progress has been undermined by inconsistency and a penchant for soft dismissals.",
+        "Born in Roehampton but brought up in South Africa, he made his first-class debut for Boland in 2005-06. In 2006 he played 2nd XI cricket for both Middlesex and Worcestershire, making his first-team debut for Middlesex in front of 20,000 people in a T20 Cup match at The Oval. He struggled to find a first-team spot the following season but in 2008 took his chance in style.",
+        "An impressive run in the Twenty20 earned him a place in the Championship side, where he scored his maiden century against Northamptonshire. But it was that Lancashire T20 innings that stood out as he made 103 off 51 balls, an innings that helped cement his place in the England Performance Squad in November 2008. It was described by his then captain Ed Joyce as 'the best innings I've ever witnessed from a 20-year-old'.",
+        "He was widely touted as a future England player, but instead his form slumped. In 2013, a Championship average of just 21.50 - across 12 Division One matches and with a top score of 61 - was a desperately poor return for a player of obvious ability. But after almost two years without a Championship hundred, including three dismissals in the 90s, he ended his wait with a century against Northamptonshire in June 2014 - and promptly added another against Somerset a week later. He averaged 45.48 in first-class cricket in 2014 - the first season he had averaged over 40. But Malan was more consistent in white ball cricket, leading to opportunities to play for Prime Doleshwar Sporting Club in Bangladesh. ",
+        "He came to the fore in spectacular style in 2015 when he set career-bests with big hundreds in all three formats of the game. He began with an unbeaten 115 off 64 balls as Middlesex beat Sussex at Hove, damaging a Ferrari with one of his three sixes. An unbeaten 182 in the Championship soon followed as he transformed a Championship match against Nottinghamshire at Trent Bridge in July and to round it off he hit an unbeaten 156 as Middlesex completed their Royal London One-Day Cup campaign with victory against Glamorgan at Lord's.",
+        null
+    ],
+    "recent_matches": [
+        {
+            "Bat & Bowl": "8, 0/22",
+            "Ground": "Lord's",
+            "Match Date": "16 Aug 2018",
+            "Opposition": "v Essex",
+            "Scorecard": "T20",
+            "Team": "Middlesex"
+        },
+        {
+            "Bat & Bowl": "36, 0/18",
+            "Ground": "Beckenham",
+            "Match Date": "12 Aug 2018",
+            "Opposition": "v Kent",
+            "Scorecard": "T20",
+            "Team": "Middlesex"
+        },
+        {
+            "Bat & Bowl": "15",
+            "Ground": "Bristol",
+            "Match Date": "9 Aug 2018",
+            "Opposition": "v Gloucs",
+            "Scorecard": "T20",
+            "Team": "Middlesex"
+        },
+        {
+            "Bat & Bowl": "8, 20",
+            "Ground": "Birmingham",
+            "Match Date": "1 Aug 2018",
+            "Opposition": "v India",
+            "Scorecard": "Test # 2314",
+            "Team": "England"
+        },
+        {
+            "Bat & Bowl": "6, 28",
+            "Ground": "Lord's",
+            "Match Date": "22 Jul 2018",
+            "Opposition": "v Warwickshire",
+            "Scorecard": "FC",
+            "Team": "Middlesex"
+        },
+        {
+            "Bat & Bowl": "7",
+            "Ground": "Southampton",
+            "Match Date": "20 Jul 2018",
+            "Opposition": "v Hampshire",
+            "Scorecard": "T20",
+            "Team": "Middlesex"
+        },
+        {
+            "Bat & Bowl": "74, 56",
+            "Ground": "Worcester",
+            "Match Date": "16 Jul 2018",
+            "Opposition": "v India A",
+            "Scorecard": "FC",
+            "Team": "Eng Lions"
+        },
+        {
+            "Bat & Bowl": "0, 1/8",
+            "Ground": "Uxbridge",
+            "Match Date": "8 Jul 2018",
+            "Opposition": "v Gloucs",
+            "Scorecard": "T20",
+            "Team": "Middlesex"
+        },
+        {
+            "Bat & Bowl": "2",
+            "Ground": "Lord's",
+            "Match Date": "5 Jul 2018",
+            "Opposition": "v Surrey",
+            "Scorecard": "T20",
+            "Team": "Middlesex"
+        },
+        {
+            "Bat & Bowl": "0/1, 0, 0",
+            "Ground": "Canterbury",
+            "Match Date": "25 Jun 2018",
+            "Opposition": "v Kent",
+            "Scorecard": "FC",
+            "Team": "Middlesex"
+        }
+    ]
+}

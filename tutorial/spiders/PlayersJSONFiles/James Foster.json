@@ -1,0 +1,342 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "27",
+            "50": "0",
+            "6s": "1",
+            "Ave": "25.11",
+            "BF": "654",
+            "Ct": "17",
+            "HS": "48",
+            "Inns": "12",
+            "Mat": "7",
+            "NO": "3",
+            "Runs": "226",
+            "SR": "34.55",
+            "St": "1"
+        },
+        {
+            "": "ODIs",
+            "100": "0",
+            "4s": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "13.66",
+            "BF": "71",
+            "Ct": "13",
+            "HS": "13",
+            "Inns": "6",
+            "Mat": "11",
+            "NO": "3",
+            "Runs": "41",
+            "SR": "57.74",
+            "St": "7"
+        },
+        {
+            "": "T20Is",
+            "100": "0",
+            "4s": "0",
+            "50": "0",
+            "6s": "1",
+            "Ave": "12.33",
+            "BF": "32",
+            "Ct": "3",
+            "HS": "14*",
+            "Inns": "5",
+            "Mat": "5",
+            "NO": "2",
+            "Runs": "37",
+            "SR": "115.62",
+            "St": "3"
+        },
+        {
+            "": "First-class",
+            "100": "23",
+            "4s": "",
+            "50": "70",
+            "6s": "",
+            "Ave": "36.69",
+            "BF": "",
+            "Ct": "839",
+            "HS": "212",
+            "Inns": "427",
+            "Mat": "289",
+            "NO": "52",
+            "Runs": "13761",
+            "SR": "",
+            "St": "62"
+        },
+        {
+            "": "List A",
+            "100": "0",
+            "4s": "",
+            "50": "16",
+            "6s": "",
+            "Ave": "28.44",
+            "BF": "",
+            "Ct": "246",
+            "HS": "83*",
+            "Inns": "164",
+            "Mat": "223",
+            "NO": "46",
+            "Runs": "3357",
+            "SR": "",
+            "St": "65"
+        },
+        {
+            "": "T20s",
+            "100": "0",
+            "4s": "177",
+            "50": "7",
+            "6s": "67",
+            "Ave": "21.36",
+            "BF": "1539",
+            "Ct": "79",
+            "HS": "65*",
+            "Inns": "141",
+            "Mat": "179",
+            "NO": "40",
+            "Runs": "2158",
+            "SR": "140.22",
+            "St": "47"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "7",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "ODIs",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "11",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "T20Is",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "5",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "128.00",
+            "BBI": "1/122",
+            "BBM": "1/122",
+            "Balls": "84",
+            "Econ": "9.14",
+            "Inns": "",
+            "Mat": "289",
+            "Runs": "128",
+            "SR": "84.0",
+            "Wkts": "1"
+        },
+        {
+            "": "List A",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "223",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "T20s",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "179",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/ci/content/story/1149762.html",
+        "http://www.espncricinfo.com/ci/content/story/1143939.html",
+        "http://www.espncricinfo.com/ci/content/story/1142573.html",
+        "http://www.espncricinfo.com/england/content/story/1125820.html",
+        "http://www.espncricinfo.com/county-cricket-2017/content/story/1120944.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=12877"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/275300/275338.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/275300/275338.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/275300/275338.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nApril 15, 1980, Whipps Cross, Leytonstone, Essex "
+        ],
+        "Current age": [
+            "38 years 125 days"
+        ],
+        "Education": [
+            "Forest School; Durham University"
+        ],
+        "Fielding position": [
+            "Wicketkeeper"
+        ],
+        "Full name": [
+            "James Savin Foster"
+        ],
+        "Height": [
+            "\n6 ft 0 in "
+        ],
+        "Major teams": [
+            "England,",
+            "Durham MCCU,",
+            "Essex,",
+            "Marylebone Cricket Club,",
+            "Northern Districts"
+        ],
+        "Nickname": [
+            "Fozzy, Chief"
+        ]
+    },
+    "profile_info": [
+        "\nJames Foster was earmarked early on as an England wicketkeeper in the making, and though opportunities at the top were intermittent, he has earned a reputation as one of the best glovemen in the English game. In the latter part of his career, Foster also combined keeping and captaincy with being one of the mainstays of the Essex batting. A reward for his longevity came late: he was 37 when he won a championship-winning medal as part of Essex's 2017 side. Earlier in the season, he had been omitted, but responded with spirit, regained his place and was duly rewarded. \n",
+        "Foster's career began in meteoric fashion. After just four first-class matches for Essex he was selected for the England A tour of West Indies in 2000-01. At this point he was still sharing the English season between his studies at Durham University and playing for Essex, but once he committed full-time to cricket he was being talked of as a successor to Alec Stewart. His chance came on the 2001-02 one-day tour of Zimbabwe, where he made his debut at Harare, before earning a spot on the trip to India after Stewart opted out. He made a nervous start at Mohali, but became more assured during the tour and impressed with some determined innings.",
+        "He retained his place for the tour of New Zealand after Christmas, but was ousted from the one-day squad when England searched for greater balance by using Marcus Trescothick. Then came a cruel break - literally - when his arm was broken during nets with Essex, allowing Stewart to slot back into the team. Though Foster performed consistently in county cricket there was no way back in the summer of 2002, but he'd done enough to be the reserve keeper on the Ashes tour that winter. He won one more Test cap, at Melbourne, when Stewart injured his arm, but was fighting a losing battle as England attempted to field five bowlers. When Stewart retired at the end of the 2003 season, Andrew Flintoff's emergence had opened the way for a keeper at No. 7 - but it was Chris Read, not Foster, who got the nod. Thereafter, Geraint Jones and latterly Matt Prior claimed the gloves. ",
+        "Foster was promoted to Essex vice-captain during the 2007 season and impressed with both his batting and keeping in 2008 - in particular his standing up to the stumps, which was one of the decisive factors of his call-up to England's World Twenty20 squad in 2009. Foster caught the eye for his work behind the stumps during the tournament, notably with a brilliant stumping of Yuvraj Singh against India, but was nevertheless left out of England's training and Lions squads ahead of that summer's Ashes series.",
+        "He slotted straight back into Essex's side and in September sent a message to the England selectors about his hitting power when he struck Durham legspinner Scott Borthwick for five consecutive sixes off the first five balls of an over at Chester-le-Street. He was overlooked once again for the World Twenty20 in 2010 but refused to dwell on the snub and in June was named Essex Twenty20 captain. A month later he took over full duties from Mark Pettini. ",
+        "Despite Essex failing to live up to their potential in the Championship, the limited-overs side under Foster were consistently impressive - although again without the trophies to prove it. Foster has developed into a skilful and innovative finisher, his idiosyncratic foot movement often disturbing bowlers, and he impressed for Northern Districts as a Twenty20 player in 2012-13. ",
+        "There were whispers once again of an England recall with the return of Peter Moores as England coach in 2014 and uncertainty over the fitness of Prior but the Test gauntlets were soon passed on to Jos Buttler. By the end of the following season, he accepted a role as cricket professional of Forest School in East London and, although he stressed Essex would remain his priority, it signalled that his career was nearing a close. He began by conceding the captaincy to Ryan ten Doeschate, but his zest during the promotion year that followed was enough to win a new two-year contract.",
+        null
+    ],
+    "recent_matches": [
+        {
+            "Bat & Bowl": "0",
+            "Ground": "Lord's",
+            "Match Date": "29 Jul 2018",
+            "Opposition": "v Nepal",
+            "Scorecard": "T20",
+            "Team": "M.C.C."
+        },
+        {
+            "Bat & Bowl": "0c/1s",
+            "Ground": "Lord's",
+            "Match Date": "29 Jul 2018",
+            "Opposition": "v Netherlands",
+            "Scorecard": "T20",
+            "Team": "M.C.C."
+        },
+        {
+            "Bat & Bowl": "3c/0s, 42, 0c/0s",
+            "Ground": "Chelmsford",
+            "Match Date": "25 Jul 2018",
+            "Opposition": "v Indians",
+            "Scorecard": "Other",
+            "Team": "Essex"
+        },
+        {
+            "Bat & Bowl": "16, 1c/0s, 24, 1c/0s",
+            "Ground": "Worcester",
+            "Match Date": "11 May 2018",
+            "Opposition": "v Worcs",
+            "Scorecard": "FC",
+            "Team": "Essex"
+        },
+        {
+            "Bat & Bowl": "2c/0s, 3, 1c/0s, 0",
+            "Ground": "Chelmsford",
+            "Match Date": "4 May 2018",
+            "Opposition": "v Yorkshire",
+            "Scorecard": "FC",
+            "Team": "Essex"
+        },
+        {
+            "Bat & Bowl": "3c/0s, 46",
+            "Ground": "Southampton",
+            "Match Date": "27 Apr 2018",
+            "Opposition": "v Hampshire",
+            "Scorecard": "FC",
+            "Team": "Essex"
+        },
+        {
+            "Bat & Bowl": "7, 3c/1s, 69, 2c/0s",
+            "Ground": "Chelmsford",
+            "Match Date": "20 Apr 2018",
+            "Opposition": "v Lancashire",
+            "Scorecard": "FC",
+            "Team": "Essex"
+        },
+        {
+            "Bat & Bowl": "-",
+            "Ground": "Cambridge",
+            "Match Date": "7 Apr 2018",
+            "Opposition": "v Cambs MCCU",
+            "Scorecard": "FC",
+            "Team": "Essex"
+        },
+        {
+            "Bat & Bowl": "34, 3c/1s, 29",
+            "Ground": "Bridgetown",
+            "Match Date": "27 Mar 2018",
+            "Opposition": "v M.C.C.",
+            "Scorecard": "FC",
+            "Team": "Essex"
+        },
+        {
+            "Bat & Bowl": "25, 4c/0s, 10, 4c/0s",
+            "Ground": "Chelmsford",
+            "Match Date": "25 Sep 2017",
+            "Opposition": "v Yorkshire",
+            "Scorecard": "FC",
+            "Team": "Essex"
+        }
+    ]
+}

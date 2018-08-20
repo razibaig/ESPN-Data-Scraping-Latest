@@ -1,0 +1,97 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "7.50",
+            "Ct": "0",
+            "HS": "5",
+            "Inns": "8",
+            "Mat": "5",
+            "NO": "6",
+            "Runs": "15",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "4s": "",
+            "50": "0",
+            "6s": "",
+            "Ave": "7.80",
+            "Ct": "67",
+            "HS": "36",
+            "Inns": "326",
+            "Mat": "227",
+            "NO": "111",
+            "Runs": "1679",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "1",
+            "5w": "0",
+            "Ave": "79.85",
+            "BBI": "4/115",
+            "BBM": "4/204",
+            "Balls": "918",
+            "Econ": "3.65",
+            "Inns": "7",
+            "Mat": "5",
+            "Runs": "559",
+            "SR": "131.1",
+            "Wkts": "7"
+        },
+        {
+            "": "First-class",
+            "10": "18",
+            "4w": "",
+            "5w": "75",
+            "Ave": "21.23",
+            "BBI": "10/51",
+            "BBM": "",
+            "Balls": "43112",
+            "Econ": "2.88",
+            "Inns": "",
+            "Mat": "227",
+            "Runs": "20700",
+            "SR": "44.2",
+            "Wkts": "975"
+        }
+    ],
+    "latest_articles": [],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nNovember 29, 1890, Hockley, Birmingham, Warwickshire "
+        ],
+        "Bowling style": [
+            "Right-arm fast"
+        ],
+        "Died": [
+            "July 9, 1932, Selly Oak, Birmingham, Warwickshire (aged 41 years 223 days) "
+        ],
+        "Full name": [
+            "Henry Howell"
+        ],
+        "Major teams": [
+            "England,",
+            "Warwickshire"
+        ]
+    },
+    "profile_info": [],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

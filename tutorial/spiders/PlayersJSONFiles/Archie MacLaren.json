@@ -1,0 +1,121 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "5",
+            "50": "8",
+            "6s": "0",
+            "Ave": "33.87",
+            "Ct": "29",
+            "HS": "140",
+            "Inns": "61",
+            "Mat": "35",
+            "NO": "4",
+            "Runs": "1931",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "47",
+            "50": "95",
+            "6s": "",
+            "Ave": "34.15",
+            "Ct": "452",
+            "HS": "424",
+            "Inns": "703",
+            "Mat": "424",
+            "NO": "52",
+            "Runs": "22236",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "35",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "267.00",
+            "BBI": "1/44",
+            "BBM": "",
+            "Balls": "321",
+            "Econ": "4.99",
+            "Inns": "",
+            "Mat": "424",
+            "Runs": "267",
+            "SR": "321.0",
+            "Wkts": "1"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/1062062.html",
+        "http://www.espncricinfo.com/blogs/content/story/997007.html",
+        "http://www.espncricinfo.com/magazine/content/story/298754.html",
+        "http://www.espncricinfo.com/magazine/content/story/260448.html",
+        "http://www.espncricinfo.com/magazine/content/story/253554.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=16871"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/042004/051662.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/042004/051662.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/042004/051662.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nDecember 1, 1871, Whalley Range, Manchester, Lancashire "
+        ],
+        "Bowling style": [
+            "Right-arm fast"
+        ],
+        "Died": [
+            "November 17, 1944, Warfield Park, Bracknell, Berkshire (aged 72 years 352 days) "
+        ],
+        "Full name": [
+            "Archibald Campbell MacLaren"
+        ],
+        "Major teams": [
+            "England,",
+            "Lancashire"
+        ]
+    },
+    "profile_info": [
+        null,
+        null,
+        "He will always be remembered for his 424 for Lancashire against Somerset at Taunton in 1895, a first-class score that stood unbeaten for nearly thirty years and has been exceeded only by Don Bradman, who now holds the record with 452 not out, and W. H. Ponsford in Australia. For choice as a Test Captain he remains unrivalled, having in the course of eleven years led England in 22 matches, and his 35 appearances against  Australia have been surpassed only by Hobbs and Rhodes during far longer periods. Often unfortunate when commander in these big events, he never led England to victory in a rubber, but showed his exceptional knowledge of the game when, having asserted that he could pick a side capable of beating the all-conquering Australian team of 1921, he fulfilled his prophecy by selecting and captaining eleven amateurs, who, at Eastbourne at the end of August, gained a victory by 28 runs after being 130 behind on the first innings. In that climax to his career in England he retained his superb figure, though white hair suggested more age than the approach of his fiftieth birthday. He finished his intimate association with first-class cricket by acting as manager to S. B. Joel's team that toured  South Africa in 1924-25.",
+        "Son of Mr. James MacLaren, for many years Hon. Treasurer of Lancashire C.C., Archie MacLaren was born on December 1, 1871, at Manchester, and began his important cricket life auspiciously when only fifteen years of age by scoring 55 and 67 for Harrow against Eton in 1887. He finished four years in the eleven as captain, and with 76 in a total of 133 off the Eton bowlers at Lord's, showed such form that a month later he appeared in county cricket, and in his first match for  Lancashire played a fine innings of 108 against Sussex at Hove.",
+        "His obvious powers took some time to ripen, but within a few years he reached the front rank of batsmen. Possessed of great resource, he could, according to circumstances, play a cautious or a brilliant game that made him splendid to watch from the ringside. Standing erect with bat raised well behind him, he was ready to receive any kind of delivery and would force the ball away with every sort of powerful stroke.",
+        "Captain of  Lancashire from 1894 to 1896, and again from 1899 to 1907, he reasserted himself in 1921 as described, and in the winter of 1922-23, at the age of 51, when leading an  M.C.C. side in New Zealand, he scored 200 not out at  Wellington in a representative match. Besides his record 424, he three times exceeded two hundred for his county, 226 at Canterbury against Kent in 1896, next year 244 in the same fixture, and 204 at Liverpool against Gloucester in 1903. From 1893 to 1909 he frequently appeared for  Gentlemen against Players, making 728 runs in these games with an average of 45; in 1903, when he and C. B. Fry added 309 in three hours for the third wicket without being separated, he scored 168.",
+        "Eight times in England and once in Australia he obtained over 1,000 runs in a season, his largest aggregate being 1,886 (average 42) in the summer of 1903. He enjoyed pronounced success on the  Sydney ground, where in the winter of 1897-98 against New South Wales he scored 142 and 100 in one match, 109 and 50 not out a month later against Australia, 61 and 140 in another match with New South Wales, and 65 in the last Test. He also got 124 against Australia at Adelaide and 181 at Brisbane, altogether six centuries on that tour, in which he made 1,037 runs, average 54.57, in first-class matches. No wonder that MacLaren is still talked of in  Australia, and especially at Sydney, for his wonderful batting as an object lesson for everyone.",
+        "In Test matches between England and Australia he made 1,931 runs, four times reaching three figures and averaging nearly 34. Twice in the nineties he toured Australia with teams led by A. E. Stoddart, and in the winter of 1901-02 he himself took out a side; but in Test matches this team, like the second captained by Stoddart, suffered four defeats and gained only one victory. In three home seasons -- 1899,  1902 and 1909 -- England, captained by him, won only two of fourteen engagements and lost each rubber. MacLaren visited America with K. S. Ranjitsinhji's team in 1899, and the Argentine in 1911-12 with the M.C.C. side led by Lord Hawke, and he also played in India.",
+        "He astonished everyone by taking S. F. Barnes, of small experience in first-class cricket, on the 1901-02 tour in Australia. Yet he could not keep that wonderful bowler in the Lancashire county eleven, and in 1909 he failed to persuade his county colleague, Walter Brearley, then the best of our fast bowlers, to accept a last-moment invitation to play for  England at Lord's.",
+        "Opinions differ as to the ability of MacLaren as a captain. Everyone agrees that he held strong views and was loath to depart from them even if his leadership actually suffered. In fact, it appeared more than once that he pursued ways that showed up some curious decision of selection committees in carrying out their duties.",
+        "Undoubtedly he found occasional brilliant inspirations, born of his exceptional knowledge of cricket, but he committed some blunders difficult to understand in a man of his experience. A notable illustration of his erratic disposition occurred at The Oval in the Test match of 1909. To begin with, having the final word in the composition of the eleven, he decided, despite fine weather and a hard wicket, that England should take the field without a good fast bowler, John Sharp, of Lancashire, being preferred to Buckenham, of Essex. Then, with the score 9 and one man out, he took Sidney Barnes off in favour of Sharp, mainly a batsman, and kept D. W. Carr, a googly bowler, aged 37, on at one end for an hour and a half, an action for which it would have been difficult to excuse anybody. That was the match in which Warren Bardsley made 136 and 130.",
+        "Another lapse from wisdom was at  Old Trafford in 1902, when he sent to deep square leg Fred Tate, always a short slip; and that historic dropped catch brought about England's defeat in a match upon which the rubber depended -- only victory in that engagement could have prevented the honours going to Australia. Yet such was his knowledge of the game that at Leeds in 1904 he gave  Yorkshire first innings, and Lancashire, by avoiding defeat in George Hirst's benefit match, went through the season unbeaten and were champions for the only time under  MacLaren's captaincy.",
+        null,
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

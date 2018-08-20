@@ -1,0 +1,116 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "9.50",
+            "Ct": "0",
+            "HS": "18",
+            "Inns": "2",
+            "Mat": "1",
+            "NO": "0",
+            "Runs": "19",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "38",
+            "50": "81",
+            "6s": "",
+            "Ave": "29.95",
+            "Ct": "180",
+            "HS": "243*",
+            "Inns": "722",
+            "Mat": "437",
+            "NO": "49",
+            "Runs": "20158",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "1",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "3",
+            "4w": "",
+            "5w": "12",
+            "Ave": "30.61",
+            "BBI": "8/39",
+            "BBM": "",
+            "Balls": "26660",
+            "Econ": "2.76",
+            "Inns": "",
+            "Mat": "437",
+            "Runs": "12278",
+            "SR": "66.4",
+            "Wkts": "401"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/876429.html",
+        "http://www.espncricinfo.com/magazine/content/story/250235.html",
+        "http://www.espncricinfo.com/ci/content/story/133155.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/213300/213349.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/213300/213349.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/213300/213349.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nOctober 26, 1890, Marylebone, London "
+        ],
+        "Died": [
+            "April 21, 1981, Westminster, London (aged 90 years 177 days) "
+        ],
+        "Full name": [
+            "Henry William Lee"
+        ],
+        "Major teams": [
+            "England,",
+            "Maharaja of Cooch-Behar's XI,",
+            "Middlesex"
+        ],
+        "Other": [
+            "Umpire, Coach"
+        ],
+        "Relation": [
+            null,
+            "\n",
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        null,
+        "His career with Middlesex took off in 1919, when he made two centuries in a charity match against Surrey. For the first of 13 times he made a thousand runs in the season. Having unusually gained his county cap by asking for it in 1913 (Plum Warner expressed surprise that it hadn't been awarded and asked for a cap to be sent down forthwith), Lee was one of the first four Middlesex batsmen in an innings to make centuries in 1920 against Sussex at Lord\"s. Three years later the feat was repeated, Lee and Hearne this time being accompanied by Dales and Hendren at Southampton. On the former occasion Lee had gone on to take 5 for 21 and 6 for 47 with medium pace. The first of his three double-centuries came in 1920, when he was on the field for the entire match against Hampshire at Southampton and made 221 not out. Next season he batted for 370 minutes against Notts to record his highest score, 243 not out, in a Lord\"s record total of 612 for 8.",
+        "A squat, crouching stance and much patience prevented him from winning hearts in the way that the cheeky and brilliant Hendren or dapper Hearne did, but his toughness was acknowledged and appreciated, and throughout the 1920s he was sought-after as a coach in various parts of South Africa. It was while he was coaching there in 1930-31 that Chapman invited him into his illness-and injury-stricken MCC team. A month later Lee found himself playing for England in the fourth Test, at Johannesburg, scoring 18 and 1 in a drawn match. The distasteful aftermath was that MCC refused to give him a cap and blazer, preferring to believe a master at the school in Grahamstown, who claimed that Lee broke his coaching contract. A compensation came through Jack Hobbs, who gave him an England touring tie. After 1921, Lee's performances were moderate for several seasons, and it was only in 1928 that his average rose above the twenties. In 1928 his form was recognised with his sole selection in a Gentlemen-Players match, when he scored 56 at the Oval. In 1929 he made 225 against Surrey, but in his early forties the same harvest as reaped by his team-mate Hendren was not forthcoming.",
+        "There were, though, two curiosities still in store. In 1931 he and brothers Frank (for years a successful Somerset batsmen and Test umpire) and Jack (who was killed soon after the D-Day landings) all made hundreds in the same season - the first instance by three brothers in the professional ranks; and in 1933, in the Middlesex- Somerset match, Harry was caught by Frank off Jack's bowling for 82. Harry thought his best innings was a 68 against Gloucestershire, with Charlie Parker at his best, in 1922. But two hundreds in a match at Lord\"s in 1929, when he resisted the fiery Ted McDonald, must rank high. In this match Gubby Allen took 10 for 40 in Lancashire\"s first innings.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

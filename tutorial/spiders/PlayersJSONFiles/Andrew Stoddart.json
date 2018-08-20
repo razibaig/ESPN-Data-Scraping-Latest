@@ -1,0 +1,116 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "2",
+            "50": "3",
+            "6s": "5",
+            "Ave": "35.57",
+            "Ct": "6",
+            "HS": "173",
+            "Inns": "30",
+            "Mat": "16",
+            "NO": "2",
+            "Runs": "996",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "26",
+            "50": "85",
+            "6s": "",
+            "Ave": "32.12",
+            "Ct": "257",
+            "HS": "221",
+            "Inns": "537",
+            "Mat": "309",
+            "NO": "16",
+            "Runs": "16738",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "47.00",
+            "BBI": "1/10",
+            "BBM": "1/10",
+            "Balls": "162",
+            "Econ": "3.48",
+            "Inns": "6",
+            "Mat": "16",
+            "Runs": "94",
+            "SR": "81.0",
+            "Wkts": "2"
+        },
+        {
+            "": "First-class",
+            "10": "2",
+            "4w": "",
+            "5w": "10",
+            "Ave": "23.63",
+            "BBI": "7/67",
+            "BBM": "",
+            "Balls": "14717",
+            "Econ": "2.67",
+            "Inns": "",
+            "Mat": "309",
+            "Runs": "6571",
+            "SR": "52.9",
+            "Wkts": "278"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/blogs/content/story/909033.html",
+        "http://www.espncricinfo.com/magazine/content/story/315702.html",
+        "http://www.espncricinfo.com/magazine/content/story/290160.html",
+        "http://www.espncricinfo.com/wisdencricketer/content/story/209163.html",
+        "http://www.espncricinfo.com/ci/content/story/138524.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=20381"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/032004/050942.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/032004/050942.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/032004/050942.icon.jpg"
+    ],
+    "personal_info": {
+        "Also known as": [
+            "Stoddy, Drewy, Stod"
+        ],
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nMarch 11, 1863, Westoe, South Shields, Co Durham "
+        ],
+        "Bowling style": [
+            "Right-arm medium"
+        ],
+        "Died": [
+            "April 4, 1915, St John's Wood, London (aged 52 years 24 days) "
+        ],
+        "Full name": [
+            "Andrew Ernest Stoddart"
+        ],
+        "Major teams": [
+            "England,",
+            "Middlesex"
+        ]
+    },
+    "profile_info": [
+        null,
+        null,
+        "He turned out only once for Middlesex in 1899, and twice in the following year, but in his last match for the county -- against Somerset at Lord's -- he put together a score of 221, the highest of his career in first-class cricket. Among his most famous innings were 215 not out against  Lancashire at Manchester in 1891 and 151 for England against the M.C.C. at Lord's in 1887, when he and Arthur Shrewsbury raised the total to 266 for the first wicket. In 1886, for Hampstead against the Stoics, he played an  innings of 485 -- at that time the highest individual score on record.",
+        "On four occasions Mr. Stoddart paid visits to Australia, first in 1887, as a member of G. F. Vernon's team, when he averaged 32. Four years later he formed one of the side taken out by Lord Sheffield, his average then amounting to 37. In 1894-95, and again in 1897-98, he himself took a team out to Australia. The first of these undertakings resulted in England winning the rubber after two victories had been gained by each country, but the second proved a big disappointment, no fewer than four of the five Test matches ending in favour of Australia. Still, in the two tours associated with his leadership, Mr.  Stoddart came out well with averages of 51 and 34. In the fifth match in the tour of 1894-95, which decided the  rubber in England's favour, J. T. Brown played a memorable  innings of 140, and Albert Ward scored 91. As a Test match player in this country, Mr. Stoddart achieved no special distinction. He took no part in those games in 1890, and although he played in all three matches three years later, making 83 at The Oval, his only other appearances for  England at home were at Lord's and Manchester in  1896.",
+        "A splendid batsman to watch, Mr. Stoddart had all strokes at his command, but was especially strong in driving and hitting on the leg side. Again and again he proved his greatness by his ability to make runs under conditions which found other batsmen at fault, his play, both on fiery and on soft wickets, being quite exceptional. As a special instance of his power on fiery wickets one recalls a superb innings of 91 for Middlesex against  Surrey at The Oval in 1892. The Oval was not in good order that year, and Lockwood's bowling needed some facing. Stoddart, however, did not mind a bit. Two or three times he hit to the boundary balls that got up as high as his head. Almost equally good was his batting, when in with W. G. Grace, against Richardson and Mold in the Gentlemen and  Players match at Lord's in 1895. In the early part of his career he proved a useful change bowler, and anywhere in the field he was both brilliant and safe. In his early seasons for Middlesex he had onerous work to do on the off-side when George Burton was bowling, but he was never known to flinch.",
+        "Mr. Stoddart was one of the very few men who have represented their country at Rugby football as well as at cricket. Between 1886 and 1893 he took part in ten international Rugby matches, and would certainly have played in more but for the fact that in two of the intermediate seasons England, owing to a dispute with the other Unions, had no International matches. He appeared twice against Scotland, three times against Ireland, and four times against Wales, while in 1889 he played against the Maories. A splendid runner, with plenty of pace and dodging ability, and not above jumping over an opponent on occasion, he was a great three-quarter -- possessed of a very fine pair of hands -- a brilliant kick, and a player full of resource.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {}
+    ]
+}

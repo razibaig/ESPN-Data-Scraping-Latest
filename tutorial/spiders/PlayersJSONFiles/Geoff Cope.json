@@ -1,0 +1,180 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "1",
+            "50": "0",
+            "6s": "0",
+            "Ave": "13.33",
+            "BF": "184",
+            "Ct": "1",
+            "HS": "22",
+            "Inns": "3",
+            "Mat": "3",
+            "NO": "0",
+            "Runs": "40",
+            "SR": "21.73",
+            "St": "0"
+        },
+        {
+            "": "ODIs",
+            "100": "0",
+            "4s": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "-",
+            "BF": "1",
+            "Ct": "0",
+            "HS": "1*",
+            "Inns": "1",
+            "Mat": "2",
+            "NO": "1",
+            "Runs": "1",
+            "SR": "100.00",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "4s": "",
+            "50": "5",
+            "6s": "",
+            "Ave": "14.18",
+            "BF": "",
+            "Ct": "71",
+            "HS": "78",
+            "Inns": "261",
+            "Mat": "246",
+            "NO": "93",
+            "Runs": "2383",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "0",
+            "4s": "",
+            "50": "0",
+            "6s": "",
+            "Ave": "11.20",
+            "BF": "",
+            "Ct": "9",
+            "HS": "18*",
+            "Inns": "24",
+            "Mat": "44",
+            "NO": "14",
+            "Runs": "112",
+            "SR": "",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "34.62",
+            "BBI": "3/102",
+            "BBM": "4/91",
+            "Balls": "864",
+            "Econ": "1.92",
+            "Inns": "5",
+            "Mat": "3",
+            "Runs": "277",
+            "SR": "108.0",
+            "Wkts": "8"
+        },
+        {
+            "": "ODIs",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "17.50",
+            "BBI": "1/16",
+            "BBM": "1/16",
+            "Balls": "112",
+            "Econ": "1.87",
+            "Inns": "2",
+            "Mat": "2",
+            "Runs": "35",
+            "SR": "56.0",
+            "Wkts": "2"
+        },
+        {
+            "": "First-class",
+            "10": "6",
+            "4w": "",
+            "5w": "35",
+            "Ave": "24.70",
+            "BBI": "8/73",
+            "BBM": "",
+            "Balls": "43489",
+            "Econ": "2.33",
+            "Inns": "",
+            "Mat": "246",
+            "Runs": "16948",
+            "SR": "63.3",
+            "Wkts": "686"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "40.27",
+            "BBI": "3/24",
+            "BBM": "3/24",
+            "Balls": "1915",
+            "Econ": "3.65",
+            "Inns": "",
+            "Mat": "44",
+            "Runs": "1168",
+            "SR": "66.0",
+            "Wkts": "29"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/1117717.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/75300/75387.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nFebruary 23, 1947, Burmantofts, Leeds, Yorkshire "
+        ],
+        "Bowling style": [
+            "Right-arm offbreak"
+        ],
+        "Current age": [
+            "71 years 176 days"
+        ],
+        "Education": [
+            "Temple Moor School, Leeds"
+        ],
+        "Full name": [
+            "Geoffrey Alan Cope"
+        ],
+        "Major teams": [
+            "England,",
+            "Lincolnshire,",
+            "Yorkshire"
+        ],
+        "Nickname": [
+            "Todge"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

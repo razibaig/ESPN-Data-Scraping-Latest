@@ -1,0 +1,342 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "36",
+            "50": "1",
+            "6s": "4",
+            "Ave": "18.94",
+            "BF": "912",
+            "Ct": "48",
+            "HS": "55",
+            "Inns": "23",
+            "Mat": "15",
+            "NO": "4",
+            "Runs": "360",
+            "SR": "39.47",
+            "St": "6"
+        },
+        {
+            "": "ODIs",
+            "100": "0",
+            "4s": "21",
+            "50": "0",
+            "6s": "6",
+            "Ave": "17.64",
+            "BF": "410",
+            "Ct": "41",
+            "HS": "30*",
+            "Inns": "24",
+            "Mat": "36",
+            "NO": "7",
+            "Runs": "300",
+            "SR": "73.17",
+            "St": "2"
+        },
+        {
+            "": "T20Is",
+            "100": "0",
+            "4s": "2",
+            "50": "0",
+            "6s": "0",
+            "Ave": "13.00",
+            "BF": "11",
+            "Ct": "1",
+            "HS": "13",
+            "Inns": "1",
+            "Mat": "1",
+            "NO": "0",
+            "Runs": "13",
+            "SR": "118.18",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "26",
+            "4s": "",
+            "50": "92",
+            "6s": "",
+            "Ave": "37.26",
+            "BF": "",
+            "Ct": "1051",
+            "HS": "240",
+            "Inns": "526",
+            "Mat": "349",
+            "NO": "87",
+            "Runs": "16361",
+            "SR": "",
+            "St": "53"
+        },
+        {
+            "": "List A",
+            "100": "2",
+            "4s": "",
+            "50": "24",
+            "6s": "",
+            "Ave": "29.13",
+            "BF": "",
+            "Ct": "319",
+            "HS": "135",
+            "Inns": "265",
+            "Mat": "333",
+            "NO": "74",
+            "Runs": "5564",
+            "SR": "",
+            "St": "73"
+        },
+        {
+            "": "T20s",
+            "100": "0",
+            "4s": "106",
+            "50": "1",
+            "6s": "38",
+            "Ave": "23.24",
+            "BF": "1160",
+            "Ct": "60",
+            "HS": "58*",
+            "Inns": "98",
+            "Mat": "119",
+            "NO": "36",
+            "Runs": "1441",
+            "SR": "124.22",
+            "St": "27"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "15",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "ODIs",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "36",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "T20Is",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "1",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "96",
+            "Econ": "5.62",
+            "Inns": "",
+            "Mat": "349",
+            "Runs": "90",
+            "SR": "-",
+            "Wkts": "0"
+        },
+        {
+            "": "List A",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "333",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "T20s",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "119",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/ci/content/story/1146784.html",
+        "http://www.espncricinfo.com/magazine/content/story/1123631.html",
+        "http://www.espncricinfo.com/county-championship-division-2-2017/content/story/1122386.html",
+        "http://www.espncricinfo.com/county-championship-division-2-2017/content/story/1122124.html",
+        "http://www.espncricinfo.com/county-cricket-2017/content/story/1115888.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=19346"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/268500/268589.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/268500/268589.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/268500/268589.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nAugust 10, 1978, Paignton, Devon "
+        ],
+        "Current age": [
+            "40 years 8 days"
+        ],
+        "Education": [
+            "Torquay Boys' Grammar School, University of Bath, Loughborough University"
+        ],
+        "Fielding position": [
+            "Wicketkeeper"
+        ],
+        "Full name": [
+            "Christopher Mark Wells Read"
+        ],
+        "Height": [
+            "\n5 ft 8 in "
+        ],
+        "Major teams": [
+            "England,",
+            "Devon,",
+            "Gloucestershire,",
+            "Nottinghamshire"
+        ],
+        "Nickname": [
+            "Reados"
+        ]
+    },
+    "profile_info": [
+        "\nChris Read, born in Devon, reared in Bristol and an England A tourist before he had played a first-class game, retired in 2017 as one of county cricket's most respected performers. From an early age, he quickly established himself as the tidiest gloveman in English cricket. But life as a wicketkeeping purist was no longer any guarantee of success by the time his career reached fulfilment and, even more than Jack Russell before him, he soon realised that England honours would not come easily.  He played 15 Tests and 36 ODIs for England between 1999 and 2007 before his career faltered on the rock known as Duncan Fletcher - England's coach at the time felt he was too undemonstrative as a keeper and a batsman overly committed to attack - but many admirers campaigned for his selection long after England had decided to look elsewhere. \n",
+        "Not that Read was a poor batsman - far from it. He averaged 18.94 in Tests, but doubled that in the first-class game. A back-foot fighter with a productive whip-pull, he batted as high as No. 6 in the Nottinghamshire middle order and at one of the more treacherous batting venues in the country, he was often charged with walking out at Trent Bridge to avert a collapse with an individualistic mix of enterprise and batting gumption. It became one of county cricket's great sights.",
+        "Nothing encapsulated Read more than the manner of his parting. He had retired from the limited-overs game (Nottinghamshire won both trophies in his absence) but there was still a promotion to win in the final game of the Championship season in 2017. Midway through that game at Hove, disaster threatened. At 56 for 5, with Sussex's first innings of 565 light years away, defeat was looming. Read and Billy Root responded with centuries, the match was drawn and the eulogies could be written without any sense of regret. \"A magical season,\" he said as he reflected on a career that brought more than county records as a wicketkeeper, more than 16,000 first-class runs, just over 7,000 in limited-overs formats and considerable pleasure for all who watched him.",
+        "Almost two decades earlier, the emphasis was on England. When Read was picked by England against New Zealand in 1999, he infamously ducked into a Chris Cairns slower ball which he lost above the Lord's sightscreen. He made the one-day team that winter in South Africa and, despite a below-par performance behind the stumps, showed composure with the bat, memorably mowing Shaun Pollock for six to reignite a run-chase.",
+        "Read lost ground after his debut, dropping behind rivals such as Paul Nixon, strangely, and then James Foster, initially championed by the England coach at the time, Duncan Fletcher, in the race to become England's next keeper. But he was a more rounded player by the time Alec Stewart finally hung up his gloves in 2003. He duly returned to the top of the pile and, after an immaculate time behind the stumps in the Caribbean, he was controversially dropped in favour of another Fletcher hunch - Geraint Jones, a better batsman, although arguably not by much. Two months later, and Read had been axed from the one-day side as well, despite some combative performances low down the order.",
+        "He remained on the fringes of the team and an impressive unbeaten 150 for England A against the Pakistanis in July 2006 finally convinced the management that he was due another chance. A brisk 55 in his comeback Test against Pakistan, in the 3rd Test at Headingley, demonstrated a cricketer with far greater confidence in himself than in his youth. In a Fletcher-inspired see-saw, he was again left out for the 2006-07 Ashes before Jones's loss of form meant he was recalled for the last two Tests.",
+        "But Nixon edged him out for the one-day series that followed, and the emergence of Peter Moores as Fletcher's successor and the selection of Matt Prior meant Read slipped gently down the list of keepers. Craig Kieswetter's emergence provided another favoured alternative and put paid to any hopes that Read might be able to add to his 52 England caps.",
+        "If England proved unfaithful suitors, he remained a vital part of Nottinghamshire's squad. As he entered his 30s, in spite of taking on the extra demands of captaincy at Trent Bridge, he found a golden run of form that saw him average 42.06 in 2008, and rise to become Nottinghamshire's leading run-scorer by some distance in 2009, with 1203 runs at 75.18, including four hundreds, as the county finished as Division One runners-up. That he had found a mode of batting when England honours were no longer likely became more apparent with every passing season. In 2015, now 37, his average topped 50 and he even headed Notts' batting averages. His England exclusion felt more premature than ever.",
+        null
+    ],
+    "recent_matches": [
+        {
+            "Bat & Bowl": "2c/0s, 124, 1c/0s",
+            "Ground": "Hove",
+            "Match Date": "25 Sep 2017",
+            "Opposition": "v Sussex",
+            "Scorecard": "FC",
+            "Team": "Notts"
+        },
+        {
+            "Bat & Bowl": "0c/0s, 17, 0c/0s, 17",
+            "Ground": "Northampton",
+            "Match Date": "19 Sep 2017",
+            "Opposition": "v Northants",
+            "Scorecard": "FC",
+            "Team": "Notts"
+        },
+        {
+            "Bat & Bowl": "26, 3c/0s, 38, 0c/0s",
+            "Ground": "Nottingham",
+            "Match Date": "5 Sep 2017",
+            "Opposition": "v Worcs",
+            "Scorecard": "FC",
+            "Team": "Notts"
+        },
+        {
+            "Bat & Bowl": "8, 4c/0s, 2, 4c/0s",
+            "Ground": "Nottingham",
+            "Match Date": "28 Aug 2017",
+            "Opposition": "v Northants",
+            "Scorecard": "FC",
+            "Team": "Notts"
+        },
+        {
+            "Bat & Bowl": "65, 1c/0s, 24, 0c/0s",
+            "Ground": "Exeter",
+            "Match Date": "13 Aug 2017",
+            "Opposition": "v Berkshire",
+            "Scorecard": "Other",
+            "Team": "Devon"
+        },
+        {
+            "Bat & Bowl": "3c/0s, 75, 3c/0s",
+            "Ground": "Derby",
+            "Match Date": "6 Aug 2017",
+            "Opposition": "v Derbyshire",
+            "Scorecard": "FC",
+            "Team": "Notts"
+        },
+        {
+            "Bat & Bowl": "11, 3c/0s, 23*",
+            "Ground": "Sandford",
+            "Match Date": "30 Jul 2017",
+            "Opposition": "v Shropshire",
+            "Scorecard": "Other",
+            "Team": "Devon"
+        },
+        {
+            "Bat & Bowl": "5, 0c/0s",
+            "Ground": "Lord's",
+            "Match Date": "11 Jul 2017",
+            "Opposition": "v Afghanistan",
+            "Scorecard": "LA",
+            "Team": "M.C.C."
+        },
+        {
+            "Bat & Bowl": "1c/0s, 58",
+            "Ground": "Lord's",
+            "Match Date": "1 Jul 2017",
+            "Opposition": "v Surrey",
+            "Scorecard": "LA",
+            "Team": "Notts"
+        },
+        {
+            "Bat & Bowl": "1c/0s, 20*, 4c/0s",
+            "Ground": "Nottingham",
+            "Match Date": "26 Jun 2017",
+            "Opposition": "v Kent",
+            "Scorecard": "FC",
+            "Team": "Notts"
+        }
+    ]
+}

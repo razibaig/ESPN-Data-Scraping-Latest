@@ -1,0 +1,118 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "4",
+            "50": "10",
+            "6s": "3",
+            "Ave": "46.74",
+            "Ct": "9",
+            "HS": "205*",
+            "Inns": "38",
+            "Mat": "23",
+            "NO": "3",
+            "Runs": "1636",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "83",
+            "50": "166",
+            "6s": "",
+            "Ave": "44.35",
+            "Ct": "123",
+            "HS": "266",
+            "Inns": "812",
+            "Mat": "517",
+            "NO": "94",
+            "Runs": "31847",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "23",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "59.47",
+            "BBI": "4/43",
+            "BBM": "",
+            "Balls": "3890",
+            "Econ": "3.30",
+            "Inns": "",
+            "Mat": "517",
+            "Runs": "2141",
+            "SR": "108.0",
+            "Wkts": "36"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/302468.html",
+        "http://www.espncricinfo.com/ci/content/story/129113.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155340.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154652.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/17200/17248.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/17200/17248.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJuly 3, 1911, Nuncargate, Nottinghamshire "
+        ],
+        "Bowling style": [
+            "Right-arm medium"
+        ],
+        "Died": [
+            "January 1, 1990, Worksop, Nottinghamshire (aged 78 years 182 days) "
+        ],
+        "Full name": [
+            "Joseph Hardstaff"
+        ],
+        "Major teams": [
+            "England,",
+            "Auckland,",
+            "Europeans (India),",
+            "Nottinghamshire,",
+            "Services"
+        ],
+        "Relation": [
+            null,
+            "\n",
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        null,
+        "However, the disappointing tour gave way to a summer rich in achievement. Looking much sounder in method, Hardstaff made 1937 a memorable year by scoring 2,540 runs, hitting three double-hundreds and five other three-figure scores, and finishing second to Hammond in the averages with 57.72. In August alone he scored 1,150 runs. During Canterbury Week, he produced a phenomenal innings of 126 as Nottinghamshire achieved 310 in three hours to win with 45 minutes to spare. Scoring largely in front of the wicket, he reached 100 in just 51 minutes, which was to win him the Lawrence Trophy, and hit 117 out of 134 scored in an hour. In Nottinghamshire's first innings he had batted three hours for 97, and he showed similar resolve in making 243 to save the game against Middlesex at Trent Bridge when his side were facing a heavy defeat. Moreover, his innings, containing two sixes and 31 fours, had a decisive influence on the outcome of the Championship; until then, Middlesex and Yorkshire had been engaged in a thrilling two-horse race. In the Tests against New Zealand he recovered lost ground by hitting two hundreds and making 350 runs with an average of 70.00, but though he maintained this splendid form in 1938, he could not find a place in England's line-up against Australia at Trent Bridge or Lord's. Failure at Leeds on a difficult pitch was made amends for by 169 not out at The Oval, where he added 215 for the sixth wicket with Hutton (364). There was general surprise when he was not chosen to tour South Africa in that winter. In the last pre-war season he was again in fine form, averaging more than 50 and making five hundreds, and he played in all three Tests against West Indies.",
+        " Hardstaff was deprived by the war of what would have been six productive seasons. As it was, he came home in November 1945 after three years on the Burma front and the following June announced his fitness and form with 205 not out against India in front of a full house at Lord's. This promised well for the continuation of his Test career, yet he could not command a regular place. On his third tour of Australia, in 1946-47, he played in only one Test, and in 1947, when he repeated his 1937 feat of hitting three double-hundreds and had the splendid aggregate of 2,396 runs with an average of 64.75, he did not play in one of the five Tests against the South Africans. He had fair success in the West Indies in 1947-48, although never happy under Allen's leadership, but the First Test against the Australians in 1948-when in front of his home crowd he helped Compton put on 93 for the fourth wicket in an atrocious light as England were batting to save the game--proved to be his last. In 23 Tests he had scored 1,636 runs at an average of 46.74.",
+        "At county level he remained a formidable player. In 1949 he headed the national averages with 72.61 from 2,251, including eight hundreds, and by the time he retired at the end of the 1955 season he had scored 31,847 runs at an average of 44.35. His 83 hundreds included ten double-hundreds, with a highest score of 266 at Leicester in 1937. In addition to 1935-36 in Australia and New Zealand, he passed 1,000 runs thirteen times, going on to 2,000 four times, and he took 123 catches.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

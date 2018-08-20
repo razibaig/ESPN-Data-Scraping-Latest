@@ -1,0 +1,127 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "17.00",
+            "Ct": "0",
+            "HS": "38",
+            "Inns": "3",
+            "Mat": "2",
+            "NO": "0",
+            "Runs": "51",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "21",
+            "50": "40",
+            "6s": "",
+            "Ave": "30.29",
+            "Ct": "193",
+            "HS": "224*",
+            "Inns": "342",
+            "Mat": "199",
+            "NO": "28",
+            "Runs": "9512",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "25.00",
+            "BBI": "3/50",
+            "BBM": "3/50",
+            "Balls": "140",
+            "Econ": "3.21",
+            "Inns": "3",
+            "Mat": "2",
+            "Runs": "75",
+            "SR": "46.6",
+            "Wkts": "3"
+        },
+        {
+            "": "First-class",
+            "10": "18",
+            "4w": "",
+            "5w": "68",
+            "Ave": "23.11",
+            "BBI": "9/48",
+            "BBM": "",
+            "Balls": "29791",
+            "Econ": "3.37",
+            "Inns": "",
+            "Mat": "199",
+            "Runs": "16761",
+            "SR": "41.0",
+            "Wkts": "725"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/302468.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154843.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/77600/77627.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/77600/77627.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Left-hand bat"
+        ],
+        "Born": [
+            "\nNovember 7, 1876, Clifton, Bristol "
+        ],
+        "Bowling style": [
+            "Legbreak"
+        ],
+        "Died": [
+            "October 17, 1958, Elton Manor, Stockton-on-Tees, Co Durham (aged 81 years 344 days) "
+        ],
+        "Education": [
+            "Clifton College"
+        ],
+        "Full name": [
+            "Charles Lucas Townsend"
+        ],
+        "Major teams": [
+            "England,",
+            "Gloucestershire,",
+            "London County"
+        ],
+        "Relation": [
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        "\nCharles Lucas Townsend, who died at his home at Stockton-on-Tees on October 17, aged 81, was a right-arm slow bowler and left-handed batsman for Gloucestershire between 1893 and 1909. It is not too much to say that towards the close of the 1895 season, when a youth of 18, he was the most remarkable amateur bowler since A. G. Steel carried all before him in 1878. Such was the amount of spin that Townsend imparted to the ball that even the most experienced of batsmen found themselves in difficulties with his leg-breaks. In Gloucestershire matches with Nottinghamshire in 1895 he took at Trent Bridge 16 wickets for 122 runs and at Cheltenham 13 for 110. Against Yorkshire at Cheltenham he obtained 15 wickets, and against Sussex at Bristol, Surrey at Clifton and Somerset at Taunton 12 wickets fell to him on each occasion. Though he played in only one game until late in July, he dismissed 131 batsmen at a cost of 13 runs each. \n",
+        "During the next two years, without quite maintaining his bowling skill, he took 113 wickets in 1896 and 92 in 1897 and materially enhanced his reputation as a batsman. In 1898 he reached the height of his career, for after winning the match with Middlesex at Lord's by his bowling, he played a series of splendid innings. As soon as he left off making hundreds, he bowled almost as finely as in that memorable 1895 season. Altogether that year he hit 1,270 runs, average 34, and took 145 wickets, average 20.",
+        "The summer of 1899 saw him one of the great batsmen of the day, for he scored 2,440 runs, averaged 51, put together nine centuries--including one for Gentlemen v. Players--and was chosen for England against Australia at Lord's and The Oval. He had then lost some of his talent as a bowler; yet he obtained 101 wickets that year. In the autumn he visited Australia with a team led by K. S. Ranjitsinhji and in 1900 he registered 1,662 runs. Never afterwards could he afford much time for cricket, his practice as a solicitor and a subsequent appointment as Official Receiver at Stockton demanding so much of his attention. All the same, he enjoyed a memorable triumph in 1909 when scoring 129 out of 169 in two hours against the Australians at Cheltenham.",
+        "A son of Frank Townsend, a leading member of the Gloucestershire team when the Graces were at their zenith, Charles Townsend gained a place in the Clifton College XI at the age of 15. The next season, 1893, he took nine wickets out of ten against Cheltenham and a year later against Cheltenham performed the  hat-trick, taking 12 wickets in all, and played an innings of 55. He made his first appearance for Gloucestershire before he was 17. His highest innings were 224 not out v. Essex in 1899 and 214 against Worcestershire in 1906. Although he had only half a dozen full seasons, he hit 9,390 runs in first-class cricket, average 30, and took 725 wickets, average 24.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

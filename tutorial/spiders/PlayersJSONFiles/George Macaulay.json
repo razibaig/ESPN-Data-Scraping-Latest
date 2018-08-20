@@ -1,0 +1,104 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "1",
+            "6s": "0",
+            "Ave": "18.66",
+            "Ct": "5",
+            "HS": "76",
+            "Inns": "10",
+            "Mat": "8",
+            "NO": "4",
+            "Runs": "112",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "3",
+            "50": "21",
+            "6s": "",
+            "Ave": "18.07",
+            "Ct": "373",
+            "HS": "125*",
+            "Inns": "460",
+            "Mat": "468",
+            "NO": "125",
+            "Runs": "6055",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "1",
+            "5w": "1",
+            "Ave": "27.58",
+            "BBI": "5/64",
+            "BBM": "7/83",
+            "Balls": "1701",
+            "Econ": "2.33",
+            "Inns": "13",
+            "Mat": "8",
+            "Runs": "662",
+            "SR": "70.8",
+            "Wkts": "24"
+        },
+        {
+            "": "First-class",
+            "10": "31",
+            "4w": "",
+            "5w": "126",
+            "Ave": "17.65",
+            "BBI": "8/21",
+            "BBM": "",
+            "Balls": "89877",
+            "Econ": "2.16",
+            "Inns": "",
+            "Mat": "468",
+            "Runs": "32441",
+            "SR": "48.9",
+            "Wkts": "1837"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154717.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nDecember 7, 1897, Thirsk, Yorkshire "
+        ],
+        "Died": [
+            "December 13, 1940, Sullom Voe, Shetland Islands, Scotland (aged 43 years 6 days) "
+        ],
+        "Education": [
+            "Barnard Castle"
+        ],
+        "Full name": [
+            "George Gibson Macaulay"
+        ],
+        "Major teams": [
+            "England,",
+            "Yorkshire"
+        ]
+    },
+    "profile_info": [
+        "\nPilot Officer George Gibson Macaulay, one of the chief Yorkshire bowlers during a career lasting from 1920 to 1935, died on active service, as announced in December. Born at Thirsk on December 7, 1897, he did not take part in county cricket until 23 years of age, when he appeared for Yorkshire as a fast bowler. Under the influence of George Hirst and Wilfred Rhodes, he reduced his speed to medium pace, developing spin and controlling his length with such effect that on June 2, 1921, at Hull, six Derbyshire batsmen fell to him at a cost of only 3 runs, his match record being seven wickets for 12 runs. That success set MacAulay on the road to fame. Forsaking his position in a bank, he became a valued member of the County side. \n",
+        "In fifteen seasons, when a regular member of the Yorkshire XI, he took 1,773 wickets for the County at 17.08 runs apiece, and altogether in first-class cricket 1,838 at 17.64. He reached the top of his form in 1925, when in County Championship matches he claimed 176 wickets at 15.21 runs each, and his full record showed 211 wickets, average 15.48. Under suitable conditions for using the off-break, batsmen seemed at his mercy. Four times he did the hat-trick, more often than any other Yorkshire bowler, and for the County only Rhodes, Hirst, and Schofield Haigh have proved more successful with the ball. Not only did he often send down the unplayable delivery, but he could keep batsmen on the defensive for long periods; such an instance occurred at Kettering against Northamptonshire in 1933, when he bowled fourteen overs for nine runs and dismissed seven batsmen. Like others capable of turning the ball a lot from the off, MacAulay often bowled round the wicket; short steps to the crease and easy delivery were characteristics that earned him a distinct place among contemporaries. In the field he excelled close to the batsman, particularly when Emmot Robinson, his chief supporter in the Yorkshire attack, was bowling. These two were unchanged in the 1927 match with Worcestershire.",
+        " MacAulay soon met with recognition from the England selection committee, and, after appearing for the Players at Lord's, he was chosen to go to South Africa with the team captained by F. T. Mann in 1922. MacAulay took a wicket with his first ball in Test cricket; then, in a sensational finish to this match at Capetown, he made the stroke which brought England victory by one wicket. In his only match for England against Australia--at Leeds in 1926--he did little with the ball, but, joining George Greary, he scored 76, the ninth wicket realising 108 runs. This stand went a long way towards enabling England to make an honourable draw in face of a total of 494 by Australia.",
+        "If this was his most noteworthy performance with the bat, MacAulay frequently gave useful help, and his runs for Yorkshire totalled 5,759, average 18.11. An injury to his spinning finger in 1934, when attempting to hold a return catch in the match with Leicestershire at Headingley, no doubt hastened MacAulay's retirement from the county. He left Yorkshire at the end of the next season and then played for League clubs in Wales, Lancashire and Yorkshire.",
+        "Educated at Barnard Castle, MacAulay regularly each season brought an eleven of noted players to meet his old school. During the 1914-18 war MacAulay served in the Royal Field Artillery, and early in 1940 he joined the Royal Air Force.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

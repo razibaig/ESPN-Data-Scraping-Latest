@@ -1,0 +1,153 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "11.40",
+            "Ct": "1",
+            "HS": "24",
+            "Inns": "5",
+            "Mat": "3",
+            "NO": "0",
+            "Runs": "57",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "16",
+            "50": "68",
+            "6s": "",
+            "Ave": "26.74",
+            "Ct": "150",
+            "HS": "203*",
+            "Inns": "524",
+            "Mat": "313",
+            "NO": "36",
+            "Runs": "13053",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "0",
+            "50": "0",
+            "6s": "",
+            "Ave": "13.40",
+            "Ct": "3",
+            "HS": "30",
+            "Inns": "10",
+            "Mat": "10",
+            "NO": "0",
+            "Runs": "134",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "12",
+            "Econ": "3.00",
+            "Inns": "1",
+            "Mat": "3",
+            "Runs": "6",
+            "SR": "-",
+            "Wkts": "0"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "1",
+            "Ave": "28.72",
+            "BBI": "6/75",
+            "BBM": "",
+            "Balls": "10631",
+            "Econ": "2.12",
+            "Inns": "",
+            "Mat": "313",
+            "Runs": "3763",
+            "SR": "81.1",
+            "Wkts": "131"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "15.27",
+            "BBI": "3/19",
+            "BBM": "3/19",
+            "Balls": "366",
+            "Econ": "2.75",
+            "Inns": "",
+            "Mat": "10",
+            "Runs": "168",
+            "SR": "33.2",
+            "Wkts": "11"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdencricketer/content/story/252440.html",
+        "http://www.espncricinfo.com/magazine/content/story/241066.html",
+        "http://www.espncricinfo.com/wcm/content/story/138831.html",
+        "http://www.espncricinfo.com/ci/content/story/125048.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/60400/60415.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/60400/60415.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/60400/60415.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nAugust 21, 1935, Primrose Hill, Huddersfield, Yorkshire "
+        ],
+        "Current age": [
+            "82 years 362 days"
+        ],
+        "Full name": [
+            "Kenneth Taylor"
+        ],
+        "Major teams": [
+            "England,",
+            "Auckland,",
+            "Yorkshire"
+        ]
+    },
+    "profile_info": [
+        "\nIt could not happen now. In winter Ken Taylor played football for Huddersfield Town. In summer he played cricket for Yorkshire. And all the while he was training as an artist, first at the Huddersfield Art School, then at the Slade School of Fine Art in London. His older brother Jeff combined playing football for Fulham with studying for a geography degree at London University; then he went to the Royal Academy of Music and became an opera singer. \n",
+        "Their father worked in the weaving trade, repairing looms, while their maternal grandfather was a ventriloquist who had a Punch and Judy show on Blackpool beach. They were like many boys in Huddersfield, playing their sport in the ginnels that ran between the houses, and the young Ken was exceptionally fortunate to attend Stile Common School where the headmaster Wally Heap - with no key stage tests and national curriculum to worry about - believed in finding a boy's talent and developing it.",
+        "\"We played cricket with him in the school yard with a cork ball and no pads, up against a dustbin,\" Ken remembers. \"You batted till you were out. You went in at break, then back at lunchtime. Then in winter we used to play football against the staff at the local recreation ground. We had to mark out the lines with sawdust that we collected from a local cabinet-maker. It was a wonderful school. Regardless of what you were good at, Wally Heap nurtured it. There were 120 children, and one term we had 100% attendance.\"",
+        "In 1950, on leaving school, he went on the groundstaff at Huddersfield Town: \"Cleaning the boots, digging up the pitch on Monday morning.\" He joined on the same day as Ray Wilson who, 16 years later, would be the left-back in England's World Cup winning team. But in those early days Wilson was an inside forward, making little impression, and he was overshadowed by Ken who made his first-team debut at 18, marking Billy Liddell in front of 50,000 at Anfield. A year later Ken was called up for the England Under-23s. \"If things had worked out differently,\" Wilson says, \"Ken could even have been playing with me in the World Cup. But cricket called him, too.\"",
+        "The young batsman made his Yorkshire debut at 17, won his cap at 21 and was in the England side at 23, opening the batting against India with Arthur Milton. These were times when many county cricketers could be found on the football field in winter, and both Milton and Willie Watson were double internationals. MJK Smith played rugby union for England, and Ted Dexter was only prevented by his cricketing commitments from playing golf for Great Britain in the Walker Cup.",
+        "\"Playing two sports,\" Ken thinks, \"was quite tiring physically, especially after I got to my mid-20s, but mentally it was less demanding. If I didn't get any runs, I would think, `I'll be back playing football soon,' and that made it easier for me.\"",
+        "But his father was a hard-working Yorkshireman, and he wanted his son to have a career. \"You can't play games for ever,\" he would say and, within two years of joining Huddersfield Town, Ken became a full-time art student, his football limited to three nights' training and a match on Saturday afternoon. Then in 1956, when he was 21, he gained a place at the Slade, accepted by Sir William Coldstream.",
+        "In winter he combined an art student's life in London with two nights on the Brentford training ground with his brother Jeff. Then on Friday evenings he would catch the train to wherever Huddersfield were playing and join up with the team, among them Denis Law. Their manager was the tough-talking Scotsman, Bill Shankly. What did he think of Ken studying art? \"He couldn't even understand my playing cricket. He called it a lass's game.\"",
+        "But Ken was a tough footballer, a centre-half who gave no quarter, unlucky not to play for England where Walter Winterbottom's 2-3-5 formation was very different from the fluid man-to-man marking that Shankly adopted. Not that Ken was ever briefed about the opposing centre-forward. \"Shankly told us never to read the programme. He said we'd be marking the name, not the player on the field. \"`Don't worry about them,' he used to say. `They're not fit to be on the park with you.'\"",
+        "Ken also had a short spell as a centre-forward, scoring four goals against West Ham, but his most dramatic match was at Charlton. \"Derek Ufton the Kent wicketkeeper dislocated his shoulder, and they were down to 10 men for most of the game. We were 5-1 up at half-time, and we lost 7-6. They had this left-winger, and every time he hit the ball, it went in the net. Shankly didn't speak to us for a week afterwards.\"",
+        "As a cricketer Ken was a good enough batsman to play three times for England: twice in 1959 against India, then in 1964 when a superb 160 at Sheffield against the touring Australians brought him a recall. But he broke a finger in the Test, and his chance passed again. According to Jim Swanton, he had the potential to be a good Test cricketer - but not the luck. \"His cricket,\" Swanton wrote, \"suffered from his career as a footballer giving him a shortened season and possibly somewhat diluting his ambition.\"",
+        "His straight drives owed much to the narrowness of the ginnels where he batted as a child and, unlike most Yorkshiremen, he could play wrist spin, as a result of the hours in front of the school dustbin when he faced his teacher Colin Garthwaite, the old Cleckheaton pro. He was one of the great cover fielders of his generation, and for some years his seam bowling was a valuable option for Yorkshire. \"Then Closey became captain. Whenever Ray Illingworth said to him, `Why don't you put Ken on?', he'd say, `I'll have a go.' I hardly bowled.\"",
+        "He was a key member of the Yorkshire side that won seven championships between 1959 and 1968, when he retired after taking a benefit. It was in that last year that he reported back to Headingley sporting an artist's beard. Brian Sellers the chairman was not impressed. \"Take that bloody thing off,\" he barked, \"or you're not playing for Yorkshire again.\"",
+        "There followed a lifetime of art teaching and cricket coaching, briefly in South Africa, then for over 30 years in north Norfolk. Now he is only teaching part-time, and there is more opportunity to engage in his own artwork - ranging from large pastel portraits of sportsmen, that somehow capture their movement, to evocative drawings of buildings and landscapes, from the mills of his childhood to the village churches and grand houses of Norfolk.",
+        "\"His fault,\" Michael Parkinson wrote, \"was that he shrugged off the gifts he was granted as if perturbed by their abundance. He had it in him to be a permanent fixture in the England cricket side.\"",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

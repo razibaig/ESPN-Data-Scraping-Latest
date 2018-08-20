@@ -1,0 +1,99 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "17.00",
+            "Ct": "0",
+            "HS": "17",
+            "Inns": "1",
+            "Mat": "1",
+            "NO": "0",
+            "Runs": "17",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "50": "0",
+            "6s": "",
+            "Ave": "9.51",
+            "Ct": "41",
+            "HS": "47",
+            "Inns": "109",
+            "Mat": "66",
+            "NO": "12",
+            "Runs": "923",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "69.00",
+            "BBI": "1/52",
+            "BBM": "1/69",
+            "Balls": "136",
+            "Econ": "3.04",
+            "Inns": "2",
+            "Mat": "1",
+            "Runs": "69",
+            "SR": "136.0",
+            "Wkts": "1"
+        },
+        {
+            "": "First-class",
+            "10": "3",
+            "4w": "",
+            "5w": "13",
+            "Ave": "22.12",
+            "BBI": "8/41",
+            "BBM": "",
+            "Balls": "11531",
+            "Econ": "2.77",
+            "Inns": "",
+            "Mat": "66",
+            "Runs": "5332",
+            "SR": "47.8",
+            "Wkts": "241"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155711.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nNovember 11, 1861, Kidbrooke, Blackheath, Kent "
+        ],
+        "Bowling style": [
+            "Right-arm fast"
+        ],
+        "Died": [
+            "April 6, 1949, St John's Wood, London (aged 87 years 146 days) "
+        ],
+        "Full name": [
+            "Stanley Christopherson"
+        ],
+        "Major teams": [
+            "England,",
+            "Kent"
+        ]
+    },
+    "profile_info": [
+        "\nThe best player of the ten Christopherson brothers of Kent (they\noften fielded a family XI, with their father making up the side),\nStanley was a fine fast-medium bowler. He had a long run (by the\nstandards of the time), bowled with a high action, and kept a\ngood length. He had an excellent yorker. He played for Kent between\n1883 and 1888 but was severely restricted by an arm injury\nincurred in 1886. His best period was probably the 1883 and 1884\nseasons. He was chosen for the Second Test in 1884, took a single\nwicket, and made 17 at number eleven in England's innings\nvictory. His ability is probably better displayed by his figures\nof 8/78 for the Gentlemen against the Australians, and his\nbowling for Kent, when they defeated the tourists. \n",
+        "A man described by Wisden as having \"great personal charm\" and in\nhis younger days \"extremely good looking,\" he remained involved in\ncricket for the rest of his life, despite a successful career in\nthe City. He was President of the MCC through the Second World\nWar, and despite\nthe calls of business rarely missed a day of cricket at Lord's.\nHe also represented his country at hockey (DL 2000)."
+    ],
+    "recent_matches": [
+        {},
+        {}
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "22",
+            "4s": "",
+            "50": "38",
+            "6s": "13",
+            "Ave": "44.06",
+            "BF": "",
+            "Ct": "120",
+            "HS": "182",
+            "Inns": "188",
+            "Mat": "114",
+            "NO": "15",
+            "Runs": "7624",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "ODIs",
+            "100": "0",
+            "4s": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "1.00",
+            "BF": "5",
+            "Ct": "0",
+            "HS": "1",
+            "Inns": "1",
+            "Mat": "1",
+            "NO": "0",
+            "Runs": "1",
+            "SR": "20.00",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "107",
+            "4s": "",
+            "50": "231",
+            "6s": "",
+            "Ave": "42.89",
+            "BF": "",
+            "Ct": "638",
+            "HS": "307",
+            "Inns": "1130",
+            "Mat": "692",
+            "NO": "134",
+            "Runs": "42719",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "3",
+            "4s": "",
+            "50": "12",
+            "6s": "",
+            "Ave": "29.52",
+            "BF": "",
+            "Ct": "38",
+            "HS": "116",
+            "Inns": "78",
+            "Mat": "87",
+            "NO": "11",
+            "Runs": "1978",
+            "SR": "",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "119",
+            "Econ": "5.24",
+            "Inns": "10",
+            "Mat": "114",
+            "Runs": "104",
+            "SR": "-",
+            "Wkts": "0"
+        },
+        {
+            "": "ODIs",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "1",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "51.21",
+            "BBI": "4/22",
+            "BBM": "",
+            "Balls": "4876",
+            "Econ": "4.09",
+            "Inns": "",
+            "Mat": "692",
+            "Runs": "3329",
+            "SR": "75.0",
+            "Wkts": "65"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "14.33",
+            "BBI": "1/0",
+            "BBM": "1/0",
+            "Balls": "59",
+            "Econ": "4.37",
+            "Inns": "",
+            "Mat": "87",
+            "Runs": "43",
+            "SR": "19.6",
+            "Wkts": "3"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/1145529.html",
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/1083902/the-inscrutable-mcc",
+        "http://www.espncricinfo.com/magazine/content/story/1062791.html",
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/1008601/call-in-colin",
+        "http://www.espncricinfo.com/blogs/content/story/962407.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=10846"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/122000/019413.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/122000/019413.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/122000/019413.icon.jpg"
+    ],
+    "personal_info": {
+        "Also known as": [
+            "Baron Cowdrey of Tonbridge"
+        ],
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nDecember 24, 1932, Bangalore, India "
+        ],
+        "Bowling style": [
+            "Legbreak"
+        ],
+        "Died": [
+            "December 4, 2000, Angmering Park, Littlehampton, Sussex (aged 67 years 346 days) "
+        ],
+        "Education": [
+            "Tonbridge; Oxford University"
+        ],
+        "Full name": [
+            "Michael Colin Cowdrey"
+        ],
+        "Major teams": [
+            "England,",
+            "Gentlemen,",
+            "Kent,",
+            "Marylebone Cricket Club,",
+            "Oxford University"
+        ],
+        "Relation": [
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        null,
+        "His entire early career, and most of the rest of it, was the stuff of male fantasy. His father, Ernest, a tea planter in India, was a first-class cricketer too, scoring 48 for the Europeans against MCC at Madras. Colin's parents met at a cricket club and, when he was born on Christmas Eve 1932, he was - famously - given the initials MCC, just in case anyone doubted his destiny. On the plantation Colin would play with an Indian boy eight years his senior, with occasional supervision from his father who initiated a rule, to encourage correct technique, that all leg-side shots would be given out. Colin was sent to a sporty prep school, Homefield, and apparently reached a century in his first proper match, only to give his wicket away and then discover that he had only 93. A modern thinker might be more conscious of the traumas rather than the triumphs. An only child - and not an insensitive one either - in the stern English schools of the 1940s, Colin did not see his parents for seven years owing to the twin tyrannies of distance and war. If, as countless spectators and writers later theorised, he had psychological flaws as a cricketer, who could be surprised? But skill at games is a great consolation to a boy, and Cowdrey was a natural: at golf, rackets and squash, as well as cricket. Within weeks of arriving at Tonbridge, he was in the First Eleven, though more for his leg-spin than his batting,  and in the annual match against Clifton, then still played at Lord's, he scored 75 and 44, and took eight for 117. At 13, he was thought to be the youngest player ever at Lord's.",
+        "His leg-spin did not develop: Cowdrey later theorised that he could not grip a larger, adult, ball so well with his small hands, and that he lacked the necessary \"bottle\". But his batting began to flower gloriously: it was said that Maurice Tate, the last of his coaches at Tonbridge, would forget to signal while umpiring because he was so engrossed in Colin's strokeplay. As a 16-year-old he made an unbeaten 181 against the Buccaneers and was picked for Kent Second Eleven; at 17, he averaged 79 at school and, in August 1950, was eased into the county first team. At 18, just before he was due to go to Oxford, he scored 90 against Hampshire and 71 against the South Africans, became the youngest Kent player to be capped, and was picked for the Gentlemen at Scarborough against a Players side captained by Len Hutton. Cowdrey hit 106. At Oxford, his batting was impressive rather than earth-shattering. But he scored a century in the 1953 University Match, which prompted E.W. Swanton, in the Daily Telegraph, to compare him to Walter Hammond, the same thought that had struck Hutton two years earlier. He went close to 2,000 runs for Oxford and Kent that year but fell back in 1954 - he was astonished (more embarrassed than elated, according to one account) when he was chosen for the tour of Australia. He was 21. His parents saw him off at Tilbury; three weeks later, his father, aged 54, died of heart disease.",
+        "Only a few weeks after that, Cowdrey went out and attained cricketing manhood. Before he had even scored a Championship century, he made two hundreds in the match against a mighty New South Wales team. \"He played throughout his two innings without a shadow of uncertainty,\" wrote Alan Ross, \"the margin for error as negligible as in Hutton's own technique.\" The only question now was where, not whether, Cowdrey would bat in the Test match. In the end, England shied away from making him open - this time. He began with a crisp 40 in the defeat at Brisbane; at Sydney, in the Second Test, his partnership with Peter May turned the game; on New Year's Eve at Melbourne, he scored 102 out of 191 against Lindwall and Miller at their most incisive on a bad pitch: \"a blend of leisurely driving and secure back play, of power and propriety,\" according to Ross. England won the game and , after he had made another 79 at Adelaide, the Ashes. A star was born.",
+        "But even in that glad, confident morning there were the first tiny clouds of criticism that would never go away. During his wonderful maiden century Cowdrey was becalmed on 56 for 40 minutes and, though it was now commonplace to compare him to Hammond, Hutton noted drily: \"Wally was hungrier.\" When he came home, Cowdrey was conscripted into the RAF, then discharged after failing the medical because of damaged feet: he was attacked for this by MPs and anonymous letter-writers alike. An injured hand kept him out of all but one of the 1955 Tests. In the 1956 Ashes series he was obliged to open, which he never enjoyed, and South Africa that winter was a struggle. But by now Colin was married - to Penny, daughter of a Kent committee man (soon to be chairman), Stuart Chiesman, who ran a small chain of department stores in Kent. The son-in-law also rises and, though he was not a success in the drapery department at Lewisham, Cowdrey soon became a director of Chiesman's company. He was thus instantly freed from the cricket-or-business dilemma that had forced generations of amateurs out of the game prematurely, and which still haunted contemporaries such as May and Ted Dexter.",
+        "In 1957, he also became captain of Kent, a job he would hold for 15 seasons. But when West Indies toured that year, Cowdrey was not a certain selection for England. And when he went out to join May at 113 for three in the second innings of the opening Test at Edgbaston, England were still in thrall to Sonny Ramadhin and facing an innings defeat. It became one of the most famous Test match stands: 411 in eight hours 20 minutes. Not merely did they save the game, they transformed the relationship between the sides: Ramadhin was never a match-winner again. While May counter-attacked, Cowdrey stayed in his crease and played this most mysterious of bowlers as if he were an off-spinner, pushing forward and letting the leg-break go by. \"Once Colin had committed himself to a policy of complete defence,\" said May later, \"his technique was so good that he made no mistake in execution.\" Three weeks later, the other Cowdrey reasserted himself and he smashed 152 at Lord's, followed by 55, 68 and two. England were now so dominant that he never needed to bat twice in any of the last four Tests. So, at last, his cricketing personality was starting to emerge fully. He would still be compared to Hammond, especially when he launched into his cover drive or pouched slip catches with absolute certainty. But there was still something of Hobbs: the lightness of touch both technically and spiritually - with a sense that he sympathised with a bowler a shade too much for the sternest tastes. And there was also something all his own: an introspection that, as at Edgbaston, could help him think through cricketing problems like a master detective, but at other times could exasperate even his closest admirers.",
+        "Cowdrey did not, between Tests, impose himself on county cricket: as with Hobbs, a hundred was enough, and he also found slow, constricting seamers rather tiresome (he would later name Barry Wood, the Lancashire dobber, as the bowler he hated facing most). He was arguably more impressive when the England ship sank in Australia in 1958-59 than against weak New Zealand the previous summer, and his century at Sydney saved England from a 5-0 whitewash. Soon, however, he was forced both to revert to opening and to take over as captain because May was ill. Ostensibly, both moves were successful: he continued to score steadily and England were unbeaten in his first ten Tests in charge, until Lord's 1961. For this game May was back in the side, and after it the selectors restored him to the captaincy for the rest of the Ashes  series. Their friendship was solid - May's seniority was unquestioned and he was steadily fading out of the game - so Cowdrey still had every reason to assume he would return to the captaincy with the same certainty that characterised his rise to it.",
+        "But he chose not to go to India and Pakistan in 1961-62 (not an unusual decision at the time); Dexter took over, did well, and so began the saga that dominated English cricket throughout the 1960s. Should Cowdrey be captain? Or A.N. Other? With Walter Robins as chairman of selectors, the debate was widened before the 1962-63 Ashes tour to include the Rev. David Sheppard, who was encouraged away from his pastoral work in the East End by the possibility of captaincy. Dexter won the contest and Cowdrey was again No. 2, though he was the senior partner in the moment of glory, when he made 113 and 58 not out to secure victory at Melbourne. By now the politics were submerging the cricket, Dexter stayed as captain in 1963. This provided the single most compelling image of Cowdrey's career: the moment he walked out to bat at Lord's with a broken arm. In the event, he had to do nothing, but the injury initially kept him out of contention for the 1963-64 subcontinental tour when Dexter opted out. So M.J.K. Smith, an Oxonian prot\u00e9g\u00e9 of Cowdrey, took over. For the next three years the captaincy switched between Dexter and Smith, and, for the third time, Cowdrey went to Australia as faithful Achates, this time to Smith. He was now nearing his mid-thirties, and might have been edging towards retirement, as Dexter was, but when Smith was axed after England were hammered by West Indies at the start of the 1966 series, there seemed to be no one else.",
+        "The next three Tests also went badly, however, and, after a disaster at Headingley, Cowdrey was dropped from the side completely. With Brian Close as captain, England won at The Oval by an innings, and next year Close led England to five wins out of six against India and Pakistan. Cowdrey spent most of summer 1967 leading Kent to both the Gillette Cup and their most spirited challenge for the Championship since the 1920s, but he was brought back by England at a moment that ensured he missed Kent's crucial match against Yorkshire, which they lost. Close's reputation was sky-high, and every schoolboy (it was after all the 1960s) could assert that a tough-minded professional, raised in the hard northern tradition, was a better leader than an effete southerner like Cowdrey. The argument only intensified when Close was sacked after a time-wasting incident and a row with a spectator in county cricket. He was vetoed as captain for the West Indies tour, and Cowdrey was back, but very clearly as second choice.",
+        "Again he returned in triumph, having cashed in on Garry Sobers's much-reviled declaration in Port-of-Spain by scoring 71 himself (\"Never has Cowdrey been more superb,\" said the Guardian). And though England yet again failed to win the Ashes in 1968, no one blamed him and there was much rejoicing when he made a hundred in his 100th Test. At the start of 1969, he was more firmly in the saddle than ever. Then an Achilles tendon snapped. His replacement, Ray Illingworth, was neither a regular Test player nor an experienced captain, but he proved a success and the following summer, before the Ashes tour, the selectors had to choose again. When he gave Cowdrey the news, Alec Bedser, the chairman, was most apologetic.",
+        "Cowdrey's fifth Ashes tour, his fourth as vice-captain, was a miserable one, even though the Ashes were won. He was ill for much of the following summer, and his career might have been drawing peacefully to its close. In 1970, he had led Kent to the Championship; having inherited a very weak side, he bequeathed Mike Denness a mighty one. But he did not let go, even after reaching his 100th hundred in 1973. Though he was sometimes left out of the Kent side, especially in one-day cricket, he was called up for his sixth Ashes tour in 1974-75 when an optimistic but ill-prepared England party suddenly ran into the hurricane-force of Lillee and Thomson.",
+        "England asked Cowdrey, then well into his 42nd year, if he would consider helping out. \"I'd love to,\" he replied. Australian bewilderment was redoubled when, in the Second Test of that most virile of series, this rotund figure ambled towards the crease and introduced himself to Thomson: \"I don't believe we've met. My name's Cowdrey\". But he played him as well as anyone else. He retired the following summer, but not before scoring 151 to lead Kent to a stunning win against the Australians at Canterbury. A few days later he played his last game against the Aussies, for MCC at Lord's - and made a pair. \"It was a vivid summarisation of his career,\" wrote Ivo Tennant, \"of the way cricket took him to the very heights and back again.\" Though he played once in 1976, Colin was never able to take the field for Kent with his eldest son, Christopher, who was just about to break into the team, and later captained England once himself.",
+        "No one ever doubted Colin Cowdrey's cricketing ability. Fred Titmus has talked with awe about how, in dead county games, he would let John Murray behind the stumps nominate in advance the shot he would play: \"Amazing talent, done without showing off.\" But there was always that enigmatic quality. Trevor Bailey said that he was too nice to demolish an attack truly, and that he worried too much. He certainly did worry. After his triumph at Melbourne in 1962-63, John Woodcock congratulated him and said he must be relieved it was all over, only to be told: \"Yes, but now there's the next one to worry about.\" His character also caused some debate. Every cricket fan knew that Cowdrey walked when he thought he was out, and every prep school master thought this made him a hero. Professionals muttered darkly that he behaved differently on soft days in county cricket than at moments of crisis, banking on his reputation with umpires to get him through. \"He was not generally liked by cricketers,\" said Illingworth. This has to be balanced against the thousands of people - high and low - who were charmed by his kindness and thoughtfulness. The unanimous judgment, though, was that he was indecisive, a captain incapable of inspiring his players and so much a ditherer that he even had to be persuaded to go for the runs at Port-of-Spain on that great day in 1967-68.",
+        "His later life shed unexpected light on all these speculations. In 1978, he left his wife and went to live with Lady Herries, a daughter of the Duke of Norfolk, causing temporary rifts with his children. They later married and she became famous in her own right as a racehorse trainer. In 1986, after some years pottering inconsequentially doing PR for Barclays, Cowdrey became president of MCC for the bicentenary year. He turned this Buggins' turn sinecure into an improbable platform for dynamic change. He forced out the long-serving secretary, Jack Bailey, to end an institutionalised feud with the Test and County Cricket Board, and meanwhile made the first moves to sever the umbilical cord between the MCC and ICC, remaining as ICC chairman after giving up the presidency. It was possible to have differing views of Cowdrey's actions - pro-Bailey members voted down the committee report and accounts - but dithery they were not. In the midst of it all, he was forced to have a heart by-pass operation and missed the bicentenary match and banquet. He remained ICC chairman until 1993, seeing through the change that made it a serious international body rather than an imperial relic, and continued active - given his new life in the Norfolk family - in helping run Arundel cricket and at Kent, where Christopher and his brother, Graham, ensured there was a Cowdrey on the books until 1998: a 48-year span.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

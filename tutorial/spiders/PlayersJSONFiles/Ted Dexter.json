@@ -1,0 +1,143 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "9",
+            "50": "27",
+            "6s": "16",
+            "Ave": "47.89",
+            "Ct": "29",
+            "HS": "205",
+            "Inns": "102",
+            "Mat": "62",
+            "NO": "8",
+            "Runs": "4502",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "51",
+            "50": "108",
+            "6s": "",
+            "Ave": "40.75",
+            "Ct": "233",
+            "HS": "205",
+            "Inns": "567",
+            "Mat": "327",
+            "NO": "48",
+            "Runs": "21150",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "1",
+            "50": "8",
+            "6s": "",
+            "Ave": "33.58",
+            "Ct": "16",
+            "HS": "115",
+            "Inns": "41",
+            "Mat": "43",
+            "NO": "5",
+            "Runs": "1209",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "2",
+            "5w": "0",
+            "Ave": "34.93",
+            "BBI": "4/10",
+            "BBM": "6/77",
+            "Balls": "5317",
+            "Econ": "2.60",
+            "Inns": "80",
+            "Mat": "62",
+            "Runs": "2306",
+            "SR": "80.5",
+            "Wkts": "66"
+        },
+        {
+            "": "First-class",
+            "10": "2",
+            "4w": "",
+            "5w": "9",
+            "Ave": "29.92",
+            "BBI": "7/24",
+            "BBM": "",
+            "Balls": "26249",
+            "Econ": "2.86",
+            "Inns": "",
+            "Mat": "327",
+            "Runs": "12539",
+            "SR": "62.6",
+            "Wkts": "419"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "19.85",
+            "BBI": "3/6",
+            "BBM": "3/6",
+            "Balls": "575",
+            "Econ": "4.35",
+            "Inns": "",
+            "Mat": "43",
+            "Runs": "417",
+            "SR": "27.3",
+            "Wkts": "21"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/865071/he-also-played-cricket",
+        "http://www.espncricinfo.com/magazine/content/story/867621.html",
+        "http://www.espncricinfo.com/blogs/content/story/703777.html",
+        "http://www.espncricinfo.com/magazine/content/story/671325.html",
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/657117/benaud-s-manchester-miracle",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=11886"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/279100/279177.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/279100/279177.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/279100/279177.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nMay 15, 1935, Milan, Italy "
+        ],
+        "Bowling style": [
+            "Right-arm medium"
+        ],
+        "Current age": [
+            "83 years 95 days"
+        ],
+        "Full name": [
+            "Edward Ralph Dexter"
+        ],
+        "Major teams": [
+            "England,",
+            "Cambridge University,",
+            "Sussex"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

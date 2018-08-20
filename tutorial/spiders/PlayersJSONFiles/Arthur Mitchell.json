@@ -1,0 +1,102 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "2",
+            "6s": "0",
+            "Ave": "29.80",
+            "Ct": "9",
+            "HS": "72",
+            "Inns": "10",
+            "Mat": "6",
+            "NO": "0",
+            "Runs": "298",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "44",
+            "50": "98",
+            "6s": "",
+            "Ave": "37.47",
+            "Ct": "439",
+            "HS": "189",
+            "Inns": "593",
+            "Mat": "426",
+            "NO": "72",
+            "Runs": "19523",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "6",
+            "Econ": "4.00",
+            "Inns": "1",
+            "Mat": "6",
+            "Runs": "4",
+            "SR": "-",
+            "Wkts": "0"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "46.71",
+            "BBI": "3/49",
+            "BBM": "",
+            "Balls": "523",
+            "Econ": "3.75",
+            "Inns": "",
+            "Mat": "426",
+            "Runs": "327",
+            "SR": "74.7",
+            "Wkts": "7"
+        }
+    ],
+    "latest_articles": [],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nSeptember 13, 1902, Baildon Green, Yorkshire "
+        ],
+        "Died": [
+            "December 25, 1976, Bradford, Yorkshire (aged 74 years 103 days) "
+        ],
+        "Full name": [
+            "Arthur Mitchell"
+        ],
+        "Major teams": [
+            "England,",
+            "Yorkshire"
+        ],
+        "Nickname": [
+            "Ticker"
+        ]
+    },
+    "profile_info": [
+        null,
+        "Summoned from his garden at the last minute to take the place of Leyland, stricken by lumbago, in the Test against South Africa at Leeds in 1935, he took over three hours to score a valuable 58 in the first innings, but in the second, sent in first with D. Smith, made 72 in under two hours and helped in an opening stand of 128. In the final Test of the same series, again going in first, he made 40 in three hours. His third and last appearance in a Test in this country was against India at Lord's in 1936. As member of the MCC side in India, he had played in three Tests there in 1933-34.",
+        "In the course of his career he scored 19,523 runs with an average of 37.47, including 44 centuries, four of them in consecutive matches in 1933. He had played for Yorkshire as early as 1922, but competition was fierce and in the next three years he had few chances. An innings of 189 against Northamptonshire in 1926 revealed his possibilities, but it was not until two years later that he at last got an assured place. So strong was the county's batting that in 1930 he was one of five members of the side who averaged over 50. In those days he went in three, four or five, but after the retirement of Holmes in 1933 more often opened.",
+        "Apart from his batting, he was one of the greatest fieldsmen of his day, Specialising close to the wicket, whether on the leg or the off. He continued to play regularly up to the war, but in 1945 became the county's coach, a post he held until 1970, doing splendid work not only by his teaching, but by going about talking on the game.",
+        "Brian Sellers, Yorkshire captain in the latter years of Mitchell's career, said: \"Cricket has lost a great personality and I have lost a very great friend and old team-mate. Arthur was a loyal supporter and hard worker for Yorkshire and he did extraordinarily good work as coach. He will be greatly missed by the club. He was a dedicated cricketer who worked hard at the game and became a resolute and determined player. His determination is shown in that he was a poor fielder in league cricket at first but he practised so much that he became one of the best in the world.\"",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

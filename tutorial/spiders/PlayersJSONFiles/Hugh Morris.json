@@ -1,0 +1,163 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "12",
+            "50": "0",
+            "6s": "0",
+            "Ave": "19.16",
+            "BF": "318",
+            "Ct": "3",
+            "HS": "44",
+            "Inns": "6",
+            "Mat": "3",
+            "NO": "0",
+            "Runs": "115",
+            "SR": "36.16",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "53",
+            "4s": "",
+            "50": "98",
+            "6s": "",
+            "Ave": "40.29",
+            "BF": "",
+            "Ct": "197",
+            "HS": "233*",
+            "Inns": "544",
+            "Mat": "314",
+            "NO": "53",
+            "Runs": "19785",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "14",
+            "4s": "",
+            "50": "49",
+            "6s": "",
+            "Ave": "35.85",
+            "BF": "",
+            "Ct": "94",
+            "HS": "154*",
+            "Inns": "266",
+            "Mat": "274",
+            "NO": "26",
+            "Runs": "8606",
+            "SR": "",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "3",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "190.00",
+            "BBI": "1/6",
+            "BBM": "",
+            "Balls": "348",
+            "Econ": "6.55",
+            "Inns": "",
+            "Mat": "314",
+            "Runs": "380",
+            "SR": "174.0",
+            "Wkts": "2"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "27.00",
+            "BBI": "1/14",
+            "BBM": "1/14",
+            "Balls": "30",
+            "Econ": "5.40",
+            "Inns": "",
+            "Mat": "274",
+            "Runs": "27",
+            "SR": "30.0",
+            "Wkts": "1"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/england/content/story/826093.html",
+        "http://www.espncricinfo.com/the-ashes-2013-14/content/story/697047.html",
+        "http://www.espncricinfo.com/england/content/story/665779.html",
+        "http://www.espncricinfo.com/england/content/story/602351.html",
+        "http://www.espncricinfo.com/magazine/content/story/576292.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=17099"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/228000/228013.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/228000/228013.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/228000/228013.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Left-hand bat"
+        ],
+        "Born": [
+            "\nOctober 5, 1963, Canton, Cardiff, Glamorgan, Wales "
+        ],
+        "Bowling style": [
+            "Right-arm medium"
+        ],
+        "Current age": [
+            "54 years 317 days"
+        ],
+        "Education": [
+            "Blundell's School; South Glamorgan Institute"
+        ],
+        "Full name": [
+            "Hugh Morris"
+        ],
+        "Height": [
+            "\n5 ft 8 in "
+        ],
+        "Major teams": [
+            "England,",
+            "Glamorgan"
+        ],
+        "Nickname": [
+            "H, Banacek"
+        ],
+        "Other": [
+            "Administrator"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

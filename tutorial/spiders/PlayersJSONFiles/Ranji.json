@@ -1,0 +1,125 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "2",
+            "50": "6",
+            "6s": "0",
+            "Ave": "44.95",
+            "Ct": "13",
+            "HS": "175",
+            "Inns": "26",
+            "Mat": "15",
+            "NO": "4",
+            "Runs": "989",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "72",
+            "50": "109",
+            "6s": "",
+            "Ave": "56.37",
+            "Ct": "233",
+            "HS": "285*",
+            "Inns": "500",
+            "Mat": "307",
+            "NO": "62",
+            "Runs": "24692",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "39.00",
+            "BBI": "1/23",
+            "BBM": "1/24",
+            "Balls": "97",
+            "Econ": "2.41",
+            "Inns": "4",
+            "Mat": "15",
+            "Runs": "39",
+            "SR": "97.0",
+            "Wkts": "1"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "4",
+            "Ave": "34.59",
+            "BBI": "6/53",
+            "BBM": "",
+            "Balls": "8056",
+            "Econ": "3.42",
+            "Inns": "",
+            "Mat": "307",
+            "Runs": "4601",
+            "SR": "60.5",
+            "Wkts": "133"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/blogs/content/story/725199.html",
+        "http://www.espncricinfo.com/magazine/content/story/694457.html",
+        "http://www.espncricinfo.com/magazine/content/story/686947.html",
+        "http://www.espncricinfo.com/blogs/content/story/644227.html",
+        "http://www.espncricinfo.com/magazine/content/story/628233.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=19331"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/21300/21349.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/21300/21349.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/21300/21349.icon.jpg"
+    ],
+    "personal_info": {
+        "Also known as": [
+            "Smith - and later Colonel His Highness Shri Sir Ranjithsinji Vibhaji, Maharajah Jam Saheb of Nawanag"
+        ],
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nSeptember 10, 1872, Sarodar, Kathiawar, India "
+        ],
+        "Died": [
+            "April 2, 1933, Jamnagar Palace, India (aged 60 years 204 days) "
+        ],
+        "Full name": [
+            "Kumar Shri Ranjitsinhji"
+        ],
+        "Major teams": [
+            "England,",
+            "Cambridge University,",
+            "London County,",
+            "Sussex"
+        ],
+        "Other": [
+            "Author"
+        ],
+        "Relation": [
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

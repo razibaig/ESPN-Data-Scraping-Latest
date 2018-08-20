@@ -1,0 +1,122 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "4",
+            "50": "3",
+            "6s": "0",
+            "Ave": "49.37",
+            "Ct": "4",
+            "HS": "182*",
+            "Inns": "26",
+            "Mat": "17",
+            "NO": "2",
+            "Runs": "1185",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "153",
+            "50": "258",
+            "6s": "",
+            "Ave": "47.67",
+            "Ct": "675",
+            "HS": "280*",
+            "Inns": "1340",
+            "Mat": "814",
+            "NO": "185",
+            "Runs": "55061",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "17",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "5",
+            "Ave": "34.70",
+            "BBI": "7/18",
+            "BBM": "",
+            "Balls": "18457",
+            "Econ": "3.12",
+            "Inns": "",
+            "Mat": "814",
+            "Runs": "9613",
+            "SR": "66.6",
+            "Wkts": "277"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/1104979.html",
+        "http://www.espncricinfo.com/wisdencricketer/content/story/347943.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155486.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154853.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/052004/052221.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/052004/052221.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/052004/052221.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Left-hand bat"
+        ],
+        "Born": [
+            "\nMarch 9, 1887, Battersea, London "
+        ],
+        "Bowling style": [
+            "Slow left-arm orthodox"
+        ],
+        "Died": [
+            "March 26, 1958, Boscombe, Hampshire (aged 71 years 17 days) "
+        ],
+        "Full name": [
+            "Charles Philip Mead"
+        ],
+        "Major teams": [
+            "England,",
+            "Hampshire"
+        ]
+    },
+    "profile_info": [
+        null,
+        null,
+        "The figure is staggering.  He would have liked us  to  make  that comment.  he would have pointed out, though, that he did not only bat for Hampshire; that, in all first-class matches, he  totalled 55,061 runs, with 153 centuries and an average of 47.67.  But for four seasons lost to the First  World  War,  he must  have   made at least  8,000  more.  His first-class career is given officially\nas from 1905 to 1936: but in 1905, while he was  qualifying   for Hampshire, he played in only one match.  so his runs were made in 27 seasons:  an average of more than 2,000 runs a year. We  may  adduce  one  more  piece of evidence about him before we dispense with \"damned dots\" - Mead's  average  in  Test   cricket\nagainst   Australia  (51.87 in,  surprisingly  enough, only seven Tests, and jthose spread over seventeen years) is higher than his figure for all play.",
+        "No one who saw Philip Mead bat will ever forget him.  At the fall of  Hampshire's  second  wicket he would emerge from the pavilion with a peculiar rolling gait, his sloping  shoulders, wide   hips and  heavy,  bowed legs giving him the bottom-heavy appearance of those lead-based, won't-fall-down dolls of our childhood.  Leathery  complexioned,  with  a  long nose, a wry expression and eyes which seemed always to be screwed up against the sun,  he  had  a\nsemi-comic  air:   but  he  was  a  very serious batsman.  At the crease, he went through precisely the same  ritual  before  every ball  was  bowled to him.  First he touched his cap four times to short-leg (whether that fieldsman was  there  or  not)  then   he tapped  his  bat four times in the crease and, finally, took four small, shuffling strides up to it.   Then,  and  only  then,  the bowler  might  bowl:   if he tried to do so before the ritual was\ncompleted, Philip stepped away from  his  stumps  and,  when  the bowler  stopped, started the whole procedure over again.  He wore out some dozens of cap-peaks in his time, and - \"I know it  sometimes   held them  up;  but is used to put some of the hasty ones off, and I shouldn't have felt happy if I hadn't done it.\"",
+        "His batting gave a superficial impression of  clumsiness,  accentuated  perhaps  by  the  fact  that he was left-handed.  But his footwork was so neat that he seemed always in position, his  balance  was  utterly  perfect  and  his  timing so delicate that he seemed only to need to stroke the ball to send if for four.   One of  his maxims was:  \"No point in trying to bash the case off it: just hit it hard enough for four.\"  He had all the  strokes  and, though  he relished the cover-drive (\"that's everyone's favourite stroke, really\"), he never favoured any to the extent of  playing it to the wrong ball.",
+        "The best critics of batsmen - the bowlers of four countries,  who opposed  him  over three decades - described him, with remarkable unanimity, as \"the hardest of them all to get out\".  That was the way  he  wanted  to  be.  Alec Kennedy, who knoew him better than anyone, thought the most remarkable facet of his batting was that he  made  so many of his big scores on turning wickets.  Yet Alec added, \"But he was as fine a player of fast bowling  as  I   ever\nsaw.\"  That judgment was borne out when Mead stopped the terrifying progress of Gregory and McDonald, the Australian fast bowlers of 1921, in the fifth Test with an innings of 182 (not out), then the highest score ever made by an English  batsman  against  Australia in England.",
+        "There probably will be no end - and can be no clear decision - to the  debate  as  to  whether  Philip Mead or Frank Woolley was the greater left-hand batsman.  There is no doubt  that Woolley   was the   greater  stylist, and he scored more runs: but Mead had the higher average - over all, and against Australia -  and,  by  his standards, that would be conclusive.",
+        "This man, Charles Philip Mead - \"Phil\" - was  the  ultimate  run-hungry  batsman.   Indeed, at times it seemed that he was not interested in batting but only in runs.  Like the Sikhs, who   only draw  their  knives to draw blood, he did not care to pick up his bat except to oppose a bowler for runs which counted.  He  had  a rooted   aversion  to  batting in the nets: and, when others took pre-season practice, he would do his utmost  to  evade  it,  with\nwords, \"You may lead in May, but I shall catch you in June.\" Once, when he voiced dissatisfaction with his timing in a century which was his first innings of the season, Alec Kennedy pertinently enquired when he had last held a bat in his hands.  \"Last  Scarborough Festival,\" was the the answer.",
+        "Mead was consciously, and  quite  downrightly,  a  'professional'  cricketer:   he  executed  his craft for the best living he could get (and that was fairly meagre); and he would not, I fancy, have objected  to  being  described as a mercenary.  Hampshire, in his day, paid talent money to their batsmen strictly on  a  basis  of fifty-run  increments, irrespective of their effect on the match. So, an innings of 49 went worthless financially:  one  of  99  no\nbetter  rewarded than 50.  Hence, more than one Hampshire batsman was run out when Philip had the strike on  49  or  99:   and  one famous  left-arm  bowler,  an old opponent recalls the many times when Mead steered him through the short-leg fieldsmen and, as  he completed  the  stroke, set off for a run with the words, \"That's another ton of coal for the winter.\"",
+        null,
+        "Once in scoring vein he would go on and on,  combative,  acquisitive,  never losing poise, power or patience.  Between early June and mid-July in 1921 he scored 1,601 runs; a year later  he  made 1192  in  seven consecutive innings: in 1927, from the end of May to late June, he played fourteen innings (four of them  not  out) for  1,257  runs (an average of 125.70):  he was then forty years old.",
+        "For several years before he retired he was so crippled by rheumatism  and  backache that he could barely stoop to lace his boots. But still the runs came  and  he  still  caught almost   anything within his reach at slip, though he would not care to run for the snicks that scuttled past him.  To the end, even on  the  eve  of his  blindness  - such an ironically savage blow to fall upon one of his keen eye for the ball - he batted  with  monumental  skill\nand soundness.",
+        "It was Mead's dishearteningly broad bat that changed Maurice Tate from  a  slow  offspinner  to  a  pace  bowler.  In desperation, against that unwavering defence, one afternoon at Horsham,   Tate gathered  all  his  energy and flung down the first quick ball he had ever bowled in all his life.  It pitched on Mead's off-stump, made  hurry off the pitch and flicked away the leg bail.  So Tate described it; thirty years later, Mead, unprompted, confirmed the\ndescription.   \"A  pretty  good ball, Philip?\"  \"Not half: a real trimmer:  mind, I don't say I wouldn't have played it if I'd  expected him to bowl fast ...  but, yes, it was a good 'un.\"",
+        "\"Did you say anything to him, Philip?\"",
+        "\"What?  Me?  'Course I didn't.  I never encouraged bowlers.\"",
+        "That might  be  Philip  Mead's  epitaph  as  a   cricketer:  pre-eminently  among all the men who ever wielded a bat, he never encouraged bowlers.",
+        "Taken from \"The Boundary Book\", McDonald, 1962"
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

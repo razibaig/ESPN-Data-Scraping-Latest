@@ -1,0 +1,116 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "23.75",
+            "Ct": "1",
+            "HS": "31",
+            "Inns": "6",
+            "Mat": "3",
+            "NO": "2",
+            "Runs": "95",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "4",
+            "50": "42",
+            "6s": "",
+            "Ave": "23.72",
+            "Ct": "103",
+            "HS": "155",
+            "Inns": "400",
+            "Mat": "277",
+            "NO": "78",
+            "Runs": "7638",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "3",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "3",
+            "Ave": "29.95",
+            "BBI": "6/49",
+            "BBM": "",
+            "Balls": "2261",
+            "Econ": "3.65",
+            "Inns": "",
+            "Mat": "277",
+            "Runs": "1378",
+            "SR": "49.1",
+            "Wkts": "46"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/60096.html",
+        "http://www.espncricinfo.com/wisdencricketer/content/story/209163.html",
+        "http://www.espncricinfo.com/cricketer/content/story/247620.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155507.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/102004/055270.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/102004/055270.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/102004/055270.icon.jpg"
+    ],
+    "personal_info": {
+        "Also known as": [
+            "Shrimp Leveson Gower"
+        ],
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nMay 8, 1873, Titsey Place, Surrey "
+        ],
+        "Bowling style": [
+            "Legbreak"
+        ],
+        "Died": [
+            "February 1, 1954, Kensington, London (aged 80 years 269 days) "
+        ],
+        "Education": [
+            "Winchester; Magdalen College, Oxford"
+        ],
+        "Full name": [
+            "Henry Dudley Gresham Leveson Gower"
+        ],
+        "Major teams": [
+            "England,",
+            "Oxford University,",
+            "Surrey"
+        ]
+    },
+    "profile_info": [
+        null,
+        "At Magdalen College, Oxford, he got his Blue as a Freshman in 1893 and figured in the team in the three following years, being captain in 1896 when E. B. Shine bowled three balls to the boundary in the University match in order to prevent Oxford from following on as, according to the Laws prevailing at the time, they would otherwise have been compelled to do. His highest innings against Cambridge was 73 in 1895, when he also took seven wickets for 84 runs. In that season, too, began the association with Surrey which continued till his death. A skilful right-handed batsman and a keen field, usually at cover-point or mid-off, he hit his biggest innings for the county, 155 against his former University at Oxford, in 1899, and he captained Surrey from 1908 to 1910. Several times he appeared for Gentlemen against Players, and besides regularly getting together teams to meet the Universities at Eastbourne, he was responsible from 1899 till 1950 for the selection of the sides taking part in the Scarborough Festival. Recognition of his work in this direction came in 1950 when he was made a Freeman of the Borough of Scarborough.",
+        " Leveson Gower also had considerable experience of cricket outside England. He went to South Africa with M.C.C. teams in 1905-6 and 1909-10, being captain on the second occasion; visited the West Indies under Lord Hawke in 1896-97, and in the autumn of 1897 toured in America with the side captained by P. F. (now Sir Pehlam) Warner. During the American trip some of the newspapers experienced difficulty over Leveson Gower's name, and he found himself referred to in print as The Hyphenated Worry and The Man with the Sanguinary Name. Between 1928 and 1934, he also played with teams in Malta, Gibraltar and Portugal. Altogether in first-class cricket he scored 7,662 runs, average 22.88.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

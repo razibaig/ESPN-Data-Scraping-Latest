@@ -1,0 +1,105 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "17.00",
+            "Ct": "2",
+            "HS": "17",
+            "Inns": "1",
+            "Mat": "1",
+            "NO": "0",
+            "Runs": "17",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "5",
+            "50": "13",
+            "6s": "",
+            "Ave": "18.59",
+            "Ct": "98",
+            "HS": "114",
+            "Inns": "275",
+            "Mat": "163",
+            "NO": "30",
+            "Runs": "4555",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "8.66",
+            "BBI": "3/26",
+            "BBM": "3/26",
+            "Balls": "105",
+            "Econ": "1.48",
+            "Inns": "1",
+            "Mat": "1",
+            "Runs": "26",
+            "SR": "35.0",
+            "Wkts": "3"
+        },
+        {
+            "": "First-class",
+            "10": "7",
+            "4w": "",
+            "5w": "31",
+            "Ave": "19.02",
+            "BBI": "9/34",
+            "BBM": "",
+            "Balls": "25881",
+            "Econ": "2.35",
+            "Inns": "",
+            "Mat": "163",
+            "Runs": "10179",
+            "SR": "48.3",
+            "Wkts": "535"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155630.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/122004/056912.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nApril 19, 1865, Humberstone, Leicester "
+        ],
+        "Bowling style": [
+            "Right-arm fast-medium"
+        ],
+        "Died": [
+            "May 20, 1926, Aylestone Park, Leicester (aged 61 years 31 days) "
+        ],
+        "Full name": [
+            "Arthur Dick Pougher"
+        ],
+        "Major teams": [
+            "England,",
+            "Leicestershire"
+        ]
+    },
+    "profile_info": [
+        null,
+        "POUGHER, ARTHUR DICK, born at Leicester, on April 19, 1865, died at his native place on May 20, aged 61. An excellent all-round cricketer, he will be recalled chiefly as a capital medium-pace bowler with a high delivery and a break-back, combined with skilful variation of pace. His most memorable feat was in taking five wickets without a run in fifteen balls for M.C.C. against the Australians at Lord's in June, 1896, the latter being dismissed for 18: one man was absent ill, and the last six wickets went down with the total unchanged. Among many other good performances with the ball by Pougher the following are worthy of mention:",
+        null,
+        "In games of less note he took eleven wickets for 18 runs for R. G. Barlow's XI v. XXII of Blackpool and District in 1889, and (in conjunction with F. Martin, of Kent) obtained eight wickets in nine balls for Mr. W. W. Read's Team v. XXII of the Country Clubs at Cape Town in 1891-2, each player taking four in succession. In a twelve-a-side match, too, at Streatham in July, 1892, whilst playing for M.C.C. v. Streatham he took all eleven wickets for 37 runs.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

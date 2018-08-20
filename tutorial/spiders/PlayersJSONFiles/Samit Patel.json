@@ -1,0 +1,353 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "16",
+            "50": "0",
+            "6s": "1",
+            "Ave": "16.77",
+            "BF": "338",
+            "Ct": "3",
+            "HS": "42",
+            "Inns": "9",
+            "Mat": "6",
+            "NO": "0",
+            "Runs": "151",
+            "SR": "44.67",
+            "St": "0"
+        },
+        {
+            "": "ODIs",
+            "100": "0",
+            "4s": "37",
+            "50": "1",
+            "6s": "12",
+            "Ave": "32.13",
+            "BF": "517",
+            "Ct": "7",
+            "HS": "70*",
+            "Inns": "22",
+            "Mat": "36",
+            "NO": "7",
+            "Runs": "482",
+            "SR": "93.23",
+            "St": "0"
+        },
+        {
+            "": "T20Is",
+            "100": "0",
+            "4s": "17",
+            "50": "1",
+            "6s": "5",
+            "Ave": "15.75",
+            "BF": "173",
+            "Ct": "3",
+            "HS": "67",
+            "Inns": "14",
+            "Mat": "18",
+            "NO": "2",
+            "Runs": "189",
+            "SR": "109.24",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "26",
+            "4s": "",
+            "50": "58",
+            "6s": "",
+            "Ave": "37.23",
+            "BF": "18670",
+            "Ct": "132",
+            "HS": "257*",
+            "Inns": "336",
+            "Mat": "207",
+            "NO": "18",
+            "Runs": "11841",
+            "SR": "63.42",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "7",
+            "4s": "",
+            "50": "33",
+            "6s": "",
+            "Ave": "35.02",
+            "BF": "7093",
+            "Ct": "68",
+            "HS": "129*",
+            "Inns": "205",
+            "Mat": "236",
+            "NO": "32",
+            "Runs": "6060",
+            "SR": "85.43",
+            "St": "0"
+        },
+        {
+            "": "T20s",
+            "100": "0",
+            "4s": "411",
+            "50": "28",
+            "6s": "131",
+            "Ave": "25.72",
+            "BF": "3555",
+            "Ct": "69",
+            "HS": "90*",
+            "Inns": "208",
+            "Mat": "237",
+            "NO": "35",
+            "Runs": "4451",
+            "SR": "125.20",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "60.14",
+            "BBI": "2/27",
+            "BBM": "3/164",
+            "Balls": "858",
+            "Econ": "2.94",
+            "Inns": "10",
+            "Mat": "6",
+            "Runs": "421",
+            "SR": "122.5",
+            "Wkts": "7"
+        },
+        {
+            "": "ODIs",
+            "10": "0",
+            "4w": "0",
+            "5w": "1",
+            "Ave": "45.45",
+            "BBI": "5/41",
+            "BBM": "5/41",
+            "Balls": "1187",
+            "Econ": "5.51",
+            "Inns": "32",
+            "Mat": "36",
+            "Runs": "1091",
+            "SR": "49.4",
+            "Wkts": "24"
+        },
+        {
+            "": "T20Is",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "45.85",
+            "BBI": "2/6",
+            "BBM": "2/6",
+            "Balls": "252",
+            "Econ": "7.64",
+            "Inns": "15",
+            "Mat": "18",
+            "Runs": "321",
+            "SR": "36.0",
+            "Wkts": "7"
+        },
+        {
+            "": "First-class",
+            "10": "1",
+            "4w": "11",
+            "5w": "4",
+            "Ave": "39.00",
+            "BBI": "7/68",
+            "BBM": "",
+            "Balls": "23773",
+            "Econ": "3.08",
+            "Inns": "",
+            "Mat": "207",
+            "Runs": "12208",
+            "SR": "75.9",
+            "Wkts": "313"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "3",
+            "5w": "2",
+            "Ave": "32.84",
+            "BBI": "6/13",
+            "BBM": "6/13",
+            "Balls": "7940",
+            "Econ": "5.38",
+            "Inns": "",
+            "Mat": "236",
+            "Runs": "7127",
+            "SR": "36.5",
+            "Wkts": "217"
+        },
+        {
+            "": "T20s",
+            "10": "0",
+            "4w": "2",
+            "5w": "0",
+            "Ave": "26.32",
+            "BBI": "4/20",
+            "BBM": "4/20",
+            "Balls": "4295",
+            "Econ": "7.28",
+            "Inns": "215",
+            "Mat": "237",
+            "Runs": "5213",
+            "SR": "21.6",
+            "Wkts": "198"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/ci/content/story/1151700.html",
+        "http://www.espncricinfo.com/ci/content/story/1150624.html",
+        "http://www.espncricinfo.com/ci/content/story/1147438.html",
+        "http://www.espncricinfo.com/ci/content/story/1145635.html",
+        "http://www.espncricinfo.com/ci/content/story/1145236.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=18632"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/278100/278190.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/278100/278190.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/278100/278190.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nNovember 30, 1984, Leicester "
+        ],
+        "Bowling style": [
+            "Slow left-arm orthodox"
+        ],
+        "Current age": [
+            "33 years 261 days"
+        ],
+        "Education": [
+            "Worksop College"
+        ],
+        "Full name": [
+            "Samit Rohit Patel"
+        ],
+        "Height": [
+            "\n5 ft 8 in "
+        ],
+        "Major teams": [
+            "England,",
+            "England Lions,",
+            "England Under-19s,",
+            "Islamabad United,",
+            "Marylebone Cricket Club,",
+            "Nottinghamshire,",
+            "Rajshahi Kings"
+        ],
+        "Playing role": [
+            "Allrounder"
+        ],
+        "Relation": [
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        "\nSamit Patel, a hard-hitting middle-order batsman and a more-than-capable slow left-arm bowler, has been one of the most watchable county cricketers of his generation but he will go to his grave feeling he was hard done by in a sporadic England career. He had several opportunities to make his mark for England, especially in limited-overs cricket, without ever quite holding down a regular place. Six Tests without much of an impact and 36 ODIs with an average of 32, and excellent strike rate of 95, but only one half-century, told of a player whose consistency had not been adorned by big, eye-catching contributions.  \n",
+        "Patel has been involved in a permanent attempt to persuade England that his fitness levels are acceptable but he has never entirely managed it, not helped by the fact that the left-arm slows that made him an especially tempting option in Asia turned out to lack the guile to trouble the best players. ",
+        "His early career was full of promise. He represented England at Under-15, Under-17 and Under-19 levels, and was awarded the Test Match Special Young Cricketer of the Year award in 2000 for his impressive performances in the Under-15 World Cup. He made his debut for Nottinghamshire 2nd XI at the age of just 14, in late 1999 but it wasn't until 2006 that he finally began to show signs of realising his potential, scoring 156 not out against Middlesex, an innings in which he went from 100 to 150 in just 17 balls.",
+        "Some of his most eye-catching performances came in Twenty20, including a unique double-wicket maiden against Derbyshire in 2006, but it was in 50-over cricket that he first attracted the interest of England's selectors, who picked him in his first international squad for the 2008 Champions Trophy. ",
+        "Patel impressed during his breakthrough season in 2008 where he played 11 ODIs in 2008, particularly during a haul of 5 for 41 to beat South Africa at The Oval. But instead of kicking on to greater things, his career stagnated, amid repeated failures to respond to the cajoling of the England management, and get into the gym to sort out his waistline. The county circuit did not lack for stories about accidents on treadmills or his penchant for chocolate bars",
+        "England's frustration was at its height ahead of the 2011 World Cup in the subcontinent. England desperately wanted to be able to include him for the slow, low wickets of India, Sri Lanka and Bangladesh, and named him in their 30-man provisional squad, with the expectation that he would respond accordingly. \"All we were saying was 'get into reasonable shape'. It didn't have to be perfect,\" said England's coach, Andy Flower.",
+        "That public rollicking appeared, finally, to have made the penny drop. Patel worked hard enough at his fitness before the 2011 season to have reached the basic targets laid out by England and he was rewarded with a recall to the limited-overs set-up after a strong start to the summer with Nottinghamshire, his first involvement for two-and-a-half years.",
+        "His work paid off as he passed 1,000 runs in a season for the first time and took 33 wickets for Nottinghamshire. He was one of few players to come out of England's ill-fated one-day tour of India in credit with 160 runs 40.00.",
+        "Patel was an England regular in limited-overs cricket when he earned a first Test call up for England's tour of Sri Lanka in March 2012.  Despite a modest domestic season in which he passed 50 only three times in first-class matches and had a top score of only 69, he was also selected for England's 2012-13 tour of India, where he made his first century in a senior England side in a warm-up match against India A and was selected for the first three Tests without ever making an impact. He then failed to win selection for World Twenty20 in Bangladesh shortly after predicting that, at 29, he was approaching his peak and had ambitions to play 200 times for England. Instead, he feared that total might end on 60..",
+        "His slow left-arm was never more valuable for Notts than when a spell of 3 for 21 from seven overs helped Nottinghamshire beat Glamorgan by 87 runs in the 2013 YB40 final at Lord's to win their first limited-overs trophy for more than 20 years. But England's declining interest - even with his director of cricket Mick Newell now ensconced as a selector - began to weigh on him. With his Test ambitions high at the start of 2014, he averaged 52, only to average 23 after he failed be selected. Newell himself called that \"no coincidence\".",
+        "That run shortage continued in 2015, only for him to win a surprise call-up as England's third spinner for a Test series against Pakistan in the UAE, his chance coming when Zafar Ansari was injured in the field hours after being selected. Patel got his chance in the final Test, a victory for Pakistan which sealed the series, leaving the media - and the ECB - to agonise over discouraging conditions for English spinners in county cricket.",
+        "Never mind: in the county game, his best was yet to come. Patel was at the forefront of Nottinghamshire's excellent season in 2017 in which they regained their First Division place in the Championship at the first attempt and won both limited-overs trophies. His unbeaten 122 against Essex at Chelmsford as Notts pulled off a record 50-over chase in the semi-final was not just a fine innings but wonderful theatre. He took the man-of-the-match award in the T20 final at Edgbaston for his 64 off 42 balls against Birmingham Bears, completing his second run-out of Finals Day for added theatre. He then bemoaned - as was his habit - that England's selectors had not been in touch. Patel won both the PCA's Most Valuable Player award and the Players' Player award - the first recognition for a Notts player since Richard Hadlee 30 years earlier. He had not always had the happiest relationship with England, but the accolade from his fellow professionals was a show of respect that left him \"chuffed to bits\".",
+        null
+    ],
+    "recent_matches": [
+        {
+            "Bat & Bowl": "0/27",
+            "Ground": "Leeds",
+            "Match Date": "17 Aug 2018",
+            "Opposition": "v Yorkshire",
+            "Scorecard": "T20",
+            "Team": "Notts"
+        },
+        {
+            "Bat & Bowl": "0/18, 2*",
+            "Ground": "Worcester",
+            "Match Date": "12 Aug 2018",
+            "Opposition": "v Worcs",
+            "Scorecard": "T20",
+            "Team": "Notts"
+        },
+        {
+            "Bat & Bowl": "7*, 1/16",
+            "Ground": "Nottingham",
+            "Match Date": "10 Aug 2018",
+            "Opposition": "v Yorkshire",
+            "Scorecard": "T20",
+            "Team": "Notts"
+        },
+        {
+            "Bat & Bowl": "41, 0/24",
+            "Ground": "Birmingham",
+            "Match Date": "9 Aug 2018",
+            "Opposition": "v Bears",
+            "Scorecard": "T20",
+            "Team": "Notts"
+        },
+        {
+            "Bat & Bowl": "0/32, 6",
+            "Ground": "Nottingham",
+            "Match Date": "4 Aug 2018",
+            "Opposition": "v Worcs",
+            "Scorecard": "T20",
+            "Team": "Notts"
+        },
+        {
+            "Bat & Bowl": "22, 1/30",
+            "Ground": "Nottingham",
+            "Match Date": "2 Aug 2018",
+            "Opposition": "v Derbyshire",
+            "Scorecard": "T20",
+            "Team": "Notts"
+        },
+        {
+            "Bat & Bowl": "32, 0/32",
+            "Ground": "Chester-le-Street",
+            "Match Date": "28 Jul 2018",
+            "Opposition": "v Durham",
+            "Scorecard": "T20",
+            "Team": "Notts"
+        },
+        {
+            "Bat & Bowl": "1, 2/26",
+            "Ground": "Nottingham",
+            "Match Date": "27 Jul 2018",
+            "Opposition": "v Lancashire",
+            "Scorecard": "T20",
+            "Team": "Notts"
+        },
+        {
+            "Bat & Bowl": "5, 2/101, 55",
+            "Ground": "Nottingham",
+            "Match Date": "22 Jul 2018",
+            "Opposition": "v Surrey",
+            "Scorecard": "FC",
+            "Team": "Notts"
+        },
+        {
+            "Bat & Bowl": "0/33, 13",
+            "Ground": "Nottingham",
+            "Match Date": "20 Jul 2018",
+            "Opposition": "v Leics",
+            "Scorecard": "T20",
+            "Team": "Notts"
+        }
+    ]
+}

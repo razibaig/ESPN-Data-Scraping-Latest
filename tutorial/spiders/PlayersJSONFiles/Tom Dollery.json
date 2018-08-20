@@ -1,0 +1,109 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "10.28",
+            "Ct": "1",
+            "HS": "37",
+            "Inns": "7",
+            "Mat": "4",
+            "NO": "0",
+            "Runs": "72",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "50",
+            "50": "128",
+            "6s": "",
+            "Ave": "37.50",
+            "Ct": "290",
+            "HS": "212",
+            "Inns": "717",
+            "Mat": "436",
+            "NO": "66",
+            "Runs": "24414",
+            "St": "14"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "4",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "48",
+            "Econ": "4.00",
+            "Inns": "",
+            "Mat": "436",
+            "Runs": "32",
+            "SR": "-",
+            "Wkts": "0"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155403.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154612.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/052004/052244.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/052004/052244.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/052004/052244.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nOctober 14, 1914, Reading West, Berkshire "
+        ],
+        "Died": [
+            "January 20, 1987, Edgbaston, Birmingham, Warwickshire (aged 72 years 98 days) "
+        ],
+        "Fielding position": [
+            "Wicketkeeper"
+        ],
+        "Full name": [
+            "Horace Edgar Dollery"
+        ],
+        "Major teams": [
+            "England,",
+            "Warwickshire,",
+            "Wellington"
+        ]
+    },
+    "profile_info": [
+        null,
+        "He was born at Reading next door to the Berkshire county ground, where the groundsman at the time was the father of Arthur Croom, of Warwickshire. Dollery was constantly on the ground, taking every opportunity to practise, and quite naturally, as he began to show promise, he conceived the ambition of playing for Warwickshire himself. He was five years in the XI at Reading School and captain in 1930 and 1931. In 1930 he made 101 out of 140 against MCC, but he put this completely in the shade next year when he carried his bat right through the innings for 104 not out in a total of 115, the next highest score being 3. Even admitting that the bowling was not strong, this is an almost incredible performance. To be able to keep the bowling over such a long period comes normally from years of experience, and many players never acquire the art. Moreover, the difficulty is multiplied when all the batsmen are schoolboys, who are as a race notoriously bad runners between the wickets.",
+        "That year he played a few matches for Berkshire as an amateur, and in 1932 and 1933 was a regular and valuable member of the side. In 1932, at the age of eighteen, he made a hundred in each innings against Monmouthshire at Newport, and in 1933 he had an average of 67 and represented the Minor Counties. Next year he became qualified for Warwickshire late in July and, without doing anything spectacular, showed clearly that he had not been overestimated. Innings of 34 and 46 against Middlesex created a particularly good impression. He did not waste time in proving his class. In 1935 he made his 1,000 runs, a feat he repeated every season until his retirement; in the opening match he saved the side from probable defeat by Gloucestershire with an innings of 100. Later in the season he hit Bowes off his back foot into the Edgbaston pavilion. He was indeed enormously strong and, though predominantly an off-side player, had strokes all round the wicket.",
+        "It seemed that he had only to strengthen his defence a little to become a great player. In this he never quite succeeded. He played in four Tests between 1947 and 1950, but did little, although against Australia at Lord's in 1948 he was top scorer in the second innings with 37. His runs on that occasion were scored almost entirely on the leg, the Australians typically knowing that he preferred the off. His innings ended ingloriously; he ducked to what he thought was bumper from Lindwall and the ball skidded through to bowl him. He was only once picked for a tour aboard, to India in 1939, but it was cancelled because of the war. An innings of 70 that year on his first appearance for the Players at Lord's had doubtless helped.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

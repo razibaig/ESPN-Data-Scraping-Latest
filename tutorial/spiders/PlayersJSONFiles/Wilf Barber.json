@@ -1,0 +1,104 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "20.75",
+            "Ct": "1",
+            "HS": "44",
+            "Inns": "4",
+            "Mat": "2",
+            "NO": "0",
+            "Runs": "83",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "29",
+            "50": "78",
+            "6s": "",
+            "Ave": "34.38",
+            "Ct": "182",
+            "HS": "255",
+            "Inns": "526",
+            "Mat": "373",
+            "NO": "49",
+            "Runs": "16402",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "0.00",
+            "BBI": "1/0",
+            "BBM": "1/0",
+            "Balls": "2",
+            "Econ": "0.00",
+            "Inns": "1",
+            "Mat": "2",
+            "Runs": "0",
+            "SR": "2.0",
+            "Wkts": "1"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "26.18",
+            "BBI": "2/1",
+            "BBM": "",
+            "Balls": "759",
+            "Econ": "3.31",
+            "Inns": "",
+            "Mat": "373",
+            "Runs": "419",
+            "SR": "47.4",
+            "Wkts": "16"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155450.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nApril 18, 1901, Cleckheaton, Yorkshire "
+        ],
+        "Bowling style": [
+            "Right-arm fast-medium"
+        ],
+        "Died": [
+            "September 10, 1968, Bradford, Yorkshire (aged 67 years 145 days) "
+        ],
+        "Full name": [
+            "Wilfred Barber"
+        ],
+        "Major teams": [
+            "England,",
+            "Yorkshire"
+        ]
+    },
+    "profile_info": [
+        null,
+        "In all first-class fixtures during his career Barber, a product of Yorkshire Council cricket, scored 16,402 runs--15,289 of them for Yorkshire--for an average of 34.38 and of his 29 centuries, he hit 27 for his county. Eight times he exceeded 1,000 runs, his most prolific season being that of 1935, when he reached an aggregate of 2,147 and an average of 42.09. His four three-figure scores that year included his highest, 285 off the Surrey bowling at Bramall Lane, Sheffield. He also hit 248 against Kent at Headingley in 1934, when he and Sir Leonard Hutton, by scoring 267 for the first wicket, saved their side from an awkward situation after facing a first-innings deficit of 148.",
+        " Barber shared in seven other opening partnerships of 100 or more for Yorkshire, four of them with A. Mitchell, with whom he became the natural successor to Holmes and Sutcliffe. He also took part in six other stands of 200, of which the largest was 346 in four and a half hours with M. Leyland, against Middlesex at Sheffield in 1932--a record for the Yorkshire second wicket which still holds good. Barber hit 162 and Leyland, despite the necessity of employing a runner because of lameness, 189.",
+        "Twice Barber appeared for England, against H. F. Wade's South African team of 1935 at Leeds and at Old Trafford; he was one of six Yorkshiremen to represent their country during the season. He toured Australasia with the M.C.C. Team captained by E. R. T. Holmes in 1935-36, scoring 797 runs, average 41.94. Apart from an innings of 91 against Queensland at Brisbane, he did not altogether fulfil expectations in the Australian part of the tour, but, as senior professional, he found his best form in New Zealand. Besides 173, 93 and 60 in the four representative games with New Zealand, in which he obtained 365 runs, average 60.83, he made 116 against Canterbury.",
+        "After his retirement, Barber became a coach and groundsman at a school at Harrogate.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

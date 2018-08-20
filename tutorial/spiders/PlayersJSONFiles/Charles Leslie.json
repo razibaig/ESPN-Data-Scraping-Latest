@@ -1,0 +1,106 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "6",
+            "50": "1",
+            "6s": "0",
+            "Ave": "15.14",
+            "Ct": "1",
+            "HS": "54",
+            "Inns": "7",
+            "Mat": "4",
+            "NO": "0",
+            "Runs": "106",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "4",
+            "4s": "",
+            "50": "10",
+            "6s": "",
+            "Ave": "22.96",
+            "Ct": "18",
+            "HS": "144",
+            "Inns": "86",
+            "Mat": "48",
+            "NO": "5",
+            "Runs": "1860",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "11.00",
+            "BBI": "3/31",
+            "BBM": "3/31",
+            "Balls": "96",
+            "Econ": "2.75",
+            "Inns": "3",
+            "Mat": "4",
+            "Runs": "44",
+            "SR": "24.0",
+            "Wkts": "4"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "20.62",
+            "BBI": "3/31",
+            "BBM": "",
+            "Balls": "332",
+            "Econ": "2.98",
+            "Inns": "",
+            "Mat": "48",
+            "Runs": "165",
+            "SR": "41.5",
+            "Wkts": "8"
+        }
+    ],
+    "latest_articles": [],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nDecember 8, 1861, Mayfair, Westminster, London "
+        ],
+        "Bowling style": [
+            "Right-arm fast"
+        ],
+        "Died": [
+            "February 12, 1921, Mayfair, Westminster, London (aged 59 years 66 days) "
+        ],
+        "Education": [
+            "Rugby; Oxford University"
+        ],
+        "Full name": [
+            "Charles Frederick Henry Leslie"
+        ],
+        "Major teams": [
+            "England,",
+            "Middlesex,",
+            "Oxford University"
+        ],
+        "Relation": [
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {}
+    ]
+}

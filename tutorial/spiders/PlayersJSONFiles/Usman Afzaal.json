@@ -1,0 +1,271 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "12",
+            "50": "1",
+            "6s": "0",
+            "Ave": "16.60",
+            "BF": "137",
+            "Ct": "0",
+            "HS": "54",
+            "Inns": "6",
+            "Mat": "3",
+            "NO": "1",
+            "Runs": "83",
+            "SR": "60.58",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "32",
+            "4s": "",
+            "50": "74",
+            "6s": "",
+            "Ave": "39.15",
+            "BF": "",
+            "Ct": "104",
+            "HS": "204*",
+            "Inns": "406",
+            "Mat": "235",
+            "NO": "47",
+            "Runs": "14055",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "6",
+            "4s": "",
+            "50": "34",
+            "6s": "",
+            "Ave": "35.64",
+            "BF": "",
+            "Ct": "53",
+            "HS": "132",
+            "Inns": "181",
+            "Mat": "192",
+            "NO": "26",
+            "Runs": "5525",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "T20s",
+            "100": "0",
+            "4s": "102",
+            "50": "4",
+            "6s": "18",
+            "Ave": "22.42",
+            "BF": "822",
+            "Ct": "6",
+            "HS": "98*",
+            "Inns": "49",
+            "Mat": "52",
+            "NO": "7",
+            "Runs": "942",
+            "SR": "114.59",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "49.00",
+            "BBI": "1/49",
+            "BBM": "1/49",
+            "Balls": "54",
+            "Econ": "5.44",
+            "Inns": "1",
+            "Mat": "3",
+            "Runs": "49",
+            "SR": "54.0",
+            "Wkts": "1"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "51.81",
+            "BBI": "4/101",
+            "BBM": "",
+            "Balls": "9089",
+            "Econ": "3.35",
+            "Inns": "",
+            "Mat": "235",
+            "Runs": "5078",
+            "SR": "92.7",
+            "Wkts": "98"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "1",
+            "5w": "0",
+            "Ave": "26.93",
+            "BBI": "4/49",
+            "BBM": "4/49",
+            "Balls": "1638",
+            "Econ": "5.91",
+            "Inns": "",
+            "Mat": "192",
+            "Runs": "1616",
+            "SR": "27.3",
+            "Wkts": "60"
+        },
+        {
+            "": "T20s",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "32.75",
+            "BBI": "2/15",
+            "BBM": "2/15",
+            "Balls": "195",
+            "Econ": "8.06",
+            "Inns": "15",
+            "Mat": "52",
+            "Runs": "262",
+            "SR": "24.3",
+            "Wkts": "8"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/blogs/content/story/757735.html",
+        "http://www.espncricinfo.com/countycricket2010/content/story/476101.html",
+        "http://www.espncricinfo.com/countycricket2010/content/story/465046.html",
+        "http://www.espncricinfo.com/england-v-bangladesh-2010/content/story/459336.html",
+        "http://www.espncricinfo.com/countycricket2010/content/story/458311.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=8499"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/118700/118771.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/118700/118771.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/118700/118771.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Left-hand bat"
+        ],
+        "Born": [
+            "\nJune 9, 1977, Rawalpindi, Punjab, Pakistan "
+        ],
+        "Bowling style": [
+            "Slow left-arm orthodox"
+        ],
+        "Current age": [
+            "41 years 70 days"
+        ],
+        "Education": [
+            "Manvers Pierrepoint School, South Notts College"
+        ],
+        "Full name": [
+            "Usman Afzaal"
+        ],
+        "Height": [
+            "\n6 ft 0 in "
+        ],
+        "Major teams": [
+            "England,",
+            "Kalabagan Krira Chakra,",
+            "Northamptonshire,",
+            "Nottinghamshire,",
+            "Surrey"
+        ],
+        "Nickname": [
+            "Trevor"
+        ]
+    },
+    "profile_info": [
+        "\nA cocky, bare-knuckle batsman, Usman Afzaal caught the eye in June 2000 with a vicious 151 against Worcestershire, specifically Glenn McGrath. A year later, in the middle of an England finger crisis, he found himself in the team for the first Ashes Test. He failed twice, but regained his place at Headingley, hit an emotional fifty at The Oval, and was chosen for England's tour to India, where he carried the drinks with pride and good humour.  But he incurred the wrath of the coach, Duncan Fletcher, when he reported in New Zealand above what was considered to be his best fighting weight and has been out of favour since. \n",
+        "Well organised and at his best against pace, he straight-drives like an angel, even if the rest of his game wouldn't gain many points for artistic merit. He dreams of being an allrounder, but his left-arm spin acts mostly as a partnership-breaker. His talents don't extend to the field where he most resembles a bear at an aerobics class. A devout Muslim, he has a strong affinity with Pakistan, and in October 2000 led a group of Nottinghamshire teenagers on tour to Lahore.",
+        null
+    ],
+    "recent_matches": [
+        {
+            "Bat & Bowl": "1/28, 17",
+            "Ground": "Dhaka",
+            "Match Date": "8 Nov 2013",
+            "Opposition": "v Mohammedan",
+            "Scorecard": "LA",
+            "Team": "Kalabagan KC"
+        },
+        {
+            "Bat & Bowl": "17, 0/21",
+            "Ground": "Rajshahi",
+            "Match Date": "3 Nov 2013",
+            "Opposition": "v Prime DSC",
+            "Scorecard": "LA",
+            "Team": "Kalabagan KC"
+        },
+        {
+            "Bat & Bowl": "11, 0/7, 6",
+            "Ground": "Lord's",
+            "Match Date": "29 Jul 2010",
+            "Opposition": "v Middlesex",
+            "Scorecard": "FC",
+            "Team": "Surrey"
+        },
+        {
+            "Bat & Bowl": "7, 0/0, 1/19",
+            "Ground": "The Oval",
+            "Match Date": "20 Jul 2010",
+            "Opposition": "v Northants",
+            "Scorecard": "FC",
+            "Team": "Surrey"
+        },
+        {
+            "Bat & Bowl": "94, 0/38",
+            "Ground": "Croydon",
+            "Match Date": "6 Jul 2010",
+            "Opposition": "v Nthants 2nd",
+            "Scorecard": "Other OD",
+            "Team": "Surr 2nd XI"
+        },
+        {
+            "Bat & Bowl": "73, 26, 2/33",
+            "Ground": "Chesterfield",
+            "Match Date": "28 Jun 2010",
+            "Opposition": "v Derbyshire",
+            "Scorecard": "FC",
+            "Team": "Surrey"
+        },
+        {
+            "Bat & Bowl": "12",
+            "Ground": "The Oval",
+            "Match Date": "10 Jun 2010",
+            "Opposition": "v Essex",
+            "Scorecard": "T20",
+            "Team": "Surrey"
+        },
+        {
+            "Bat & Bowl": "2",
+            "Ground": "The Oval",
+            "Match Date": "8 Jun 2010",
+            "Opposition": "v Gloucs",
+            "Scorecard": "T20",
+            "Team": "Surrey"
+        },
+        {
+            "Bat & Bowl": "0/12, 54, 0",
+            "Ground": "The Oval",
+            "Match Date": "4 Jun 2010",
+            "Opposition": "v Leics",
+            "Scorecard": "FC",
+            "Team": "Surrey"
+        },
+        {
+            "Bat & Bowl": "49",
+            "Ground": "Cardiff",
+            "Match Date": "29 May 2010",
+            "Opposition": "v Glamorgan",
+            "Scorecard": "FC",
+            "Team": "Surrey"
+        }
+    ]
+}

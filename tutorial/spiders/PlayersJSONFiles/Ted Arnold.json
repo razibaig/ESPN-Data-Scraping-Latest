@@ -1,0 +1,101 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "13.33",
+            "Ct": "8",
+            "HS": "40",
+            "Inns": "15",
+            "Mat": "10",
+            "NO": "3",
+            "Runs": "160",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "24",
+            "50": "76",
+            "6s": "",
+            "Ave": "29.91",
+            "Ct": "187",
+            "HS": "215",
+            "Inns": "592",
+            "Mat": "343",
+            "NO": "62",
+            "Runs": "15853",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "2",
+            "5w": "1",
+            "Ave": "25.41",
+            "BBI": "5/37",
+            "BBM": "6/70",
+            "Balls": "1677",
+            "Econ": "2.81",
+            "Inns": "19",
+            "Mat": "10",
+            "Runs": "788",
+            "SR": "54.0",
+            "Wkts": "31"
+        },
+        {
+            "": "First-class",
+            "10": "13",
+            "4w": "",
+            "5w": "63",
+            "Ave": "23.16",
+            "BBI": "9/64",
+            "BBM": "",
+            "Balls": "54899",
+            "Econ": "2.70",
+            "Inns": "",
+            "Mat": "343",
+            "Runs": "24763",
+            "SR": "51.3",
+            "Wkts": "1069"
+        }
+    ],
+    "latest_articles": [],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/97900/97918.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nNovember 7, 1876, Withycombe Raleigh, Exmouth, Devon "
+        ],
+        "Bowling style": [
+            "Right-arm medium-fast"
+        ],
+        "Died": [
+            "October 25, 1942, Worcester (aged 65 years 352 days) "
+        ],
+        "Full name": [
+            "Edward George Arnold"
+        ],
+        "Major teams": [
+            "England,",
+            "London County,",
+            "Worcestershire"
+        ]
+    },
+    "profile_info": [
+        null,
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "11.66",
+            "Ct": "2",
+            "HS": "13",
+            "Inns": "14",
+            "Mat": "9",
+            "NO": "8",
+            "Runs": "70",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "50": "3",
+            "6s": "",
+            "Ave": "10.64",
+            "Ct": "132",
+            "HS": "95",
+            "Inns": "312",
+            "Mat": "209",
+            "NO": "88",
+            "Runs": "2384",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "2",
+            "5w": "2",
+            "Ave": "22.03",
+            "BBI": "6/85",
+            "BBM": "8/58",
+            "Balls": "2096",
+            "Econ": "1.95",
+            "Inns": "15",
+            "Mat": "9",
+            "Runs": "683",
+            "SR": "67.6",
+            "Wkts": "31"
+        },
+        {
+            "": "First-class",
+            "10": "27",
+            "4w": "",
+            "5w": "94",
+            "Ave": "13.49",
+            "BBI": "8/5",
+            "BBM": "",
+            "Balls": "47116",
+            "Econ": "1.84",
+            "Inns": "",
+            "Mat": "209",
+            "Runs": "14517",
+            "SR": "43.7",
+            "Wkts": "1076"
+        }
+    ],
+    "latest_articles": [],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/42800/42862.icon.jpg"
+    ],
+    "personal_info": {
+        "Also known as": [
+            "birth registered as Edmund Peat"
+        ],
+        "Batting style": [
+            "Left-hand bat"
+        ],
+        "Born": [
+            "\nMarch 2, 1855, Holbeck, Leeds, Yorkshire "
+        ],
+        "Bowling style": [
+            "Slow left-arm orthodox"
+        ],
+        "Died": [
+            "March 11, 1900, Newlay, Horsforth, Yorkshire (aged 45 years 9 days) "
+        ],
+        "Full name": [
+            "Edmund Peate"
+        ],
+        "Major teams": [
+            "England,",
+            "Yorkshire"
+        ]
+    },
+    "profile_info": [
+        null,
+        null,
+        "Some of his best performances with the ball were-",
+        "In all first-class matches in 1882 he obtained 214 wickets at a cost of 2466 runs.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {}
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "32",
+            "50": "2",
+            "6s": "0",
+            "Ave": "21.29",
+            "Ct": "4",
+            "HS": "70",
+            "Inns": "18",
+            "Mat": "10",
+            "NO": "1",
+            "Runs": "362",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "41",
+            "4s": "",
+            "50": "134",
+            "6s": "",
+            "Ave": "34.87",
+            "Ct": "304",
+            "HS": "193",
+            "Inns": "796",
+            "Mat": "448",
+            "NO": "64",
+            "Runs": "25525",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "1",
+            "4s": "",
+            "50": "9",
+            "6s": "",
+            "Ave": "26.22",
+            "Ct": "22",
+            "HS": "123",
+            "Inns": "57",
+            "Mat": "58",
+            "NO": "4",
+            "Runs": "1390",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "144",
+            "Econ": "1.83",
+            "Inns": "2",
+            "Mat": "10",
+            "Runs": "44",
+            "SR": "-",
+            "Wkts": "0"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "45.13",
+            "BBI": "3/20",
+            "BBM": "",
+            "Balls": "1938",
+            "Econ": "3.07",
+            "Inns": "",
+            "Mat": "448",
+            "Runs": "993",
+            "SR": "88.0",
+            "Wkts": "22"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "12",
+            "Econ": "4.50",
+            "Inns": "",
+            "Mat": "58",
+            "Runs": "9",
+            "SR": "-",
+            "Wkts": "0"
+        }
+    ],
+    "latest_articles": [],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/80400/80429.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/80400/80429.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJuly 3, 1936, Dumbarton, Dunbartonshire, Scotland "
+        ],
+        "Bowling style": [
+            "Right-arm medium"
+        ],
+        "Current age": [
+            "82 years 46 days"
+        ],
+        "Full name": [
+            "William Eric Russell"
+        ],
+        "Major teams": [
+            "England,",
+            "Berkshire,",
+            "Middlesex"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

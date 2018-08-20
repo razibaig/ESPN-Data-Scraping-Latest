@@ -1,0 +1,110 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "0.00",
+            "Ct": "0",
+            "HS": "0",
+            "Inns": "1",
+            "Mat": "1",
+            "NO": "0",
+            "Runs": "0",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "4s": "",
+            "50": "0",
+            "6s": "",
+            "Ave": "8.94",
+            "Ct": "19",
+            "HS": "48",
+            "Inns": "68",
+            "Mat": "58",
+            "NO": "18",
+            "Runs": "447",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "1",
+            "Ave": "40.28",
+            "BBI": "5/146",
+            "BBM": "7/282",
+            "Balls": "414",
+            "Econ": "4.08",
+            "Inns": "2",
+            "Mat": "1",
+            "Runs": "282",
+            "SR": "59.1",
+            "Wkts": "7"
+        },
+        {
+            "": "First-class",
+            "10": "8",
+            "4w": "",
+            "5w": "31",
+            "Ave": "16.72",
+            "BBI": "8/36",
+            "BBM": "",
+            "Balls": "10718",
+            "Econ": "3.12",
+            "Inns": "",
+            "Mat": "58",
+            "Runs": "5585",
+            "SR": "32.0",
+            "Wkts": "334"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/361623.html",
+        "http://www.espncricinfo.com/magazine/content/story/239768.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154754.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/59900/59993.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/59900/59993.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nMarch 17, 1872, Cranbrook, Kent "
+        ],
+        "Bowling style": [
+            "Legbreak googly"
+        ],
+        "Died": [
+            "March 23, 1950, Salcombe Hill, Sidmouth, Devon (aged 78 years 6 days) "
+        ],
+        "Education": [
+            "Sutton Valence; Brasenose College, Oxford"
+        ],
+        "Full name": [
+            "Douglas Ward Carr"
+        ],
+        "Major teams": [
+            "England,",
+            "Kent"
+        ]
+    },
+    "profile_info": [
+        "\nDouglas Carr's brief career was one of cricket's more remarkable stories. He played as a right-arm medium-pace bowler at Oxford - a football-related knee injury meant he didn't make any first-class appearances - and thereafter meandered his way through very average club cricket around Maidstone. In 1908 he decided to experiment with the fairly new googly, and the following May he made such an impact in club games that Kent offered him a trial - he was by then 37. He took 5 for 65 against his old University on debut, and followed with eight wickets for Players against Gentlemen. His success brought him an England call-up, and in the final Test at The Oval against Australia he took 7 for 282.  He took 60 wickets the following season as Kent won the title, and his career ended with the outbreak of the war in 1914. \n",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

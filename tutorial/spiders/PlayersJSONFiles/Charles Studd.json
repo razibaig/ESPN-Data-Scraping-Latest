@@ -1,0 +1,120 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "11",
+            "50": "0",
+            "6s": "0",
+            "Ave": "20.00",
+            "Ct": "5",
+            "HS": "48",
+            "Inns": "9",
+            "Mat": "5",
+            "NO": "1",
+            "Runs": "160",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "8",
+            "4s": "",
+            "50": "14",
+            "6s": "",
+            "Ave": "30.49",
+            "Ct": "73",
+            "HS": "175*",
+            "Inns": "167",
+            "Mat": "99",
+            "NO": "23",
+            "Runs": "4391",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "32.66",
+            "BBI": "2/35",
+            "BBM": "2/42",
+            "Balls": "384",
+            "Econ": "1.53",
+            "Inns": "7",
+            "Mat": "5",
+            "Runs": "98",
+            "SR": "128.0",
+            "Wkts": "3"
+        },
+        {
+            "": "First-class",
+            "10": "9",
+            "4w": "",
+            "5w": "32",
+            "Ave": "17.25",
+            "BBI": "8/40",
+            "BBM": "",
+            "Balls": "22655",
+            "Econ": "2.02",
+            "Inns": "",
+            "Mat": "99",
+            "Runs": "7659",
+            "SR": "51.0",
+            "Wkts": "444"
+        }
+    ],
+    "latest_articles": [],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/202100/202117.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nDecember 2, 1860, Spratton, Northamptonshire "
+        ],
+        "Bowling style": [
+            "Right-arm medium-fast"
+        ],
+        "Died": [
+            "July 16, 1931, Ibambi, Belgian Congo (aged 70 years 226 days) "
+        ],
+        "Education": [
+            "Eton College; Cambridge University"
+        ],
+        "Full name": [
+            "Charles Thomas Studd"
+        ],
+        "Major teams": [
+            "England,",
+            "Cambridge University,",
+            "Gentlemen of India,",
+            "Middlesex"
+        ],
+        "Relation": [
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        "\nCharles Thomas Studd, the youngest and most famous of three brothers all of whom played for Eton, Cambridge University and Middlesex, was born at Spatton, Northants., on December 2, 1860, and died at Ibambi in the Belgian Congo on July 16. Each of the three brothers enjoyed the distinction of captaining the Cambridge Eleven--G. B. in 1882, C. T. in 1883 and J. E. K. in 1884. J. E. K., the eldest--Lord Mayor of London in 1929--left Eton in 1877 but did not go up to Cambridge until 1881. All three figured in the Eton Eleven of 1877 and also in the Cambridge Elevens of 1881 and 1882. \n",
+        "A great batsman, a fine field and a high-class bowler, C. T. Studd developed his powers so rapidly that, while still at Cambridge, he was in the best Eleven of England. He possessed a fine upright style in batting and was particularly strong on the off-side. He bowled right-hand rather above medium pace and, tall of build, brought the ball over from a good height.",
+        "In 1882 he made 118 for Cambridge University and 114 for the M.C.C. against probably the strongest bowling Australia ever sent to this country, the side including, as it did, Spofforth, Palmer, Boyle, Garratt and Giffen. That year he also scored 100 at Lord's for Gentlemen against Players, yet he finished the season ingloriously at Kennington Oval with the memorable match which England lost by seven runs. bowled by Spofforth in the first innings without scoring he, in the second innings, despite the two hundreds he had hit against the Australians earlier in the summer, went in tenth and, when the end came just afterwards, was not out 0. For all that he ranked high amongst the best of the all-round cricketers of his time--particularly during his years at Cambridge where he had a batting average of 30 in his first season and one of 41 for the next three summers. In 1882, moreover, he took forty-eight wickets for the University at 16 runs apiece and in 1883 forty at 14 runs apiece, while in his last three years at Cambridge he obtained against Oxford at Lord's twenty-seven wickets for less than 12 runs each. For Middlesex his best seasons were 1882 and 1883. In the former year he had a batting average of 23 and obtained fifty-eight wickets at an average cost of 14 runs and, in the latter, his batting improved to 51 runs an innings and his bowling resulted in fifty-six wickets for 17 runs each. Among his bowling performances were:--four wickets for eight runs when assisting Middlesex against Surrey at the Oval in 1880, eight wickets for 40 runs ( Cambridge against Lancashire) at Manchester in 1882, eight wickets for 71 runs ( Middlesex v. Gloucestershire) at Cheltenham in 1882 and thirteen wickets for 147 runs ( Gentlemen of England v. Cambridge University, at Cambridge in 1884. He was a member of the team taken out to Australia in the winter of 1882-83 by the Hon. Ivo Bligh. This side, if beaten by Australia, won two matches out of three against the men who had visited England in the previous summer and so were acclaimed as having brought back The Ashes.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {}
+    ]
+}

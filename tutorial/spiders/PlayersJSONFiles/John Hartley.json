@@ -1,0 +1,100 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "2",
+            "50": "0",
+            "6s": "0",
+            "Ave": "3.75",
+            "Ct": "2",
+            "HS": "9",
+            "Inns": "4",
+            "Mat": "2",
+            "NO": "0",
+            "Runs": "15",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "4s": "",
+            "50": "2",
+            "6s": "",
+            "Ave": "12.89",
+            "Ct": "53",
+            "HS": "84*",
+            "Inns": "128",
+            "Mat": "84",
+            "NO": "21",
+            "Runs": "1380",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "115.00",
+            "BBI": "1/62",
+            "BBM": "1/93",
+            "Balls": "192",
+            "Econ": "3.59",
+            "Inns": "3",
+            "Mat": "2",
+            "Runs": "115",
+            "SR": "192.0",
+            "Wkts": "1"
+        },
+        {
+            "": "First-class",
+            "10": "4",
+            "4w": "",
+            "5w": "12",
+            "Ave": "25.40",
+            "BBI": "8/161",
+            "BBM": "",
+            "Balls": "10488",
+            "Econ": "3.29",
+            "Inns": "",
+            "Mat": "84",
+            "Runs": "5767",
+            "SR": "46.2",
+            "Wkts": "227"
+        }
+    ],
+    "latest_articles": [],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nNovember 15, 1874, Lincoln "
+        ],
+        "Bowling style": [
+            "Legbreak"
+        ],
+        "Died": [
+            "March 8, 1963, Woodhall Spa, Lincolnshire (aged 88 years 113 days) "
+        ],
+        "Full name": [
+            "John Cabourn Hartley"
+        ],
+        "Major teams": [
+            "England,",
+            "Oxford University,",
+            "Sussex"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

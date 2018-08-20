@@ -1,0 +1,141 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "4",
+            "6s": "0",
+            "Ave": "41.33",
+            "Ct": "2",
+            "HS": "88",
+            "Inns": "12",
+            "Mat": "7",
+            "NO": "0",
+            "Runs": "496",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "39",
+            "50": "142",
+            "6s": "",
+            "Ave": "34.03",
+            "Ct": "201",
+            "HS": "202*",
+            "Inns": "833",
+            "Mat": "469",
+            "NO": "81",
+            "Runs": "25598",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "1",
+            "50": "18",
+            "6s": "",
+            "Ave": "24.29",
+            "Ct": "44",
+            "HS": "100*",
+            "Inns": "141",
+            "Mat": "143",
+            "NO": "13",
+            "Runs": "3110",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "18",
+            "Econ": "5.33",
+            "Inns": "1",
+            "Mat": "7",
+            "Runs": "16",
+            "SR": "-",
+            "Wkts": "0"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "36.91",
+            "BBI": "4/40",
+            "BBM": "",
+            "Balls": "1736",
+            "Econ": "3.06",
+            "Inns": "",
+            "Mat": "469",
+            "Runs": "886",
+            "SR": "72.3",
+            "Wkts": "24"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "6",
+            "Econ": "7.00",
+            "Inns": "",
+            "Mat": "143",
+            "Runs": "7",
+            "SR": "-",
+            "Wkts": "0"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/552035.html",
+        "http://www.espncricinfo.com/magazine/content/story/212410.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJanuary 31, 1934, Whitkirk, Leeds, Yorkshire "
+        ],
+        "Bowling style": [
+            "Left-arm medium"
+        ],
+        "Current age": [
+            "84 years 199 days"
+        ],
+        "Full name": [
+            "John Brian Bolus"
+        ],
+        "Major teams": [
+            "England,",
+            "Derbyshire,",
+            "Nottinghamshire,",
+            "Yorkshire"
+        ],
+        "Other": [
+            "Administrator"
+        ]
+    },
+    "profile_info": [
+        "\nA predominently leg-side player, Brian Bolus was unfortunate not to play more than seven Tests. His average of over 40 reflects consistent run-scoring and he rarely failed. Possibly his inability to turn good starts into centuries told against him, with none of his four Test fifties taking him any higher than 88. He had a good tour of India in 1963-64, yet oddly was not considered to play against Australia in 1964, despite England initially struggling to find an opening pair. By the end of that series, however, Boycott and Edrich were firmly established in that position and Bolus did not get another opportunity. \n",
+        "He was a good strokeplayer, with a good cut and cover drive. In defence he favoured the use of his rather large pads, and showed in his few Test appearances that he was not overawed by the occasion, hitting Wes Hall back over his head at the Oval for four off the first ball he faced in a Test. He was also a useful left-handed medium pace bowler.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

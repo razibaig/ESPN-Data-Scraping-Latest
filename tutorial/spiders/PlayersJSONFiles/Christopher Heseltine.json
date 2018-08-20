@@ -1,0 +1,97 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "9.00",
+            "Ct": "3",
+            "HS": "18",
+            "Inns": "2",
+            "Mat": "2",
+            "NO": "0",
+            "Runs": "18",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "50": "3",
+            "6s": "",
+            "Ave": "12.30",
+            "Ct": "54",
+            "HS": "77",
+            "Inns": "121",
+            "Mat": "79",
+            "NO": "8",
+            "Runs": "1390",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "1",
+            "Ave": "16.80",
+            "BBI": "5/38",
+            "BBM": "5/67",
+            "Balls": "157",
+            "Econ": "3.21",
+            "Inns": "3",
+            "Mat": "2",
+            "Runs": "84",
+            "SR": "31.4",
+            "Wkts": "5"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "7",
+            "Ave": "24.53",
+            "BBI": "7/106",
+            "BBM": "",
+            "Balls": "8218",
+            "Econ": "3.04",
+            "Inns": "",
+            "Mat": "79",
+            "Runs": "4171",
+            "SR": "48.3",
+            "Wkts": "170"
+        }
+    ],
+    "latest_articles": [],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nNovember 26, 1869, South Kensington, London "
+        ],
+        "Bowling style": [
+            "Right-arm fast"
+        ],
+        "Died": [
+            "June 13, 1944, Walhampton, Lymington, Hampshire (aged 74 years 200 days) "
+        ],
+        "Full name": [
+            "Christopher Heseltine"
+        ],
+        "Major teams": [
+            "England,",
+            "Hampshire"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

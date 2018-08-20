@@ -1,0 +1,195 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "4",
+            "4s": "192",
+            "50": "7",
+            "6s": "2",
+            "Ave": "39.69",
+            "BF": "",
+            "Ct": "28",
+            "HS": "188",
+            "Inns": "45",
+            "Mat": "28",
+            "NO": "3",
+            "Runs": "1667",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "ODIs",
+            "100": "0",
+            "4s": "17",
+            "50": "1",
+            "6s": "2",
+            "Ave": "29.33",
+            "BF": "417",
+            "Ct": "1",
+            "HS": "66",
+            "Inns": "11",
+            "Mat": "12",
+            "NO": "2",
+            "Runs": "264",
+            "SR": "63.30",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "33",
+            "4s": "",
+            "50": "152",
+            "6s": "",
+            "Ave": "33.48",
+            "BF": "",
+            "Ct": "410",
+            "HS": "195",
+            "Inns": "838",
+            "Mat": "501",
+            "NO": "65",
+            "Runs": "25886",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "6",
+            "4s": "",
+            "50": "28",
+            "6s": "",
+            "Ave": "27.23",
+            "BF": "",
+            "Ct": "94",
+            "HS": "118*",
+            "Inns": "219",
+            "Mat": "232",
+            "NO": "21",
+            "Runs": "5393",
+            "SR": "",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "28",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "ODIs",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "12",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "31.00",
+            "BBI": "1/7",
+            "BBM": "",
+            "Balls": "84",
+            "Econ": "4.42",
+            "Inns": "",
+            "Mat": "501",
+            "Runs": "62",
+            "SR": "42.0",
+            "Wkts": "2"
+        },
+        {
+            "": "List A",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "232",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/788525.html",
+        "http://www.espncricinfo.com/magazine/content/story/763915.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/736685.html",
+        "http://www.espncricinfo.com/magazine/content/story/631283.html",
+        "http://www.espncricinfo.com/magazine/content/story/631231.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=11870"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/42800/42858.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/42800/42858.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/42800/42858.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nDecember 1, 1940, Bellshill, Lanarkshire, Scotland "
+        ],
+        "Died": [
+            "April 19, 2013 (aged 72 years 139 days) "
+        ],
+        "Education": [
+            "Ayr Academy"
+        ],
+        "Full name": [
+            "Michael Henry Denness"
+        ],
+        "Height": [
+            "\n5 ft 11 in "
+        ],
+        "Major teams": [
+            "England,",
+            "Scotland,",
+            "Essex,",
+            "Kent"
+        ],
+        "Nickname": [
+            "Haggis"
+        ],
+        "Other": [
+            "Referee"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

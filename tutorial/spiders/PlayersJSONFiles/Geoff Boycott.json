@@ -1,0 +1,197 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "22",
+            "4s": "",
+            "50": "42",
+            "6s": "8",
+            "Ave": "47.72",
+            "BF": "",
+            "Ct": "33",
+            "HS": "246*",
+            "Inns": "193",
+            "Mat": "108",
+            "NO": "23",
+            "Runs": "8114",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "ODIs",
+            "100": "1",
+            "4s": "84",
+            "50": "9",
+            "6s": "0",
+            "Ave": "36.06",
+            "BF": "2020",
+            "Ct": "5",
+            "HS": "105",
+            "Inns": "34",
+            "Mat": "36",
+            "NO": "4",
+            "Runs": "1082",
+            "SR": "53.56",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "151",
+            "4s": "",
+            "50": "238",
+            "6s": "",
+            "Ave": "56.83",
+            "BF": "",
+            "Ct": "264",
+            "HS": "261*",
+            "Inns": "1014",
+            "Mat": "609",
+            "NO": "162",
+            "Runs": "48426",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "8",
+            "4s": "",
+            "50": "74",
+            "6s": "",
+            "Ave": "39.12",
+            "BF": "",
+            "Ct": "99",
+            "HS": "146",
+            "Inns": "302",
+            "Mat": "313",
+            "NO": "44",
+            "Runs": "10095",
+            "SR": "",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "54.57",
+            "BBI": "3/47",
+            "BBM": "3/47",
+            "Balls": "944",
+            "Econ": "2.42",
+            "Inns": "20",
+            "Mat": "108",
+            "Runs": "382",
+            "SR": "134.8",
+            "Wkts": "7"
+        },
+        {
+            "": "ODIs",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "21.00",
+            "BBI": "2/14",
+            "BBM": "2/14",
+            "Balls": "168",
+            "Econ": "3.75",
+            "Inns": "6",
+            "Mat": "36",
+            "Runs": "105",
+            "SR": "33.6",
+            "Wkts": "5"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "32.42",
+            "BBI": "4/14",
+            "BBM": "",
+            "Balls": "3685",
+            "Econ": "2.37",
+            "Inns": "",
+            "Mat": "609",
+            "Runs": "1459",
+            "SR": "81.8",
+            "Wkts": "45"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "40.26",
+            "BBI": "3/15",
+            "BBM": "3/15",
+            "Balls": "1975",
+            "Econ": "3.66",
+            "Inns": "",
+            "Mat": "313",
+            "Runs": "1208",
+            "SR": "65.8",
+            "Wkts": "30"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/ci/content/story/1151863.html",
+        "http://www.espncricinfo.com/ci/content/story/1142434.html",
+        "http://www.espncricinfo.com/england-v-west-indies-2017/content/story/1117472.html",
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/1112296/yes--no--sorry",
+        "http://www.espncricinfo.com/blogs/content/story/1113568.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=9187"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/276900/276987.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/276900/276987.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/276900/276987.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nOctober 21, 1940, Fitzwilliam, Yorkshire "
+        ],
+        "Bowling style": [
+            "Right-arm medium"
+        ],
+        "Current age": [
+            "77 years 301 days"
+        ],
+        "Education": [
+            "Hemsworth Grammar School"
+        ],
+        "Full name": [
+            "Geoffrey Boycott"
+        ],
+        "Height": [
+            "\n5 ft 10 in "
+        ],
+        "Major teams": [
+            "England,",
+            "Northern Transvaal,",
+            "Yorkshire"
+        ],
+        "Nickname": [
+            "Fiery, Boycs, Thatch"
+        ],
+        "Other": [
+            "Commentator"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

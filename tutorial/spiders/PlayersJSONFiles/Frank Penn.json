@@ -1,0 +1,104 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "6",
+            "50": "0",
+            "6s": "0",
+            "Ave": "50.00",
+            "BF": "91",
+            "Ct": "0",
+            "HS": "27*",
+            "Inns": "2",
+            "Mat": "1",
+            "NO": "1",
+            "Runs": "50",
+            "SR": "54.94",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "6",
+            "4s": "",
+            "50": "17",
+            "6s": "",
+            "Ave": "27.15",
+            "BF": "",
+            "Ct": "49",
+            "HS": "160",
+            "Inns": "172",
+            "Mat": "98",
+            "NO": "14",
+            "Runs": "4291",
+            "SR": "",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "12",
+            "Econ": "1.00",
+            "Inns": "1",
+            "Mat": "1",
+            "Runs": "2",
+            "SR": "-",
+            "Wkts": "0"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "37.10",
+            "BBI": "3/36",
+            "BBM": "",
+            "Balls": "897",
+            "Econ": "2.48",
+            "Inns": "",
+            "Mat": "98",
+            "Runs": "371",
+            "SR": "89.7",
+            "Wkts": "10"
+        }
+    ],
+    "latest_articles": [],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nMarch 7, 1851, The Cedars, Lee, Lewisham, London "
+        ],
+        "Died": [
+            "December 26, 1916, Bifrons, Patrixbourne, Kent (aged 65 years 294 days) "
+        ],
+        "Full name": [
+            "Frank Penn"
+        ],
+        "Major teams": [
+            "England,",
+            "Kent"
+        ],
+        "Relation": [
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

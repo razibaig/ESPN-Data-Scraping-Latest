@@ -1,0 +1,108 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "1",
+            "6s": "0",
+            "Ave": "20.00",
+            "Ct": "10",
+            "HS": "53",
+            "Inns": "5",
+            "Mat": "4",
+            "NO": "1",
+            "Runs": "80",
+            "St": "1"
+        },
+        {
+            "": "First-class",
+            "100": "1",
+            "50": "43",
+            "6s": "",
+            "Ave": "21.20",
+            "Ct": "631",
+            "HS": "123*",
+            "Inns": "500",
+            "Mat": "420",
+            "NO": "83",
+            "Runs": "8842",
+            "St": "255"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "4",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "33.00",
+            "BBI": "1/33",
+            "BBM": "",
+            "Balls": "30",
+            "Econ": "6.60",
+            "Inns": "",
+            "Mat": "420",
+            "Runs": "33",
+            "SR": "30.0",
+            "Wkts": "1"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/cricketer/content/story/134087.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154650.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/032004/050664.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/032004/050664.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nAugust 25, 1898, Fagley, Bradford, Yorkshire "
+        ],
+        "Died": [
+            "April 1, 1973, Middleton, Ilkley, Yorkshire (aged 74 years 219 days) "
+        ],
+        "Fielding position": [
+            "Wicketkeeper"
+        ],
+        "Full name": [
+            "Arthur Wood"
+        ],
+        "Major teams": [
+            "England,",
+            "Yorkshire"
+        ]
+    },
+    "profile_info": [
+        null,
+        "Remarkably free from injury, he kept wicket in 222 consecutive county games until, at Brighton in 1935, captain Brian Sellers heard him boast of his record (since beaten by Jimmy Binks) and said, `If that's the case, Arthur, you\ndeserve a rest.' He gave the job to Paul Gibb. It was the only thing that marred Arthur's most successful season, when he scored 1000 runs and scored his only century, against Worcestershire at Sheffield.",
+        "But it was Arthur's invariable good humour and wit that commended him to everybody, and it is well expressed in the series of little stories when he was chosen, just before his 40th birthday, to play in his first Test match, at The\nOval against Australia in 1938. Chosen as a last-minute replacement, Arthur\nhad to make the journey from Nottingham to London by taxi to be certain of getting to the ground on time. When the taxi driver asked him for his fare, \u00a37 15s, Arthur told him he was only paying for the ride, not buying the taxi.\nThe taxi-man described him as 'a very amusing gentleman'. He was. Arthur went to\nthe crease when more than 500 runs had been put on the board and he made another 53. When congratulated on his first Test half-century, he replied, 'I was always good in a crisis.' Returning to the pavilion, he looked out the groundsman, 'Bosser' Martin, and with a serious face said, `Bosser, there's some holes in\nyour pitch.' `Holes?' queried Bosser. `Aye. Six - where t'stumps go in,' said\nArthur. In the next year he was the first choice for England in the series with West Indies.",
+        "He could do most things far above average, played to a single-figure handicap at golf, got his 50s at billiards and snooker, and at the card table could play anything from bridge to snap.",
+        "At rhyming slang, so popular in the 'thirties, he was an expert. He never asked a groundsman if there had been any rain. `Had any France and Spain?' he asked.\nHe raised his `titfa' (tit-for-tat) to acknowledge the applause of the crowd. Sometimes he called it `talk and chat'.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

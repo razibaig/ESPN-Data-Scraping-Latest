@@ -1,0 +1,111 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "11.14",
+            "Ct": "4",
+            "HS": "20",
+            "Inns": "12",
+            "Mat": "6",
+            "NO": "5",
+            "Runs": "78",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "1",
+            "50": "2",
+            "6s": "",
+            "Ave": "11.31",
+            "Ct": "119",
+            "HS": "112*",
+            "Inns": "380",
+            "Mat": "287",
+            "NO": "175",
+            "Runs": "2320",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "3",
+            "5w": "1",
+            "Ave": "27.34",
+            "BBI": "6/82",
+            "BBM": "9/170",
+            "Balls": "1491",
+            "Econ": "2.86",
+            "Inns": "10",
+            "Mat": "6",
+            "Runs": "711",
+            "SR": "57.3",
+            "Wkts": "26"
+        },
+        {
+            "": "First-class",
+            "10": "28",
+            "4w": "",
+            "5w": "97",
+            "Ave": "21.02",
+            "BBI": "10/90",
+            "BBM": "",
+            "Balls": "52086",
+            "Econ": "3.09",
+            "Inns": "",
+            "Mat": "287",
+            "Runs": "26852",
+            "SR": "40.7",
+            "Wkts": "1277"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/228980.html",
+        "http://www.espncricinfo.com/ci/content/story/128961.html",
+        "http://www.espncricinfo.com/australia/content/story/113379.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155712.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154771.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/032005/058532.icon.jpg"
+    ],
+    "personal_info": {
+        "Also known as": [
+            "Pip Fielder"
+        ],
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJuly 19, 1877, Plaxtol, Tonbridge, Kent "
+        ],
+        "Bowling style": [
+            "Right-arm fast"
+        ],
+        "Died": [
+            "August 30, 1949, Lambeth, London (aged 72 years 42 days) "
+        ],
+        "Full name": [
+            "Arthur Fielder"
+        ],
+        "Major teams": [
+            "England,",
+            "Kent"
+        ]
+    },
+    "profile_info": [
+        "\nFIELDER, ARTHUR, Kent fast bowler for twelve years immediately prior to the first World War, died in St. Thomas's Hospital, London, on August 30, aged 71. He enjoyed a distinction possessed by no other cricketer: in a Gentlemen v. Players match at Lord's, he took all ten wickets in an innings. This feat he accomplished in 1906 when, despite his great achievement, the Gentlemen won a fine game by 45 runs. Taking in first-class matches that season 186 wickets for 20 runs apiece, Fielder did much towards enabling Kent, for the first time, to carry off the Championship. His success was the more remarkable as, after showing capital form in 1903 and 1904, his first two years in the Kent eleven, he fell off so badly in 1905 that, taking comparatively few wickets, and those at heavy cost, he lost his place in the side. \n",
+        " Fielder did big things in 1907, taking 172 wickets for only 16 runs each, and he continued to render fine service for the next seven seasons till the War. Over forty years old when county cricket was revived in 1919, he played no more for Kent. Altogether he took 1,221 wickets for less than 21 runs apiece. While never regarded as much of a batsman, he shared at Stourbridge in 1909 in what is still, as regards purely domestic cricket, a record stand for the last-wicket in England. Nine Kent wickets were down for 320 when he joined Frank Woolley and the two players added 235, Woolley making 185 and Fielder 112 not out.",
+        "Born at Plaxtol, near Tonbridge, on July 19, 1878, Fielder fulfilled engagements at Tonbridge and Canterbury before he found a place in the county team, succeeding W. M. Bradley as fast bowler. Despite a wet summer he acquitted himself well enough to be taken to Australia in the autumn of that year as a member of the first team led by P. F. Warner, but he accomplished little and figured in only two of the five Test matches. In 1907, he again went to Australia under A. O. Jones and in four of the Tests he took 25 wickets for just over 25 runs each.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

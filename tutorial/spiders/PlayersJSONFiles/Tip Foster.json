@@ -1,0 +1,135 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "1",
+            "50": "1",
+            "6s": "1",
+            "Ave": "46.30",
+            "Ct": "13",
+            "HS": "287",
+            "Inns": "14",
+            "Mat": "8",
+            "NO": "1",
+            "Runs": "602",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "22",
+            "50": "41",
+            "6s": "",
+            "Ave": "41.82",
+            "Ct": "178",
+            "HS": "287",
+            "Inns": "234",
+            "Mat": "139",
+            "NO": "17",
+            "Runs": "9076",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "8",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "0",
+            "Ave": "46.12",
+            "BBI": "3/54",
+            "BBM": "",
+            "Balls": "1616",
+            "Econ": "4.28",
+            "Inns": "",
+            "Mat": "139",
+            "Runs": "1153",
+            "SR": "64.6",
+            "Wkts": "25"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/blogs/content/story/977995.html",
+        "http://www.espncricinfo.com/blogs/content/story/942025.html",
+        "http://www.espncricinfo.com/ci/content/story/134344.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155529.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154860.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/13500/13597.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/13500/13597.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/13500/13597.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nApril 16, 1878, Malvern, Worcestershire "
+        ],
+        "Bowling style": [
+            "Right-arm fast"
+        ],
+        "Died": [
+            "May 13, 1914, Brompton, Kensington, London (aged 36 years 27 days) "
+        ],
+        "Education": [
+            "Malvern College; Oxford University"
+        ],
+        "Full name": [
+            "Reginald Erskine Foster"
+        ],
+        "Major teams": [
+            "England,",
+            "Oxford University,",
+            "Worcestershire"
+        ],
+        "Relation": [
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n",
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        null,
+        null,
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

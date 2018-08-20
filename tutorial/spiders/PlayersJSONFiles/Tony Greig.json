@@ -1,0 +1,202 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "8",
+            "4s": "437",
+            "50": "20",
+            "6s": "19",
+            "Ave": "40.43",
+            "BF": "",
+            "Ct": "87",
+            "HS": "148",
+            "Inns": "93",
+            "Mat": "58",
+            "NO": "4",
+            "Runs": "3599",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "ODIs",
+            "100": "0",
+            "4s": "19",
+            "50": "0",
+            "6s": "3",
+            "Ave": "16.81",
+            "BF": "378",
+            "Ct": "7",
+            "HS": "48",
+            "Inns": "19",
+            "Mat": "22",
+            "NO": "3",
+            "Runs": "269",
+            "SR": "71.16",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "26",
+            "4s": "",
+            "50": "96",
+            "6s": "",
+            "Ave": "31.19",
+            "BF": "",
+            "Ct": "345",
+            "HS": "226",
+            "Inns": "579",
+            "Mat": "350",
+            "NO": "45",
+            "Runs": "16660",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "3",
+            "4s": "",
+            "50": "21",
+            "6s": "",
+            "Ave": "24.67",
+            "BF": "",
+            "Ct": "88",
+            "HS": "129",
+            "Inns": "177",
+            "Mat": "190",
+            "NO": "19",
+            "Runs": "3899",
+            "SR": "",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "2",
+            "4w": "6",
+            "5w": "6",
+            "Ave": "32.20",
+            "BBI": "8/86",
+            "BBM": "13/156",
+            "Balls": "9802",
+            "Econ": "2.77",
+            "Inns": "93",
+            "Mat": "58",
+            "Runs": "4541",
+            "SR": "69.5",
+            "Wkts": "141"
+        },
+        {
+            "": "ODIs",
+            "10": "0",
+            "4w": "1",
+            "5w": "0",
+            "Ave": "32.57",
+            "BBI": "4/45",
+            "BBM": "4/45",
+            "Balls": "916",
+            "Econ": "4.05",
+            "Inns": "19",
+            "Mat": "22",
+            "Runs": "619",
+            "SR": "48.2",
+            "Wkts": "19"
+        },
+        {
+            "": "First-class",
+            "10": "8",
+            "4w": "",
+            "5w": "33",
+            "Ave": "28.85",
+            "BBI": "8/25",
+            "BBM": "",
+            "Balls": "52513",
+            "Econ": "2.82",
+            "Inns": "",
+            "Mat": "350",
+            "Runs": "24702",
+            "SR": "61.3",
+            "Wkts": "856"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "12",
+            "5w": "3",
+            "Ave": "23.15",
+            "BBI": "6/28",
+            "BBM": "6/28",
+            "Balls": "8435",
+            "Econ": "4.01",
+            "Inns": "",
+            "Mat": "190",
+            "Runs": "5650",
+            "SR": "34.5",
+            "Wkts": "244"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/blogs/content/story/1150567.html",
+        "http://www.espncricinfo.com/magazine/content/story/1126583.html",
+        "http://www.espncricinfo.com/magazine/content/story/1052513.html",
+        "http://www.espncricinfo.com/magazine/content/story/1045323.html",
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/1034793/the-shades-of-1976",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=13463"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/253000/253099.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/253000/253099.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/253000/253099.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nOctober 6, 1946, Queenstown, Cape Province, South Africa "
+        ],
+        "Bowling style": [
+            "Right-arm medium, Right-arm offbreak"
+        ],
+        "Died": [
+            "December 29, 2012, St Vincent's Hospital, Sydney (aged 66 years 84 days) "
+        ],
+        "Full name": [
+            "Anthony William Greig"
+        ],
+        "Height": [
+            "\n6 ft 6 in "
+        ],
+        "Major teams": [
+            "England,",
+            "Border,",
+            "Eastern Province,",
+            "Sussex"
+        ],
+        "Other": [
+            "Commentator"
+        ],
+        "Relation": [
+            null,
+            "\n",
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        "\nAt 6 feet 6 inches, Tony Greig stood head-and-shoulders above team-mates on the field, and had the confidence and charisma to go with it, making up for shortcomings of technique with the bat and pace with the ball by sheer personality and an irrepressible love of the contest.  The controversial conclusion of his career, as one of the first and firmest disciples of Kerry Packer, have tended to obscure his all-round accomplishments: in the mid-1970s, there was no more complete cricketer, and he bequeathed to his successor as England's captain, Mike Brearley, a thoroughly professional and close-knit side. \n",
+        "Born in Queenstown, South Africa, son of a harsh and demanding Scottish father, he trialled for Sussex in 1965 as a teenager and prospered, then set himself the goal of representing England \u00ad following the route already described, in different circumstances, by the Cape Coloured Basil D'Oliveira. Considered good enough to represent Rest of the World when that ensemble toured Australia in 1971-2, he met his deadline by earning a Test cap for the subsequent home Ashes series, making half-centuries in each innings of his debut and taking five wickets. ",
+        "In fact, for a mercurial character, he showed notable consistency and versatility: he made Test matches hundreds in fields as far flung as Bombay, Bridgetown and Brisbane, and against the likes of Lillee and Thomson, Roberts and Holding, Bedi and\nChandra.  He had a homespun style, bat aloft long before it became fashionable, based on long reach and booming drives, while his bowling depended on bounce, aggression and smarts: with a sideline in off-spin, he winkled out 13 wickets at Port-of-Spain to help England draw a series in the Caribbean.",
+        "Greig's zenith as captain was in India, where his skill, swagger and extroversion appealed to locals even as their team was well-beaten.  More grudgingly admired in Australia, he nonetheless won great kudos from England' s bold chase in the Centenary Test.  In its aftermath, however, he made the acquaintance of Packer, another son of a harsh and demanding father, seeking to make his mark.  Greig became not just a signatory but a secret recruiting agent for the entrepreneur's inchoate professional cricket circuit.  When the enterprise was made public, his stocks plummeted: he lost not just England's captaincy, but what would have been a record-breaking benefit.  He was diminished, too, by his indifferent on-field performances in World Series Cricket, where he seemed to cast himself as pantomime villain.  Nonetheless, subsequent generations of professional cricketers owe him a debt of gratitude.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

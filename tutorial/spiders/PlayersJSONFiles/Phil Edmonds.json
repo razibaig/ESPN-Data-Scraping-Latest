@@ -1,0 +1,197 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "84",
+            "50": "2",
+            "6s": "9",
+            "Ave": "17.50",
+            "BF": "2283",
+            "Ct": "42",
+            "HS": "64",
+            "Inns": "65",
+            "Mat": "51",
+            "NO": "15",
+            "Runs": "875",
+            "SR": "38.32",
+            "St": "0"
+        },
+        {
+            "": "ODIs",
+            "100": "0",
+            "4s": "7",
+            "50": "0",
+            "6s": "0",
+            "Ave": "10.54",
+            "BF": "232",
+            "Ct": "6",
+            "HS": "20",
+            "Inns": "18",
+            "Mat": "29",
+            "NO": "7",
+            "Runs": "116",
+            "SR": "50.00",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "3",
+            "4s": "",
+            "50": "22",
+            "6s": "",
+            "Ave": "18.93",
+            "BF": "",
+            "Ct": "345",
+            "HS": "142",
+            "Inns": "495",
+            "Mat": "391",
+            "NO": "91",
+            "Runs": "7651",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "0",
+            "4s": "",
+            "50": "2",
+            "6s": "",
+            "Ave": "15.91",
+            "BF": "",
+            "Ct": "89",
+            "HS": "63*",
+            "Inns": "215",
+            "Mat": "301",
+            "NO": "60",
+            "Runs": "2467",
+            "SR": "",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "9",
+            "5w": "2",
+            "Ave": "34.18",
+            "BBI": "7/66",
+            "BBM": "7/66",
+            "Balls": "12028",
+            "Econ": "2.13",
+            "Inns": "84",
+            "Mat": "51",
+            "Runs": "4273",
+            "SR": "96.2",
+            "Wkts": "125"
+        },
+        {
+            "": "ODIs",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "37.11",
+            "BBI": "3/39",
+            "BBM": "3/39",
+            "Balls": "1534",
+            "Econ": "3.77",
+            "Inns": "27",
+            "Mat": "29",
+            "Runs": "965",
+            "SR": "59.0",
+            "Wkts": "26"
+        },
+        {
+            "": "First-class",
+            "10": "9",
+            "4w": "",
+            "5w": "47",
+            "Ave": "25.66",
+            "BBI": "8/53",
+            "BBM": "",
+            "Balls": "85961",
+            "Econ": "2.23",
+            "Inns": "",
+            "Mat": "391",
+            "Runs": "31981",
+            "SR": "68.9",
+            "Wkts": "1246"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "4",
+            "5w": "2",
+            "Ave": "25.11",
+            "BBI": "5/12",
+            "BBM": "5/12",
+            "Balls": "13467",
+            "Econ": "3.61",
+            "Inns": "",
+            "Mat": "301",
+            "Runs": "8113",
+            "SR": "41.6",
+            "Wkts": "323"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/1066658.html",
+        "http://www.espncricinfo.com/magazine/content/story/894681.html",
+        "http://www.espncricinfo.com/magazine/content/story/686947.html",
+        "http://www.espncricinfo.com/magazine/content/story/496344.html",
+        "http://www.espncricinfo.com/magazine/content/story/310737.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=12486"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/032005/058452.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/032005/058452.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/DB/032005/058452.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nMarch 8, 1951, Lusaka, Northern Rhodesia "
+        ],
+        "Bowling style": [
+            "Slow left-arm orthodox"
+        ],
+        "Current age": [
+            "67 years 163 days"
+        ],
+        "Education": [
+            "Cranbrook School; Cambridge University"
+        ],
+        "Full name": [
+            "Philippe-Henri Edmonds"
+        ],
+        "Height": [
+            "\n6 ft 2 in "
+        ],
+        "Major teams": [
+            "England,",
+            "Cambridge University,",
+            "Eastern Province,",
+            "Middlesex"
+        ],
+        "Nickname": [
+            "Goat, Henry"
+        ]
+    },
+    "profile_info": [
+        "\nAlmost a throwback to an earlier time with his easy, classical action, his flighted orthodox slow left arm, and his aristocratic manner, Phillipe Henri Edmonds had a stunning debut in Test cricket. Brought on to bowl in mid-afternoon, he took 5 for 17 in his first 12 overs of Test cricket. In and out of the England side throughout his career, often second choice to Derek Underwood, he was also an excellent field, a determined lower-order batsman with first-class centuries to his credit and a fierce competitor. His strength was his thoughtful, very accurate bowling, with enough spin to beat the bat on any wicket giving assistance to the spinners. \n",
+        "Phil Edmonds was England's leading slow left arm bowler of the 1980s, though he played less Test cricket than he might have done because he was perceived by selectors to be \"difficult\". He had the aggressive streak of a fast bowler, and wasn't afraid to bowl the odd bouncer if the batman started to irritate him.  For a time he had problems with his run-up, to the extent that on tour in India he had to resort to bowling off one step, and the fact that his effectiveness was not diminished by this was a testament to his strong shoulders and good bowling action. Considered an allrounder at the start of his career, his batting\ndeclined as he grew older. He retired from cricket in 1987, though answered a call from Middlesex in 1992 to return for one game because of a chronic injury crisis. ",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}

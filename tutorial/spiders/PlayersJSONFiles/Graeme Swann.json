@@ -1,0 +1,351 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "181",
+            "50": "5",
+            "6s": "19",
+            "Ave": "22.09",
+            "BF": "1791",
+            "Ct": "54",
+            "HS": "85",
+            "Inns": "76",
+            "Mat": "60",
+            "NO": "14",
+            "Runs": "1370",
+            "SR": "76.49",
+            "St": "0"
+        },
+        {
+            "": "ODIs",
+            "100": "0",
+            "4s": "48",
+            "50": "0",
+            "6s": "4",
+            "Ave": "13.88",
+            "BF": "553",
+            "Ct": "29",
+            "HS": "34",
+            "Inns": "48",
+            "Mat": "79",
+            "NO": "12",
+            "Runs": "500",
+            "SR": "90.41",
+            "St": "0"
+        },
+        {
+            "": "T20Is",
+            "100": "0",
+            "4s": "9",
+            "50": "0",
+            "6s": "1",
+            "Ave": "20.80",
+            "BF": "89",
+            "Ct": "5",
+            "HS": "34",
+            "Inns": "16",
+            "Mat": "39",
+            "NO": "11",
+            "Runs": "104",
+            "SR": "116.85",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "4",
+            "4s": "",
+            "50": "37",
+            "6s": "",
+            "Ave": "25.52",
+            "BF": "",
+            "Ct": "195",
+            "HS": "183",
+            "Inns": "343",
+            "Mat": "252",
+            "NO": "37",
+            "Runs": "7811",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "0",
+            "4s": "",
+            "50": "14",
+            "6s": "",
+            "Ave": "18.92",
+            "BF": "",
+            "Ct": "88",
+            "HS": "83",
+            "Inns": "197",
+            "Mat": "269",
+            "NO": "29",
+            "Runs": "3179",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "T20s",
+            "100": "0",
+            "4s": "95",
+            "50": "3",
+            "6s": "18",
+            "Ave": "20.28",
+            "BF": "582",
+            "Ct": "20",
+            "HS": "90*",
+            "Inns": "54",
+            "Mat": "80",
+            "NO": "15",
+            "Runs": "791",
+            "SR": "135.91",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "3",
+            "4w": "14",
+            "5w": "17",
+            "Ave": "29.96",
+            "BBI": "6/65",
+            "BBM": "10/132",
+            "Balls": "15349",
+            "Econ": "2.98",
+            "Inns": "109",
+            "Mat": "60",
+            "Runs": "7642",
+            "SR": "60.1",
+            "Wkts": "255"
+        },
+        {
+            "": "ODIs",
+            "10": "0",
+            "4w": "3",
+            "5w": "1",
+            "Ave": "27.76",
+            "BBI": "5/28",
+            "BBM": "5/28",
+            "Balls": "3809",
+            "Econ": "4.54",
+            "Inns": "76",
+            "Mat": "79",
+            "Runs": "2888",
+            "SR": "36.6",
+            "Wkts": "104"
+        },
+        {
+            "": "T20Is",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "16.84",
+            "BBI": "3/13",
+            "BBM": "3/13",
+            "Balls": "810",
+            "Econ": "6.36",
+            "Inns": "38",
+            "Mat": "39",
+            "Runs": "859",
+            "SR": "15.8",
+            "Wkts": "51"
+        },
+        {
+            "": "First-class",
+            "10": "6",
+            "4w": "",
+            "5w": "32",
+            "Ave": "32.12",
+            "BBI": "7/33",
+            "BBM": "",
+            "Balls": "47541",
+            "Econ": "2.99",
+            "Inns": "",
+            "Mat": "252",
+            "Runs": "23741",
+            "SR": "64.3",
+            "Wkts": "739"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "11",
+            "5w": "3",
+            "Ave": "27.03",
+            "BBI": "5/17",
+            "BBM": "5/17",
+            "Balls": "11165",
+            "Econ": "4.43",
+            "Inns": "",
+            "Mat": "269",
+            "Runs": "8247",
+            "SR": "36.6",
+            "Wkts": "305"
+        },
+        {
+            "": "T20s",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "18.88",
+            "BBI": "3/13",
+            "BBM": "3/13",
+            "Balls": "1692",
+            "Econ": "6.56",
+            "Inns": "79",
+            "Mat": "80",
+            "Runs": "1851",
+            "SR": "17.2",
+            "Wkts": "98"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/ci/content/story/1147129.html",
+        "http://www.espncricinfo.com/ci/content/story/1147075.html",
+        "http://www.espncricinfo.comhttp://www.thecricketmonthly.com/story/1127119/can-t-select--can-t-umpire--can-t-unsee",
+        "http://www.espncricinfo.com/australia-v-england-2017/content/story/1127288.html",
+        "http://www.espncricinfo.com/magazine/content/story/1078576.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=20431"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/278900/278979.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/278900/278979.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/278900/278979.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nMarch 24, 1979, Northampton "
+        ],
+        "Bowling style": [
+            "Right-arm offbreak"
+        ],
+        "Current age": [
+            "39 years 147 days"
+        ],
+        "Education": [
+            "Sponne School, Towcester"
+        ],
+        "Full name": [
+            "Graeme Peter Swann"
+        ],
+        "Height": [
+            "\n6 ft 0 in "
+        ],
+        "Major teams": [
+            "England,",
+            "Northamptonshire,",
+            "Nottinghamshire"
+        ],
+        "Nickname": [
+            "Chin"
+        ],
+        "Playing role": [
+            "Bowler"
+        ],
+        "Relation": [
+            null,
+            "\n",
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        "\nGood things come to those who wait. Graeme Swann made his England debut as a raw 20-year-old in 2000, in a nondescript one-day international in Bloemfontein, but it was a brief foray into the top level. Eight years later, having learnt his trade on the county scene with Northamptonshire and then Nottinghamshire, his Test debut came against India, at Chennai, and from that point he never looked back, becoming one of England's greatest spinners. \n",
+        "In 60 Tests, he took 255 wickets at a touch under 30 runs apiece in a little more than five years, prolific wicket-taking exceeding anyone else in Test cricket in that period, with James  Anderson (232), Stuart Broad (207) and Dale Steyn (205) behind him. He retired as England's sixth highest wicket-taker, the leading offspinner and second among all England slow bowlers only to Derek Underwood, who took 297 wickets. He was wonderfully adaptable: attuned when necessary to a defensive role to allow the quicks in England's four-strong attack time to rest, and also blessed with the ability to dip and turn the ball markedly. He was also one of England's great character cricketers, refreshingly individualistic on and off the field, bringing fun wherever he played. He was a fine slip fielder, too, although the hours spent in the field, and the training grind necessary to achieve peak physical fitness, did not always some naturally to him.",
+        "As the new millennium dawned, there was a fear that traditional offspinners were becoming defunct at the highest level. Swann was one of a special band who challenged the notion. He did not have a doosra, but he had cunning, flight and turn. He was also helped by a striking number of left-handed batsmen at the highest levels and a growing use of technology which made it more likely that umpires would uphold lbw appeals. Of his 255 wickets, 70 were lbw, compared to Laker's 32 from 193; 121 of his victims were left-handers whereas Laker only returned 32. When he retired, he felt irreplaceable.",
+        "His debut at Chennai was marked by two wickets in his first over - the knack of striking in his first over would be a skill that stayed with him - and within a few months he had usurped Monty Panesar as England's premier spinner, a position he would not relinquish. Swann loved a wise-crack (his 2010-11 Ashes video diary became an internet hit) - a trait that did not endear him to all early in his career - but it would be unfair merely to brand him as a dressing-room joker. He was the ultimate competitor on the field, often bordering on feisty, and a master of his craft. His record showed the value of developing at domestic level and the fact he was pulled out of the international game as a youngster, almost as quickly as he was handed his chance, with the severe England coach at the time, Duncan Fletcher, not alone in regarding him as somewhat immature, perhaps saved him from being overwhelmed before he was ready.",
+        "After biding his time on the domestic circuit, he soon became a matchwinner at Test level and a key part of both the one-day side and Twenty20 sides. After a successful tour of West Indies (albeit in a losing cause) he played a key role in the 2009 Ashes victories at Lord's and The Oval. Further incisive spells followed over the years to come: South Africa in Durban, Bangladesh in Chittagong, Pakistan at Edgbaston and Lord's, Australia in Adelaide, Sri Lanka in Cardiff, India at The Oval, Sri Lanka in Colombo.",
+        null,
+        "A recurrence of a long-standing elbow problem, which he has been forced to manage throughout his career, meant he required surgery in early 2013 and England were forced to contemplate life without Swann. He was back for that summer's Ashes, and took 26 wickets without ever being at his best, but he would not last the return series in Australia. The third Test in Perth proved to be his last. The last ball bowled he bowled in Test cricket flew deep into the Prindiville Stand at wide long-on; his final over went for 22, all to the whirring blade of Shane Watson. Seven wickets at 80 in the series, as he failed to get enough revolutions on the ball to remain a threat, represented an unhappy end.",
+        null,
+        null,
+        null
+    ],
+    "recent_matches": [
+        {
+            "Bat & Bowl": "1/26",
+            "Ground": "Sharjah",
+            "Match Date": "7 Feb 2016",
+            "Opposition": "v Leo Lions",
+            "Scorecard": "Other T20",
+            "Team": "Libra Lngds"
+        },
+        {
+            "Bat & Bowl": "2*, 0/22",
+            "Ground": "Sharjah",
+            "Match Date": "5 Feb 2016",
+            "Opposition": "v Commanders",
+            "Scorecard": "Other T20",
+            "Team": "Libra Lngds"
+        },
+        {
+            "Bat & Bowl": "0/28, 7",
+            "Ground": "Sharjah",
+            "Match Date": "4 Feb 2016",
+            "Opposition": "v Sagittarius",
+            "Scorecard": "Other T20",
+            "Team": "Libra Lngds"
+        },
+        {
+            "Bat & Bowl": "0/36, 3*",
+            "Ground": "Sharjah",
+            "Match Date": "3 Feb 2016",
+            "Opposition": "v Virgo SKings",
+            "Scorecard": "Other T20",
+            "Team": "Libra Lngds"
+        },
+        {
+            "Bat & Bowl": "2/21",
+            "Ground": "Los Angeles",
+            "Match Date": "14 Nov 2015",
+            "Opposition": "v Warne\u2019s Warr",
+            "Scorecard": "Other T20",
+            "Team": "SRT Blasters"
+        },
+        {
+            "Bat & Bowl": "1/40, 22*",
+            "Ground": "Houston",
+            "Match Date": "11 Nov 2015",
+            "Opposition": "v Warne\u2019s Warr",
+            "Scorecard": "Other T20",
+            "Team": "SRT Blasters"
+        },
+        {
+            "Bat & Bowl": "1/33",
+            "Ground": "The Oval",
+            "Match Date": "17 Sep 2015",
+            "Opposition": "v ROW XI",
+            "Scorecard": "Other T20",
+            "Team": "Help XI"
+        },
+        {
+            "Bat & Bowl": "2/71, 19*, 1/92, 4",
+            "Ground": "Perth",
+            "Match Date": "13 Dec 2013",
+            "Opposition": "v Australia",
+            "Scorecard": "Test # 2107",
+            "Team": "England"
+        },
+        {
+            "Bat & Bowl": "2/151, 7, 0/31, 6",
+            "Ground": "Adelaide",
+            "Match Date": "5 Dec 2013",
+            "Opposition": "v Australia",
+            "Scorecard": "Test # 2105",
+            "Team": "England"
+        },
+        {
+            "Bat & Bowl": "29, 4/56",
+            "Ground": "Alice Springs",
+            "Match Date": "29 Nov 2013",
+            "Opposition": "v CA Chairman",
+            "Scorecard": "Other",
+            "Team": "England XI"
+        }
+    ]
+}

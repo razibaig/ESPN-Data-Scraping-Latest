@@ -1,0 +1,225 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "1",
+            "50": "0",
+            "6s": "0",
+            "Ave": "2.50",
+            "BF": "56",
+            "Ct": "0",
+            "HS": "7",
+            "Inns": "7",
+            "Mat": "4",
+            "NO": "3",
+            "Runs": "10",
+            "SR": "17.85",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "4s": "",
+            "50": "0",
+            "6s": "",
+            "Ave": "5.28",
+            "BF": "",
+            "Ct": "22",
+            "HS": "34",
+            "Inns": "175",
+            "Mat": "147",
+            "NO": "74",
+            "Runs": "534",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "0",
+            "4s": "",
+            "50": "0",
+            "6s": "",
+            "Ave": "2.74",
+            "BF": "",
+            "Ct": "36",
+            "HS": "13*",
+            "Inns": "72",
+            "Mat": "192",
+            "NO": "33",
+            "Runs": "107",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "T20s",
+            "100": "0",
+            "4s": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "0.50",
+            "BF": "8",
+            "Ct": "0",
+            "HS": "1",
+            "Inns": "2",
+            "Mat": "5",
+            "NO": "0",
+            "Runs": "1",
+            "SR": "12.50",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "1",
+            "Ave": "20.00",
+            "BBI": "5/15",
+            "BBM": "7/42",
+            "Balls": "444",
+            "Econ": "3.24",
+            "Inns": "6",
+            "Mat": "4",
+            "Runs": "240",
+            "SR": "37.0",
+            "Wkts": "12"
+        },
+        {
+            "": "First-class",
+            "10": "2",
+            "4w": "",
+            "5w": "22",
+            "Ave": "28.37",
+            "BBI": "6/47",
+            "BBM": "",
+            "Balls": "25376",
+            "Econ": "3.20",
+            "Inns": "",
+            "Mat": "147",
+            "Runs": "13562",
+            "SR": "53.0",
+            "Wkts": "478"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "4",
+            "5w": "2",
+            "Ave": "28.31",
+            "BBI": "5/20",
+            "BBM": "5/20",
+            "Balls": "8887",
+            "Econ": "4.37",
+            "Inns": "",
+            "Mat": "192",
+            "Runs": "6483",
+            "SR": "38.8",
+            "Wkts": "229"
+        },
+        {
+            "": "T20s",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "54.50",
+            "BBI": "1/19",
+            "BBM": "1/19",
+            "Balls": "66",
+            "Econ": "9.90",
+            "Inns": "5",
+            "Mat": "5",
+            "Runs": "109",
+            "SR": "33.0",
+            "Wkts": "2"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/345716.html",
+        "http://www.espncricinfo.com/wisdencricketer/content/story/303300.html",
+        "http://www.espncricinfo.com/england/content/story/141175.html",
+        "http://www.espncricinfo.com/england/content/story/140970.html",
+        "http://www.espncricinfo.com/england/content/story/136779.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=13362"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/21400/21409.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/21400/21409.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/21400/21409.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJuly 20, 1971, Eastbourne, Sussex "
+        ],
+        "Bowling style": [
+            "Right-arm fast-medium"
+        ],
+        "Current age": [
+            "47 years 29 days"
+        ],
+        "Education": [
+            "Eastbourne College"
+        ],
+        "Full name": [
+            "Edward Simon Hunter Giddins"
+        ],
+        "Height": [
+            "\n6 ft 4 in "
+        ],
+        "Major teams": [
+            "England,",
+            "Hampshire,",
+            "Surrey,",
+            "Sussex,",
+            "Warwickshire"
+        ],
+        "Nickname": [
+            "Geezer"
+        ]
+    },
+    "profile_info": [
+        "\nHe has been banned for cocaine use, no-balled for throwing, and ultimately kicked-out for five years for placing a bet on his county to lose a match (to be fair to him, it should be stressed that he was not playing in the game), but he always had a permanent twinkle in his eye: Giddins was as chequered and cheeky as they come. \n",
+        "At his best he generated sharp pace from a muscular action and, on helpful wickets, presented significant challenges for a batsman. He played one Test in 1999, and, in his second, the following summer, claimed 5-15 in the first innings and won the match award against Zimbabwe at Lord's.",
+        "Two unproductive Tests later he was dropped: on the flat wickets usually encountered in Test cricket, Giddins struggled for penetration (although his bowling average remained impressively low).",
+        "He had joined Warwickshire in 1998 after the drugs scandal cost him his job at Sussex and earned him an 18-month ban (Giddins raised money while serving his drugs ban by setting up a business selling Christmas trees with his team-mate Nadeem Shahid)  but his form fell away after England ditched him in 2000, and he moved to Surrey, and then Hampshire, until his early retirement during the 2003 season.",
+        null
+    ],
+    "recent_matches": [
+        {
+            "Bat & Bowl": "1/52",
+            "Ground": "Wormsley",
+            "Match Date": "8 Sep 2009",
+            "Opposition": "v Aus Masters",
+            "Scorecard": "Other T20",
+            "Team": "PCA XI"
+        },
+        {
+            "Bat & Bowl": "-",
+            "Ground": "Gosforth",
+            "Match Date": "2 Jul 2008",
+            "Opposition": "v Sth Northumb",
+            "Scorecard": "Other OD",
+            "Team": "Lashings XI"
+        },
+        {
+            "Bat & Bowl": "-",
+            "Ground": "Wicklow",
+            "Match Date": "22 Jun 2008",
+            "Opposition": "v Ireland",
+            "Scorecard": "Other T20",
+            "Team": "Lashings XI"
+        },
+        {
+            "Bat & Bowl": "0/20",
+            "Ground": "Cambridge",
+            "Match Date": "12 Jun 2008",
+            "Opposition": "v Cambridge U",
+            "Scorecard": "Other OD",
+            "Team": "Lashings XI"
+        }
+    ]
+}

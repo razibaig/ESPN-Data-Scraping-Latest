@@ -1,0 +1,349 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "10",
+            "4s": "470",
+            "50": "20",
+            "6s": "24",
+            "Ave": "40.56",
+            "BF": "9170",
+            "Ct": "96",
+            "HS": "206",
+            "Inns": "115",
+            "Mat": "68",
+            "NO": "10",
+            "Runs": "4259",
+            "SR": "46.44",
+            "St": "0"
+        },
+        {
+            "": "ODIs",
+            "100": "5",
+            "4s": "365",
+            "50": "26",
+            "6s": "74",
+            "Ave": "35.36",
+            "BF": "6614",
+            "Ct": "108",
+            "HS": "120*",
+            "Inns": "181",
+            "Mat": "197",
+            "NO": "37",
+            "Runs": "5092",
+            "SR": "76.98",
+            "St": "0"
+        },
+        {
+            "": "T20Is",
+            "100": "0",
+            "4s": "37",
+            "50": "3",
+            "6s": "24",
+            "Ave": "18.80",
+            "BF": "459",
+            "Ct": "15",
+            "HS": "79",
+            "Inns": "33",
+            "Mat": "36",
+            "NO": "2",
+            "Runs": "583",
+            "SR": "127.01",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "35",
+            "4s": "",
+            "50": "85",
+            "6s": "",
+            "Ave": "36.08",
+            "BF": "",
+            "Ct": "346",
+            "HS": "206",
+            "Inns": "516",
+            "Mat": "300",
+            "NO": "52",
+            "Runs": "16742",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "10",
+            "4s": "",
+            "50": "65",
+            "6s": "",
+            "Ave": "34.26",
+            "BF": "",
+            "Ct": "207",
+            "HS": "132",
+            "Inns": "401",
+            "Mat": "428",
+            "NO": "73",
+            "Runs": "11240",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "T20s",
+            "100": "1",
+            "4s": "167",
+            "50": "9",
+            "6s": "86",
+            "Ave": "21.70",
+            "BF": "2030",
+            "Ct": "49",
+            "HS": "108*",
+            "Inns": "130",
+            "Mat": "147",
+            "NO": "16",
+            "Runs": "2474",
+            "SR": "121.87",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "59.88",
+            "BBI": "3/23",
+            "BBM": "3/35",
+            "Balls": "1905",
+            "Econ": "3.20",
+            "Inns": "59",
+            "Mat": "68",
+            "Runs": "1018",
+            "SR": "112.0",
+            "Wkts": "17"
+        },
+        {
+            "": "ODIs",
+            "10": "0",
+            "4w": "3",
+            "5w": "1",
+            "Ave": "38.68",
+            "BBI": "6/31",
+            "BBM": "6/31",
+            "Balls": "5186",
+            "Econ": "4.96",
+            "Inns": "151",
+            "Mat": "197",
+            "Runs": "4294",
+            "SR": "46.7",
+            "Wkts": "111"
+        },
+        {
+            "": "T20Is",
+            "10": "0",
+            "4w": "1",
+            "5w": "0",
+            "Ave": "21.68",
+            "BBI": "4/22",
+            "BBM": "4/22",
+            "Balls": "234",
+            "Econ": "8.89",
+            "Inns": "20",
+            "Mat": "36",
+            "Runs": "347",
+            "SR": "14.6",
+            "Wkts": "16"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "",
+            "5w": "2",
+            "Ave": "38.89",
+            "BBI": "5/52",
+            "BBM": "",
+            "Balls": "12550",
+            "Econ": "3.03",
+            "Inns": "",
+            "Mat": "300",
+            "Runs": "6340",
+            "SR": "76.9",
+            "Wkts": "163"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "5",
+            "5w": "1",
+            "Ave": "33.80",
+            "BBI": "6/31",
+            "BBM": "6/31",
+            "Balls": "11482",
+            "Econ": "4.82",
+            "Inns": "",
+            "Mat": "428",
+            "Runs": "9228",
+            "SR": "42.0",
+            "Wkts": "273"
+        },
+        {
+            "": "T20s",
+            "10": "0",
+            "4w": "4",
+            "5w": "2",
+            "Ave": "22.43",
+            "BBI": "5/6",
+            "BBM": "5/6",
+            "Balls": "1834",
+            "Econ": "7.26",
+            "Inns": "107",
+            "Mat": "147",
+            "Runs": "2221",
+            "SR": "18.5",
+            "Wkts": "99"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/ci/content/story/1154158.html",
+        "http://www.espncricinfo.com/ci/content/story/1153660.html",
+        "http://www.espncricinfo.com/ci/content/story/1153554.html",
+        "http://www.espncricinfo.com/ci/content/story/1152670.html",
+        "http://www.espncricinfo.com/county-cricket-2017/content/story/1123165.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=10772"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/278900/278946.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/278900/278946.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/278900/278946.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nMay 26, 1976, Shotley Bridge, Co Durham "
+        ],
+        "Bowling style": [
+            "Right-arm medium"
+        ],
+        "Current age": [
+            "42 years 84 days"
+        ],
+        "Education": [
+            "Blackfyne Comprehensive School"
+        ],
+        "Full name": [
+            "Paul David Collingwood"
+        ],
+        "Height": [
+            "\n5 ft 11 in "
+        ],
+        "Major teams": [
+            "England,",
+            "Delhi Daredevils,",
+            "Durham,",
+            "Impi,",
+            "Perth Scorchers,",
+            "Rajasthan Royals,",
+            "World-XI"
+        ],
+        "Nickname": [
+            "Colly"
+        ],
+        "Playing role": [
+            "Allrounder"
+        ]
+    },
+    "profile_info": [
+        "\nPaul Collingwood was never the most gifted cricketer to play for England, but there was so much to admire for all that. That he was a cricketer of substance was undeniable. As hiscounty career progressed well beyond his 40th birthday, and he vowed to play for Durham until he had zero energy\", he symbolised how much could be achieved by pluck, good sense and a deal of athleticism.  \n",
+        "A natural athlete with a happy-go-lucky temperament, Paul Collingwood became the first England captain to ever deliver a global tournament when England beat Australia to win the 2010 World Twenty20. It was reward for nine years of uncomplaining professionalism, in which time he fought his way through a melee of seemingly more talented opponents to make himself indispensable in all forms of the game.",
+        "He called time on his England Test career at the end of the 2010-11 Ashes series, finishing on a high by becoming a three-times Ashes winner, and by the time he ended his ODI career two months later, he was England's leading ODI run scorer and most capped player. But his contribution was far from spent: he went on to lead Durham to the Championship in 2013 and his growing reputation as one of England's old sages was amplified when he accepted a part-time coaching role with Scotland and guided them to the World Cup finals. An opportunity working as England's fielding coach under Ashley Giles began his gradual shift in the later stages of his career from player to coach.",
+        "Collingwood's greatest asset was his ability to contribute to the team in several aspects. As a batsman, he stands still at the crease, plays the ball straight and has a tantalising range of strokes up his sleeve. His bowling verged towards the dibbly-dobbly, but given the right conditions he could be irresistible, as he proved with a matchwinning display of swing bowling in the third one-day game against New Zealand in 2001-02. As a fielder, he was one of the finest in the world, capable of breathtaking moments in the covers and backward point. The final tick in his column was his determination, which made him go to Melbourne in the winter of 2000-01 to play grade cricket when he realised he was treading water.",
+        "For the first few years in his international career he seemed destined to be a fill-in player. But at Lahore in the winter of 2005, he stuck 96 and 80 before hitting a brilliant maiden century at Nagpur with England in the middle of an injury crisis. He kicked on to become the rock of England's batting on the subsequent Ashes tour. His brilliant double-century at Adelaide ought to have been the defining moment of his career. Instead it was the preamble to one of the most devastating defeats in English Test history. But after an understandable period of introspection, Collingwood bounced back with consecutive one-day centuries to secure the CB Series. It was England's first overseas one-day trophy for nine years, and his subsequent appointment to the captaincy in June 2007 was met with unanimous approval. He cemented the role with memorable victories over India at home and Sri Lanka away.",
+        "A slump in form in 2008 led to his omission from the Test team and his resignation as ODI captain, but he took back the reins for the World Twenty20 in 2009, a decision that didn't look too prudent when England were embarrassed by the Netherlands in the opening match of the tournament. But less than a year later England had developed into a ruthless power-packed Twenty20 side. Led by Collingwood, their blend of fearless hitting with dynamite fielding and thoughtful bowling brushed aside all challenges as England won the tournament. They got there in style - beating Australia in the final - with Collingwood finishing the job with the winning runs.",
+        "A difficult summer followed, where Collingwood struggled to come to terms with the seam and swing of Mohammad Amir and Mohammad Asif. His batting form failed to improve during England's historic Ashes success the winter after but his fielding remained exemplary - setting the benchmark for England's high standards. In the final Ashes Test in Sydney he dismissed Michael Hussey in the first innings, sparking wild celebrations. And with England on the verge of a 3-1 triumph, he chose to retire from Test cricket, calling time on a successful Test career which many thought would never happen. He had hoped to keep playing limited-overs cricket for England but a poor World Cup followed the Ashes and he was subsequently dropped from both England's teams and replaced as Twenty20 captain by Stuart Broad.",
+        "After considering retirement from all cricket, he decided to continue with Durham and succeeded Phil Mustard as captain in 2012, winning an impressive seven of his first 10 matches at the helm as steering Durham from bottom of the table to safety. A Championship title duly followed in 2013 as he reinvigorated Durham in a manner few seriously expected. When some bad investments made life harder in 2014 he still led Durham to the Royal London One-Day Cup and picked up the Player of the Year award for good measure. He had become a wonderful ambassador for county cricket, but Durham were stricken by financial problems and when the ECB was forced to bail them out, as a last resort, at the end of 2016 they did so with stringent penalties - relegation from Division One of the Championship included - intended to give a warning message to others. Collingwood termed it \"a kick in the nuts\", but Durham could also learn from his ability to squeeze maximum benefit from the toughest situations.",
+        "That relegation brought a rush of departures, but while Collingwood was still standing there was still hope. He made 1,000 Championship runs in 2017 and became the oldest player to make a T20 hundred and Durham's first century-maker in that format, against Worcestershire at New Road.  Aged 41 years & 65 days, Collingwood beat ex-Worcestershire player Graeme Hick (41y 37d) who struck 110 against Northamptonshire in 2007.",
+        null
+    ],
+    "recent_matches": [
+        {
+            "Bat & Bowl": "0/25, 0",
+            "Ground": "Chester-le-Street",
+            "Match Date": "12 Aug 2018",
+            "Opposition": "v Lancashire",
+            "Scorecard": "T20",
+            "Team": "Durham"
+        },
+        {
+            "Bat & Bowl": "26, 2/39",
+            "Ground": "Northampton",
+            "Match Date": "10 Aug 2018",
+            "Opposition": "v Northants",
+            "Scorecard": "T20",
+            "Team": "Durham"
+        },
+        {
+            "Bat & Bowl": "1, 0/35",
+            "Ground": "Chester-le-Street",
+            "Match Date": "8 Aug 2018",
+            "Opposition": "v Leics",
+            "Scorecard": "T20",
+            "Team": "Durham"
+        },
+        {
+            "Bat & Bowl": "26, 0/26",
+            "Ground": "Manchester",
+            "Match Date": "7 Aug 2018",
+            "Opposition": "v Lancashire",
+            "Scorecard": "T20",
+            "Team": "Durham"
+        },
+        {
+            "Bat & Bowl": "50*, 0/9",
+            "Ground": "Chester-le-Street",
+            "Match Date": "2 Aug 2018",
+            "Opposition": "v Northants",
+            "Scorecard": "T20",
+            "Team": "Durham"
+        },
+        {
+            "Bat & Bowl": "1/29, 40*",
+            "Ground": "Chester-le-Street",
+            "Match Date": "28 Jul 2018",
+            "Opposition": "v Notts",
+            "Scorecard": "T20",
+            "Team": "Durham"
+        },
+        {
+            "Bat & Bowl": "15, 3/25",
+            "Ground": "Nottingham",
+            "Match Date": "17 Jul 2018",
+            "Opposition": "v Notts",
+            "Scorecard": "T20",
+            "Team": "Durham"
+        },
+        {
+            "Bat & Bowl": "37, 0/18",
+            "Ground": "Birmingham",
+            "Match Date": "15 Jul 2018",
+            "Opposition": "v Bears",
+            "Scorecard": "T20",
+            "Team": "Durham"
+        },
+        {
+            "Bat & Bowl": "3/27, 22",
+            "Ground": "Chester-le-Street",
+            "Match Date": "13 Jul 2018",
+            "Opposition": "v Yorkshire",
+            "Scorecard": "T20",
+            "Team": "Durham"
+        },
+        {
+            "Bat & Bowl": "36, 1/32",
+            "Ground": "Leicester",
+            "Match Date": "6 Jul 2018",
+            "Opposition": "v Leics",
+            "Scorecard": "T20",
+            "Team": "Durham"
+        }
+    ]
+}

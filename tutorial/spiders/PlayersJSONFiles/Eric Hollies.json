@@ -1,0 +1,114 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "5.28",
+            "Ct": "2",
+            "HS": "18*",
+            "Inns": "15",
+            "Mat": "13",
+            "NO": "8",
+            "Runs": "37",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "0",
+            "50": "0",
+            "6s": "",
+            "Ave": "5.00",
+            "Ct": "178",
+            "HS": "47",
+            "Inns": "616",
+            "Mat": "515",
+            "NO": "282",
+            "Runs": "1673",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "5",
+            "Ave": "30.27",
+            "BBI": "7/50",
+            "BBM": "8/133",
+            "Balls": "3554",
+            "Econ": "2.24",
+            "Inns": "22",
+            "Mat": "13",
+            "Runs": "1332",
+            "SR": "80.7",
+            "Wkts": "44"
+        },
+        {
+            "": "First-class",
+            "10": "40",
+            "4w": "",
+            "5w": "182",
+            "Ave": "20.94",
+            "BBI": "10/49",
+            "BBM": "",
+            "Balls": "130625",
+            "Econ": "2.23",
+            "Inns": "",
+            "Mat": "515",
+            "Runs": "48656",
+            "SR": "56.2",
+            "Wkts": "2323"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/461180.html",
+        "http://www.espncricinfo.com/magazine/content/story/256964.html",
+        "http://www.espncricinfo.com/australia/content/story/256644.html",
+        "http://www.espncricinfo.com/wisdencricketer/content/story/210575.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155429.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=14240"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/65300/65305.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/65300/65305.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/65300/65305.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nJune 5, 1912, Old Hill, Staffordshire "
+        ],
+        "Bowling style": [
+            "Legbreak googly"
+        ],
+        "Died": [
+            "April 16, 1981, Chinley, Derbyshire (aged 68 years 315 days) "
+        ],
+        "Full name": [
+            "William Eric Hollies"
+        ],
+        "Major teams": [
+            "England,",
+            "Warwickshire"
+        ]
+    },
+    "profile_info": [
+        null,
+        "Fair-haired and on the short side, he bobbed in and delivered to a persistently unerring length such as possibly only Grimmett has ever matched. It is strange to contemplate the fact that he never performed a hat-trick. But he did take all ten - and without the help of the field: at Edgbaston in 1946 he bowled seven Notts batsmen and had the other three lbw, his 10 for 49 being the best to this day for Warwickshire in a county match. Twice also he took nine in an innings and seven times he took eight. In 14 seasons his toil was rewarded with 100 or more wickets. Truly was he the genial soul of the attack from one generation to the next.",
+        "He played 13 times for England, beginning in the crazy match in Barbados in 1935, when 29 wickets fell for 309 runs on a sticky wicket, and ending at Nottingham in 1950. Apart from that first tour of West Indies, he went to Australia in 1950-51, but Doug Wright was preferred for the Test matches. It was 12 years after his debut that Hollies played in his second Test series, taking 5 for 123 off 55.2 overs against South Africa at Nottingham. In the famous Oval match a year later when his clever googly deprived Bradman of a lifetime Test average of 100, he sent down 56 overs to take 5 for 131. He took five again in 1949 - for 133 in 58 overs - against New Zealand at Lord's, and five yet again the following year, this time for 63 as England beat West Indies by 202 runs at Manchester. Worrell and Weekes were among his victims.",
+        null,
+        null,
+        null,
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

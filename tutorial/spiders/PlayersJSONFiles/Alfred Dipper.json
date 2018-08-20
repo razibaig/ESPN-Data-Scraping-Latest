@@ -1,0 +1,108 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "3",
+            "50": "0",
+            "6s": "0",
+            "Ave": "25.50",
+            "Ct": "0",
+            "HS": "40",
+            "Inns": "2",
+            "Mat": "1",
+            "NO": "0",
+            "Runs": "51",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "53",
+            "4s": "",
+            "50": "147",
+            "6s": "",
+            "Ave": "35.27",
+            "Ct": "210",
+            "HS": "252*",
+            "Inns": "865",
+            "Mat": "481",
+            "NO": "69",
+            "Runs": "28075",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "1",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "1",
+            "4w": "",
+            "5w": "5",
+            "Ave": "30.45",
+            "BBI": "7/46",
+            "BBM": "",
+            "Balls": "8882",
+            "Econ": "3.31",
+            "Inns": "",
+            "Mat": "481",
+            "Runs": "4903",
+            "SR": "55.1",
+            "Wkts": "161"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/155697.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/DB/022005/058240.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nNovember 9, 1885, Apperley, Gloucestershrie "
+        ],
+        "Bowling style": [
+            "Right-arm medium"
+        ],
+        "Died": [
+            "November 7, 1945, Lambeth, London (aged 59 years 363 days) "
+        ],
+        "Full name": [
+            "Alfred Ernest Dipper"
+        ],
+        "Major teams": [
+            "England,",
+            "Gloucestershire"
+        ],
+        "Other": [
+            "Umpire"
+        ]
+    },
+    "profile_info": [
+        "\nAlfred Ernest Dipper, died at St. Thomas's Hospital, London, on November 7, within two days of his 58th birthday. He played for Gloucestershire from 1908 to 1932, and on retiring became a first-class umpire. Seldom can chance have entered more into a professional's county baptism than was the case with Dipper. A man short for the match at Tonbridge against Kent in June, Gloucestershire requested a local club to fill the vacancy and, in reply, came Dipper of Tewkesbury. Making 30 not out, highest score for the side when going in last but two, Dipper got eight in a more disastrous second-innings collapse. Then a steady 19 checked a breakdown against Somerset and helped in a victory by six wickets. When promoted in the batting order he fared disastrously several times and could not keep his place in the side, then captained by G. L. Jessop, but from 1911 he regularly registered a four-figure aggregate and became a very dependable opening batsman of the stolid type. Five times he exceeded 2,000 and passed the thousand in ten other seasons; in 1928 in his 41st year he excelled with 2,365 runs at an average of 55. His full record in first-class cricket was 28,075 runs with an average of 35.22, and highest innings 252 not out against Glamorgan in a total of 481 for nine wickets declared at Cheltenham in 1923. On eleven occasions he carried his bat through an innings and, of 53 scores of three figurers each, two 117 and 103--were made against Sussex at Horsham in 1922. In each innings against Somerset at Bristol in 1913 his opening stand with C. S. Barnett exceeded a hundred, but his most noteworthy partnership occurred against Lancashire in 1925 when he and W. R. Hammond put on 330 for the third wicket, a record for the Old Trafford ground. \n",
+        null,
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

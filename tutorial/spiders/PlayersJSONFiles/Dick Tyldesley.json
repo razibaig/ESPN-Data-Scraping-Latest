@@ -1,0 +1,111 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "1",
+            "Ave": "7.83",
+            "Ct": "1",
+            "HS": "29",
+            "Inns": "7",
+            "Mat": "7",
+            "NO": "1",
+            "Runs": "47",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "1",
+            "50": "15",
+            "6s": "",
+            "Ave": "15.65",
+            "Ct": "334",
+            "HS": "105",
+            "Inns": "464",
+            "Mat": "397",
+            "NO": "54",
+            "Runs": "6419",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "32.57",
+            "BBI": "3/50",
+            "BBM": "6/102",
+            "Balls": "1615",
+            "Econ": "2.29",
+            "Inns": "11",
+            "Mat": "7",
+            "Runs": "619",
+            "SR": "85.0",
+            "Wkts": "19"
+        },
+        {
+            "": "First-class",
+            "10": "22",
+            "4w": "",
+            "5w": "101",
+            "Ave": "17.21",
+            "BBI": "8/15",
+            "BBM": "",
+            "Balls": "66696",
+            "Econ": "2.33",
+            "Inns": "",
+            "Mat": "397",
+            "Runs": "25980",
+            "SR": "44.1",
+            "Wkts": "1509"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154715.html"
+    ],
+    "latest_photos": [],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nMarch 11, 1897, Westhoughton, Lancashire "
+        ],
+        "Bowling style": [
+            "Legbreak"
+        ],
+        "Died": [
+            "September 17, 1943, Over Hulton, Bolton, Lancashire (aged 46 years 190 days) "
+        ],
+        "Full name": [
+            "Richard Knowles Tyldesley"
+        ],
+        "Major teams": [
+            "England,",
+            "Lancashire"
+        ]
+    },
+    "profile_info": [
+        null,
+        "Regularly form 1922 his victims numbered at least 100 a season, and he showed little if any deterioration in 1931 when the Lancashire committee could not concede to his request for an engagement for a definite period at a fixed salary of \u00a3400 a year, no matter whether he could play or not; and his association with the county ceased.",
+        "In 1923 he took 106 wickets in Championship matches at 15 runs apiece. Next season, when the South Africans toured England, Tyldesley appeared to considerable advantage in four of the five Test matches, but his most brilliant achievement was six wickets for 18 runs at Leeds, where, thanks to him and Parkin, Yorkshire were dismissed for 33 and beaten by 24 runs.",
+        "This form gained Tyldesley a place in the side which visited Australia in the following winter under A. E. R. Gilligan, but he met with little success on the shirt-front wickets, and played against Australia only in the Test match at Melbourne, being dismissed for one and nought, and sending down 37 overs for 136 runs without getting a wicket.",
+        "In 1930 Dick Tyldesley played for England against Australia at Nottingham, where England triumphed, and at Leeds in a drawn match, dismissing seven batsmen at an average of 33 runs in the two encounters, but was not called upon again. He headed his county's bowling with 121 wickets at 14.73 each, and Lancashire were champion county for the fourth time in five seasons, the first of these successes coming in 1926 after an interval of twenty-two years when A. C. MacLaren captained the side. He was again the most effective bowler for Lancashire in 1931 with a record of 116 wickets at a fraction under 16 runs each, but his county dropped to sixth place; and that ended his county career. During several seasons he enjoyed considerable success with the bat, and in 1922 he hit up 105 against Nottinghamshire at Old Trafford.",
+        " Parkin and Dick Tyldesley did some remarkable performances besides the triumph at Leeds. In 1924 they shared the wickets in both innings at Old Trafford for Lancashire against the South Africans, Tyldesley's figures being seven for 28 and five for 50; they were unchanged against Warwickshire, ten wickets falling to Tyldesley for 103 runs. In that season he dismissed five Leicestershire batsmen, three clean bowled and the other two leg-before-wicket, in five maiden overs--all he bowled in the innings. Another fine performance was seven Northamptonshire wickets for six runs at Aigburth. Against the same county at Kettering in 1926 he dismissed eight men for 15 runs. Also a unique performance stands to his credit at Derby in 1929, when he dismissed two men with the last two balls of one innings and two more with the first two deliveries he sent down in the second innings.",
+        "Altogether in first-class cricket he took 1,513 wickets at 17.15 runs apiece, score 6,424 runs, average 15.04, and held 328 catches--mostly at short-leg. For Lancashire his record showed 1,447 wickets, a number exceeded only by John Briggs and Arthur Mold. After giving up county cricket, Tyldesley helped Nantwich to win the North Staffordshire and District League Championship twice, and he did good service for Accrington, whom he joined in 1934.",
+        "In 1930 his benefit match, when Surrey visited Old Trafford, realized \u00a32,027, although it clashed with England versus Australia at Trent Bridge where Tyldesley was engaged. At different periods Dick Tyldesley shared in the Lancashire bowling honours with Cecil Parkin and E. A. McDonald, the Australian--and now all three are dead: McDonald passed in 1937, Parkin three months before Richard Tyldesley.",
+        "So much doubt has prevailed as to the relationship of the six Tyldesleys who played for Lancashire that it is opportune to emphasise that the brothers John Thomas, who died in 1930, and Ernest, both famous batsmen and England Test players, belonged to a Worsley family and were not related to the four Westhoughton professionals; these were:--",
+        null,
+        null,
+        null,
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

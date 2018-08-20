@@ -1,0 +1,352 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "22",
+            "4s": "919",
+            "50": "46",
+            "6s": "39",
+            "Ave": "42.69",
+            "BF": "15622",
+            "Ct": "100",
+            "HS": "235",
+            "Inns": "205",
+            "Mat": "118",
+            "NO": "24",
+            "Runs": "7727",
+            "SR": "49.46",
+            "St": "0"
+        },
+        {
+            "": "ODIs",
+            "100": "4",
+            "4s": "525",
+            "50": "35",
+            "6s": "32",
+            "Ave": "37.87",
+            "BF": "7019",
+            "Ct": "54",
+            "HS": "141",
+            "Inns": "157",
+            "Mat": "161",
+            "NO": "14",
+            "Runs": "5416",
+            "SR": "77.16",
+            "St": "0"
+        },
+        {
+            "": "T20Is",
+            "100": "0",
+            "4s": "23",
+            "50": "1",
+            "6s": "2",
+            "Ave": "26.85",
+            "BF": "163",
+            "Ct": "4",
+            "HS": "60*",
+            "Inns": "8",
+            "Mat": "8",
+            "NO": "1",
+            "Runs": "188",
+            "SR": "115.33",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "55",
+            "4s": "",
+            "50": "103",
+            "6s": "",
+            "Ave": "43.81",
+            "BF": "",
+            "Ct": "229",
+            "HS": "262*",
+            "Inns": "508",
+            "Mat": "301",
+            "NO": "54",
+            "Runs": "19894",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "13",
+            "4s": "",
+            "50": "79",
+            "6s": "",
+            "Ave": "41.22",
+            "BF": "",
+            "Ct": "109",
+            "HS": "158",
+            "Inns": "301",
+            "Mat": "318",
+            "NO": "31",
+            "Runs": "11130",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "T20s",
+            "100": "1",
+            "4s": "261",
+            "50": "17",
+            "6s": "69",
+            "Ave": "30.97",
+            "BF": "2158",
+            "Ct": "36",
+            "HS": "131",
+            "Inns": "99",
+            "Mat": "103",
+            "NO": "12",
+            "Runs": "2695",
+            "SR": "124.88",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "76.00",
+            "BBI": "1/33",
+            "BBM": "1/33",
+            "Balls": "108",
+            "Econ": "4.22",
+            "Inns": "6",
+            "Mat": "118",
+            "Runs": "76",
+            "SR": "108.0",
+            "Wkts": "1"
+        },
+        {
+            "": "ODIs",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "14.66",
+            "BBI": "3/9",
+            "BBM": "3/9",
+            "Balls": "88",
+            "Econ": "6.00",
+            "Inns": "6",
+            "Mat": "161",
+            "Runs": "88",
+            "SR": "14.6",
+            "Wkts": "6"
+        },
+        {
+            "": "T20Is",
+            "10": "-",
+            "4w": "-",
+            "5w": "-",
+            "Ave": "-",
+            "BBI": "-",
+            "BBM": "-",
+            "Balls": "-",
+            "Econ": "-",
+            "Inns": "-",
+            "Mat": "8",
+            "Runs": "-",
+            "SR": "-",
+            "Wkts": "-"
+        },
+        {
+            "": "First-class",
+            "10": "0",
+            "4w": "3",
+            "5w": "0",
+            "Ave": "34.36",
+            "BBI": "4/4",
+            "BBM": "",
+            "Balls": "2875",
+            "Econ": "3.37",
+            "Inns": "",
+            "Mat": "301",
+            "Runs": "1615",
+            "SR": "61.1",
+            "Wkts": "47"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "0",
+            "5w": "1",
+            "Ave": "34.48",
+            "BBI": "5/41",
+            "BBM": "5/41",
+            "Balls": "1290",
+            "Econ": "5.29",
+            "Inns": "",
+            "Mat": "318",
+            "Runs": "1138",
+            "SR": "39.0",
+            "Wkts": "33"
+        },
+        {
+            "": "T20s",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "62.00",
+            "BBI": "1/12",
+            "BBM": "1/12",
+            "Balls": "132",
+            "Econ": "8.45",
+            "Inns": "10",
+            "Mat": "103",
+            "Runs": "186",
+            "SR": "44.0",
+            "Wkts": "3"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/ci/content/story/1154853.html",
+        "http://www.espncricinfo.com/ci/content/story/1154777.html",
+        "http://www.espncricinfo.com/ci/content/story/1154290.html",
+        "http://www.espncricinfo.com/ci/content/story/1152961.html",
+        "http://www.espncricinfo.com/ci/content/story/1152910.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=9062"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/278000/278039.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/278000/278039.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/278000/278039.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nApril 11, 1982, Walsgrave, Coventry, Warwickshire "
+        ],
+        "Bowling style": [
+            "Right-arm medium"
+        ],
+        "Current age": [
+            "36 years 129 days"
+        ],
+        "Education": [
+            "Princethorpe College, Rugby"
+        ],
+        "Full name": [
+            "Ian Ronald Bell"
+        ],
+        "Height": [
+            "\n5 ft 10 in "
+        ],
+        "Major teams": [
+            "England,",
+            "England Lions,",
+            "England Under-19s,",
+            "Marylebone Cricket Club,",
+            "Perth Scorchers,",
+            "Warwickshire,",
+            "Warwickshire Cricket Board"
+        ],
+        "Nickname": [
+            "Belly"
+        ],
+        "Playing role": [
+            "Top-order batsman"
+        ],
+        "Relation": [
+            null,
+            "\n"
+        ]
+    },
+    "profile_info": [
+        "\nOnce described by Dayle Hadlee as the best 16-year old he had ever seen, Ian Bell had been earmarked for greatness long before he was drafted onto the England tour of New Zealand in 2001-02, as cover for the injured Mark Butcher.  \n",
+        "Technically sound, Bell is an elegant top-order batsman, who was once likened to Michael Atherton and was immediately burdened with similar expectations when he made his England debut. Unlike Atherton, who invariably produced his best when his back was firmly against the wall, Bell's most fluent early efforts tended to come about in a pressure vacuum, a trait that belied an average above 40 and a record of a century every five or so Tests.",
+        "However, on the tour of South Africa in 2009-10, Bell set about changing those perceptions. A perfectly paced century while batting at No. 6 in Durban set England up for an innings victory that ranked, at the time, among their finest overseas performances for a generation, but he surpassed that effort in the very next Test in Cape Town, with a backs-to-the-wall 78 that saved the match and ensured a share of the series. On the subsequent tour of Australia, he continued to save his best for when the chips were down, particularly during England's first-innings struggles at Brisbane and Perth. He finished the tour on a high with his maiden Ashes hundred at Sydney, and a reputation transformed.",
+        "When in form, Bell has always been adept at leaving the ball outside off stump, and he received glowing reviews from coaches at every stage of his development, not least from Rod Marsh at the England Academy, a man not given to hyperbole. A former England U19 captain, Bell had played just 13 first-class games when called into the England squad, though in 2001 he scored 836 runs for Warwickshire at an average of over 64, including three centuries.",
+        "He didn't immediately translate that success and talent into runs at the international stage - he was found out by Australia's champions, McGrath and Warne, and mustered just 171 runs in ten innings - but he gradually found his feet and his form at the top level. In 2010 and 2011, he averaged more than 65 in five successive series, including the 2010-11 Ashes. But obviously that run wasn't going to last forever: he was brought back to earth by Pakistan's offspinner Saaed Ajmal in the three-Test series in 2012, managing only 51 runs in six innings.",
+        "The year was a largely forgettable one in Tests, for Bell and England, though pride was salvaged in India. A first series win in the country since 1984-85 was sealed in Nagpur, where Bell's second-innings hundred made certain of the requisite draw. A reminder of Bell's class came in 50-over cricket, where he made an immaculate transition to opener. That continued into 2013, with his third ODI hundred in lofty Dharamsala, although England were eventually thwarted in their attempts to win global silverware in the Champions Trophy final. He was a casualty of England's grim World Cup campaign in 2015, however, when he seemed unable to translate his talent into the bold stroke-play required and, having been dropped after the tournament, announced his retirement from the format later in the year.",
+        "His reputation for producing when England needed him in Test cricket, meanwhile, had been all but banished by a series-defining performance in the Ashes of 2013. Bell scored centuries in each of England's three victories, becoming the first man to reach triple figures in three successive Ashes Tests since Chris Broad in 1986 in the process. He was rewarded with the player of the series award and a place on the shortlist for the BBC's Sports Personality of the Year.",
+        "He struggled to maintain his form in the return Ashes series in 2013-14 - he averaged just 26.11 compared to 62.44 in England - and then endured a run where he passed 1 only three times in 10 Test innings and averaged 26.87 in the 2015 Ashes. He was dropped from the ODI side after the 2015 World Cup and from the Test side after the year-end tour to the UAE. He was soon appointed captain of Warwickshire and insisted that he retained further ambitions for a Test career that had already included five Ashes-winning series. ",
+        null
+    ],
+    "recent_matches": [
+        {
+            "Bat & Bowl": "19",
+            "Ground": "Birmingham",
+            "Match Date": "17 Aug 2018",
+            "Opposition": "v Worcs",
+            "Scorecard": "T20",
+            "Team": "Bears"
+        },
+        {
+            "Bat & Bowl": "34",
+            "Ground": "Birmingham",
+            "Match Date": "15 Aug 2018",
+            "Opposition": "v Lancashire",
+            "Scorecard": "T20",
+            "Team": "Bears"
+        },
+        {
+            "Bat & Bowl": "2",
+            "Ground": "Manchester",
+            "Match Date": "10 Aug 2018",
+            "Opposition": "v Lancashire",
+            "Scorecard": "T20",
+            "Team": "Bears"
+        },
+        {
+            "Bat & Bowl": "54",
+            "Ground": "Birmingham",
+            "Match Date": "9 Aug 2018",
+            "Opposition": "v Notts",
+            "Scorecard": "T20",
+            "Team": "Bears"
+        },
+        {
+            "Bat & Bowl": "43",
+            "Ground": "Northampton",
+            "Match Date": "5 Aug 2018",
+            "Opposition": "v Northants",
+            "Scorecard": "T20",
+            "Team": "Bears"
+        },
+        {
+            "Bat & Bowl": "65",
+            "Ground": "Derby",
+            "Match Date": "3 Aug 2018",
+            "Opposition": "v Derbyshire",
+            "Scorecard": "T20",
+            "Team": "Bears"
+        },
+        {
+            "Bat & Bowl": "34",
+            "Ground": "Leicester",
+            "Match Date": "2 Aug 2018",
+            "Opposition": "v Leics",
+            "Scorecard": "T20",
+            "Team": "Bears"
+        },
+        {
+            "Bat & Bowl": "42",
+            "Ground": "Leeds",
+            "Match Date": "27 Jul 2018",
+            "Opposition": "v Yorkshire",
+            "Scorecard": "T20",
+            "Team": "Bears"
+        },
+        {
+            "Bat & Bowl": "8, 0",
+            "Ground": "Lord's",
+            "Match Date": "22 Jul 2018",
+            "Opposition": "v Middlesex",
+            "Scorecard": "FC",
+            "Team": "Warwickshire"
+        },
+        {
+            "Bat & Bowl": "131",
+            "Ground": "Birmingham",
+            "Match Date": "20 Jul 2018",
+            "Opposition": "v Northants",
+            "Scorecard": "T20",
+            "Team": "Bears"
+        }
+    ]
+}

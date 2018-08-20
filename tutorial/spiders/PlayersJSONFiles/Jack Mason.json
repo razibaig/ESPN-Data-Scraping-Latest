@@ -1,0 +1,107 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "50": "0",
+            "6s": "0",
+            "Ave": "12.90",
+            "Ct": "3",
+            "HS": "32",
+            "Inns": "10",
+            "Mat": "5",
+            "NO": "0",
+            "Runs": "129",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "34",
+            "50": "86",
+            "6s": "",
+            "Ave": "33.27",
+            "Ct": "390",
+            "HS": "183",
+            "Inns": "557",
+            "Mat": "339",
+            "NO": "36",
+            "Runs": "17337",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "74.50",
+            "BBI": "1/8",
+            "BBM": "1/18",
+            "Balls": "324",
+            "Econ": "2.75",
+            "Inns": "7",
+            "Mat": "5",
+            "Runs": "149",
+            "SR": "162.0",
+            "Wkts": "2"
+        },
+        {
+            "": "First-class",
+            "10": "9",
+            "4w": "",
+            "5w": "35",
+            "Ave": "22.39",
+            "BBI": "8/29",
+            "BBM": "",
+            "Balls": "41813",
+            "Econ": "2.72",
+            "Inns": "",
+            "Mat": "339",
+            "Runs": "18989",
+            "SR": "49.3",
+            "Wkts": "848"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/magazine/content/story/220215.html",
+        "http://www.espncricinfo.com/wisdenalmanack/content/story/154836.html"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/59900/59997.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/59900/59997.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Right-hand bat"
+        ],
+        "Born": [
+            "\nMarch 26, 1874, Blackheath, Kent "
+        ],
+        "Bowling style": [
+            "Right-arm fast-medium"
+        ],
+        "Died": [
+            "October 15, 1958, Cooden Beach, Sussex (aged 84 years 203 days) "
+        ],
+        "Full name": [
+            "John Richard Mason"
+        ],
+        "Major teams": [
+            "England,",
+            "Kent"
+        ]
+    },
+    "profile_info": [
+        "\nJohn Richard Mason was one of the finest amateur allrounders to play for Kent since the days of Alfred Mynn. Yet he never appeared for England against Australia in a home Test match. As one of A. E. Stoddart's second team who toured Australia, he took part in all five Test matches in 1897-98, but in England his nearest approach to a cap came in 1902 when he was one of fourteen from whom the final selection for the Birmingham Test was made. Still, he ranked as a very great player. Well over six feet, Mason made full use of his height and played with so straight a bat that he was always worth watching. \n",
+        "Essentially a forward player, possessing a drive scarcely surpassed for cleanness and power and a most effective cut, he could also bat to good purpose on slow turf, as many leading bowlers of his time found to their cost. In addition he was a right-arm fast-medium bowler of considerable skill and few excelled him as a slip-fielder.",
+        "Educated at Winchester, Mason showed even in his schooldays that he would take high rank in the cricket world. Against Eton in 1892 he scored 147 and 71, dismissed eight batsmen and brought off three catches, and in the corresponding fixture the following season he hit 43 and 36 and again took eight wickets. His record for the school in 1892 was 777 runs, average 48, and 48 wickets for 18 runs each; in 1893 his aggregate was 719, average 55, and he obtained 45 wickets for under 17 runs apiece.",
+        "In the same summer that he left Winchester, he was tried for Kent and figured in the game in 1893 when the county defeated the Australians by 36 runs. He failed to realise expectations in 1894, but the next summer jumped to the front and for several seasons afterwards rendered splendid all-round service. He succeeded Frank Marchant as Kent captain in 1898 and not only held that office with distinction for five years, but would doubtless have continued to lead the side for far longer had not the calls of his profession as a solicitor compelled his resignation. So heavy were the claims upon his time that he played no first-class cricket after 1906.",
+        null
+    ],
+    "recent_matches": [
+        {},
+        {},
+        {}
+    ]
+}

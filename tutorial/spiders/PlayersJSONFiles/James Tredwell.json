@@ -1,0 +1,346 @@
+{
+    "batting_averages": [
+        {
+            "": "Tests",
+            "100": "0",
+            "4s": "6",
+            "50": "0",
+            "6s": "0",
+            "Ave": "22.50",
+            "BF": "87",
+            "Ct": "2",
+            "HS": "37",
+            "Inns": "2",
+            "Mat": "2",
+            "NO": "0",
+            "Runs": "45",
+            "SR": "51.72",
+            "St": "0"
+        },
+        {
+            "": "ODIs",
+            "100": "0",
+            "4s": "9",
+            "50": "0",
+            "6s": "4",
+            "Ave": "11.64",
+            "BF": "242",
+            "Ct": "14",
+            "HS": "30",
+            "Inns": "25",
+            "Mat": "45",
+            "NO": "11",
+            "Runs": "163",
+            "SR": "67.35",
+            "St": "0"
+        },
+        {
+            "": "T20Is",
+            "100": "0",
+            "4s": "4",
+            "50": "0",
+            "6s": "1",
+            "Ave": "10.66",
+            "BF": "20",
+            "Ct": "2",
+            "HS": "22",
+            "Inns": "6",
+            "Mat": "17",
+            "NO": "3",
+            "Runs": "32",
+            "SR": "160.00",
+            "St": "0"
+        },
+        {
+            "": "First-class",
+            "100": "4",
+            "4s": "",
+            "50": "17",
+            "6s": "",
+            "Ave": "21.88",
+            "BF": "10768",
+            "Ct": "196",
+            "HS": "124",
+            "Inns": "247",
+            "Mat": "177",
+            "NO": "31",
+            "Runs": "4728",
+            "SR": "43.90",
+            "St": "0"
+        },
+        {
+            "": "List A",
+            "100": "0",
+            "4s": "",
+            "50": "4",
+            "6s": "",
+            "Ave": "17.27",
+            "BF": "",
+            "Ct": "110",
+            "HS": "88",
+            "Inns": "174",
+            "Mat": "270",
+            "NO": "63",
+            "Runs": "1917",
+            "SR": "",
+            "St": "0"
+        },
+        {
+            "": "T20s",
+            "100": "0",
+            "4s": "47",
+            "50": "0",
+            "6s": "8",
+            "Ave": "11.04",
+            "BF": "489",
+            "Ct": "48",
+            "HS": "34*",
+            "Inns": "74",
+            "Mat": "166",
+            "NO": "27",
+            "Runs": "519",
+            "SR": "106.13",
+            "St": "0"
+        }
+    ],
+    "bowling_averages": [
+        {
+            "": "Tests",
+            "10": "0",
+            "4w": "2",
+            "5w": "0",
+            "Ave": "29.18",
+            "BBI": "4/47",
+            "BBM": "6/181",
+            "Balls": "786",
+            "Econ": "2.45",
+            "Inns": "4",
+            "Mat": "2",
+            "Runs": "321",
+            "SR": "71.4",
+            "Wkts": "11"
+        },
+        {
+            "": "ODIs",
+            "10": "0",
+            "4w": "3",
+            "5w": "0",
+            "Ave": "27.76",
+            "BBI": "4/41",
+            "BBM": "4/41",
+            "Balls": "2104",
+            "Econ": "4.75",
+            "Inns": "44",
+            "Mat": "45",
+            "Runs": "1666",
+            "SR": "35.0",
+            "Wkts": "60"
+        },
+        {
+            "": "T20Is",
+            "10": "0",
+            "4w": "0",
+            "5w": "0",
+            "Ave": "59.42",
+            "BBI": "1/16",
+            "BBM": "1/16",
+            "Balls": "317",
+            "Econ": "7.87",
+            "Inns": "15",
+            "Mat": "17",
+            "Runs": "416",
+            "SR": "45.2",
+            "Wkts": "7"
+        },
+        {
+            "": "First-class",
+            "10": "3",
+            "4w": "21",
+            "5w": "12",
+            "Ave": "36.24",
+            "BBI": "8/66",
+            "BBM": "",
+            "Balls": "30574",
+            "Econ": "3.02",
+            "Inns": "",
+            "Mat": "177",
+            "Runs": "15439",
+            "SR": "71.7",
+            "Wkts": "426"
+        },
+        {
+            "": "List A",
+            "10": "0",
+            "4w": "9",
+            "5w": "1",
+            "Ave": "32.88",
+            "BBI": "6/27",
+            "BBM": "6/27",
+            "Balls": "11606",
+            "Econ": "4.69",
+            "Inns": "",
+            "Mat": "270",
+            "Runs": "9076",
+            "SR": "42.0",
+            "Wkts": "276"
+        },
+        {
+            "": "T20s",
+            "10": "0",
+            "4w": "1",
+            "5w": "0",
+            "Ave": "30.96",
+            "BBI": "4/21",
+            "BBM": "4/21",
+            "Balls": "3242",
+            "Econ": "7.33",
+            "Inns": "158",
+            "Mat": "166",
+            "Runs": "3964",
+            "SR": "25.3",
+            "Wkts": "128"
+        }
+    ],
+    "latest_articles": [
+        "http://www.espncricinfo.com/county-cricket-2017/content/story/1104932.html",
+        "http://www.espncricinfo.com/county-cricket-2016/content/story/1032839.html",
+        "http://www.espncricinfo.com/county-cricket-2016/content/story/1019443.html",
+        "http://www.espncricinfo.com/county-cricket-2016/content/story/987419.html",
+        "http://www.espncricinfo.com/england-v-new-zealand-2015/content/story/883349.html",
+        "http://www.espncricinfo.com/ci/content/story/news.html?object=21646"
+    ],
+    "latest_photos": [
+        "http://p.imgci.com/db/PICTURES/CMS/265500/265557.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/265500/265557.icon.jpg",
+        "http://p.imgci.com/db/PICTURES/CMS/265500/265557.icon.jpg"
+    ],
+    "personal_info": {
+        "Batting style": [
+            "Left-hand bat"
+        ],
+        "Born": [
+            "\nFebruary 27, 1982, Ashford, Kent "
+        ],
+        "Bowling style": [
+            "Right-arm offbreak"
+        ],
+        "Current age": [
+            "36 years 172 days"
+        ],
+        "Education": [
+            "Southlands Community Comprehensive"
+        ],
+        "Full name": [
+            "James Cullum Tredwell"
+        ],
+        "Height": [
+            "\n5 ft 11 in "
+        ],
+        "Major teams": [
+            "England,",
+            "England A,",
+            "England Lions,",
+            "England Under-19s,",
+            "Kent,",
+            "Kent Cricket Board,",
+            "Sussex"
+        ],
+        "Nickname": [
+            "Tredders, Pingu"
+        ],
+        "Playing role": [
+            "Allrounder"
+        ]
+    },
+    "profile_info": [
+        null,
+        "\nIt was as a limited-overs cricketer that Tredwell also made most of his early appearances for Kent but by 2003 he was representing the county in both forms of the game on a regular basis. He captained the England Under-19s side and led Kent second XI to success in the Second XI Trophy final of 2002 when he scored 111. His obvious potential elevated him to a place in the ECB National Academy squad for 2003-04, where he found himself captaining the squad in difficult circumstances following the withdrawal of Alex Gidman. His performances earned him a call up to the England Performance Squad in the winter of 2007. He was subsequently rewarded with inclusion in England's one-day squad for their tour of New Zealand in 2008.",
+        "Tredwell didn't get a game on that tour, but steady performances with the England Lions and Kent, including a career-best 123 not out against a touring New Zealand side and 69 wickets in the County Championship in 2009 kept him in contention. He was called up as cover for Swann during England's tour to South Africa in 2009-10 and, although once again he did not feature in a starting XI, he was included in the Lions tour to UAE in February 2010. His consistent performances booked him a place in England's squad to tour Bangladesh in February and March 2010 and he finally made his debut in the second Test at Dhaka, taking six wickets in England's nine-wicket win.  He was one of four spinners chosen for England's tour of Sri Lanka in March 2012 and he played a part in the one-day series against Australia and South Africa that summer.",
+        "With Swann rested, he made his T20 international debut in India in December 2012 and then followed that up with 11 wickets in the ODIs that followed after Christmas. He was a very different character to the extrovert - and highly successful - Swann and, if he was unlikely ever to hit such heights, he made international cricket seem a polite place to be. His progress as an offspinner was steady rather than spectacular but he had a steady temperament and ability to vary his pace good habits can bring rewards and they started to come thick and fast. England's interest did not extend to Test cricket: he won his first of two caps against Bangladesh in Dhaka and, following Swann's sudden retirement during a Test whitewash in Australia in 2013-14, England looked elsewhere the following summer before giving him a second cap in Antigua in 2015.",
+        "Tredwell's was named Kent captain for 2013, following Rob Key's decision to stand down. But his form in first-class cricket had by then become less impressive than in the shorter formats and, under challenge from the tyro Adam Riley, he even accepted a loan spell at Sussex in 2014 in search of regular cricket before returning to Kent at the end of the season and settling back in with typical economy in the limited-overs formats.",
+        "England's disastrous World Cup campaign in Australia in 2015, though, ended his England career at 33. Peter Moores was sacked as coach, Trevor Bayliss took over and a new high-energy brand of cricket had no place for him. \"Sometimes a change of view means that some people are put on the rubbish tip,\" he said. When he fell out of favour with Kent in 2017, he sought discussions with other counties to try to attain regular cricket.",
+        null
+    ],
+    "recent_matches": [
+        {
+            "Bat & Bowl": "1/29, 54*",
+            "Ground": "New Malden",
+            "Match Date": "27 Jun 2018",
+            "Opposition": "v Surr 2nd XI",
+            "Scorecard": "Other T20",
+            "Team": "Kent 2nd XI"
+        },
+        {
+            "Bat & Bowl": "12, 1/25",
+            "Ground": "Uxbridge",
+            "Match Date": "26 Jun 2018",
+            "Opposition": "v Middx 2nd XI",
+            "Scorecard": "Other T20",
+            "Team": "Kent 2nd XI"
+        },
+        {
+            "Bat & Bowl": "0, 1/25",
+            "Ground": "Uxbridge",
+            "Match Date": "26 Jun 2018",
+            "Opposition": "v Middx 2nd XI",
+            "Scorecard": "Other T20",
+            "Team": "Kent 2nd XI"
+        },
+        {
+            "Bat & Bowl": "18, 0/12",
+            "Ground": "North Sound",
+            "Match Date": "16 Feb 2018",
+            "Opposition": "v U.S.A.",
+            "Scorecard": "LA",
+            "Team": "Kent"
+        },
+        {
+            "Bat & Bowl": "1/25, 12*",
+            "Ground": "Coolidge",
+            "Match Date": "10 Feb 2018",
+            "Opposition": "v Guyana",
+            "Scorecard": "LA",
+            "Team": "Kent"
+        },
+        {
+            "Bat & Bowl": "0/24",
+            "Ground": "North Sound",
+            "Match Date": "6 Feb 2018",
+            "Opposition": "v Leeward Is",
+            "Scorecard": "LA",
+            "Team": "Kent"
+        },
+        {
+            "Bat & Bowl": "0/15",
+            "Ground": "North Sound",
+            "Match Date": "4 Feb 2018",
+            "Opposition": "v Jamaica",
+            "Scorecard": "LA",
+            "Team": "Kent"
+        },
+        {
+            "Bat & Bowl": "0/46, 10",
+            "Ground": "North Sound",
+            "Match Date": "31 Jan 2018",
+            "Opposition": "v Guyana",
+            "Scorecard": "LA",
+            "Team": "Kent"
+        },
+        {
+            "Bat & Bowl": "8*, 0/9",
+            "Ground": "Canterbury",
+            "Match Date": "4 Aug 2017",
+            "Opposition": "v Sussex",
+            "Scorecard": "T20",
+            "Team": "Kent"
+        },
+        {
+            "Bat & Bowl": "1/30",
+            "Ground": "Southampton",
+            "Match Date": "1 Aug 2017",
+            "Opposition": "v Hampshire",
+            "Scorecard": "T20",
+            "Team": "Kent"
+        }
+    ]
+}
